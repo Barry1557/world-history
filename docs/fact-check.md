@@ -9,11 +9,11 @@
 - **已修改**：原稿与资料有出入，已改成更稳妥的说法（括号里写明改成了什么）。
 - **有争议**：学界本身没有定论，旁白里已用「约」「据说」「学界有争论」「传说」等字眼标明。
 
-改动旁白时，请同步更新本文件。
+改动旁白时，请同步更新本文件。章节按播放顺序排列（新增的地区章节插在对应的时间位置）；小标题只写章名，因为加长过程中章节号会变化。
 
 ---
 
-## 第 1 章 地球的一天
+## 地球的一天
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -31,7 +31,7 @@
 | 有文字的历史只占最后约 25 分钟 | 属实（约 5200 年 → 约 25 分钟） | 自行计算；文字起源见第 4 章 |
 | 工业革命以来只占最后约 1.2 分钟 | 属实（约 250 年 → 约 1.2 分钟） | 自行计算 |
 
-## 第 2 章 走出非洲
+## 走出非洲
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -50,7 +50,7 @@
 | 经白令陆桥进入美洲；至少 1.5 万年前；白沙脚印可能早到 2 万多年前 | 有争议，旁白已注明（脚印测年 2.1–2.3 万年） | [国家地理](https://www.nationalgeographic.com/history/article/fossil-footprints-challenge-theory-when-people-first-arrived-americas) |
 | 新西兰约 13 世纪才有人定居，是最后被定居的大块陆地 | 属实（约 1250–1300 年） | [新西兰 Te Ara 百科](https://teara.govt.nz/en/when-was-new-zealand-first-settled) |
 
-## 第 3 章 农业革命
+## 农业革命
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -70,7 +70,7 @@
 | 狗的驯化早于农业，可能在 1.5 万年以前 | 属实（安纳托利亚约 1.58 万年前的狗，2026 年 Nature 研究） | [Kinship 报道](https://kinship.com/news/oldest-dog-humans-15000-years) |
 | 塞浦路斯约 9500 年前人猫合葬墓 | 属实 | [国家地理](https://www.nationalgeographic.com/animals/article/oldest-known-pet-cat-9500-year-old-burial-found-on-cyprus) |
 
-## 第 4 章 文明的曙光
+## 文明的曙光
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -93,7 +93,7 @@
 | 商王在甲骨上占卜，也问牙疼 | 属实（武丁「疾齿」卜辞；武丁时期甲骨测年约公元前 1254–前 1197 年） | [NYU ISAW](https://isaw.nyu.edu/publications/newsletters/023/late-shang-health) |
 | 据说 1899 年王懿荣从「龙骨」上认出甲骨文 | 有争议，旁白用「据说」 | [澎湃新闻](https://m.thepaper.cn/newsDetail_forward_8297008) |
 
-## 第 5 章 青铜时代大崩溃
+## 青铜时代大崩溃
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -108,7 +108,7 @@
 | 约公元前 1046 年武王伐纣 | 有争议（夏商周断代工程的优选年代），旁白用「约」 | [中国日报](https://cn.chinadaily.com.cn/a/202306/06/WS647f28f0a310dbde06d2233d.html) |
 | 奥尔梅克巨石人头像重达数吨到数十吨 | 已修改（原为「十几吨」；实际约 6–50 吨） | [Olmec colossal heads（Wikipedia）](https://en.wikipedia.org/wiki/Olmec_colossal_heads) |
 
-## 第 6 章 轴心时代
+## 轴心时代
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -120,7 +120,7 @@
 | 公元前 587 年或 586 年巴比伦攻陷耶路撒冷 | 已修改（原为「约公元前 586 年」；学界两说并存） | Young，[JETS 47/1](https://www.galaxie.com/article/jets47-1-03) |
 | 苏格拉底没写书，公元前 399 年饮毒芹汁而死 | 属实 | [Socrates（Wikipedia）](https://en.wikipedia.org/wiki/Socrates) |
 
-## 第 7 章 波斯与希腊
+## 波斯与希腊
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -139,7 +139,35 @@
 | 亚历山大出生的公元前 356 年正是商鞅开始变法之年 | 已修改（加上「按通行说法」；也有资料定在前 359 年） | [Shang Yang（Wikipedia）](https://en.wikipedia.org/wiki/Shang_Yang) |
 | 阿育王征服羯陵伽（约公元前 261 年）后悔恨，推行佛法 | 属实（据其第十三号摩崖诏令） | [Kalinga War（Wikipedia）](https://en.wikipedia.org/wiki/Kalinga_War) |
 
-## 第 8 章 秦汉与罗马
+## 草原上的骑手
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 欧亚大草原从匈牙利延伸到中国东北，约八千公里 | 属实 | [Eurasian Steppe（Wikipedia）](https://en.wikipedia.org/wiki/Eurasian_Steppe) |
+| 博泰约 5500 年前养马；今天家马的祖先约 4200 年前起源于伏尔加河—顿河草原 | 属实（Librado 等，Nature 2021；博泰马不是现代家马的祖先） | [Sci.News](https://www.sci.news/paleontology/horse-domestication-western-eurasian-steppes-10191.html) |
+| 颜那亚人后代约 5000 年前起大量进入欧洲；与印欧语系扩散有关，学界有争论 | 属实/有争议，旁白已注明 | [Yamnaya culture（Wikipedia）](https://en.wikipedia.org/wiki/Yamnaya_culture) |
+| 约公元前 2000 年辛塔什塔人造出辐条车轮战车 | 属实（约公元前 1950–前 1880 年） | Lindner，[Antiquity](https://www.cambridge.org/core/journals/antiquity/article/chariots-in-the-eurasian-steppe-a-bayesian-approach-to-the-emergence-of-horsedrawn-transport-in-the-early-second-millennium-bc/C4FDF8C5E7D1D20A28BEB7F6C50A9AF4) |
+| 殷墟出土商代车马坑 | 属实 | [Yinxu（Wikipedia）](https://en.wikipedia.org/wiki/Yinxu) |
+| 希罗多德说斯基泰人没有城市、住在大篷车上、人人骑射 | 属实（《历史》第四卷） | [Scythians（Wikipedia）](https://en.wikipedia.org/wiki/Scythians) |
+| 阿尔然二号古墓出土五千多件黄金制品，墓主可能是王族夫妇 | 属实（公元前 7 世纪后半叶，约 5700 件） | [Arzhan culture（Wikipedia）](https://en.wikipedia.org/wiki/Arzhan_culture) |
+| 约公元前 513 年大流士远征斯基泰，对方坚壁清野，大流士撤军 | 属实（几乎全部出自希罗多德） | [Scythian campaign of Darius I（Wikipedia）](https://en.wikipedia.org/wiki/Scythian_campaign_of_Darius_I) |
+| 不少斯基泰女性墓葬有武器和战伤，可能与亚马孙传说有关 | 属实（旁白用「不少学者认为」） | [Amazons（Wikipedia）](https://en.wikipedia.org/wiki/Amazons) |
+| 巴泽雷克古墓有已知最古老的栽绒地毯；1993 年乌科克高原发现「冰公主」，肩有神兽纹身 | 属实 | [Pazyryk culture（Wikipedia）](https://en.wikipedia.org/wiki/Pazyryk_culture) |
+| 伊塞克金人墓约公元前 4–3 世纪，墓主性别身份有争论，阿拉木图独立纪念碑顶是金人 | 属实 | [Issyk kurgan（Wikipedia）](https://en.wikipedia.org/wiki/Issyk_kurgan) |
+| 复合弓与「帕提亚回马箭」 | 属实 | [Parthian shot（Wikipedia）](https://en.wikipedia.org/wiki/Parthian_shot) |
+| 公元前 209 年冒顿自立为单于 | 属实 | [Modu Chanyu（Wikipedia）](https://en.wikipedia.org/wiki/Modu_Chanyu) |
+| 公元前 200 年白登之围七天，据说靠给阏氏送礼脱身；此后和亲 | 属实（旁白用「据说」） | [Battle of Baideng（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Baideng) |
+| 公元前 119 年漠北之战，霍去病封狼居胥；去世时二十多岁 | 属实（约公元前 117 年去世，约 24 岁） | [Huo Qubing（Wikipedia）](https://en.wikipedia.org/wiki/Huo_Qubing) |
+| 月氏被匈奴击败后西迁到阿姆河流域 | 属实 | [Yuezhi（Wikipedia）](https://en.wikipedia.org/wiki/Yuezhi) |
+| 贵霜帝国，迦腻色伽约 2 世纪；罗马、安息、贵霜、东汉四大帝国 | 属实（迦腻色伽年代有争议，旁白用「约」） | [Kushan Empire（Wikipedia）](https://en.wikipedia.org/wiki/Kushan_Empire) |
+| 贵霜钱币有希腊字母、希腊/波斯/印度神祇和佛陀 | 属实（佛陀币很少，不到 1%） | [EBSCO](https://www.ebsco.com/research-starters/history/kanishkas-reign-brings-flowering-arts) |
+| 犍陀罗是最早塑造佛像的地区之一，风格东传 | 属实（马图拉几乎同时） | [Greco-Buddhist art（Wikipedia）](https://en.wikipedia.org/wiki/Greco-Buddhist_art) |
+| 安世高、支娄迦谶在洛阳译经 | 属实 | [An Shigao（Wikipedia）](https://en.wikipedia.org/wiki/An_Shigao)；[Lokaksema（Wikipedia）](https://en.wikipedia.org/wiki/Lokakṣema) |
+| 匈奴分南北；89 年窦宪燕然勒石，班固撰文；2017 年在蒙古国确认 | 属实 | [新华网](https://www.xinhuanet.com/world/2017-08/15/c_1121487044.htm) |
+| 最早的马镫证据来自中国：三国西晋陶俑单边马镫，冯素弗墓现存最早一对 | 已修改（原写「长沙西晋陶俑」为最早；2025 年江苏报告了 271 年的更早例子） | [Stirrup（Wikipedia）](https://en.wikipedia.org/wiki/Stirrup)；[江苏美术馆报道](https://www.jsmsj.org.cn/JiangsuArtists/English/Culture/2025/0115/10158.html) |
+| 冰公主纹身 | 已修改（「鹿形纹身」改为「鹿身鹰嘴神兽」） | 同上 Pazyryk |
+
+## 秦汉与罗马
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -162,7 +190,35 @@
 | 公元 79 年维苏威火山掩埋庞贝 | 属实 | [Pompeii（Wikipedia）](https://en.wikipedia.org/wiki/Pompeii) |
 | 公元 105 年蔡伦改进造纸术，此前已有纸 | 属实 | [History of paper（Wikipedia）](https://en.wikipedia.org/wiki/History_of_paper) |
 
-## 第 9 章 罗马的落幕
+## 古代印度
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 印度河城市约公元前 1900 年前后衰落 | 属实 | [Indus Valley Civilisation（Wikipedia）](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) |
+| 《梨俱吠陀》一千多首颂歌，靠多种背诵方法口传 | 属实（1028 首） | [Vedic chant（Wikipedia）](https://en.wikipedia.org/wiki/Vedic_chant) |
+| 吠陀诵唱被联合国教科文组织列为人类口头和非物质遗产代表作 | 已修改（原写 2008 年；2003 年宣布，2008 年转入名录） | 同上 |
+| 四个瓦尔那；印度宪法禁止种姓歧视 | 属实 | [Caste system in India（Wikipedia）](https://en.wikipedia.org/wiki/Caste_system_in_India) |
+| 公元前 6 世纪前后十六大国 | 属实 | [Mahajanapadas（Wikipedia）](https://en.wikipedia.org/wiki/Mahajanapadas) |
+| 公元前 326 年希达斯皮斯河战役；波鲁斯「像对待国王那样」 | 属实（阿里安记载） | [Battle of the Hydaspes（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes) |
+| 孔雀王朝，华氏城即巴特那；《政事论》作者年代有争论 | 属实/有争议，旁白已注明 | [Arthashastra（Wikipedia）](https://en.wikipedia.org/wiki/Arthashastra) |
+| 麦加斯梯尼描述华氏城木墙和几百座塔楼 | 属实（570 座塔楼、64 座门） | [Bulandi Bagh（Wikipedia）](https://en.wikipedia.org/wiki/Bulandi_Bagh) |
+| 阿育王狮子柱头是印度国徽，法轮在国旗上，国徽印在钞票上 | 属实 | [Lion Capital of Ashoka（Wikipedia）](https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka) |
+| 1837 年普林塞普破译婆罗米字母；天城体、泰文、高棉文都是其后代 | 属实 | [Live History India](https://www.livehistoryindia.com/story/snapshort-histories/james-princep-decoding-ancient-india/) |
+| 早期佛教艺术几百年里不直接雕刻佛陀 | 属实 | [Aniconism in Buddhism（Wikipedia）](https://en.wikipedia.org/wiki/Aniconism_in_Buddhism) |
+| 米南德与那先的辩论（《那先比丘经》） | 属实（佛经记载） | [Milinda Pañha（Wikipedia）](https://en.wikipedia.org/wiki/Milinda_Pañha) |
+| 1 世纪罗马商船借季风直航印度；南印度出土罗马金币 | 属实 | [Indo-Roman relations（Wikipedia）](https://en.wikipedia.org/wiki/Indo-Roman_relations) |
+| 朱罗、潘地亚、哲罗；桑伽姆文学 | 属实 | [Sangam literature（Wikipedia）](https://en.wikipedia.org/wiki/Sangam_literature) |
+| 《摩诃婆罗多》约十万颂，约为荷马两部史诗总和的十倍 | 属实 | [Mahabharata（Wikipedia）](https://en.wikipedia.org/wiki/Mahabharata) |
+| 约 320 年笈多王朝建立，开国君主与孔雀王朝开国君主同名 | 属实 | [Gupta Empire（Wikipedia）](https://en.wikipedia.org/wiki/Gupta_Empire) |
+| 法显年过六十从长安出发，经海路回国，前后十几年 | 属实（399–412 年） | [Faxian（Wikipedia）](https://en.wikipedia.org/wiki/Faxian) |
+| 迦梨陀娑《沙恭达罗》，歌德写诗称颂 | 属实（1791 年） | [Shakuntala (play)（Wikipedia）](https://en.wikipedia.org/wiki/Shakuntala_%28play%29) |
+| 499 年阿耶波多，圆周率约 3.1416，地球自转；1975 年卫星以他命名 | 属实 | [Aryabhatiya（Wikipedia）](https://en.wikipedia.org/wiki/Aryabhatiya)；[Aryabhata (satellite)（Wikipedia）](https://en.wikipedia.org/wiki/Aryabhata_%28satellite%29) |
+| 恰图兰卡约 6 世纪出现，是国际象棋的祖先 | 属实 | [Chaturanga（Wikipedia）](https://en.wikipedia.org/wiki/Chaturanga) |
+| 阿旃陀石窟 1819 年被一位英国军官打猎时发现 | 属实（约翰·史密斯） | [Ajanta Caves（Wikipedia）](https://en.wikipedia.org/wiki/Ajanta_Caves) |
+| 那烂陀据说上万师生，玄奘、义净求学；12 世纪末被毁，据说藏书烧了几个月 | 属实/传说已注明 | [Nalanda mahavihara（Wikipedia）](https://en.wikipedia.org/wiki/Nalanda_mahavihara) |
+| 嚈哒人入侵，笈多 6 世纪中叶终结 | 属实 | [Alchon Huns（Wikipedia）](https://en.wikipedia.org/wiki/Alchon_Huns) |
+
+## 罗马的落幕
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -180,7 +236,61 @@
 | 537 年圣索菲亚大教堂建成；541 年起查士丁尼瘟疫 | 属实 | [Hagia Sophia（Wikipedia）](https://en.wikipedia.org/wiki/Hagia_Sophia)；[Plague of Justinian（Wikipedia）](https://en.wikipedia.org/wiki/Plague_of_Justinian) |
 | 628 年婆罗摩笈多写下零的运算规则；数字经阿拉伯传到欧洲 | 属实 | [圣安德鲁斯大学数学史](https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/) |
 
-## 第 10 章 伊斯兰的兴起
+## 非洲古国
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 纳米比亚阿波罗十一号洞穴的动物石板距今两万多年 | 属实（约 2.75–2.55 万年，一说约 3 万年） | [大都会博物馆](https://www.metmuseum.org/en/essays/apollo-11-ca-25500-23500-b-c-and-wonderwerk-ca-8000-b-c-cave-stones) |
+| 桑人所属人群是最早分化的现代人类支系之一 | 属实 | [San people（Wikipedia）](https://en.wikipedia.org/wiki/San_people) |
+| 约 1.1 万到 5000 年前撒哈拉是稀树草原；游泳者洞穴岩画 | 属实 | [African humid period（Wikipedia）](https://en.wikipedia.org/wiki/African_humid_period)；[Cave of Swimmers（Wikipedia）](https://en.wikipedia.org/wiki/Cave_of_Swimmers) |
+| 约公元前 2500 年克尔玛；约公元前 1500 年埃及征服库施 | 属实 | [World History Encyclopedia](https://www.worldhistory.org/Kingdom_of_Kush/) |
+| 「努比亚」与古埃及语「黄金」有关之说有争论；「弓之地」 | 属实/有争议，旁白已注明 | [Livius：Nubia](https://www.livius.org/articles/place/nubia/) |
+| 皮耶征服埃及，第二十五王朝统治近一个世纪 | 属实 | [Livius：25th Dynasty](https://www.livius.org/articles/dynasty/25-dynasty-nubians/) |
+| 塔哈尔卡见于《圣经》；公元前 671 年亚述攻占孟菲斯 | 属实（《列王纪下》19:9） | 同上；[Taharqa（Wikipedia）](https://en.wikipedia.org/wiki/Taharqa) |
+| 苏丹有两百多座金字塔；麦罗埃文字能读音不能读懂 | 属实 | [Meroë（Wikipedia）](https://en.wikipedia.org/wiki/Meroë)；[Meroitic script（Wikipedia）](https://en.wikipedia.org/wiki/Meroitic_script) |
+| 独眼女王阿玛尼雷纳斯与罗马作战，和约一般认为对库施有利 | 属实/已修改（加「一般认为」） | [History.com](https://www.history.com/articles/nubian-queen-amanirenas-roman-army) |
+| 诺克文化约公元前 1500 年到公元 1 世纪；约公元前 500 年冶铁 | 属实（年代各研究略有出入） | [Nok culture（Wikipedia）](https://en.wikipedia.org/wiki/Nok_culture) |
+| 班图扩散约四五千年前从喀麦隆—尼日利亚交界出发；约三亿多人说班图语 | 属实（约 3.5 亿） | [Bantu languages（Wikipedia）](https://en.wikipedia.org/wiki/Bantu_languages) |
+| 杰内-杰诺约公元前 3 世纪有人居住 | 属实 | [EBSCO](https://www.ebsco.com/research-starters/anthropology/city-jenne/) |
+| 约公元 1 世纪前后骆驼在北非普及，推动跨撒哈拉贸易 | 属实（年代为约数） | [Trans-Saharan trade（Wikipedia）](https://en.wikipedia.org/wiki/Trans-Saharan_trade) |
+| 阿克苏姆控制红海贸易、铸金币；摩尼把它列为四大强国之一 | 属实（《克弗莱亚》） | [Kingdom of Aksum（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Aksum) |
+| 《厄立特里亚海周航记》记载东非港口 | 属实 | [Periplus of the Erythraean Sea（Wikipedia）](https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea) |
+| 最高石碑约 33 米已倒；约 24 米石碑 1937 年被运往罗马，2005 年归还 | 属实 | [Obelisk of Axum（Wikipedia）](https://en.wikipedia.org/wiki/Obelisk_of_Axum) |
+| 埃扎纳 4 世纪皈依基督教，钱币改用十字架 | 属实（可能是最早带十字架的钱币） | [CoinWeek](https://coinweek.com/ancient-coins/the-coinage-of-aksum/) |
+| 约柜在阿克苏姆的传说 | 传说，旁白已注明 | [Church of Our Lady Mary of Zion（Wikipedia）](https://en.wikipedia.org/wiki/Church_of_Our_Lady_Mary_of_Zion) |
+| 努比亚基督教王国挡住阿拉伯军队并签订长期和约 | 属实（652 年「巴克特」和约，维持约六百年） | [Baqt（Wikipedia）](https://en.wikipedia.org/wiki/Baqt) |
+| 约 615 年穆斯林第一次迁往阿比西尼亚 | 属实 | [Migration to Abyssinia（Wikipedia）](https://en.wikipedia.org/wiki/Migration_to_Abyssinia) |
+| 南岛语族航海者到马达加斯加；马达加斯加语与婆罗洲的马安延语最接近 | 属实（到达时间约 1 千年中期，估计不一） | [PMC：Settlement of Madagascar](https://pmc.ncbi.nlm.nih.gov/articles/PMC3283610/) |
+
+## 美洲古典时代
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 奥尔梅克约公元前 1200 年兴起，被称为母文化 | 属实（「母文化」说法有争议） | [Olmecs（Wikipedia）](https://en.wikipedia.org/wiki/Olmecs) |
+| 三千多年前用橡胶树汁加牵牛花汁制橡胶；橡胶球赛有时与献祭相关 | 属实（埃尔马纳蒂约公元前 1600 年） | [MIT 新闻](https://news.mit.edu/1999/rubber-0714) |
+| 约公元前 900 年查文德万塔尔，地下通道营造声光效果 | 属实（推测） | [Chavín de Huántar（Wikipedia）](https://en.wikipedia.org/wiki/Chavín_de_Huántar) |
+| 约公元前 500 年阿尔万山；「舞者」浮雕多被认为是俘虏 | 属实 | [大都会博物馆](https://www.metmuseum.org/essays/monte-albn) |
+| 260 天与 365 天历法，每 52 年一循环，新火仪式 | 属实 | [Calendar round（Wikipedia）](https://en.wikipedia.org/wiki/Calendar_round) |
+| 纳斯卡地画，外星人说没有证据 | 属实 | [Nazca Lines（Wikipedia）](https://en.wikipedia.org/wiki/Nazca_Lines) |
+| 2024 年山形大学借助 AI 发现 303 个新图案，几乎翻倍 | 属实 | [HeritageDaily](https://www.heritagedaily.com/2024/09/over-300-geoglyphs-discovered-in-the-nazca-pampa-region-using-ai/153536) |
+| 特奥蒂瓦坎人口可能十万以上；名字和「亡者大道」都是阿兹特克人起的 | 属实 | [New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Teotihuac%C3%A1n) |
+| 城中有外来居民区；约 6 世纪中心被焚，原因有争论 | 属实 | [Teotihuacan（Wikipedia）](https://en.wikipedia.org/wiki/Teotihuacan) |
+| 玛雅城邦，古典期约 250–900 年 | 属实 | [Maya civilization（Wikipedia）](https://en.wikipedia.org/wiki/Maya_civilization) |
+| 玛雅文字是古代美洲破译最完整的文字；克诺罗佐夫的贡献 | 属实 | [Maya script（Wikipedia）](https://en.wikipedia.org/wiki/Maya_script) |
+| 中美洲独立发明零，玛雅人用得最纯熟 | 已修改（原写「玛雅人发明」；最早的零见于公元前 1 世纪的奥尔梅克后裔碑铭） | [Maya numerals（Wikipedia）](https://en.wikipedia.org/wiki/Maya_numerals) |
+| 2012 年末日是误传，帕伦克碑文提到更远的未来日期 | 属实（公元 4772 年） | [2012 phenomenon（Wikipedia）](https://en.wikipedia.org/wiki/2012_phenomenon) |
+| 562 年卡拉克穆尔的盟友卡拉科尔击败蒂卡尔，蒂卡尔沉寂一百多年 | 属实 | [Tikal（Wikipedia）](https://en.wikipedia.org/wiki/Tikal) |
+| 巴加尔在位近七十年，683 年去世；1952 年打开墓室，玉石面具；「宇航员」是误读 | 属实 | [Jade mask of Pakal（Wikipedia）](https://en.wikipedia.org/wiki/Jade_mask_of_Pakal) |
+| 1562 年兰达在马尼焚书；公认的玛雅古抄本只剩四部 | 属实 | [EBSCO](https://www.ebsco.com/research-starters/literature-and-writing/maya-books-destruction) |
+| 2018 年激光雷达发现数以万计建筑，人口可能好几百万 | 属实（约 6.1 万处建筑） | [PACUNAM LiDAR（Wikipedia：Maya civilization）](https://en.wikipedia.org/wiki/Maya_civilization) |
+| 今天数百万玛雅人，约三十种玛雅语言 | 属实 | [Mayan languages（Wikipedia）](https://en.wikipedia.org/wiki/Mayan_languages) |
+| 库库尔坎金字塔春秋分的蛇影 | 属实 | [El Castillo, Chichen Itza（Wikipedia）](https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza) |
+| 1987 年发现西潘王墓 | 属实（沃尔特·阿尔瓦） | [秘鲁官方旅游网](https://peru.info/en-us/tourism/news/3/17/who-was-the-lord-of-sipan-) |
+| 蒂瓦纳库海拔约 3800 米，约 500–1000 年兴盛；瓦里修路 | 属实 | [Tiwanaku（Wikipedia）](https://en.wikipedia.org/wiki/Tiwanaku) |
+| 瓦里文化也有奇普 | 属实 | [Quipu（Wikipedia）](https://en.wikipedia.org/wiki/Quipu) |
+| 霍普韦尔土方工程、查科峡谷均为世界遗产；最大的大房子有几百个房间 | 属实（霍普韦尔 2023 年列入） | [UNESCO](https://whc.unesco.org/en/list/1689)；[Pueblo Bonito（Wikipedia）](https://en.wikipedia.org/wiki/Pueblo_Bonito) |
+
+## 伊斯兰的兴起
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -194,7 +304,34 @@
 | 花拉子密：代数、算法两词源于其书名和名字 | 属实 | [al-Khwarizmi（Wikipedia）](https://en.wikipedia.org/wiki/Al-Khwarizmi) |
 | 糖、咖啡、酒精等词能追溯到阿拉伯语 | 属实 | [List of English words of Arabic origin（Wikipedia）](https://en.wikipedia.org/wiki/List_of_English_words_of_Arabic_origin) |
 
-## 第 11 章 大唐、查理曼与维京人
+## 伊朗高原
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 约公元前 247 年帕提亚兴起，中国称安息 | 属实 | [Parthian Empire（Wikipedia）](https://en.wikipedia.org/wiki/Parthian_Empire) |
+| 公元前 53 年卡莱之战，克拉苏战死；罗马人看到丝绸军旗 | 属实（丝绸军旗出自弗洛鲁斯记载） | [Battle of Carrhae（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Carrhae) |
+| 骊靬罗马军团后裔说没有可靠证据 | 属实（2007 年基因研究） | [南华早报](https://www.scmp.com/news/people-culture/trending-china/article/3285610/scholars-debunk-myth-roman-settlement-china-after-dna-tests-doubt-still-draws-tourists) |
+| 224 年阿尔达希尔建立萨珊 | 属实 | [Sasanian Empire（Wikipedia）](https://en.wikipedia.org/wiki/Sasanian_Empire) |
+| 260 年沙普尔一世俘虏罗马皇帝瓦勒良；纳克什-鲁斯塔姆浮雕 | 属实 | [Valerian (emperor)（Wikipedia）](https://en.wikipedia.org/wiki/Valerian_%28emperor%29) |
+| 琐罗亚斯德教对犹太教、基督教的影响有不同看法 | 有争议，旁白已注明 | [Zoroastrianism（Wikipedia）](https://en.wikipedia.org/wiki/Zoroastrianism) |
+| 摩尼创立摩尼教，在中国演变为明教；泉州草庵摩尼光佛 | 属实 | [澎湃新闻](https://m.thepaper.cn/newsDetail_forward_13611663) |
+| 库思老一世 531 年即位；象棋传入波斯；「将死」源自波斯语 shāh māt | 属实（「据说」） | [Etymonline：checkmate](https://www.etymonline.com/word/checkmate) |
+| 贡迪沙普尔学术中心，规模可能被夸大 | 属实/有争议，旁白已注明 | [Academy of Gondishapur（Wikipedia）](https://en.wikipedia.org/wiki/Academy_of_Gondishapur) |
+| 泰西封宫拱顶高约三十多米 | 属实（约 37 米） | [Taq Kasra（Wikipedia）](https://en.wikipedia.org/wiki/Taq_Kasra) |
+| 正仓院收藏萨珊风格玻璃碗 | 属实 | [Shōsōin（Wikipedia）](https://en.wikipedia.org/wiki/Shōsōin) |
+| 602–628 年萨珊与东罗马大战 | 属实 | [Byzantine–Sasanian War of 602–628（Wikipedia）](https://en.wikipedia.org/wiki/Byzantine–Sasanian_War_of_602–628) |
+| 651 年伊嗣俟三世被杀；卑路斯逃到唐朝，乾陵蕃臣像中有其像 | 属实（61 尊） | [Peroz III（Wikipedia）](https://en.wikipedia.org/wiki/Peroz_III) |
+| 帕西人迁往印度；塔塔家族、弗雷迪·墨丘利出身帕西家庭 | 属实 | [Parsis（Wikipedia）](https://en.wikipedia.org/wiki/Parsis)；[Freddie Mercury（Wikipedia）](https://en.wikipedia.org/wiki/Freddie_Mercury) |
+| 萨曼王朝扶持新波斯语 | 属实 | [Samanid Empire（Wikipedia）](https://en.wikipedia.org/wiki/Samanid_Empire) |
+| 约 1010 年《列王纪》，约五万联 | 属实 | [Shahnameh（Wikipedia）](https://en.wikipedia.org/wiki/Shahnameh) |
+| 伊本·西那《医典》在欧洲用作教材几百年 | 属实 | [The Canon of Medicine（Wikipedia）](https://en.wikipedia.org/wiki/The_Canon_of_Medicine) |
+| 海亚姆参与制定的历法以精确著称，精度说法不一；《鲁拜集》 | 属实（1079 年贾拉利历） | [Jalali calendar（Wikipedia）](https://en.wikipedia.org/wiki/Jalali_calendar) |
+| 鲁米在美国是畅销诗人；哈菲兹诗集占卜 | 属实 | [NPR](https://www.npr.org/1999/01/09/1006740/rumi)；[Hafez（Wikipedia）](https://en.wikipedia.org/wiki/Hafez) |
+| 「天堂」一词源自古伊朗语「围起来的园子」 | 属实 | [Etymonline：paradise](https://www.etymonline.com/word/paradise) |
+| 诺鲁孜节三千年左右、三亿多人；联合国 2010 年设立国际诺鲁孜节 | 属实（联合国决议原文） | [联合国新闻稿](https://press.un.org/en/2010/ga10916.doc.htm) |
+| 波斯语是东方伊斯兰世界通用文化语言；回回国子学一般认为教波斯文字 | 属实/已修改（加「一般认为」） | [Persianate society（Wikipedia）](https://en.wikipedia.org/wiki/Persianate_society) |
+
+## 大唐、查理曼与维京人
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -213,7 +350,7 @@
 | 玛雅低地城邦八、九世纪衰落，原因可能包括干旱和战争 | 属实（多因说） | [Classic Maya collapse（Wikipedia）](https://en.wikipedia.org/wiki/Classic_Maya_collapse) |
 | 高棉帝国约 802 年建立 | 属实（通行说法） | [Khmer Empire（Wikipedia）](https://en.wikipedia.org/wiki/Khmer_Empire) |
 
-## 第 12 章 宋朝与诺曼征服
+## 宋朝与诺曼征服
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -234,7 +371,7 @@
 | 牛（cow）和牛肉（beef）是两个词，beef 来自法语 | 已修改（保留事实，但删去「农民养牛、贵族吃肉」的绝对说法，改为「常听到的解释……实际过程更复杂」） | [美国之音](https://learningenglish.voanews.com/a/words-and-their-stories-pig-or-pork-cow-or-beef/4104856.html) |
 | 英语词汇约三成源自法语 | 属实（约 29%） | [Foreign language influences in English（Wikipedia）](https://en.wikipedia.org/wiki/Foreign_language_influences_in_English) |
 
-## 第 13 章 十字军
+## 十字军
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -252,7 +389,7 @@
 | 卡霍基亚人口可能有一两万 | 属实（1050–1150 年约 1–2 万） | [UNESCO](https://whc.unesco.org/en/list/198) |
 | 大津巴布韦兴起；日本十二世纪末进入幕府时代 | 属实 | [Great Zimbabwe（UNESCO）](https://whc.unesco.org/en/list/364)；[Kamakura shogunate（Wikipedia）](https://en.wikipedia.org/wiki/Kamakura_shogunate) |
 
-## 第 14 章 蒙古旋风与黑死病
+## 蒙古旋风与黑死病
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -272,7 +409,7 @@
 | 检疫隔离后来定为四十天，quarantine 来自意大利语「四十」 | 属实（1377 年拉古萨先定 30 天，后改 40 天） | [Quarantine（Wikipedia）](https://en.wikipedia.org/wiki/Quarantine) |
 | 1368 年朱元璋建立明朝 | 属实 | [Ming dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Ming_dynasty) |
 
-## 第 15 章 郑和、君士坦丁堡与印刷机
+## 郑和、君士坦丁堡与印刷机
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -293,7 +430,7 @@
 | 达·芬奇镜像书写笔记 | 属实 | [Leonardo da Vinci（Wikipedia）](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) |
 | 1504 年大卫像；1508–1512 年西斯廷天顶画 | 属实 | [Michelangelo（Wikipedia）](https://en.wikipedia.org/wiki/Michelangelo) |
 
-## 第 16 章 大航海
+## 大航海
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -323,7 +460,7 @@
 | 一条鞭法 | 属实（1581 年张居正推广全国） | [爱思想](https://www.aisixiang.com/data/89170.html) |
 | 世界白银相当大一部分流入中国，有人估计多达三分之一甚至更多 | 有争议，旁白已注明 | 同上 McKay |
 
-## 第 17 章 宗教改革与科学革命
+## 宗教改革与科学革命
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -343,7 +480,7 @@
 | 1616 年莎士比亚、塞万提斯、汤显祖同年去世 | 属实 | [北京大学燕京学堂](https://yenchingacademy.pku.edu.cn/info/1039/4663.htm) |
 | 日本进入德川幕府时代；不久后莫卧儿开始修泰姬陵 | 属实（1603 年；泰姬陵 1632 年动工） | [Taj Mahal（Wikipedia）](https://en.wikipedia.org/wiki/Taj_Mahal) |
 
-## 第 18 章 革命的时代
+## 革命的时代
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -365,7 +502,7 @@
 | 1815 年滑铁卢；1821 年死于圣赫勒拿岛 | 属实 | 同上 Napoleon I |
 | 十九世纪二十年代西班牙美洲大陆殖民地基本独立 | 属实 | [Spanish American wars of independence（Wikipedia）](https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence) |
 
-## 第 19 章 蒸汽、鸦片与明治
+## 蒸汽、鸦片与明治
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -384,7 +521,7 @@
 | 岩仓使节团考察欧美近两年；1872 年东京—横滨铁路通车 | 属实（1871 年 12 月—1873 年 9 月） | [Nippon.com](https://www.nippon.com/en/japan-topics/g00680/) |
 | 1894 年甲午战争；1895 年《马关条约》割台湾、赔款两亿两 | 属实（另有赎辽费三千万两） | [Treaty of Shimonoseki（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki) |
 
-## 第 20 章 帝国主义与第一次世界大战
+## 帝国主义与第一次世界大战
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -407,7 +544,7 @@
 | 德先生、赛先生；鲁迅《狂人日记》（1918 年） | 属实 | [A Madman's Diary（Wikipedia）](https://en.wikipedia.org/wiki/A_Madman%27s_Diary) |
 | 1921 年中共一大，最后一天移到嘉兴南湖游船 | 属实 | [1st National Congress of the CCP（Wikipedia）](https://en.wikipedia.org/wiki/1st_National_Congress_of_the_Chinese_Communist_Party) |
 
-## 第 21 章 大萧条与第二次世界大战
+## 大萧条与第二次世界大战
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
@@ -428,7 +565,7 @@
 | 二战死亡约七千万到八千五百万 | 属实 | [World War II casualties（Wikipedia）](https://en.wikipedia.org/wiki/World_War_II_casualties) |
 | 1945 年 10 月联合国成立，中国为常任理事国 | 属实（10 月 24 日） | [United Nations（Wikipedia）](https://en.wikipedia.org/wiki/United_Nations) |
 
-## 第 22 章 冷战、登月与互联网
+## 冷战、登月与互联网
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
