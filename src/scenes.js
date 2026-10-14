@@ -57,6 +57,11 @@ import latinAmerica19c from './scenes/latin-america-19c.js';
 import britishIndia from './scenes/british-india.js';
 import africa19c from './scenes/africa-19c.js';
 import ottomanEnd from './scenes/ottoman-end.js';
+import southAsiaIndependence from './scenes/south-asia-independence.js';
+import africaIndependence from './scenes/africa-independence.js';
+import latinAmerica20c from './scenes/latin-america-20c.js';
+import asia20c from './scenes/asia-20c.js';
+import sovietUnion from './scenes/soviet-union.js';
 
 const ORDER = [
   earthDay, outOfAfrica, agriculture, dawn, bronzeCollapse, axial, persiaGreece,
@@ -66,7 +71,8 @@ const ORDER = [
   aztecInca, exploration, ottoman, gunpowderEmpires, samuraiJoseon,
   reformationScience, russiaExpansion, oceania, revolutions, latinAmerica19c,
   steamOpiumMeiji, britishIndia, africa19c, imperialismWw1, ottomanEnd,
-  depressionWw2, coldWarInternet,
+  depressionWw2, southAsiaIndependence, africaIndependence, latinAmerica20c,
+  asia20c, sovietUnion, coldWarInternet,
 ];
 
 export const chapters = ORDER.map(({ title, sub }) => ({ title, sub }));

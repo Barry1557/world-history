@@ -1878,12 +1878,441 @@
 | 二战死亡约七千万到八千五百万 | 属实 | [World War II casualties（Wikipedia）](https://en.wikipedia.org/wiki/World_War_II_casualties) |
 | 1945 年 10 月联合国成立，中国为常任理事国 | 属实（10 月 24 日） | [United Nations（Wikipedia）](https://en.wikipedia.org/wiki/United_Nations) |
 
+## 南亚独立
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一九一五年一月九日甘地乘船回到孟买（阿波罗码头），此前在南非二十多年 | 属实（一八九三至一九一四年，约二十一年） | [mkgandhi.org：Return to India](https://www.mkgandhi.org/biography/rtrninda.htm)；[Caravan](https://caravanmagazine.in/history/gandhi-return-india-1915) |
+| 萨蒂亚格拉哈意为「坚持真理」，在南非形成 | 属实（一九〇六年在南非《印度舆论》上定名） | [Satyagraha（Wikipedia）](https://en.wikipedia.org/wiki/Satyagraha) |
+| 一九一七年尚帕兰：农民被迫拿出部分土地种靛蓝、几乎拿不到钱；甘地拒绝离开；当局让步，强迫种植制度被废除；甘地在印度的第一场非暴力抗争 | 属实（「三卡塔制」被废除，种植园主退还部分款项） | [Champaran Satyagraha（Wikipedia）](https://en.wikipedia.org/wiki/Champaran_Satyagraha) |
+| 一战中一百多万印度人为英国出征 | 属实（逾一百万人海外服役，志愿者近一百三十万） | [Indian Army during World War I（Wikipedia）](https://en.wikipedia.org/wiki/Indian_Army_during_World_War_I) |
+| 一九一九年罗拉特法可不经审判关押嫌疑人 | 属实 | [Rowlatt Act（Wikipedia）](https://en.wikipedia.org/wiki/Rowlatt_Act) |
+| 一九一九年四月十三日阿姆利则惨案：堵住出口、不加警告开枪、约十分钟；英方（亨特委员会）三百七十九人，国大党估计约一千人 | 属实 | [Jallianwala Bagh massacre（Wikipedia）](https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre) |
+| 泰戈尔一九一三年获诺贝尔文学奖，第一位获奖的非欧洲人；惨案后退还爵士封号 | 属实（一九一九年五月三十一日致信总督） | [Rabindranath Tagore（Wikipedia）](https://en.wikipedia.org/wiki/Rabindranath_Tagore) |
+| 圣蒂尼克坦的学校常在树下露天上课 | 属实 | [Down to Earth](https://www.downtoearth.org.in/environment/the-architecture-landscape-of-santiniketan-embrace-nature-as-primary-educator-91901) |
+| 一九二〇年发起不合作运动：辞职、退出英式学校和法院、抵制英货；与穆斯林的哈里发运动联手 | 属实（一九二〇年九月发起） | [Non-cooperation movement (1919–1922)（Wikipedia）](https://en.wikipedia.org/wiki/Non-cooperation_movement_(1919%E2%80%931922)) |
+| 哈里发制度一九二四年被土耳其废除 | 属实（与「奥斯曼的终结与新中东」一章一致） | [Non-cooperation movement (1919–1922)（Wikipedia）](https://en.wikipedia.org/wiki/Non-cooperation_movement_(1919%E2%80%931922))；本项目 src/scenes/ottoman-end.js |
+| 当街焚烧洋布 | 属实（一九二一年七月三十一日孟买，甘地亲手点燃） | [Prince of Wales riots（Wikipedia）](https://en.wikipedia.org/wiki/Prince_of_Wales_riots) |
+| 一九二一年在马杜赖脱下衬衫和帽子，从此只穿腰布 | 属实（一九二一年九月二十二日） | [mkgandhi.org：How Madurai inspired Gandhi's loincloth](https://mkgandhi.org/articles/how-Madurai-Inspired-Gandhis-loincloth-attire.php)；[gandhistory.in](https://gandhistory.in/icons-gandhi-loincloth.php) |
+| 一九二二年二月曹里曹拉，烧警察局，二十多名警察丧生；甘地叫停运动；判刑六年，两年后因病获释 | 属实（二月四日，二十二人，另说二十三人；一九二四年二月获释） | [Chauri Chaura incident（Wikipedia）](https://en.wikipedia.org/wiki/Chauri_Chaura_incident) |
+| 一九二九年底拉合尔会议，尼赫鲁任主席，宣布完全独立，新年前夜在拉维河边升旗；宪法定于一月二十六日生效以纪念一九三〇年独立宣言 | 属实 | [Purna Swaraj（Wikipedia）](https://en.wikipedia.org/wiki/Purna_Swaraj) |
+| 尼赫鲁时年四十岁，剑桥毕业，父亲是律师 | 属实（生于一八八九年十一月十四日；剑桥三一学院；父亲莫提拉尔是大律师） | [Jawaharlal Nehru（Wikipedia）](https://en.wikipedia.org/wiki/Jawaharlal_Nehru) |
+| 食盐进军：一九三〇年三月十二日出发，七十八名追随者，二十四天，约三百八十五公里，四月六日到丹迪捧起带盐的泥 | 属实（维基正文约三百八十五公里，导言约三百八十七公里） | [Salt March（Wikipedia）](https://en.wikipedia.org/wiki/Salt_March) |
+| 甘地时年六十岁 | 属实（生于一八六九年十月二日，按周岁六十；维基行进者名单写六十一） | [Salt March（Wikipedia）](https://en.wikipedia.org/wiki/Salt_March) |
+| 六万多人被捕；达拉萨纳盐场抗议者挨打不还手，美国记者报道登上上千家报纸 | 属实（韦伯·米勒的报道见于约一千三百五十家报纸） | [Salt March（Wikipedia）](https://en.wikipedia.org/wiki/Salt_March) |
+| 一九三一年伦敦圆桌会议；住东伦敦金斯利会堂而不住酒店 | 属实 | [Roman Road London](https://romanroadlondon.com/?p=40185) |
+| 甘地与卓别林见面 | 属实（一九三一年九月二十二日，坎宁镇一位医生家中） | [Royal Docks：When Chaplin met Gandhi](https://royaldocks.london/articles/when-chaplin-met-gandhi-in-canning-town-royal-docks-history)；[mkgandhi.org](https://www.mkgandhi.org/articles/when-charlie-chaplin-met-mahatma-gandhi.php) |
+| 穿腰布去白金汉宫见乔治五世；「国王穿的够我们两个人用」 | 属实，原话版本不一，旁白已注明「据说」 | [mkgandhi.org](https://www.mkgandhi.org/newannou/MK-Gandhi%27s-most-indelicate-gift-for-Queen-Elizabeth.html)；[gandhistory.in](https://gandhistory.in/icons-gandhi-loincloth.php) |
+| 安贝德卡尔出身贱民种姓（马哈尔），上学时不许碰公用的水；在美国（哥伦比亚大学）和英国（伦敦政治经济学院）获博士学位 | 属实 | [B. R. Ambedkar（Wikipedia）](https://en.wikipedia.org/wiki/B._R._Ambedkar) |
+| 一九三二年单独选区之争，甘地在浦那狱中绝食，几天后达成浦那协定，改为保留议席 | 属实（九月二十日绝食，九月二十四日签约） | [B. R. Ambedkar（Wikipedia）](https://en.wikipedia.org/wiki/B._R._Ambedkar) |
+| 「巴基斯坦」一名一般认为出自一九三三年剑桥学生拉赫马特·阿里，由旁遮普、阿富汗尼亚、克什米尔、信德的首字母和俾路支斯坦的尾巴组成，意为纯洁之地 | 属实（另有一九二八年已有人使用的说法，旁白用「一般认为」） | [Choudhry Rahmat Ali（Wikipedia）](https://en.wikipedia.org/wiki/Choudhry_Rahmat_Ali) |
+| 真纳生于卡拉奇，在伦敦学法律，两百多套西装，曾是国大党成员，被誉为印穆团结的使者，一九三四年回到印度 | 属实（原写「一口英国腔」无来源，已改为两百多套西装） | [Muhammad Ali Jinnah（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah) |
+| 全印穆斯林联盟一九〇六年在达卡成立 | 属实 | [All-India Muslim League（Wikipedia）](https://en.wikipedia.org/wiki/All-India_Muslim_League) |
+| 二战爆发，总督未与印度领袖商量就宣布印度参战 | 属实 | [India in World War II（Wikipedia）](https://en.wikipedia.org/wiki/India_in_World_War_II) |
+| 国大党各省政府集体辞职抗议 | 属实（一九三九年十至十一月） | [PMF IAS](https://www.pmfias.com/congress-ministries-resign-1939-upsc-prelims-pyq-2008/) |
+| 印度军队扩充到两百多万人，被称为史上最大的志愿军，在北非、意大利、缅甸作战 | 属实（高峰时约两百五十万，一说战争结束时更多；原写「两百五十万」改为「两百多万」） | [India in World War II（Wikipedia）](https://en.wikipedia.org/wiki/India_in_World_War_II) |
+| 一九四〇年三月拉合尔决议，西北和东部穆斯林多数地区建立独立国家；巴基斯坦塔立于原址；三月二十三日为巴基斯坦日 | 属实 | [Lahore Resolution（Wikipedia）](https://en.wikipedia.org/wiki/Lahore_Resolution) |
+| 一九四二年八月八日孟买「退出印度」决议，「行动或者死亡」；数小时内领导人被捕；十万多人被捕 | 属实（原写「第二天一早」改为「几个小时后」） | [Quit India Movement（Wikipedia）](https://en.wikipedia.org/wiki/Quit_India_Movement) |
+| 甘地妻子一九四四年病逝于浦那阿迦汗宫 | 属实（一九四四年二月二十二日） | [Kasturba Gandhi（Wikipedia）](https://en.wikipedia.org/wiki/Kasturba_Gandhi) |
+| 一九四三年孟加拉饥荒，学界多估计约两百万人死亡；缅甸失陷、一九四二年飓风、战时通胀、军队与城市优先、救灾迟缓；原因有争论 | 属实（估计从八十万到三百八十万，学界共识约两百一十万；原写「两百万到三百万」已改） | [Bengal famine of 1943（Wikipedia）](https://en.wikipedia.org/wiki/Bengal_famine_of_1943) |
+| 一九四六年八月加尔各答「直接行动日」冲突，几天里四千多人死亡 | 属实（七十二小时内四千多人，另有估计到一万） | [Direct Action Day（Wikipedia）](https://en.wikipedia.org/wiki/Direct_Action_Day) |
+| 一九四七年三月蒙巴顿到任，把移交日期从一九四八年六月提前到一九四七年八月十五日 | 属实（三月二十二日抵达） | [Louis Mountbatten（Wikipedia）](https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma) |
+| 八月十五日是日本宣布投降两周年 | 属实（蒙巴顿本人对《午夜的自由》（Freedom at Midnight）作者的说法） | [Deccan Herald](https://www.deccanherald.com/national/why-was-august-15-chosen-as-indias-independence-day-1135802.html) |
+| 雷德克里夫此前没到过印度，约五周时间，边界八月十七日公布 | 属实 | [Cyril Radcliffe（Wikipedia）](https://en.wikipedia.org/wiki/Cyril_Radcliffe,_1st_Viscount_Radcliffe) |
+| 雷德克里夫用的是过时的地图和人口数据 | 属实（一九四一年人口普查和旧地图） | [Live History India](https://livehistoryindia.com/story/eras/cyril-radcliffe) |
+| 一九四七年八月十四日巴基斯坦独立，真纳任总督；午夜印度独立；尼赫鲁「与命运有约」演讲原句 | 属实 | [Tryst with Destiny（Wikipedia）](https://en.wikipedia.org/wiki/Tryst_with_Destiny)；[Jinnah（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah) |
+| 甘地没有参加庆典，在加尔各答祈祷、禁食 | 属实（住加尔各答贝利亚加塔，八月十五日禁食） | [Gandhi Heritage Portal](https://gandhiheritageportal.org/gandhi_heritage_site/writeup/MjA=) |
+| 分治：一千多万人背井离乡，死亡估计二十万到两百万；数以万计妇女被绑架；有记录以来规模最大的人口迁徙之一 | 属实（流离失所一千二百万至两千万；印巴政府分别称三万三千、五万名妇女被绑架） | [Partition of India（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_India) |
+| 满载死者的「幽灵列车」 | 属实 | [WWNO / NPR](https://www.wwno.org/2017-08-13/giving-voice-to-memories-from-1947-partition-and-the-birth-of-india-and-pakistan) |
+| 一九四八年一月三十日傍晚，七十八岁的甘地在比尔拉宅邸去祈祷会时被印度教民族主义者戈德森枪杀；尼赫鲁广播「光熄灭了」 | 属实（原写「极端分子」改为与来源一致的「民族主义者」） | [Assassination of Mahatma Gandhi（Wikipedia）](https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi) |
+| 甘地五次获诺贝尔和平奖提名，从未获奖 | 属实（一九三七、三八、三九、四七、四八年） | [mkgandhi.org](https://www.mkgandhi.org/nobel/nobel-peace-prize-to-Gandhi.php)；[UCLA](https://southasia.ucla.edu/history-politics/gandhi/gandhi-nobel-peace-prize) |
+| 克什米尔：一九四七年十月部落武装从巴基斯坦一侧攻入，王公签约加入印度，第一次印巴战争；一九四九年元旦联合国斡旋停火，停火线分开；争端未决 | 属实（只陈述事实） | [Indo-Pakistani war of 1947–1948（Wikipedia）](https://en.wikipedia.org/wiki/Indo-Pakistani_war_of_1947%E2%80%931948) |
+| 一九五〇年一月二十六日宪法生效；安贝德卡尔任起草委员会主席；三百九十五条；世界最长的成文国家宪法 | 属实（原写「十四万多个单词」未核实，已删） | [Constitution of India（Wikipedia）](https://en.wikipedia.org/wiki/Constitution_of_India) |
+| 宪法废除不可接触制（第十七条） | 属实 | [Constitution of India.net：Article 17](https://www.constitutionofindia.net/articles/article-17-abolition-of-untouchability/) |
+| 东西巴基斯坦隔着约一千六百公里的印度领土；真纳独立一年后病逝 | 属实（另有一千五百公里的说法；真纳卒于一九四八年九月十一日） | [West Pakistan（Wikipedia）](https://en.wikipedia.org/wiki/West_Pakistan)；[Jinnah（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah) |
+| 一九五二年二月二十一日达卡学生争取孟加拉语地位，警察开枪，多名学生遇难；今为国际母语日 | 属实（官方称三人死亡；一九九九年联合国教科文组织宣布） | [Bengali Language Movement（Wikipedia）](https://en.wikipedia.org/wiki/Bengali_Language_Movement) |
+| 宝莱坞＝孟买＋好莱坞，指孟买印地语电影业 | 属实 | [Hindi cinema（Wikipedia）](https://en.wikipedia.org/wiki/Hindi_cinema) |
+| 印度年产电影数量长期居世界前列 | 属实 | [Cinema of India（Wikipedia）](https://en.wikipedia.org/wiki/Cinema_of_India) |
+| 拉兹·卡普尔的《流浪者》一九五五年在中国上映，大受欢迎（也风靡苏联） | 属实（一九五一年印度首映，一九五四年苏联、一九五五年中国上映，一九七八年在中国重映更火） | [Awaara（Wikipedia）](https://en.wikipedia.org/wiki/Awaara) |
+| 锡兰一九四八年二月四日独立，没经战争；一九七二年改名斯里兰卡 | 属实 | [Dominion of Ceylon（Wikipedia）](https://en.wikipedia.org/wiki/Dominion_of_Ceylon) |
+| 一九六〇年西丽玛沃·班达拉奈克在丈夫遇刺后出任总理，世界上第一位女总理 | 属实（丈夫一九五九年遇刺；她是世界上第一位民选女总理） | [Sirimavo Bandaranaike（Wikipedia）](https://en.wikipedia.org/wiki/Sirimavo_Bandaranaike) |
+| 斯里兰卡内战持续二十多年，二〇〇九年结束 | 属实（一九八三年七月至二〇〇九年五月） | [Sri Lankan civil war（Wikipedia）](https://en.wikipedia.org/wiki/Sri_Lankan_civil_war) |
+| 一九五四年中印协定写下和平共处五项原则；一九五五年万隆会议 | 属实（一九五四年四月二十八/二十九日签订） | [Five Principles of Peaceful Coexistence（Wikipedia）](https://en.wikipedia.org/wiki/Five_Principles_of_Peaceful_Coexistence) |
+| 一九六一年印度与南斯拉夫、埃及、印尼、加纳在贝尔格莱德发起不结盟运动 | 属实 | [Non-Aligned Movement（Wikipedia）](https://en.wikipedia.org/wiki/Non-Aligned_Movement) |
+| 一九六二年中印边界战争 | 属实（只陈述事实） | [Sino-Indian War（Wikipedia）](https://en.wikipedia.org/wiki/Sino-Indian_War) |
+| 尼赫鲁一九六四年去世，任总理近十七年 | 属实（十六年二百八十六天） | [Jawaharlal Nehru（Wikipedia）](https://en.wikipedia.org/wiki/Jawaharlal_Nehru) |
+| 一九六五年印巴战争；一九六六年一月塔什干宣言；夏斯特里第二天在当地猝然去世 | 属实（一月十日签署，十一日去世，官方称心脏病，未尸检，存疑；旁白只说「猝然去世」） | [Tashkent Declaration（Wikipedia）](https://en.wikipedia.org/wiki/Tashkent_Declaration)；[Lal Bahadur Shastri（Wikipedia）](https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri) |
+| 英迪拉·甘地一九六六年接任；尼赫鲁之女；姓氏随丈夫费罗兹·甘地，与圣雄无亲戚关系 | 属实 | [Indira Gandhi（Wikipedia）](https://en.wikipedia.org/wiki/Indira_Gandhi) |
+| 依赖美国援粮，「从船上直接到嘴里」 | 属实（PL-480 援粮，「ship to mouth」说法） | [World Food Prize](https://www.worldfoodprize.org/index.cfm/88533/18096/when_the_green_revolution_came_to_india) |
+| 六十年代中期引进布劳格的矮秆高产小麦；旁遮普；小麦产量大增；布劳格获一九七〇年诺贝尔和平奖 | 属实（一九六五年起运种子；印度小麦产量一九六五年一千二百三十万吨，一九七〇年两千零一十万吨） | [Norman Borlaug（Wikipedia）](https://en.wikipedia.org/wiki/Norman_Borlaug)；[Green Revolution in India（Wikipedia）](https://en.wikipedia.org/wiki/Green_Revolution_in_India) |
+| 一九七〇年十一月博拉气旋，死亡约三十万到五十万 | 属实（十一月十二日） | [1970 Bhola cyclone（Wikipedia）](https://en.wikipedia.org/wiki/1970_Bhola_cyclone) |
+| 一九七〇年大选人民联盟获胜但被阻止组阁；一九七一年三月二十五日夜「探照灯行动」，第二天宣布独立 | 属实 | [Bangladesh Liberation War（Wikipedia）](https://en.wikipedia.org/wiki/Bangladesh_Liberation_War) |
+| 九个月战争，平民死亡估计三十万到三百万；约一千万难民逃往印度；十二月印度参战；十六日达卡投降 | 属实（三月二十六日至十二月十六日；印度十二月三日参战） | [Bangladesh Liberation War（Wikipedia）](https://en.wikipedia.org/wiki/Bangladesh_Liberation_War) |
+| 约九万多名巴方人员被俘 | 属实（约九万三千人，其中包括文职人员和平民；旁白用「人员」而非「士兵」） | [Pakistani Instrument of Surrender（Wikipedia）](https://en.wikipedia.org/wiki/Pakistani_Instrument_of_Surrender) |
+| 谢赫·穆吉布·拉赫曼被尊为国父 | 属实 | [University of Dhaka：Notable alumni](https://du.ac.bd/notableAlumni/6/23)；[Britannica](https://www.britannica.com/EBchecked/topic/489652) |
+| 一九八三年六月二十五日罗德板球场，卡皮尔·德夫率印度击败两届冠军西印度群岛；赔率六十六比一 | 属实（旁白用「据说」） | [1983 Cricket World Cup final（Wikipedia）](https://en.wikipedia.org/wiki/1983_Cricket_World_Cup_final) |
+| 一九九一年外汇储备只够约三周进口；几十吨黄金空运到英格兰银行等处抵押 | 属实（四十七吨运往英格兰银行，二十吨运往瑞士联合银行） | [1991 Indian economic crisis（Wikipedia）](https://en.wikipedia.org/wiki/1991_Indian_economic_crisis) |
+| 七月曼莫汉·辛格推出改革，取消许可证管制，开放外资；引用雨果名言 | 属实（一九九一年七月二十四日预算演讲以这句话结尾） | [1991 Indian economic crisis（Wikipedia）](https://en.wikipedia.org/wiki/1991_Indian_economic_crisis)；[INC：Manmohan Singh statement](https://inc.in/congress-sandesh/statement/statement-of-former-prime-minister-dr-manmohan-singh-on-the-occasion-of-the-30th-anniversary-of-economic-liberalisation) |
+| 此后班加罗尔软件业兴起 | 属实（八十年代末起，二十世纪末被称为印度硅谷） | [Bangalore（Wikipedia）](https://en.wikipedia.org/wiki/Bangalore) |
+| 九十年代南亚各国人口加起来超过十亿 | 属实（推算：印度一九九一年普查约八亿四千六百万，孟加拉国约一亿零六百万，再加巴基斯坦一亿多） | [indiabudget.gov.in（1991 年普查表）](https://www.indiabudget.gov.in/budget_archive/es2000-01/app9.1.pdf)；[1991 Bangladeshi census（Wikipedia）](https://en.wikipedia.org/wiki/1991_Bangladeshi_census) |
+
+## 非洲的独立之路
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一九三五年十月意大利从厄立特里亚和意属索马里两路进攻埃塞俄比亚 | 属实（一九三五年十月三日开战） | [Second Italo-Ethiopian War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War) |
+| 意军违反一九二五年日内瓦议定书，从空中投放芥子气 | 属实（约三百三十吨，意大利国防部直到一九九五年才承认） | [Second Italo-Ethiopian War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War) |
+| 一九三六年五月（五日）意军开进亚的斯亚贝巴 | 属实 | [Emperor Haile Selassie I Returns Triumphant to Ethiopia（Origins, Ohio State University）](https://origins.osu.edu/milestones/may-2016-emperor-haile-selassie-i-returns-triumphant-ethiopia) |
+| 一九三六年六月三十日海尔·塞拉西在日内瓦国联演讲，意大利记者起哄被赶出会场 | 属实 | [Haile Selassie's speech to the League of Nations (1936)（Wikipedia）](https://en.wikipedia.org/wiki/Haile_Selassie%27s_speech_to_the_League_of_Nations_%281936%29) |
+| 演讲结尾：今天是我们，明天就会轮到你们 | 属实（It is us today. It will be you tomorrow.） | [Haile Selassie 1892–1975（Encyclopedia.com）](https://encyclopedia.com/people/history/african-history-biographies/haile-selassie) |
+| 国联制裁没有禁运石油，不久不了了之 | 属实（制裁不含石油；一九三六年七月四日解除） | [Second Italo-Ethiopian War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War)；[Haile Selassie's speech（Wikipedia）](https://en.wikipedia.org/wiki/Haile_Selassie%27s_speech_to_the_League_of_Nations_%281936%29) |
+| 一九四一年英军和埃塞俄比亚抵抗力量击败意军；五月五日海尔·塞拉西回到首都，恰好是意军入城五年后 | 属实 | [Origins（Ohio State University）](https://origins.osu.edu/milestones/may-2016-emperor-haile-selassie-i-returns-triumphant-ethiopia)；[How Italy was defeated in East Africa in 1941（IWM）](https://www.iwm.org.uk/history/how-italy-was-defeated-in-east-africa-in-1941) |
+| 一九四一年五月中国全面抗战快满四年 | 属实（全面抗战始于一九三七年七月） | 项目已核对章节「大萧条与第二次世界大战」 |
+| 二战中英属非洲殖民地有三十多万人参军 | 属实（常见数字约三十七万二千至三十七万五千人） | [African participants in the Second World War](https://www.christophersomerville.co.uk/mgtrust/afr2.htm) |
+| 西非两个师（第八十一、八十二师）远赴缅甸对日作战 | 属实 | [West African Soldiers in Burma（National Army Museum）](https://www.nam.ac.uk/whats-on/west-african-soldiers-burma)；[11th (East Africa) Division（Wikipedia）](https://en.wikipedia.org/wiki/11th_%28East_Africa%29_Division) |
+| 一九四五年十月第五次泛非大会在曼彻斯特召开，杜波依斯任主席，恩克鲁玛、肯雅塔与会 | 属实（十月十五日至二十一日） | [Fifth Pan-African Congress, Manchester 1945（Tribune）](https://tribunemag.co.uk/2022/10/fifth-pan-african-congress-manchester-chorlton-1945)；[History Workshop](https://www.historyworkshop.org.uk/the-fifth-pan-african-congress-75-years-on-a-landmark-moment-in-british-radical-history/) |
+| 杜波依斯时年七十七岁 | 属实（生于一八六八年二月） | 由出生年份推算 |
+| 一九四八年南非国民党在几乎只有白人能投票的选举中获胜；apartheid 意为分开 | 属实（当时开普省部分有色人种仍有投票权，故写「几乎」） | [Turning Points: 1948 and the 1950s（SA History Online）](https://sahistory.org.za/classroom/grade-9/turning-points-1948-and-1950s) |
+| 法律按种族登记每个人、规定居住区域等 | 属实（一九五〇年《人口登记法》《集团住区法》） | [The 1948 Election and the Legislative Implementation of Apartheid（GlobalSecurity）](https://www.globalsecurity.org/military/world/rsa/history-apartheid-1.htm) |
+| 一九五二年七月自由军官政变，法鲁克退位乘游艇去意大利 | 属实（七月二十三日政变，二十六日离境） | [The Egyptian Revolution of 1952（Lumen Learning）](https://courses.lumenlearning.com/suny-worldhistory/chapter/33-5-3-the-egyptian-revolution-of-1952/) |
+| 法鲁克预言世上只剩五个国王：英国国王加扑克牌四个老K | 有争议，旁白已注明「据说」（日期和措辞有不同版本） | [The Abdication of King Farouk（History Today）](https://www.historytoday.com/archive/months-past/abdication-king-farouk) |
+| 白人高地：殖民政府夺取中部和裂谷地区肥沃土地给欧洲移民 | 属实 | [Mau Mau rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Mau_Mau_rebellion) |
+| 一九五二年茅茅起义、宣布紧急状态、数以万计的人被关进拘留营 | 属实（紧急状态一九五二年十月二十日宣布） | [Mau Mau rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Mau_Mau_rebellion) |
+| 官方统计被打死的起义者一万一千多人，被杀白人移民三十二人 | 属实（历史学家认为非洲人实际死亡更多） | [Former Kenya rebels sue UK（Jurist）](https://www.jurist.org/paperchase/2009/06/former-kenya-rebels-sue-uk-over.php)；[Kenya Emergency（National Army Museum）](https://www.nam.ac.uk/explore/Kenya-Emergency) |
+| 肯雅塔一九五三年被判七年苦役，主要证人作伪证，史家多认为他是替罪羊；一九六一年获释 | 属实 | [Jomo Kenyatta（Wikipedia）](https://en.wikipedia.org/wiki/Jomo_Kenyatta) |
+| 一九六三年十二月（十二日）肯尼亚独立，肯雅塔任首任总理 | 属实 | [Kenyatta freed（HISTORY.com）](https://www.history.com/this-day-in-history/august-21/kenyatta-freed) |
+| 法国一八三〇年占领阿尔及尔（前面讲过） | 属实，见「十九世纪的非洲」章 | [Independence Day (Algeria)（Wikipedia）](https://en.wikipedia.org/wiki/Independence_Day_%28Algeria%29) |
+| 阿尔及利亚约一百万欧洲裔居民 | 属实（约九十万人在独立后几个月内离开，常称约一百万） | [Algerian War（Wikipedia）](https://en.wikipedia.org/wiki/Algerian_War) |
+| 一九五四年十一月一日民族解放阵线起义；法军系统使用酷刑 | 属实 | [War of Independence 1954–1962（Fanack）](https://fanack.com/algeria/history-of-algeria/war-of-independence-1954-1962/) |
+| 战争拖垮法国第四共和国、戴高乐重新上台 | 属实（一九五八年五月危机） | [Algerian War（Wikipedia）](https://en.wikipedia.org/wiki/Algerian_War) |
+| 一九六二年三月埃维昂协议，七月独立 | 属实（三月十八日签约，七月一日公投，七月五日独立） | [Algeria Table of Contents（Library of Congress Country Studies）](https://countrystudies.us/algeria/34.htm) |
+| 死亡人数从三十万左右到一百五十万不等 | 属实，旁白已说明说法差距很大 | [Algeria Country Studies](https://countrystudies.us/algeria/34.htm)；[Fanack](https://fanack.com/algeria/history-of-algeria/war-of-independence-1954-1962/) |
+| 约九十万欧洲裔居民在几个月内离开 | 属实 | [Algerian War（Wikipedia）](https://en.wikipedia.org/wiki/Algerian_War) |
+| 一九五六年一月一日苏丹结束英埃共管独立；三月摩洛哥、突尼斯脱离法国保护国 | 属实（三月二日、三月二十日） | [Postcolonial Africa（Wikipedia）](https://en.wikipedia.org/wiki/Postcolonial_Africa)；[Timeline of Independence（Brooklyn Museum）](https://brooklynmuseum.org/features/africa_timeline) |
+| 一九五六年七月二十六日纳赛尔在亚历山大向几万人演讲宣布运河国有化 | 属实 | [Speech by Nasser, 26 July 1956（CVCE）](https://www.cvce.eu/en/obj/speech_by_gamal_abdel_nasser_on_the_nationalisation_of_the_suez_canal_company_26_july_1956-en-d0ecf835-9f40-4c43-a2ed-94c186061d2a.html)；[Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/places/egypt) |
+| 雷赛布的名字是行动暗号，演讲时埃及人员已接管运河公司办公室 | 属实（多种记载一致；原先想写「提了十几次」，查不到可靠出处，已删） | [Suez（Anne Alexander, marxists.org）](https://www.marxists.org/history/etol/writers/alexander-a/2006/xx/suez.html) |
+| 十月底以色列、英国、法国出兵；美苏和联合国施压，三国撤军 | 属实 | [Suez 1956（History Today）](https://www.historytoday.com/timothy-benson/suez-1956)；[Gamal Nasser（Alpha History）](https://alphahistory.com/coldwar/gamal-nasser/) |
+| 一九五七年三月六日零点黄金海岸独立，改名加纳 | 属实 | [Africans Cheer Ghana Freedom（Christian Science Monitor）](https://csmonitor.com/World/Africa/2012/0306/From-our-Files-Africans-Cheer-Ghana-Freedom-Parliament-Meets) |
+| 大英百科称加纳为撒哈拉以南第一个摆脱殖民统治的黑人国家 | 属实（苏丹早一年，故用「大英百科称」「黑人国家」的说法） | [Ghana summary（Britannica）](https://www.Britannica.Com/summary/Ghana) |
+| 古加纳帝国在今加纳西北约八百公里外 | 属实（约五百英里） | [Ghana summary（Britannica）](https://www.Britannica.Com/summary/Ghana) |
+| 恩克鲁玛在旧马球场宣布：加纳，你们亲爱的祖国，永远自由了；独立若不与非洲解放相连就毫无意义 | 属实（措辞各版本略有出入） | [Kwame Nkrumah's Midnight Speech（Africa Access Review）](https://africaaccessreview.org/2022/01/kwame-nkrumahs-midnight-speech-for-independence/)；[Mensah, Journal of Pan African Studies](https://mail.jpanafrican.org/docs/vol9no4/JuneJuly-5-Mensah.pdf) |
+| 一九五八年公投，只有几内亚反对，反对票超过九成五 | 属实（九月二十八日） | [1958 Guinean constitutional referendum（Wikipedia）](https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum) |
+| 塞古·杜尔是萨摩里的曾孙（前面讲过） | 属实，见「十九世纪的非洲」章 | [Ahmed Sékou Touré（GlobalSecurity）](https://www.globalsecurity.org/military/world/africa/gn-toure.htm) |
+| 我们宁要自由中的贫穷，不要奴役下的富足 | 属实 | [Guinea Gains Independence from France（EBSCO）](https://www.ebsco.com/research-starters/history/guinea-gains-independence-france) |
+| 法国撤走全部官员和技术人员、停止援助；十月二日几内亚独立 | 属实（原想写「连电话机都带走」，查不到可靠出处，已删） | [EBSCO](https://www.ebsco.com/research-starters/history/guinea-gains-independence-france)；[1958 Guinean referendum（Wikipedia）](https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum) |
+| 一九六〇年十七个非洲国家独立，其中十四个原属法国 | 属实 | [Africa's Year of Independence（EBSCO）](https://www.ebsco.com/research-starters/history/africas-year-independence)；[The Year of Africa（University of Portsmouth）](https://www.library.port.ac.uk/w1075) |
+| 喀麦隆元旦、尼日利亚十月一日、毛里塔尼亚十一月二十八日独立；尼日利亚人口最多 | 属实 | [African Independence Timeline](https://africamap.net/history/african-independence-timeline.html) |
+| 一九六〇年十二月联合国通过宣言，要求迅速无条件结束殖民主义 | 属实（第一五一四号决议，十二月十四日） | [Declaration on the Granting of Independence to Colonial Countries and Peoples（Wikipedia）](https://en.wikipedia.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples)；[UN Digital Library](https://digitallibrary.un.org/record/206145) |
+| 一九六〇年三月二十一日沙佩维尔数千人抗议通行证法 | 属实（约五千人） | [Sharpeville massacre（Wikipedia）](https://en.wikipedia.org/wiki/Sharpeville_massacre) |
+| 警方记录打死六十九人，后来研究认为至少九十一人，许多人背后中弹 | 属实 | [Sharpeville massacre（Wikipedia）](https://en.wikipedia.org/wiki/Sharpeville_massacre)；[Britannica](https://www.britannica.com/print/article/1005023) |
+| 随后非国大等组织被宣布为非法 | 属实（非国大与泛非大会） | [Sharpeville massacre（Wikipedia）](https://en.wikipedia.org/wiki/Sharpeville_massacre) |
+| 一九六〇年六月三十日刚果独立典礼，博杜安称赞利奥波德二世的天才；卢蒙巴原不在发言名单上 | 属实 | [Patrice Lumumba（Wikipedia）](https://en.wikipedia.org/wiki/Patrice_Lumumba) |
+| 卢蒙巴讲到侮辱、鞭打 | 属实 | [Lumumba: Congolese anti-colonial icon（The Citizen）](https://www.thecitizen.co.tz/tanzania/news/africa/lumumba-congolese-anti-colonial-icon-who-angered-belgian-king-3861024) |
+| 加丹加在比利时支持下宣布分离（一九六〇年七月十一日）；九月卢蒙巴被解职 | 属实 | [Patrice Lumumba（Wikipedia）](https://en.wikipedia.org/wiki/Patrice_Lumumba) |
+| 一九六一年一月十七日在加丹加被处决，年仅三十五岁 | 属实（生于一九二五年七月二日） | [Patrice Lumumba（Wikipedia）](https://en.wikipedia.org/wiki/Patrice_Lumumba) |
+| 二〇〇二年比利时承认负有道义责任并道歉 | 属实 | [A remarkable gesture of contrition（Mail & Guardian）](https://mg.co.za/article/2002-02-22-a-remarkable-gesture-of-contrition)；[Brussels Times](https://brusselstimes.com/363758/today-in-history-belgium-acknowledges-role-in-assassinating-congolese-leader-lumumba) |
+| 一九六三年五月二十五日三十二国在亚的斯亚贝巴成立非洲统一组织 | 属实 | [Organization of African Unity Is Founded（EBSCO）](https://www.ebsco.com/research-starters/politics-and-government/organization-african-unity-founded)；[BlackPast](https://blackpast.org/gah/organization-african-unity-1963-2002) |
+| 五月二十五日后来成为非洲日 | 属实（常识性说法，搜索结果未直接给出出处） | — |
+| 非洲约三四成边界是沿经纬线画的直线，多在沙漠 | 属实（旧说约百分之四十四为直线；二〇二五年研究认为沿经纬线的约百分之三十七，且多在沙漠，故写「约三四成」） | [Myth of arbitrary boundaries（Engineering News）](https://www.engineeringnews.co.za/article/myth-of-arbitrary-boundaries-2024-05-24) |
+| 一九六四年非统决定维持殖民时代边界 | 属实（一九六四年七月开罗会议） | [Organization of African Unity（EBSCO）](https://www.ebsco.com/research-starters/politics-and-government/organization-african-unity-founded)；[CODESRIA](https://publication.codesria.org/index.php/pub/catalog/download/140/1052/3356?inline=1) |
+| 曼德拉一九六一年参与组建武装组织；里沃尼亚审判中说愿为平等社会献出生命 | 属实（被告席演讲一九六四年四月二十日） | [Trials and prison chronology（Nelson Mandela Foundation）](https://www.nelsonmandela.org/trials-and-prison-chronology) |
+| 一九六四年六月十二日被判终身监禁，在罗本岛关了十八年 | 属实 | [Nelson Mandela Foundation](https://www.nelsonmandela.org/trials-and-prison-chronology) |
+| 坦噶尼喀一九六一年（十二月九日）独立，一九六四年与桑给巴尔合并为坦桑尼亚 | 属实（一九六四年四月二十六日） | [Julius Nyerere（Wikipedia）](https://en.wikipedia.org/wiki/Julius_Nyerere) |
+| 尼雷尔当过教师，姆瓦利姆意为老师 | 属实 | [Julius Nyerere（Wikipedia）](https://en.wikipedia.org/wiki/Julius_Nyerere)；[Vatican News](https://www.vaticannews.va/en/africa/news/2019-11/the-legacy-of-mwalimu-julius-kambarage-nyerere.html) |
+| 推广斯瓦希里语，一百多个民族有了共同语言 | 属实（各处说法一百多到一百二十多个） | [Makerere University](https://news.mak.ac.ug/2024/04/mwalimu-julius-nyerere102-celebrating-the-enduring-legacy-of-a-true-servant-leader)；[Ahram Online](https://english.ahram.org.eg/News/573055.aspx) |
+| 尼雷尔把《裘力斯·恺撒》译成斯瓦希里语 | 属实（一九六三年出版；二〇〇〇年有学者质疑译者身份，但未被广泛接受） | [List of translations of works by William Shakespeare（Wikipedia）](https://en.wikipedia.org/wiki/List_of_translations_of_works_by_William_Shakespeare) |
+| 罗得西亚白人约占人口百分之五 | 属实（一九六一年数据） | [Rhodesia's Unilateral Declaration of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence) |
+| 一九六五年十一月十一日单方面宣布独立，没有国家承认 | 属实 | [Rhodesia's UDI（Wikipedia）](https://en.wikipedia.org/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence) |
+| 葡萄牙从一九六一年起在安哥拉、莫桑比克、几内亚比绍打殖民战争 | 属实 | [52 Years of the Carnation Revolution](https://hillauer.substack.com/p/52-years-of-the-carnation-revolution) |
+| 军费一度占国家预算四成左右 | 属实（一九六六至六八年约百分之四十五；全期平均更低，故写「一度」） | [Portugal - Defense Expenditures（GlobalSecurity）](https://www.globalsecurity.org/military/world/europe/pt-budget.htm)；[Ferraz 2022（Revista de Historia Económica）](https://dx.doi.org/10.1017/S0212610921000148) |
+| 一九七四年四月二十五日里斯本政变，市民把康乃馨插进枪口 | 属实 | [Carnation Revolution（Wikipedia 存档）](https://webcf.waybackmachine.org/web/20220319204234/https://en.wikipedia.org/wiki/Carnation_Revolution) |
+| 一年多里葡属非洲殖民地相继独立；安哥拉内战打到二〇〇二年 | 属实（一九七四年九月至一九七五年十一月） | [Angolan Civil War Timeline（SA History Online）](https://sahistory.org.za/article/angolan-civil-war-1975-2002-timeline-events)；[Angolan War of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Angolan_War_of_Independence) |
+| 坦赞铁路一九七〇年起修建，全长约一千八百六十公里，一九七六年七月移交 | 属实（一九七〇至一九七五年修建，七月十四日移交） | [TAZARA（The Guardian, Tanzania）](https://ippmedia.com/the-guardian/news/local-news/read/china-ready-to-work-with-tanzania-zambia-to-revamp-tazara-2024-04-03-044843)；[China Daily](https://regional.chinadaily.com.cn/Qiushi/2025-11/20/c_1142088.htm) |
+| 五万多名中国人参与，六十多人长眠那里 | 属实（死亡人数说法为六十四至七十人） | [TAZARA heroes remembered（The Guardian, Tanzania）](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/tazara-heroes-remembered-as-three-nation-renew-railway-commitment-2026-07-07-183214) |
+| 赞比亚的铜原先须经罗得西亚和南非出海 | 属实 | [The TAZARA Railway（chineseposters.net）](https://chineseposters.net/themes/tazara-railway) |
+| 一九七六年六月十六日索韦托上万名学生抗议阿非利卡语教学，警察开枪 | 属实（一万至两万人） | [Soweto uprising（Wikipedia）](https://en.wikipedia.org/wiki/Soweto_uprising) |
+| 赫克托·彼得森的照片传遍世界 | 属实（年龄有十二岁、十三岁两说，旁白只写「少年」） | [Ten things about June 16 1976（Mail & Guardian）](https://mg.co.za/2016-06-15-archives-ten-things-about-june-16-1976/) |
+| 死亡人数通常说一百七十六人，也有估计高达数百人 | 属实（估计最高约七百人） | [Soweto uprising（Wikipedia）](https://en.wikipedia.org/wiki/Soweto_uprising) |
+| 一九八〇年四月十八日津巴布韦独立；国名和国旗上的皂石鸟来自大津巴布韦 | 属实 | [Zimbabwe Bird（Wikipedia）](https://en.wikipedia.org/wiki/Zimbabwe_Bird)；[Flag of Zimbabwe（Britannica）](https://britannica.com/topic/flag-of-Zimbabwe) |
+| 鲍勃·马利在独立庆典上演唱《津巴布韦》，场外人群涌入、警察放催泪瓦斯 | 属实 | [The story behind Bob Marley's Zimbabwe（Mail & Guardian）](https://mg.co.za/article/2020-01-24-the-story-behind-bob-marleys-zimbabwe/)；[Judy Mowatt reminisces（Dancehall Mag）](https://dancehallmag.com/?p=36864) |
+| 一九九〇年二月二日德克勒克宣布解禁非国大，九天后（二月十一日）曼德拉获释 | 属实 | [Twenty years on（Mail & Guardian）](https://mg.co.za/article/2010-02-02-twenty-years-on-sa-marks-news-of-madibas-release) |
+| 曼德拉时年七十一岁，坐牢二十七年多 | 属实（生于一九一八年七月十八日） | [Nelson Mandela Foundation](https://www.nelsonmandela.org/trials-and-prison-chronology) |
+| 一九九三年曼德拉与德克勒克共获诺贝尔和平奖 | 属实 | [South Africa's last white president dies（The EastAfrican）](https://theeastafrican.co.ke/tea/news/southern-africa/south-africa-s-last-white-president-fw-de-klerk-dies-3615674) |
+| 一九九四年四月七日起约一百天卢旺达针对图西族的大屠杀，常见估计约八十万人遇害，反对屠杀的胡图族人也遭杀害 | 属实（估计八十万到一百多万不等，旁白写「常见估计」） | [GICJ: International Day of Reflection](https://www.gicj.org/positions-opinons/gicj-positions-and-opinions/3366-international-day-of-reflection-on-the-1994-genocide-against-the-tutsi-in-rwanda-–-7th-april) |
+| 四月七日是联合国的反思国际日 | 属实 | [GICJ](https://www.gicj.org/positions-opinons/gicj-positions-and-opinions/3366-international-day-of-reflection-on-the-1994-genocide-against-the-tutsi-in-rwanda-–-7th-april) |
+| 南非首次不分种族大选，四天投票期，几百万人排长队 | 属实（一九九四年四月二十六至二十九日） | [1994 South African general election（Wikipedia）](https://en.wikipedia.org/wiki/1994_South_African_general_election) |
+| 四月二十七日成为自由日 | 属实 | [1994 South African general election（Wikipedia）](https://en.wikipedia.org/wiki/1994_South_African_general_election) |
+| 五月十日曼德拉在比勒陀利亚宣誓就任总统 | 属实 | [It's Official: President Mandela（Christian Science Monitor）](https://proof.csmonitor.com/1994/0510/10011.html) |
+| 图图大主教把新南非称为彩虹之国 | 属实（该词一般认为由图图提出） | [Rainbow nation（Wikipedia）](https://en.wikipedia.org/wiki/Rainbow_nation) |
+| 到一九九四年非洲有五十多个独立国家 | 属实（非统成员五十多个） | [Organization of African Unity（EBSCO）](https://www.ebsco.com/research-starters/politics-and-government/organization-african-unity-founded) |
+
+## 拉丁美洲的二十世纪
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 二十世纪初迪亚斯统治墨西哥三十多年，修铁路，土地集中到大庄园 | 属实（一八七六至一九一一年，中间一八八〇至一八八四年由冈萨雷斯任总统；庄园兼并村社土地） | [Porfiriato（Wikipedia）](https://en.wikipedia.org/wiki/Porfiriato) |
+| 一九一〇年迪亚斯把竞选对手马德罗关进监狱，宣布连任；马德罗号召起义，革命爆发 | 属实（起义日期一九一〇年十一月二十日，圣路易斯波托西计划） | [Mexican Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Mexican_Revolution) |
+| 萨帕塔带领农民争夺土地，口号「土地属于耕种它的人」 | 属实（口号广泛与萨帕塔运动相连，但最早出处有争议，旁白只说「他们的口号」，未称萨帕塔首创） | [México Desconocido](https://www.mexicodesconocido.com.mx/tierra-y-libertad-significado.html)；[La República](https://larepublica.pe/datos-lr/respuestas/2022/09/23/la-tierra-es-de-quien-la-trabaja-quien-dijo-esta-frase-y-que-significa-revolucion-mexicana-teodoro-flores-emiliano-zapata-reforma-agraria-lrtm) |
+| 一九一四年十二月两人的军队开进墨西哥城，比利亚坐总统椅、萨帕塔坐旁边的照片 | 属实（一九一四年十二月六日，国家宫） | [Albuquerque Museum](https://albuquerque.emuseum.com/objects/66056/villa-visits-mexico-city-and-sits-in-the-presidents-chair-b)；[Guadalajara Reporter](https://theguadalajarareporter.net/index.php/featured/45145-december-1914-historic-encounter-that-brought-mexico-s-most-famous-revolutionaries-face-to-face) |
+| 巴拿马曾属大哥伦比亚（前面讲过）；法国人一八八一年开挖，因黄热病、疟疾、塌方失败，两万多人丧生，公司破产 | 属实（一八八一年一月一日开工，一八八一至一八八九年约两万两千人死亡） | [Panama Canal（Wikipedia）](https://en.wikipedia.org/wiki/Panama_Canal) |
+| 一九〇三年巴拿马在美国支持下脱离哥伦比亚，把运河区交给美国 | 属实（一九〇三年十一月三日独立，美国迅速承认） | 同上 |
+| 一九一四年八月十五日巴拿马运河通航，一战爆发才十几天 | 属实（一战七月二十八日爆发，相隔十八天） | 同上 |
+| 纽约到旧金山绕合恩角两万多公里，走运河不到一万公里，省下一万多公里 | 属实（常见说法约两万两千五百公里对九千五百公里；一九一三年地图给出经麦哲伦海峡一万三千一百三十五海里、经运河五千二百六十二海里，约合两万四千三百公里对九千七百公里） | [ETC Maps, University of South Florida](https://etc.usf.edu/maps/pages/10400/10479/10479.htm) |
+| 一九一七年在克雷塔罗制定新宪法：矿藏石油归国家，土地分给农民 | 属实（一九一七年二月五日通过，第二十七条） | [Constitution of Mexico（Wikipedia）](https://en.wikipedia.org/wiki/Constitution_of_Mexico) |
+| 写进八小时工作制和罢工权 | 属实（第一百二十三条） | [Library of Congress: Constitution of 1917](https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/constitution-of-1917.html) |
+| 常被称为世界上最早写入社会权利的宪法之一，比十月革命早大半年 | 属实（维基称其为世界上第一部规定社会权利的宪法；二月对十一月） | [Constitution of Mexico（Wikipedia）](https://en.wikipedia.org/wiki/Constitution_of_Mexico) |
+| 革命打了约十年；萨帕塔一九一九年在奇纳梅卡中伏身亡 | 属实（一九一九年四月十日，奇纳梅卡庄园） | [Emiliano Zapata（Wikipedia）](https://en.wikipedia.org/wiki/Emiliano_Zapata) |
+| 比利亚一九二三年遇刺 | 属实 | [Mexican Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Mexican_Revolution) |
+| 据估计至少约一百万人死亡 | 已改为「据估计至少有约一百万人」（条目正文约一百万，信息框一百七十万至二百七十万；删去了「大批人逃往美国」） | 同上 |
+| 革命制度党连续执政七十一年 | 属实（一九二九年成立国民革命党，后改名，执政到二〇〇〇年大选） | 同上 |
+| 革命后政府资助壁画，让不识字的民众看懂历史；里韦拉、奥罗斯科、西凯罗斯为壁画三杰 | 属实（二十年代起，教育部长巴斯孔塞洛斯推动） | [Mexican muralism（Wikipedia）](https://en.wikipedia.org/wiki/Mexican_muralism) |
+| 一九三三年洛克菲勒中心壁画出现列宁头像，里韦拉拒绝改，第二年被凿毁 | 属实（一九三四年二月铲除） | [Man at the Crossroads（Wikipedia）](https://en.wikipedia.org/wiki/Man_at_the_Crossroads) |
+| 弗里达十八岁遭严重车祸，一生伤痛；躺在床上对着头顶镜子作画；作品多为自画像 | 属实（一九二五年九月十七日） | [Frida Kahlo（Wikipedia）](https://en.wikipedia.org/wiki/Frida_Kahlo) |
+| 生前名气不如丈夫，七十年代末才渐渐出名 | 属实（条目：作品直到七十年代末相对不为人知） | 同上 |
+| 一九三〇年第一届世界杯在乌拉圭，适逢第一部宪法一百周年；十三队参赛，欧洲四支 | 属实 | [1930 FIFA World Cup（Wikipedia）](https://en.wikipedia.org/wiki/1930_FIFA_World_Cup) |
+| 欧洲队坐两个星期左右的船 | 属实（法国队员劳伦回忆在康特·威尔第号上十五天） | 同上 |
+| 决赛乌拉圭四比二逆转阿根廷 | 属实（半场一比二落后；七月三十日） | 同上 |
+| 大萧条中巴西大量销毁咖啡 | 属实（一九三一至一九四四年销毁约七千八百二十万袋） | [Getúlio Vargas（Wikipedia）](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas) |
+| 一九三〇年南方的瓦加斯在军队支持下上台；建立新国家独裁体制；推动工业化、劳动立法 | 属实（南里奥格兰德州人；一九三七年新国家） | 同上 |
+| 瓦加斯被称为穷人之父 | 属实 | [O Imparcial](https://oimparcial.com.br/noticias/2019/08/os-65-anos-do-suicidio-de-getulio-vargas-o-pai-dos-pobres/) |
+| 一九五四年在政治危机中开枪自杀，遗书「我离开人生，步入历史」 | 属实（八月二十四日，卡特蒂宫） | [Diário do Poder](https://diariodopoder.com.br/politica/ttc-politica/getulio-vargas-se-matou-ha-71-anos-no-palacio-do-catete)；[Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/politica-e-poder/saio-da-vida-para-entrar-na-historia/) |
+| 托洛茨基一九三七年获卡德纳斯收留，先住弗里达的蓝房子 | 属实（一九三七年一月到达，一九三九年四月搬到维也纳街） | [Lit Hub](https://lithub.com/frida-kahlo-and-diego-riveras-blue-house-in-coyoacan-was-a-refuge-for-leon-trotsky-until-it-wasnt/)；[UC Berkeley CLAS](https://clas.berkeley.edu/sites/default/files/publications/brlas-spring2010-patenaude.pdf) |
+| 一九四〇年在科约阿坎家中被苏联特工用冰镐袭击身亡 | 属实（八月二十日遇袭，次日去世；凶手为内务人民委员部特工梅尔卡德尔） | [Assassination of Leon Trotsky（Wikipedia）](https://en.wikipedia.org/wiki/Assassination_of_Leon_Trotsky) |
+| 一九三八年三月十八日卡德纳斯宣布石油国有化，涉及美国和英荷公司；民众捐款，有首饰也有母鸡；这一天成为纪念日 | 属实（四月十二日在美术宫前捐款） | [Mexican oil expropriation（Wikipedia）](https://en.wikipedia.org/wiki/Mexican_oil_expropriation) |
+| 庇隆在劳工部门任职赢得工人拥护；一九四五年十月被关押，工人涌上五月广场，获释；次年当选 | 属实（十月十二日被捕，十月十七日忠诚日；一九四六年二月二十四日当选） | [Loyalty Day (Argentina)（Wikipedia）](https://en.wikipedia.org/wiki/Loyalty_Day_%28Argentina%29)；[Juan Perón（Wikipedia）](https://en.wikipedia.org/wiki/Juan_Per%C3%B3n) |
+| 一九五〇年马拉卡纳最后一场约二十万人 | 属实（官方十七万三千八百五十人，估计超过二十万） | [Uruguay v Brazil (1950 FIFA World Cup)（Wikipedia）](https://en.wikipedia.org/wiki/Uruguay_v_Brazil_%281950_FIFA_World_Cup%29) |
+| 巴西打平即夺冠，先进一球，被二比一逆转 | 属实（并非淘汰制决赛，而是决赛圈最后一场；旁白用「最后一场」） | 同上 |
+| 吉贾：只有三个人让马拉卡纳安静过，教宗、辛纳屈和我 | 属实 | [Alcides Ghiggia（Wikipedia）](https://en.wikipedia.org/wiki/Alcides_Ghiggia)；[Fox News](https://www.foxnews.com/sports/soccer-player-who-broke-the-heart-of-all-brazilians-with-maracanazo-dead-at-88) |
+| 艾薇塔出身贫寒，当过演员；一九五二年因癌症去世，三十三岁 | 属实（七月二十六日） | [Eva Perón（Wikipedia）](https://en.wikipedia.org/wiki/Eva_Per%C3%B3n) |
+| 遗体防腐，庇隆下台后被秘密运往欧洲，辗转近二十年回到阿根廷；音乐剧《艾薇塔》 | 属实（一九五五年被移走，下落不明十六年，一九七一年在米兰以假名找到，一九七四年运回；音乐剧一九七六年） | 同上 |
+| 一九五四年危地马拉民选总统阿本斯土改，征收联合果品公司闲置土地；中情局支持流亡武装，阿本斯辞职 | 属实（第九〇〇号法令；六月二十七日辞职） | [1954 Guatemalan coup d'état（Wikipedia）](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat) |
+| 此后三十六年内战，真相委员会估计二十多万人死亡或失踪 | 属实（一九六〇至一九九六年；历史澄清委员会估计超过二十万，经确认的个案少得多；其他估计从四万起） | [Guatemalan Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Guatemalan_Civil_War)；[Historical Clarification Commission（Wikipedia）](https://en.wikipedia.org/wiki/Historical_Clarification_Commission) |
+| 格瓦拉是医生，一九五四年在危地马拉目睹政变，后在墨西哥结识卡斯特罗 | 属实（一九五三年医学学位；一九五五年六月在墨西哥城相识） | [Che Guevara（Wikipedia）](https://en.wikipedia.org/wiki/Che_Guevara) |
+| 一九五六年底八十二人乘格拉玛号驶向古巴，遭伏击后约二十人会合进入马埃斯特腊山 | 已改为「约二十人」（原稿写「不到二十人」；资料说法从约十二人到二十二人不等） | [Granma (yacht)（Wikipedia）](https://en.wikipedia.org/wiki/Granma_%28yacht%29)；[Che Guevara（Wikipedia）](https://en.wikipedia.org/wiki/Che_Guevara) |
+| 一九五九年元旦凌晨巴蒂斯塔乘飞机出逃，起义军随后开进哈瓦那 | 属实（约凌晨三点起飞；一月二日格瓦拉、西恩富戈斯部队进城） | [Fulgencio Batista（Wikipedia）](https://en.wikipedia.org/wiki/Fulgencio_Batista)；[Fidel Castro（Wikipedia）](https://en.wikipedia.org/wiki/Fidel_Castro) |
+| 新政府没收美国企业和大庄园，与美国决裂，靠拢苏联 | 属实（一九五九年起征收美国人所有的种植园土地，一九六〇年国有化美资炼油厂；一九六一年一月断交） | [Cuba–United States relations（Wikipedia）](https://en.wikipedia.org/wiki/Cuba%E2%80%93United_States_relations)；[Fidel Castro（Wikipedia）](https://en.wikipedia.org/wiki/Fidel_Castro) |
+| 一九六一年猪湾登陆，几天就失败 | 属实（四月十七日至二十日） | [Bay of Pigs Invasion（Wikipedia）](https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion) |
+| 一九六〇年四月二十一日迁都巴西利亚；约四十一个月建成；五年干完五十年；平面像飞机 | 属实 | [Brasília（Wikipedia）](https://en.wikipedia.org/wiki/Bras%C3%ADlia) |
+| 科斯塔规划，尼迈耶设计议会大厦和大教堂 | 属实 | [Oscar Niemeyer（Wikipedia）](https://en.wikipedia.org/wiki/Oscar_Niemeyer) |
+| 一九六四年政变推翻古拉特，军人统治二十一年 | 属实（一九六四年三月三十一日至四月一日；到一九八五年三月十五日） | [1964 Brazilian coup d'état（Wikipedia）](https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27%C3%A9tat) |
+| 巴西奇迹；审查、关押和酷刑 | 属实（经济奇迹约一九六八至一九七三年） | [Military dictatorship in Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil) |
+| 格瓦拉去刚果、玻利维亚打游击；一九六七年十月在玻利维亚被俘，在拉伊格拉被处决，三十九岁 | 属实（十月九日遇害） | [Che Guevara（Wikipedia）](https://en.wikipedia.org/wiki/Che_Guevara) |
+| 科尔达一九六〇年拍的照片，据说是被复制最多的照片之一 | 属实（一九六〇年三月五日；维多利亚与阿尔伯特博物馆称其被复制次数超过任何其他照片） | [Guerrillero Heroico（Wikipedia）](https://en.wikipedia.org/wiki/Guerrillero_Heroico) |
+| 一九六七年《百年孤独》出版，布恩迪亚家族七代、马孔多；有人升天，有人身后跟着黄蝴蝶 | 属实（一九六七年五月，布宜诺斯艾利斯；俏姑娘雷梅黛丝升天，马乌里肖·巴比洛尼亚与黄蝴蝶） | [One Hundred Years of Solitude（Wikipedia）](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude) |
+| 一场雨下了四年十一个月零两天 | 属实（小说第十六章开头） | [LitCharts 第十六章](https://assets.litcharts.com/lit/one-hundred-years-of-solitude/chapter-16) |
+| 写法深受外祖母影响，她讲离奇的事一本正经；魔幻现实主义 | 属实 | [Gabriel García Márquez（Wikipedia）](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) |
+| 加西亚·马尔克斯一九八二年获诺贝尔文学奖（结尾一句） | 属实 | 同上 |
+| 贝利十七岁在一九五八年世界杯成名；一九七〇年第三次夺冠，唯一三夺世界杯的球员 | 属实 | [Pelé（Wikipedia）](https://en.wikipedia.org/wiki/Pel%C3%A9) |
+| 一九七〇年决赛在阿兹特克球场 | 属实（六月二十一日，巴西四比一意大利） | [1970 FIFA World Cup final（Wikipedia）](https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final) |
+| 巴西永久保留雷米特杯；一九八三年在里约被盗，至今下落不明 | 属实（一九八三年十二月十九日） | [FIFA World Cup Trophy（Wikipedia）](https://en.wikipedia.org/wiki/FIFA_World_Cup_Trophy) |
+| 一九七〇年阿连德当选，铜矿国有化 | 属实（一九七一年七月国会一致通过） | [Chilean nationalization of copper（Wikipedia）](https://en.wikipedia.org/wiki/Chilean_nationalization_of_copper) |
+| 一九七三年九月十一日政变，战机轰炸拉莫内达宫，阿连德死在宫中，一般认为是自杀 | 已改为「一般认为是自杀」（原稿写「后来调查认定」，未打开相关调查来源；条目称普遍接受为自杀，细节仍有争议） | [1973 Chilean coup d'état（Wikipedia）](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat) |
+| 皮诺切特执政十七年；官方调查三千多人被杀或失踪；数万人遭关押和酷刑 | 属实（一九七三至一九九〇年；雷蒂格委员会至少三千二百人；二〇一一年官方认定三万六千九百四十八名酷刑和政治监禁幸存者） | [Military dictatorship of Chile（Wikipedia）](https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile) |
+| 庇隆一九五五年被推翻，流亡十八年回国再任总统，第二年去世 | 属实（一九七三年第三次就任，一九七四年七月一日去世） | [Juan Perón（Wikipedia）](https://en.wikipedia.org/wiki/Juan_Per%C3%B3n) |
+| 一九七六年阿根廷政变；官方委员会记录约九千名失踪者，人权组织估计三万；肮脏战争 | 属实（三月二十四日；全国失踪者委员会记录八千九百六十一人） | [National Commission on the Disappearance of Persons（Wikipedia）](https://en.wikipedia.org/wiki/National_Commission_on_the_Disappearance_of_Persons)；[National Reorganization Process（Wikipedia）](https://en.wikipedia.org/wiki/National_Reorganization_Process) |
+| 一九七七年四月起母亲们每周四戴白头巾到五月广场；禁止三人以上聚集，她们两两挽臂行走 | 属实（一九七七年四月三十日首次聚集） | [Mothers of the Plaza de Mayo（Wikipedia）](https://en.wikipedia.org/wiki/Mothers_of_the_Plaza_de_Mayo) |
+| 一九七九年桑地诺阵线推翻统治四十多年的索摩查家族；八十年代美国支持的反政府武装交战 | 属实（一九三七或一九三六至一九七九年） | [Nicaraguan Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Nicaraguan_Revolution) |
+| 萨尔瓦多十二年内战，约七万五千人死亡 | 属实（一九七九至一九九二年，联合国称超过七万五千人） | [Salvadoran Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Salvadoran_Civil_War) |
+| 一九八二年四月阿根廷占领马岛；英国特遣舰队远征一万多公里；约两个半月后夺回；九百多人阵亡 | 属实（四月二日至六月十四日共七十四天；阿根廷六百四十九人、英国二百五十五人、岛民三人；距离约八千英里） | [Falklands War（Wikipedia）](https://en.wikipedia.org/wiki/Falklands_War)；[RAF100 Long Range Missions](https://www.raf100schools.org.uk/resource/70/long-range-missions) |
+| 至今仍有主权争议；战败加速军政府垮台 | 属实 | [Falklands War（Wikipedia）](https://en.wikipedia.org/wiki/Falklands_War) |
+| 一九八二年八月墨西哥宣布无力偿债，危机蔓延；美国加息；失去的十年 | 属实 | [Latin American debt crisis（Wikipedia）](https://en.wikipedia.org/wiki/Latin_American_debt_crisis) |
+| 玻利维亚一九八五年最严重时一个月物价涨了将近两倍 | 已改写（原稿「上万倍年率」不准确）；一九八五年二月月通胀约百分之一百八十二 | [Morales, Inflation Stabilization in Bolivia（UCB）](https://iisec.ucb.edu.bo/assets_iisec/publicacion/Inflation_Stabilization_in_Bolivia.pdf)；[1982–1985 Bolivian economic crisis（Wikipedia）](https://en.wikipedia.org/wiki/1982%E2%80%931985_Bolivian_economic_crisis) |
+| 一九八六年阿根廷对英格兰四分之一决赛在阿兹特克球场；上帝之手的说法；四分钟后连过多人进球；世纪最佳进球；阿根廷夺冠 | 属实（六月二十二日；二〇〇二年国际足联网站投票） | [Argentina v England (1986 FIFA World Cup)（Wikipedia）](https://en.wikipedia.org/wiki/Argentina_v_England_%281986_FIFA_World_Cup%29) |
+| 亚马孙是最大的热带雨林，约六成在巴西 | 属实（另一处为百分之五十八点四） | [Amazon rainforest（Wikipedia）](https://en.wikipedia.org/wiki/Amazon_rainforest) |
+| 七十年代修建横贯亚马孙公路，鼓励移民开垦 | 属实（一九七二年通车，用于安置东北部移民） | [Trans-Amazonian Highway（Wikipedia）](https://en.wikipedia.org/wiki/Trans-Amazonian_Highway) |
+| 一九八八年十二月割胶工人领袖奇科·门德斯在家中遇害，震惊世界 | 属实（十二月二十二日，沙普里；原稿「家门口」改为「家中」） | [Chico Mendes（Wikipedia）](https://en.wikipedia.org/wiki/Chico_Mendes) |
+| 阿根廷一九八三年恢复文官政府 | 属实（十二月十日阿方辛就职） | [National Reorganization Process（Wikipedia）](https://en.wikipedia.org/wiki/National_Reorganization_Process) |
+| 巴西、乌拉圭一九八五年恢复文官政府 | 属实（乌拉圭三月一日；巴西三月十五日） | [Civic-military dictatorship of Uruguay（Wikipedia）](https://en.wikipedia.org/wiki/Civic-military_dictatorship_of_Uruguay)；[Military dictatorship in Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil) |
+| 一九八八年智利公投约五成五反对皮诺切特续任；一九九〇年恢复民选政府 | 属实（一九九〇年三月十一日艾尔文就职） | [Military dictatorship of Chile（Wikipedia）](https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile) |
+| 一九七七年卡特与托里霍斯签约；一九九九年十二月三十一日中午移交；美国手中八十五年 | 属实（一九七七年九月七日签约；一九一四至一九九九年） | [Panama Canal（Wikipedia）](https://en.wikipedia.org/wiki/Panama_Canal) |
+
+## 亚洲的二十世纪
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一九四五年八月日本宣布投降（前面章节已讲） | 属实 | [Occupation of Japan（Wikipedia）](https://en.wikipedia.org/wiki/Occupation_of_Japan) |
+| 朝鲜半岛一九一〇年起被日本吞并，统治到一九四五年，约三十五年 | 属实 | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War) |
+| 日本投降前夕，美苏以北纬三十八度线为界分区受降 | 属实（美方于八月十至十一日提出，苏联接受） | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War) |
+| 三八线是两名美国军官（腊斯克、博恩斯蒂尔）深夜对着地图划出，本意临时 | 属实（据腊斯克回忆，用的是一张《国家地理》地图；常见的「三十分钟」说法查无可靠出处，旁白未用） | [National Geographic](https://www.nationalgeographic.com/science/article/130805-korean-war-dmz-armistice-38-parallel-geography) |
+| 一九四五年八月十七日苏加诺、哈达宣读独立宣言，全文只有两句 | 属实（约三十六个词、两句话） | [Proclamation of Indonesian Independence（Wikipedia）](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence) |
+| 荷兰重返，打打谈谈四年多，一九四九年十二月移交主权 | 属实（一九四九年十二月二十七日） | [Dutch East Indies（Wikipedia）](https://en.wikipedia.org/wiki/Dutch_East_Indies) |
+| 原稿「殖民这里三百多年」 | 已删（荷兰控制范围是逐步扩大的，「三百五十年」之说有争议） | 同上 |
+| 一九四五年九月二日胡志明在河内巴亭广场宣读独立宣言，同日日本在东京湾签署投降书 | 属实 | [Proclamation of Independence of the DRV（Wikipedia）](https://en.wikipedia.org/wiki/Proclamation_of_Independence_of_the_Democratic_Republic_of_Vietnam) |
+| 宣言开头借用美国独立宣言「人人生而平等」 | 属实（各译本措辞略有出入，已改为「借用」） | [Alpha History](https://alphahistory.com/vietnamwar/ho-chi-minh-declaration-independence-1945/) |
+| 一九四六年七月四日菲律宾独立，正好是美国国庆节 | 属实（原稿「特意挑在」改为「正好是」，日期是一九三四年法案预先规定的） | [Treaty of Manila (1946)（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Manila_%281946%29) |
+| 一九四八年一月四日缅甸独立，时刻凌晨四点二十分由占星师选定 | 属实（加「据说」；也有记为四点二十五分的） | [Independence Day (Myanmar)（Wikipedia）](https://en.wikipedia.org/wiki/Independence_Day_%28Myanmar%29) |
+| 麦克阿瑟任盟军最高统帅；一九四七年五月新宪法生效，天皇为象征，第九条放弃战争、不保持军队 | 属实（五月三日） | [Occupation of Japan（Wikipedia）](https://en.wikipedia.org/wiki/Occupation_of_Japan) |
+| 土地改革把农田低价卖给佃农；一批大财阀被解散 | 属实（原计划拆分三百多家，实际只解散了最大的十一家，故写「一批」） | 同上 |
+| 一九四八年八月十五日大韩民国成立；九月九日朝鲜民主主义人民共和国成立 | 属实 | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War)；[North Korea（Wikipedia）](https://en.wikipedia.org/wiki/North_Korea) |
+| 一九五〇年六月二十五日战争爆发；战线推到釜山一带；九月仁川登陆、推到鸭绿江；十月志愿军入朝 | 属实（仁川登陆九月十五日，志愿军十月十九日过江） | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War) |
+| 一九五三年七月二十七日在板门店签停战协定 | 属实 | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War)；[Korean Demilitarized Zone（Wikipedia）](https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) |
+| 军民死亡总数两三百万以上 | 属实（军人约一百万，平民一百五十万到三百万，估计差异大，原稿「可能达到两三百万」改为「两三百万以上」） | [Korean War（Wikipedia）](https://en.wikipedia.org/wiki/Korean_War) |
+| 双方各后撤两公里，非军事区宽约四公里、长约二百五十公里 | 属实（另有二百三十八公里的说法，旁白写「约」） | [Korean Demilitarized Zone（Wikipedia）](https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) |
+| 只有停战协定、没有和平条约 | 属实 | [Korean Demilitarized Zone（Wikipedia）](https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone) |
+| 非军事区成了野生动物栖息地，有丹顶鹤 | 属实（加「据说」） | 同上 |
+| 法军以为越军重炮上不了山；武元甲动员大批民工把火炮拆开运上山，用改装自行车运补给 | 属实（维基未写拆炮和自行车，另两处来源有记载） | [Battle of Dien Bien Phu（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu)；[The Wire](https://thewire.in/history/dien-bien-phu-indochina-war)；[Campfire Cycling](https://www.campfirecycling.com/blog/2017/01/30/how-the-bicycle-won-the-vietnam-war) |
+| 一九五四年五月七日法军投降，第二天日内瓦会议开始讨论印度支那 | 属实 | [Battle of Dien Bien Phu（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu)；[1954 Geneva Conference（Wikipedia）](https://en.wikipedia.org/wiki/1954_Geneva_Conference) |
+| 越南以北纬十七度线附近为临时分界线，原定两年后（一九五六年七月）选举，没有举行 | 属实 | [1954 Geneva Conference（Wikipedia）](https://en.wikipedia.org/wiki/1954_Geneva_Conference) |
+| 一九五五年四月万隆会议，二十九国参加，通过十项原则 | 属实（四月十八日至二十四日） | [Asian–African Conference（Wikipedia）](https://en.wikipedia.org/wiki/Asian%E2%80%93African_Conference) |
+| 周恩来提出求同存异 | 属实 | [中国外交部](https://www.mfa.gov.cn/eng/zy/wjls/3604_665547/202405/t20240531_11367588.html) |
+| 一九五七年八月三十一日马来亚独立 | 属实 | [Malayan Declaration of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Malayan_Declaration_of_Independence) |
+| 一九六三年马来亚与新加坡、沙巴、沙捞越组成马来西亚，不到两年分开 | 属实（一九六三年九月十六日至一九六五年八月九日） | [Singapore in Malaysia（Wikipedia）](https://en.wikipedia.org/wiki/Singapore_in_Malaysia) |
+| 一九六五年八月九日新加坡独立 | 属实。原稿「被迫退出」改为「分家」：长期说法是被逐出，后来公开的档案显示双方有秘密协商 | 同上 |
+| 李光耀在电视记者会上称「痛苦的一刻」，哽咽落泪，录像暂停 | 属实 | [Gale Review](https://review.gale.com/2025/08/05/the-separation-of-singapore/)；[BiblioAsia](https://biblioasia.nlb.gov.sg/all-sections/vol-22-issue-2-jul-sep-2026-the-days-leading-to-separation-in-lee-kuan-yews-own-words-/) |
+| 新加坡淡水要从邻国买 | 属实（一九六一、一九六二年与柔佛的供水协定） | [新加坡外交部 Water Agreements](https://www.mfa.gov.sg/about-mfa/key-issues/water-agreements/) |
+| 一九六五年九三〇事件，几名高级将领被杀 | 属实（六名将领被杀） | [Indonesian mass killings of 1965–66（Wikipedia）](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966) |
+| 此后在爪哇、巴厘等地大规模杀戮，华人也受牵连；常见估计五十万到一百万 | 属实（也有两三百万的更高估计，旁白写「估计差别很大」） | 同上 |
+| 苏哈托统治三十多年 | 属实（一九六七至一九九八年，约三十一年） | [Suharto（Wikipedia）](https://en.wikipedia.org/wiki/Suharto) |
+| 一九六七年八月五国代表在曼谷签署宣言成立东盟 | 属实（八月八日）。原稿「五国外长」改为「五国代表」，马来西亚代表拉扎克是副首相 | [ASEAN Declaration（Wikipedia）](https://en.wikipedia.org/wiki/ASEAN_Declaration) |
+| 到一九九九年扩大到十个成员国 | 属实（柬埔寨一九九九年四月加入；东帝汶二〇二五年成为第十一个成员，超出本章时间范围） | [Enlargement of ASEAN（Wikipedia）](https://en.wikipedia.org/wiki/Enlargement_of_ASEAN) |
+| 一九六四年东京湾事件后美国全面介入；一九六五年三月海军陆战队在岘港登陆 | 属实（三月八日，三千五百人） | [Vietnam War（Wikipedia）](https://en.wikipedia.org/wiki/Vietnam_War) |
+| 胡志明小道经过老挝和柬埔寨 | 属实 | [Ho Chi Minh trail（Wikipedia）](https://en.wikipedia.org/wiki/Ho_Chi_Minh_trail) |
+| 美军最多时五十多万人 | 属实（一九六九年四月五十四万三千四百人） | [Vietnam War（Wikipedia）](https://en.wikipedia.org/wiki/Vietnam_War) |
+| 仅投在老挝的炸弹，就和美国在整个二战中投下的差不多 | 属实（约两百万吨对两百一十万吨）。原稿「越南投弹吨数超过二战」改为这一可核实的说法 | 同上 |
+| 一九六八年春节攻势，军事上损失惨重，但助长美国反战浪潮 | 属实 | 同上 |
+| 一九七三年一月签署巴黎和平协定，美军随后撤出 | 属实（一月二十七日） | [Paris Peace Accords（Wikipedia）](https://en.wikipedia.org/wiki/Paris_Peace_Accords) |
+| 一九七五年四月三十日进入西贡，一九七六年越南统一 | 属实 | [Vietnam War（Wikipedia）](https://en.wikipedia.org/wiki/Vietnam_War) |
+| 越南人死亡约一百万到三百万；美军死亡约五万八千 | 属实（越南方面估计九十六万六千到三百零一万；美军五万八千二百八十一人） | 同上 |
+| 一九七五年四月红色高棉占领金边，把居民赶往农村；废除货币、学校、宗教 | 属实（四月十七日） | [Cambodian genocide（Wikipedia）](https://en.wikipedia.org/wiki/Cambodian_genocide)；[Khmer Rouge（Wikipedia）](https://en.wikipedia.org/wiki/Khmer_Rouge)；[Cambodia Communities Out-Reach](https://cambcomm.org.uk/ccc/cambodias-holocaust/) |
+| 一九七九年初越南军队攻入金边 | 属实（一月七日） | [Cambodian genocide（Wikipedia）](https://en.wikipedia.org/wiki/Cambodian_genocide) |
+| 约一百五十万到两百万人死亡，约占人口四分之一 | 属实 | [Khmer Rouge（Wikipedia）](https://en.wikipedia.org/wiki/Khmer_Rouge) |
+| 朝鲜战争军需订单推动日本复苏 | 属实 | [Japanese economic miracle（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_economic_miracle) |
+| 五十年代中期到一九七三年年均增长约百分之十 | 属实（维基：一九五七至一九七三年约百分之十）。原稿「一九五五年前后」改为「五十年代中期」 | 同上 |
+| 一九六八年日本国民生产总值超过西德，居资本主义世界第二 | 属实 | [Hamada（Yale Economic Growth Center，AgEcon Search）](https://ageconsearch.umn.edu/record/28487) |
+| 一九五八年四十八岁的安藤百福在大阪池田自家后院小屋里发明鸡汤拉面，用油炸脱水 | 属实 | [Momofuku Ando（Wikipedia）](https://en.wikipedia.org/wiki/Momofuku_Ando)；[日本政府 Highlighting Japan](https://www.gov-online.go.jp/hlj/en/november_2024/november_2024-05.html) |
+| 一九七一年推出杯面 | 属实（九月十八日开卖） | [Momofuku Ando（Wikipedia）](https://en.wikipedia.org/wiki/Momofuku_Ando) |
+| 全世界一年吃一千多亿份方便面 | 属实（二〇二四年约一千二百三十亿份） | [The Standard](https://www.thestandard.com.hk/news/article/340748/Global-instant-noodle-demand-tops-124-billion-servings-China-and-Hong-Kong-lead) |
+| 一九六四年十月一日东海道新干线通车，东京到新大阪四小时，设计时速二百一十公里，世界第一条高速铁路 | 属实（开通初期限速运行，原稿「最高时速」改为「设计时速」） | [Tokaido Shinkansen（Wikipedia）](https://en.wikipedia.org/wiki/Tokaido_Shinkansen) |
+| 九天后（十月十日）东京奥运会开幕，第一次在亚洲举办 | 属实 | [1964 Summer Olympics（Wikipedia）](https://en.wikipedia.org/wiki/1964_Summer_Olympics) |
+| 丰田生产方式：准时化、看板、工人发现问题可停线 | 属实 | [Toyota Production System（Wikipedia）](https://en.wikipedia.org/wiki/Toyota_Production_System) |
+| 一九七三年石油危机后，省油的日本小车大举打入美国 | 属实（一九七九年第二次石油危机作用更大） | [EBSCO Research Starters](https://www.ebsco.com/research-starters/history/japan-becomes-worlds-largest-automobile-producer)；[WardsAuto](https://wardsauto.com/automakers/energy-crisis-aided-japanese-imports) |
+| 一九七一年神户的乐队鼓手井上大佑把伴唱机租给酒吧，被称为卡拉OK之父，没申请专利 | 属实。原稿「一般认为是起点」改为「谁最早发明还有争议」（根岸重一自称一九六七年已造出类似机器） | [Daisuke Inoue（Wikipedia）](https://en.wikipedia.org/wiki/Daisuke_Inoue)；[Karaoke（Wikipedia）](https://en.wikipedia.org/wiki/Karaoke) |
+| 一九七九年索尼推出随身听 | 属实（七月一日） | [Walkman（Wikipedia）](https://en.wikipedia.org/wiki/Walkman) |
+| 一九六二年起韩国五年计划，主攻出口 | 属实 | [Miracle on the Han River（Wikipedia）](https://en.wikipedia.org/wiki/Miracle_on_the_Han_River) |
+| 早期出口以纺织品、胶合板、假发为主 | 属实（假发主要在六十年代中后期兴起） | [NBER](https://www.nber.org/system/files/chapters/c4067/c4067.pdf)；[Korea Times](https://www.koreatimes.co.kr/amp/economy/others/20100409/from-cottage-industry-to-global-export-powerhouse-in-60-years) |
+| 一九六八年浦项钢铁成立；一九七二年现代在蔚山建造船厂 | 属实。原稿「海边荒地平地而起」查无可靠出处，已删 | [Economy of South Korea（Wikipedia）](https://en.wikipedia.org/wiki/Economy_of_South_Korea)；[HD Hyundai Heavy Industries（Wikipedia）](https://en.wikipedia.org/wiki/HD_Hyundai_Heavy_Industries) |
+| 汉江奇迹 | 属实 | [Miracle on the Han River（Wikipedia）](https://en.wikipedia.org/wiki/Miracle_on_the_Han_River) |
+| 一九八七年韩国实现总统直选 | 属实 | [June Democratic Struggle（Wikipedia）](https://en.wikipedia.org/wiki/June_Democratic_Struggle) |
+| 一九八八年汉城奥运会约一百六十个国家和地区参加，此前三届遭大规模抵制，是冷战时期参赛最多的一届 | 属实（一百五十九或一百六十）。原稿「此前两届」改为「三届」 | [1988 Summer Olympics（Wikipedia）](https://en.wikipedia.org/wiki/1988_Summer_Olympics) |
+| 一九六六年高雄设立出口加工区 | 属实（十二月三日） | [AmCham Taiwan](https://topics.amcham.com.tw/2016/12/taiwans-export-processing-zones-forward-looking-50/) |
+| 一九八〇年设立新竹科学园区，发展半导体 | 属实（十二月十五日） | [Hsinchu Science Park（Wikipedia）](https://en.wikipedia.org/wiki/Hsinchu_Science_Park) |
+| 中国香港先靠纺织、塑料花、玩具等轻工业，后转向金融和贸易 | 属实 | [Four Asian Tigers（Wikipedia）](https://en.wikipedia.org/wiki/Four_Asian_Tigers)；[Li Ka-shing（Wikipedia）](https://en.wikipedia.org/wiki/Li_Ka-shing)；[Economy of Hong Kong（Wikipedia）](https://en.wikipedia.org/wiki/Economy_of_Hong_Kong) |
+| 亚洲四小龙：韩国、新加坡、中国台湾、中国香港；资源少，靠出口工业和教育 | 属实（一九六五年时四地都已普及小学教育）。原稿「勤劳」删去，避免泛化 | [Four Asian Tigers（Wikipedia）](https://en.wikipedia.org/wiki/Four_Asian_Tigers) |
+| 新加坡靠港口、炼油、外资，成为亚洲最富裕的地方之一 | 属实 | [Economy of Singapore（Wikipedia）](https://en.wikipedia.org/wiki/Economy_of_Singapore) |
+| 一九八五年广场协议后日元大幅升值 | 属实 | [Japanese asset price bubble（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble) |
+| 一九八九年底日经指数逼近三万九千点 | 属实（十二月二十九日收于三万八千九百一十五点） | 同上 |
+| 皇居土地价值超过整个加利福尼亚州 | 属实（当时的估算，旁白写「流传很广的说法」） | 同上 |
+| 泡沫九十年代初破裂；失去的十年、失去的二十年 | 属实 | 同上 |
+| 日经指数二〇二四年才突破一九八九年高点 | 属实（二〇二四年二月二十二日） | [Bloomberg](https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989) |
+| 一九九七年七月一日零点，在香港会议展览中心举行交接仪式 | 属实 | [Handover of Hong Kong（Wikipedia）](https://en.wikipedia.org/wiki/Handover_of_Hong_Kong) |
+| 一八四二年南京条约割让香港岛；一百五十多年后回归 | 属实 | 同上 |
+| 一九九九年澳门回归 | 属实（十二月二十日） | [Transfer of sovereignty over Macau（Wikipedia）](https://en.wikipedia.org/wiki/Transfer_of_sovereignty_over_Macau) |
+| 一九九七年七月二日泰国让泰铢浮动，危机爆发，印尼、韩国受冲击最重 | 属实 | [1997 Asian financial crisis（Wikipedia）](https://en.wikipedia.org/wiki/1997_Asian_financial_crisis) |
+| 韩国向国际货币基金组织求援 | 属实（一九九七年十二月） | [Economy of South Korea（Wikipedia）](https://en.wikipedia.org/wiki/Economy_of_South_Korea) |
+| 约三百五十万人交出金饰，收集两百多吨黄金 | 属实（约三百五十一万人，约二百二十五至二百二十七吨；多数由银行按市价收购，不少人放弃付款，故写「交给国家」） | [Gold-collecting campaign（Wikipedia）](https://en.wikipedia.org/wiki/Gold-collecting_campaign) |
+| 日经指数一九八九年底见顶前一个多月，柏林墙倒塌（一九八九年十一月九日） | 属实（全片最后一章已核对） | [Japanese asset price bubble（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble) |
+
+## 苏联七十年
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 前面讲过：一九一七年十一月列宁领导布尔什维克夺权（呼应「帝国主义与第一次世界大战」章） | 属实（见该章核对） | [Vladimir Lenin（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_Lenin) |
+| 一九一八年三月三日签订布列斯特-立托夫斯克和约，苏俄退出一战 | 属实 | [Treaty of Brest-Litovsk（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk) |
+| 丢掉原帝国约三分之一的人口、九成左右的煤矿 | 属实（维基：人口 34%、工业用地 54%、煤田 89%） | [Treaty of Brest-Litovsk（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk) |
+| 同月（一九一八年三月十二日）政府从彼得格勒迁到莫斯科 | 属实 | [Saint Petersburg（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Petersburg) |
+| 改用公历：一九一八年一月三十一日的第二天是二月十四日；距签约半个多月 | 属实（法令一月二十四日颁布，跳过十三天） | [Adoption of the Gregorian calendar（Wikipedia）](https://en.wikipedia.org/wiki/Adoption_of_the_Gregorian_calendar) |
+| 一九一八年夏天起全面内战 | 属实（全面内战始于一九一八年五至六月） | [Russian Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Russian_Civil_War) |
+| 英、法、美、日等十几个国家出兵干涉 | 属实（维基：十三个外国干涉） | [Russian Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Russian_Civil_War) |
+| 托洛茨基组建红军并赢得内战 | 属实 | [Leon Trotsky（Wikipedia）](https://en.wikipedia.org/wiki/Leon_Trotsky) |
+| 内战伤亡估计七百万到一千二百万，大多是平民 | 属实（维基原文为 casualties，旁白用「伤亡」） | [Russian Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Russian_Civil_War) |
+| 一九一八年七月十六日深夜（至十七日凌晨）叶卡捷琳堡，沙皇夫妇、五个子女和四名随从被杀 | 属实（共十一人） | [Execution of the Romanov family（Wikipedia）](https://en.wikipedia.org/wiki/Execution_of_the_Romanov_family) |
+| 二〇〇七年找到第二处墓穴，DNA 鉴定为阿列克谢和一位姐姐，一家七口无人幸存 | 属实（主墓一九九四年鉴定） | [Execution of the Romanov family（Wikipedia）](https://en.wikipedia.org/wiki/Execution_of_the_Romanov_family) |
+| 一九二一年三月喀琅施塔得水兵起义被镇压；托洛茨基曾称他们是「革命的骄傲」 | 属实 | [Kronstadt rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Kronstadt_rebellion) |
+| 同月（十大，三月二十一日法令）实行新经济政策：粮食税代替余粮征集，允许私人小商业 | 属实 | [New Economic Policy（Wikipedia）](https://en.wikipedia.org/wiki/New_Economic_Policy) |
+| 一九二一年伏尔加河流域大饥荒；美国救济署最多一天供饭一千多万人 | 属实（峰值 10,491,297 人） | [Russian famine of 1921–1922（Wikipedia）](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922) |
+| 一九二二年十二月三十日，俄罗斯、乌克兰、白俄罗斯、外高加索四国组成苏联 | 属实 | [Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Union_of_Soviet_Socialist_Republics)；[Treaty on the Creation of the USSR（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_USSR) |
+| 国名里没有地名 | 属实 | [Official names of the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Official_names_of_the_Soviet_Union) |
+| 十五个加盟共和国；约两千两百四十万平方公里，世界第一；横跨十一个时区 | 属实（22,402,200 平方公里；UTC+2 至 +12） | [Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Union_of_Soviet_Socialist_Republics) |
+| 列宁晚年中风，口授信件说斯大林太粗暴，建议撤去总书记 | 属实（一九二二年十二月至一九二三年一月口授） | [Lenin's Testament（Wikipedia）](https://en.wikipedia.org/wiki/Lenin%27s_Testament)；[Lenin's Testament（Britannica）](https://britannica.com/topic/Lenins-Testament) |
+| 一九二四年一月二十一日列宁去世，享年五十三岁 | 属实 | [Vladimir Lenin（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_Lenin) |
+| 五天后（一月二十六日）彼得格勒改名列宁格勒 | 属实 | [Saint Petersburg（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Petersburg) |
+| 遗体防腐，陵墓先为木制，一九三〇年改为石制 | 属实 | [Lenin's Mausoleum（Wikipedia）](https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum) |
+| 斯大林原名朱加什维利，生于格鲁吉亚哥里，化名意为「钢铁之人」；一九二二年起任总书记 | 属实（一九二二年四月三日起） | [Joseph Stalin（Wikipedia）](https://en.wikipedia.org/wiki/Joseph_Stalin) |
+| 托洛茨基一九二九年被驱逐出境；一九四〇年八月在墨西哥城被斯大林派出的特工用冰镐刺杀 | 属实（八月二十日遇袭，二十一日死） | [Leon Trotsky（Wikipedia）](https://en.wikipedia.org/wiki/Leon_Trotsky) |
+| 一九二八年开始第一个五年计划；斯大林宣布四年零三个月完成 | 属实 | [First five-year plan (Soviet Union)（Wikipedia）](https://en.wikipedia.org/wiki/First_five-year_plan_(Soviet_Union)) |
+| 一九二九年起在磁山脚下建马格尼托哥尔斯克钢厂；美国麦基公司参与，以印第安纳州加里的钢厂为蓝本 | 属实（「从帐篷开始」：当地有纪念最初建设者的「第一顶帐篷」纪念碑） | [Magnitogorsk（Wikipedia）](https://en.wikipedia.org/wiki/Magnitogorsk)；[Magnitogorsk Iron and Steel Works（Wikipedia）](https://en.wikipedia.org/wiki/Magnitogorsk_Iron_and_Steel_Works) |
+| 一九二九年底起强制集体化 | 属实（一九二九年十一月决定加速集体化） | [Collectivization in the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union) |
+| 约一百万户「富农」被流放或送进劳改营；农民宰杀牲口抵制 | 属实（维基：约一百万户、或约五百万人） | [Collectivization in the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union) |
+| 一九三二至一九三三年饥荒，全苏死亡约五百七十万到八百七十万 | 属实 | [Soviet famine of 1930–1933（Wikipedia）](https://en.wikipedia.org/wiki/Soviet_famine_of_1930%E2%80%931933) |
+| 乌克兰死亡约三百五十万到五百万（近年研究）；称为霍洛多摩尔，意为饥饿灭绝；是否种族灭绝学界和各国看法不一 | 属实（乌克兰和另外三十三个联合国成员国认定为种族灭绝，学界对是否蓄意针对乌克兰人有争论） | [Holodomor（Wikipedia）](https://en.wikipedia.org/wiki/Holodomor) |
+| 哈萨克饥荒：强制定居、征收牲畜，死亡约一百五十万到两百多万，约占哈萨克人四成，比例各族最高 | 属实（三成八到四成二） | [Kazakh famine of 1930–1933（Wikipedia）](https://en.wikipedia.org/wiki/Kazakh_famine_of_1930%E2%80%931933) |
+| 数十万人逃往中国、蒙古等地，许多人死在路上 | 属实（六十六万五千到一百一十万人出逃，约三成死于疫病和饥饿） | [Kazakh famine of 1930–1933（Wikipedia）](https://en.wikipedia.org/wiki/Kazakh_famine_of_1930%E2%80%931933) |
+| 一九三四年十二月基洛夫遇刺，成为大清洗导火索；一九三六至一九三八年大清洗；莫斯科公审 | 属实 | [Great Purge（Wikipedia）](https://en.wikipedia.org/wiki/Great_Purge) |
+| 官方档案处决六十八万多人；五位元帅中三位没能活下来 | 属实（681,692 人，另有估计七十万到一百二十万） | [Great Purge（Wikipedia）](https://en.wikipedia.org/wiki/Great_Purge) |
+| 古拉格即劳改营管理总局；一九三〇至一九五三年约一千八百万人进过营地；诺里尔斯克、沃尔库塔、科雷马 | 属实 | [Gulag（Wikipedia）](https://en.wikipedia.org/wiki/Gulag) |
+| 营中死亡常见估计约一百六十万，也有学者认为更多 | 属实（一百五十万至一百七十万；另有约二百五十万、约六百万等估计） | [Gulag（Wikipedia）](https://en.wikipedia.org/wiki/Gulag) |
+| 一九三九年八月二十三日苏德互不侵犯条约，秘密议定书划分东欧势力范围 | 属实 | [Molotov–Ribbentrop Pact（Wikipedia）](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact) |
+| 九月十七日苏军进入波兰；一九四〇年波罗的海三国并入苏联 | 属实 | [Molotov–Ribbentrop Pact（Wikipedia）](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact)；[Occupation of the Baltic states（Wikipedia）](https://en.wikipedia.org/wiki/Occupation_of_the_Baltic_states) |
+| 前面讲过德国撕毁条约（呼应「大萧条与第二次世界大战」章） | 属实 | 同上 |
+| 一九三九年十一月底苏联进攻芬兰；一九四〇年三月停战，芬兰割让约百分之九领土、保住独立 | 属实（十一月三十日至三月十三日） | [Winter War（Wikipedia）](https://en.wikipedia.org/wiki/Winter_War) |
+| 莫洛托夫称轰炸是给芬兰人送食物；芬兰人把燃烧瓶叫「莫洛托夫鸡尾酒」，配他的「面包」 | 属实 | [Molotov cocktail（Wikipedia）](https://en.wikipedia.org/wiki/Molotov_cocktail) |
+| 一九四一年起一千五百多家工厂东迁乌拉尔、西伯利亚、中亚，有的露天开工 | 属实（常见数字 1,523 家，另有说两千五百多家大型企业） | [The evacuation of the Soviet aviation industry in 1941（VVS Air War）](https://vvsairwar.com/2016/08/26/the-evacuation-of-the-soviet-aviation-industry-in-1941/)；[The southern Urals as a touchstone for Soviet wartime performance（SITE, Stockholm School of Economics）](https://www.hhs.se/news/site-publications/2021/the-southern-urals-as-a-touchstone-for-soviet-wartime-performance/) |
+| 一九四一年十一月七日红场阅兵，部队直接开往前线；德军最近离克里姆林宫约三十公里 | 属实（希姆基一带） | [Battle of Moscow（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Moscow) |
+| 列宁格勒围困八百七十二天（一九四一年九月八日至一九四四年一月二十七日） | 属实 | [Siege of Leningrad（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Leningrad) |
+| 每天一百二十五克面包，掺锯末；冰上生命之路 | 属实（一九四一年十一月至一九四二年二月） | [Siege of Leningrad（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Leningrad) |
+| 平民死亡约六十多万到一百多万 | 属实（维基信息框：围城中平民死亡 642,000，另有撤离中死亡；索尔兹伯里估计饿死超过一百万） | [Siege of Leningrad（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Leningrad) |
+| 一九四二年八月九日第七交响曲在围城上演；广播乐团只剩十五人可演奏；扩音器传向德军；事先炮击压制德军 | 属实（「暴风」行动） | [Symphony No. 7 (Shostakovich)（Wikipedia）](https://en.wikipedia.org/wiki/Symphony_No._7_(Shostakovich)) |
+| 一九四五年五月攻克柏林；投降书签字时莫斯科已是五月九日，胜利日比西方晚一天 | 属实 | [Victory Day (9 May)（Wikipedia）](https://en.wikipedia.org/wiki/Victory_Day_(9_May)) |
+| 苏联死亡约两千七百万，超过战前人口百分之十三 | 属实（俄官方 2660 万，约占一九四〇年人口 13.7%） | [World War II casualties of the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/World_War_II_casualties_of_the_Soviet_Union) |
+| 一九四九年八月二十九日在塞米巴拉金斯克试验场试爆第一颗原子弹；福克斯泄密 | 属实 | [Soviet atomic bomb project（Wikipedia）](https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project)；[Semipalatinsk Test Site（Wikipedia）](https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site) |
+| 美国核垄断只维持四年（一九四五至一九四九） | 属实（推算） | 同上 |
+| 一九五三年三月五日斯大林去世 | 属实 | [Death and state funeral of Joseph Stalin（Wikipedia）](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Joseph_Stalin) |
+| 一九五六年二月苏共二十大闭门会议秘密报告，约四小时，很快传遍世界 | 属实（二月二十五日） | [On the Cult of Personality and Its Consequences（Wikipedia）](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences) |
+| 「解冻」得名于爱伦堡的小说；大批囚犯获释 | 属实 | [Khrushchev Thaw（Wikipedia）](https://en.wikipedia.org/wiki/Khrushchev_Thaw) |
+| 一九五六年十月匈牙利起义，十一月四日苏军镇压；约两千五百多人死亡，约二十万人流亡 | 属实（两千五百到三千人） | [Hungarian Revolution of 1956（Wikipedia）](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956) |
+| 一九六八年八月华约军队开进捷克斯洛伐克，结束「带有人性面孔的社会主义」的布拉格之春 | 属实（八月二十至二十一日） | [Warsaw Pact invasion of Czechoslovakia（Wikipedia）](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia) |
+| 一九五四年起几十万共青团员开垦哈萨克斯坦北部和西伯利亚的处女地 | 属实（一九五四年夏三十万人） | [Virgin Lands campaign（Wikipedia）](https://en.wikipedia.org/wiki/Virgin_Lands_campaign) |
+| 赫鲁晓夫推广玉米，一九五九年访美去了艾奥瓦州的农场；想去迪士尼乐园因安全原因未成，十分不满 | 属实 | [Nikita Khrushchev（Wikipedia）](https://en.wikipedia.org/wiki/Nikita_Khrushchev) |
+| 一九五七年十一月莱卡乘卫星二号上天，莫斯科流浪狗，第一只绕地球飞行的动物，几小时后因过热死亡 | 属实（真相二〇〇二年才公开） | [Laika（Wikipedia）](https://en.wikipedia.org/wiki/Laika) |
+| 一九六三年六月捷列什科娃（纺织女工出身）乘东方六号绕地球四十八圈，第一位女航天员 | 属实（六月十六日） | [Valentina Tereshkova（Wikipedia）](https://en.wikipedia.org/wiki/Valentina_Tereshkova) |
+| 太空竞赛、卫星、加加林下一章会讲（「冷战、登月与互联网」） | 属实 | — |
+| 五十年代苏联援建一百五十六个项目 | 属实 | [1st Five-Year Plan (China)（Wikipedia）](https://en.wikipedia.org/wiki/1st_Five-Year_Plan_(China)) |
+| 一九六〇年苏联撤走一千三百多名专家 | 属实（中方记录 1,390 人） | [Sino-Soviet split（Wikipedia）](https://en.wikipedia.org/wiki/Sino-Soviet_split) |
+| 一九六九年三月乌苏里江珍宝岛武装冲突 | 属实（三月二日） | [Sino-Soviet border conflict（Wikipedia）](https://en.wikipedia.org/wiki/Sino-Soviet_border_conflict) |
+| 一九六四年十月赫鲁晓夫被赶下台，勃列日涅夫执政十八年 | 属实（十月十四日；一九六四至一九八二年） | [Nikita Khrushchev（Wikipedia）](https://en.wikipedia.org/wiki/Nikita_Khrushchev)；[Era of Stagnation（Wikipedia）](https://en.wikipedia.org/wiki/Era_of_Stagnation) |
+| 「停滞时期」由戈尔巴乔夫提出；重工业军工优先，肉和日用品短缺，排队成日常 | 属实 | [Era of Stagnation（Wikipedia）](https://en.wikipedia.org/wiki/Era_of_Stagnation)；[Kyoto University 论文（Fujiwara）](https://www.ces.kier.kyoto-u.ac.jp/jces/13_jces_2018/10%20Fujiwara.pdf) |
+| 一九七九年十二月苏军进入阿富汗，一九八九年二月撤完（九年多） | 属实（一九七九年十二月二十五日至一九八九年二月十五日） | [Soviet–Afghan War（Wikipedia）](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War) |
+| 苏军死亡约一万五千；阿富汗人死亡一百万以上；约五百万人逃往国外 | 属实（官方 14,453；阿富汗死亡估计一百万至三百万） | [Soviet–Afghan War（Wikipedia）](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War) |
+| 一九八〇年美国为首六十多个国家抵制莫斯科奥运会 | 属实 | [1980 Summer Olympics boycott（Wikipedia）](https://en.wikipedia.org/wiki/1980_Summer_Olympics_boycott) |
+| 一九八二至一九八五年勃列日涅夫、安德罗波夫、契尔年科相继去世，电视播放《天鹅湖》 | 属实 | [Era of Stagnation（Wikipedia）](https://en.wikipedia.org/wiki/Era_of_Stagnation)；[In 1991, Soviet citizens saw swans on the TV（NPR）](https://www.npr.org/2021/08/19/1029437787/in-1991-soviet-citizens-saw-swans-on-the-tv-and-knew-it-meant-turmoil) |
+| 帕基特诺夫在莫斯科科学院计算中心编出俄罗斯方块（一九八四年）；名字来自 tetra（四）加网球 | 属实（旁白用「同一时期」，年份一九八四年有一说为一九八五年） | [Tetris（Wikipedia）](https://en.wikipedia.org/wiki/Tetris) |
+| 一九八五年三月五十四岁的戈尔巴乔夫出任总书记 | 属实（三月十一日） | [Mikhail Gorbachev（Wikipedia）](https://en.wikipedia.org/wiki/Mikhail_Gorbachev) |
+| 改革（重建）与公开性 | 属实 | [Perestroika（Wikipedia）](https://en.wikipedia.org/wiki/Perestroika) |
+| 一九八五年禁酒运动，铲掉葡萄园，戏称「矿泉水书记」，严重打击国家预算 | 属实 | [Gorbachev's Anti-Alcohol Campaign（Michigan State University, Seventeen Moments in Soviet History）](https://soviethistory.msu.edu/1985/anti-alcohol-campaign/)；[Gorbachev admits botching anti-alcohol campaign（RFE/RL）](https://config-exception.rferl.mobi/a/russia-gorbachev-admits-botching-anti-alcohol-campaign/27018247.html) |
+| 一九八六年四月二十六日凌晨切尔诺贝利四号反应堆爆炸 | 属实（一点二十三分） | [Chernobyl disaster（Wikipedia）](https://en.wikipedia.org/wiki/Chernobyl_disaster) |
+| 三十六小时后约四万九千人开始撤离 | 属实 | [Chernobyl disaster（Wikipedia）](https://en.wikipedia.org/wiki/Chernobyl_disaster) |
+| 两天后一千多公里外瑞典福斯马克核电站检测到辐射，苏联电视才发简短消息 | 属实（四月二十八日，约二十秒的电视消息） | [Chernobyl disaster（Wikipedia）](https://en.wikipedia.org/wiki/Chernobyl_disaster) |
+| 两人当场死亡，二十八人几个月内死于急性放射病 | 属实 | [Chernobyl disaster（Wikipedia）](https://en.wikipedia.org/wiki/Chernobyl_disaster) |
+| 一九八七年五月二十八日，十八岁的鲁斯特驾租来的塞斯纳从赫尔辛基飞到红场旁大桥 | 属实 | [Mathias Rust（Wikipedia）](https://en.wikipedia.org/wiki/Mathias_Rust) |
+| 判四年，关约十四个月获释；国防部长等被撤职，戈尔巴乔夫借机撤换反对改革者 | 属实 | [Mathias Rust（Wikipedia）](https://en.wikipedia.org/wiki/Mathias_Rust) |
+| 一九八九年八月二十三日（苏德条约五十周年）约两百万人组成波罗的海之路，约六百七十五公里，连接塔林、里加、维尔纽斯 | 属实 | [Baltic Way（Wikipedia）](https://en.wikipedia.org/wiki/Baltic_Way) |
+| 一九八九年二月最后一批苏军撤出阿富汗 | 属实（二月十五日） | [Soviet–Afghan War（Wikipedia）](https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War) |
+| 一九九一年八月十九日紧急状态委员会宣布接管，戈尔巴乔夫在黑海边（克里米亚）别墅被软禁 | 属实（十八日切断联系，十九日公开宣布） | [1991 Soviet coup attempt（Wikipedia）](https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt) |
+| 电视循环播放《天鹅湖》 | 属实 | [In 1991, Soviet citizens saw swans on the TV（NPR）](https://www.npr.org/2021/08/19/1029437787/in-1991-soviet-citizens-saw-swans-on-the-tv-and-knew-it-meant-turmoil) |
+| 叶利钦站上议会大楼（白宫）前的坦克演说 | 属实 | [Boris Yeltsin（Wikipedia）](https://en.wikipedia.org/wiki/Boris_Yeltsin) |
+| 三名平民遇难，三天后政变失败 | 属实（八月二十一日三名平民死亡） | [1991 Soviet coup attempt（Wikipedia）](https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt) |
+| 一九九一年十二月八日俄、乌、白三国领导人签别洛韦日协议，宣告苏联不复存在 | 属实 | [Dissolution of the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union) |
+| 十二月二十五日戈尔巴乔夫辞职；当晚红旗降下，升起俄罗斯三色旗 | 属实 | [Dissolution of the Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union) |
+| 降旗时间晚上七点三十二分 | 属实（《纽约时报》当日报道为 7:32；个别来源写 7:35） | [25 years ago: the last day of the Soviet Union（Legal Insurrection，引《纽约时报》）](https://legalinsurrection.com/2016/12/25-years-ago-the-last-day-of-the-soviet-union-december-25-1991/amp)；[The Day the Soviet Flag Came Down（RealClearWorld）](https://realclearworld.com/2022/01/03/the_day_the_soviet_flag_came_down_810241.html) |
+| 苏联把第一颗卫星和第一个人送上太空（结尾一句带过，下一章详讲） | 属实 | [Sputnik 1（Wikipedia）](https://en.wikipedia.org/wiki/Sputnik_1) |
+| 解体为十五个独立国家；冷战四十多年（下一章） | 属实 | [Soviet Union（Wikipedia）](https://en.wikipedia.org/wiki/Union_of_Soviet_Socialist_Republics) |
+
 ## 冷战、登月与互联网
 
 | 说法 | 结果 | 来源 |
 |---|---|---|
 | 1946 年丘吉尔「铁幕」演说；冷战四十多年 | 属实 | [Iron Curtain（Wikipedia）](https://en.wikipedia.org/wiki/Iron_Curtain) |
-| 1947 年印巴分治：一千多万人背井离乡，死亡估计几十万到两百万 | 属实 | [Partition of India（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_India) |
+| 1947 年印巴分治（旁白已简化，数字见「南亚独立」一节）：一千多万人背井离乡，死亡估计几十万到两百万 | 属实 | [Partition of India（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_India) |
 | 1949 年 10 月 1 日中华人民共和国成立 | 属实 | [People's Republic of China（Wikipedia）](https://en.wikipedia.org/wiki/People%27s_Republic_of_China) |
 | 1955 年万隆会议，29 个亚非国家 | 属实 | [BlackPast](https://www.blackpast.org/global-african-history/events-global-african-history/bandung-conference-1955/) |
 | 1960 年非洲独立年，17 国独立 | 属实 | [Year of Africa（Wikipedia）](https://en.wikipedia.org/wiki/Year_of_Africa) |

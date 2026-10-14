@@ -273,7 +273,8 @@
     var rho = Math.SQRT2, rho2 = 2, rho4 = 4;
     var ux0 = p0[0], uy0 = p0[1], w0 = p0[2], ux1 = p1[0], uy1 = p1[1], w1 = p1[2];
     var dx = ux1 - ux0, dy = uy1 - uy0, d2 = dx * dx + dy * dy, S, f;
-    if (d2 < 1e-12) {
+    // 起止中心几乎重合时按纯缩放处理，否则下面的对数会因精度不够变成无穷大
+    if (d2 < 1e-12 || Math.sqrt(d2) < 1e-6 * Math.max(w0, w1)) {
       S = Math.log(w1 / w0) / rho;
       f = function (t) { return [ux0 + t * dx, uy0 + t * dy, w0 * Math.exp(rho * t * S)]; };
     } else {
@@ -334,7 +335,8 @@
     var busy = false;
     if (fly) {
       var t = Math.min(1, (now - fly.t0) / fly.dur), p = fly.i(ease(t));
-      cam.x = p[0]; cam.y = p[1]; cam.k = view.sw / p[2];
+      if (!(Math.abs(p[0]) < 10 * WW && Math.abs(p[1]) < 10 * WH && p[2] > WW / 100 && p[2] < 10 * WW)) t = 1;
+      else { cam.x = p[0]; cam.y = p[1]; cam.k = view.sw / p[2]; }
       if (t >= 1) { cam.x = fly.to.x; cam.y = fly.to.y; cam.k = fly.to.k; fly = null; } else busy = true;
     }
     applyWorld();
