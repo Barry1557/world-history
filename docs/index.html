@@ -413,7 +413,7 @@ window.WH = {"scale":360,"W":1969.48,"H":1024.12,"lon0":{"a":11,"p":154},"chapte
   var saved = loadState();
   function saveState() {
     try {
-      window.localStorage.setItem(KEY, JSON.stringify({ i: cur, s: sent, v: voiceOn, r: rate, vn: voice ? voice.name : (saved.vn || ''), done: finished }));
+      window.localStorage.setItem(KEY, JSON.stringify({ i: cur, ct: CH[SC[cur].c - 1].title, ci: cur - CHSTART[SC[cur].c], s: sent, v: voiceOn, r: rate, vn: voice ? voice.name : (saved.vn || ''), done: finished }));
     } catch (e) { /* 隐私模式等情况下忽略 */ }
   }
 
@@ -1145,8 +1145,21 @@ window.WH = {"scale":360,"W":1969.48,"H":1024.12,"lon0":{"a":11,"p":154},"chapte
   $('coverMeta').textContent = CH.length + ' 章 · ' + SC.length + ' 个镜头 · 约 ' + minutes() + ' 分钟';
   measure();
 
-  var resume = saved.i > 0 && saved.i < SC.length && !saved.done;
-  cur = resume ? saved.i : 0;
+  // 进度按「章节标题 + 章内第几段」保存，插入新章节后仍能回到原处
+  var savedAt = -1;
+  if (typeof saved.ct === 'string') {
+    for (var ci = 0; ci < CH.length; ci++) {
+      if (CH[ci].title === saved.ct) {
+        var first = CHSTART[ci + 1], next = ci + 1 < CH.length ? CHSTART[ci + 2] : SC.length;
+        savedAt = Math.min(first + Math.max(0, saved.ci | 0), next - 1);
+        if (savedAt !== first + (saved.ci | 0)) saved.s = 0;
+        break;
+      }
+    }
+  } else if (saved.i > 0 && saved.i < SC.length) savedAt = saved.i;
+  var resume = savedAt > 0 && !saved.done;
+  saved.i = savedAt;
+  cur = resume ? savedAt : 0;
   sent = resume && saved.s < SC[cur].sents.length ? (saved.s || 0) : 0;
   var s0 = SC[cur];
   cam = targetCam(s0); showProj(cam.pk); applyWorld();
