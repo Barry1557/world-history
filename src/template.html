@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#071019">
+<meta name="description" content="纪录片式的世界历史速览：自动播放，地图动画、中文语音讲解与字幕。">
+<title>世界历史放映厅</title>
+<style>
+/*STYLE*/
+</style>
+</head>
+<body>
+<div id="stage" class="covered">
+  <svg id="map" aria-hidden="true">
+    <defs>
+      <radialGradient id="g-area">
+        <stop offset="0" stop-color="#f0a43a" stop-opacity="0.34"/>
+        <stop offset="0.55" stop-color="#f0a43a" stop-opacity="0.16"/>
+        <stop offset="1" stop-color="#f0a43a" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <g id="world">
+<!--MAPS-->
+    </g>
+    <g id="fx"></g>
+  </svg>
+  <div class="vignette"></div>
+
+  <header class="hud">
+    <div class="hud-year" id="hudYear">
+      <div id="year" class="year">约 46 亿年前</div>
+      <div id="chap" class="chap"></div>
+    </div>
+    <div class="hud-btns">
+      <button id="btnToc" class="tbtn" type="button" aria-label="章节目录">
+        <svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h11"/></svg><span>目录</span>
+      </button>
+      <button id="btnSet" class="tbtn" type="button" aria-label="设置">
+        <svg viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg><span>设置</span>
+      </button>
+      <button id="btnFull" class="tbtn only-icon" type="button" aria-label="全屏" hidden>
+        <svg viewBox="0 0 24 24"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div id="card" class="card" aria-hidden="true">
+    <div class="card-n" id="cardN"></div>
+    <div class="card-t" id="cardT"></div>
+  </div>
+
+  <footer class="bottom" id="bottom">
+    <div class="sub" aria-live="polite"><p id="subText"></p></div>
+    <div class="bar">
+      <div class="prog" id="prog" role="slider" aria-label="播放进度" tabindex="0">
+        <div class="prog-track"><div class="prog-fill" id="progFill"></div></div>
+        <div class="ticks" id="ticks"></div>
+        <div class="prog-tip" id="progTip"></div>
+      </div>
+      <div class="ctrls">
+        <button id="btnPrev" class="cbtn" type="button" aria-label="上一段">
+          <svg viewBox="0 0 24 24"><path d="M6 5v14M19 5l-10 7 10 7z"/></svg>
+        </button>
+        <button id="btnPlay" class="cbtn play" type="button" aria-label="播放">
+          <svg class="i-play" viewBox="0 0 24 24"><path d="M8 5l11 7-11 7z"/></svg>
+          <svg class="i-pause" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg>
+        </button>
+        <button id="btnNext" class="cbtn" type="button" aria-label="下一段">
+          <svg viewBox="0 0 24 24"><path d="M18 5v14M5 5l10 7-10 7z"/></svg>
+        </button>
+        <span class="count" id="count"></span>
+        <span class="grow"></span>
+        <button id="btnRate" class="cbtn txt" type="button" aria-label="语速">1.0×</button>
+        <button id="btnVoice" class="cbtn" type="button" aria-label="语音开关">
+          <svg class="i-on" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9zM16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"/></svg>
+          <svg class="i-off" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9zM17 9l5 6M22 9l-5 6"/></svg>
+        </button>
+      </div>
+    </div>
+  </footer>
+
+  <section id="cover" class="cover">
+    <div class="cover-in">
+      <p class="kicker" id="coverKicker">一部关于我们自己的速览纪录片</p>
+      <h1 id="coverTitle">世界历史放映厅</h1>
+      <p class="lede" id="coverLede">从三十万年前的非洲，一直讲到互联网。<br>地图动画、中文语音讲解与字幕，坐下来，自动播放。</p>
+      <p class="meta" id="coverMeta"></p>
+      <div class="cover-btns" id="coverBtns"></div>
+      <p class="hint" id="coverHint">建议打开声音。设备没有中文语音时，会自动改为字幕播放。</p>
+    </div>
+  </section>
+
+  <section id="toc" class="panel" hidden>
+    <div class="panel-in">
+      <div class="panel-head"><h2>章节目录</h2><button class="x" type="button" data-close aria-label="关闭">关闭</button></div>
+      <ol class="toc-list" id="tocList"></ol>
+    </div>
+  </section>
+
+  <section id="settings" class="panel" hidden>
+    <div class="panel-in">
+      <div class="panel-head"><h2>设置</h2><button class="x" type="button" data-close aria-label="关闭">关闭</button></div>
+      <div class="row">
+        <label for="optVoice">语音讲解</label>
+        <button id="optVoice" class="switch" type="button" role="switch" aria-checked="true"><span></span></button>
+      </div>
+      <div class="row col">
+        <label for="optVoiceSel">声音</label>
+        <select id="optVoiceSel"></select>
+        <p class="note" id="voiceNote"></p>
+      </div>
+      <div class="row col">
+        <label for="optRate">语速 <b id="rateVal">1.0×</b></label>
+        <input id="optRate" type="range" min="0.8" max="1.6" step="0.1" value="1">
+      </div>
+      <p class="note">快捷键：空格 播放/暂停，← → 切换上一段/下一段。观看进度和语音设置会保存在本机浏览器里。</p>
+      <p class="note">地图：Natural Earth 陆地数据（world-atlas），Natural Earth 投影，只画陆地与经纬网。年代与数字的核对记录见 <a href="https://github.com/barry1557/world-history/blob/main/docs/fact-check.md" target="_blank" rel="noopener">fact-check.md</a>。</p>
+    </div>
+  </section>
+
+  <div id="toast" class="toast" role="status"></div>
+</div>
+<script>
+/*DATA*/
+</script>
+<script>
+/*APP*/
+</script>
+</body>
+</html>
