@@ -37,10 +37,16 @@ import steamOpiumMeiji from './scenes/steam-opium-meiji.js';
 import imperialismWw1 from './scenes/imperialism-ww1.js';
 import depressionWw2 from './scenes/depression-ww2.js';
 import coldWarInternet from './scenes/cold-war-internet.js';
+import steppe from './scenes/steppe.js';
+import ancientIndia from './scenes/ancient-india.js';
+import ancientAfrica from './scenes/ancient-africa.js';
+import classicAmericas from './scenes/classic-americas.js';
+import iran from './scenes/iran.js';
 
 const ORDER = [
   earthDay, outOfAfrica, agriculture, dawn, bronzeCollapse, axial, persiaGreece,
-  qinHanRome, fallOfRome, islam, tangCharlemagneVikings, song1066, crusades,
+  steppe, qinHanRome, ancientIndia, fallOfRome, ancientAfrica, classicAmericas,
+  islam, iran, tangCharlemagneVikings, song1066, crusades,
   mongolsPlague, zhenghePrinting, exploration, reformationScience, revolutions,
   steamOpiumMeiji, imperialismWw1, depressionWw2, coldWarInternet,
 ];
