@@ -47,13 +47,20 @@ import southeastAsia from './scenes/southeast-asia.js';
 import turksSeljuks from './scenes/turks-seljuks.js';
 import goldenAfrica from './scenes/golden-africa.js';
 import rus from './scenes/rus.js';
+import aztecInca from './scenes/aztec-inca.js';
+import ottoman from './scenes/ottoman.js';
+import gunpowderEmpires from './scenes/gunpowder-empires.js';
+import samuraiJoseon from './scenes/samurai-joseon.js';
+import russiaExpansion from './scenes/russia-expansion.js';
 
 const ORDER = [
   earthDay, outOfAfrica, agriculture, dawn, bronzeCollapse, axial, persiaGreece,
   steppe, qinHanRome, ancientIndia, fallOfRome, ancientAfrica, classicAmericas,
   islam, iran, tangCharlemagneVikings, koreaJapan, song1066, southeastAsia,
   turksSeljuks, crusades, mongolsPlague, goldenAfrica, rus, zhenghePrinting,
-  exploration, reformationScience, revolutions, steamOpiumMeiji, imperialismWw1, depressionWw2, coldWarInternet,
+  aztecInca, exploration, ottoman, gunpowderEmpires, samuraiJoseon,
+  reformationScience, russiaExpansion, revolutions, steamOpiumMeiji,
+  imperialismWw1, depressionWw2, coldWarInternet,
 ];
 
 export const chapters = ORDER.map(({ title, sub }) => ({ title, sub }));
