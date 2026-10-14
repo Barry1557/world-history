@@ -256,6 +256,14 @@
     }
     var kMin = Math.min(view.sw / WW, view.sh / WH) * 0.9;
     k = Math.max(kMin, Math.min(k, view.sw / (WW / 16)));
+    // 高纬度镜头在手机竖屏上别露出地图上下边缘外的空白（前提是内容仍留在安全区内）
+    var up = view.sy / k, down = (view.h - view.sy) / k;
+    if (up + down < WH) {
+      var hs = (view.sh / 2 - padY) / k, ny = cy;
+      if (cy - up < 0) { ny = up; if (bb) ny = Math.max(cy, Math.min(ny, bb.y0 + hs)); }
+      else if (cy + down > WH) { ny = WH - down; if (bb) ny = Math.min(cy, Math.max(ny, bb.y1 - hs)); }
+      cy = ny;
+    }
     return { x: cx, y: cy, k: k, pk: pk };
   }
 

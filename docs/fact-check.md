@@ -350,6 +350,95 @@
 | 玛雅低地城邦八、九世纪衰落，原因可能包括干旱和战争 | 属实（多因说） | [Classic Maya collapse（Wikipedia）](https://en.wikipedia.org/wiki/Classic_Maya_collapse) |
 | 高棉帝国约 802 年建立 | 属实（通行说法） | [Khmer Empire（Wikipedia）](https://en.wikipedia.org/wiki/Khmer_Empire) |
 
+## 古代朝鲜与日本
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 对马岛北端距釜山约五十公里 | 属实（指最近处；港口间约 57–70 公里） | [Tsushima Strait（Wikipedia）](https://en.wikipedia.org/wiki/Tsushima_Strait)；[Korea Strait（Wikipedia）](https://en.wikipedia.org/wiki/Korea_Strait) |
+| 青森大平山元遗址陶片约一万六千五百年前，是世界最古老陶器之一 | 属实 | [Ōdai Yamamoto I Site（Wikipedia）](https://en.wikipedia.org/wiki/%C5%8Cdai_Yamamoto_I_Site)；[Jōmon pottery（Wikipedia）](https://en.wikipedia.org/wiki/J%C5%8Dmon_pottery) |
+| 江西仙人洞陶片更早（约两万年前） | 属实 | [Early Pottery at 20,000 Years Ago in Xianrendong Cave（Science 2012 摘要）](https://ui.adsabs.harvard.edu/abs/2012Sci...336.1696W/abstract) |
+| 烧陶者是狩猎采集者，早于农业 | 属实 | 同上；[Jōmon period（Wikipedia）](https://en.wikipedia.org/wiki/J%C5%8Dmon_period) |
+| 绳文得名于陶器上的绳纹，延续一万年以上 | 属实（约前 14000–前 300 年） | [Jōmon period（Wikipedia）](https://en.wikipedia.org/wiki/J%C5%8Dmon_period) |
+| 三内丸山约五千九百至四千两百年前有人居住（约一千七百年） | 属实 | [Step into Japan's Prehistoric Jōmon Culture（nippon.com）](https://nippon.com/en/guide-to-japan/gu900227)；[Sannai-Maruyama Site（Wikipedia）](https://en.wikipedia.org/wiki/Sannai-Maruyama_Site) |
+| 六个巨大柱坑，栗木柱直径约一米，用途不明 | 属实 | [About Sannai Maruyama Site（青森县）](https://sannaimaruyama.pref.aomori.jp/english/about/remains-structures/)；[nippon.com](https://nippon.com/en/guide-to-japan/gu900227) |
+| 檀君传说：桓雄、熊与虎、艾草与大蒜、避光，熊化为女子生檀君 | 属实（传说内容；旁白已标明是传说） | [Dangun（Wikipedia）](https://en.wikipedia.org/wiki/Dangun) |
+| 后世史书推算檀君建国为公元前 2333 年 | 属实（出自 1485 年《东国通鉴》的推算；旁白注明「传说，不是信史」） | [Dangun（Wikipedia）](https://en.wikipedia.org/wiki/Dangun) |
+| 朝鲜半岛有三万多座支石墓，有人估计约占全世界四成 | 有争议，旁白已写「有人估计」（维基称约 35,000 座、约 40%，另有 50% 之说） | [Gochang, Hwasun and Ganghwa Dolmen Sites（Wikipedia）](https://en.wikipedia.org/wiki/Gochang,_Hwasun_and_Ganghwa_Dolmen_Sites) |
+| 高敞、和顺、江华支石墓群 2000 年列入世界遗产 | 属实 | [Gochang, Hwasun and Ganghwa Dolmen Sites（Wikipedia）](https://en.wikipedia.org/wiki/Gochang,_Hwasun_and_Ganghwa_Dolmen_Sites)；[worldheritagesite.org](https://www.worldheritagesite.org/list/gochang-hwasun-and-ganghwa-dolmen) |
+| 弥生时代开始于前十世纪到前三世纪之间，学界争论很大 | 有争议，旁白已注明 | [Yayoi period（Wikipedia）](https://en.wikipedia.org/wiki/Yayoi_period)；[Archaeology Magazine Archive](https://archive.archaeology.org/0801/abstracts/insider.html) |
+| 稻作与金属器经半岛传入九州，有移民渡海 | 属实 | [Yayoi period（Wikipedia）](https://en.wikipedia.org/wiki/Yayoi_period) |
+| 吉野里遗址有环壕和木栅，显示已有冲突 | 属实 | [Yoshinogari site（Wikipedia）](https://en.wikipedia.org/wiki/Yoshinogari_site)；[Yoshinogari Site（ancient-history-sites）](https://www.ancient-history-sites.com/?p=116535) |
+| 前 108 年汉武帝灭卫满朝鲜，设乐浪等四郡，乐浪治所在今平壤附近 | 属实 | [Lelang Commandery（Wikipedia）](https://en.wikipedia.org/wiki/Lelang_Commandery)；[Han conquest of Gojoseon（Wikipedia）](https://en.wikipedia.org/wiki/Han_conquest_of_Gojoseon) |
+| 乐浪郡存在四百多年（至 313 年被高句丽吞并） | 属实（前 108–313 年约 420 年） | [Lelang Commandery（Wikipedia）](https://en.wikipedia.org/wiki/Lelang_Commandery) |
+| 《三国史记》（十二世纪，1145 年）：新罗前 57 年、高句丽前 37 年、百济前 18 年 | 属实（传统年份；旁白注明学者认为实际成形更晚） | [Timeline of Korean history（Wikipedia）](https://en.wikipedia.org/wiki/Timeline_of_Korean_history)；[Samguk Sagi（World History Encyclopedia）](https://www.worldhistory.org/Samguk_Sagi/)；[Baekje（World History Encyclopedia）](https://www.worldhistory.org/Baekje/) |
+| 三国时代约七百年 | 属实（前 57 年至 668 年，按传统年份） | 同上 |
+| 《汉书》：乐浪海中有倭人，分为百余国 | 属实 | [Wo（Britannica）](https://www.britannica.com/topic/Wo)；[Wajin（Wikipedia）](https://en.wikipedia.org/wiki/Wajin_%28ancient_people%29) |
+| 57 年光武帝赐倭奴国金印；1784 年志贺岛农民挖出「汉委奴国王」金印，真伪曾有争论 | 属实 | [King of Na gold seal（Wikipedia）](https://en.wikipedia.org/wiki/King_of_Na_gold_seal)；[Shika Island（Wikipedia）](https://en.wikipedia.org/wiki/Shika_Island) |
+| 卑弥呼事鬼道、有婢女千人；约 239 年遣使魏，封亲魏倭王 | 属实（《魏志》作 238 年，通常校正为 239 年，旁白写「约」） | [Himiko（Wikipedia）](https://en.wikipedia.org/wiki/Himiko) |
+| 邪马台国九州说与畿内说，自江户时代争论至今 | 属实 | [Himiko（Wikipedia）](https://en.wikipedia.org/wiki/Himiko) |
+| 414 年长寿王在集安立好太王碑，高六米多，近一千八百字 | 属实（约 6.39 米；字数 1,775–1,802 说法不一，旁白写「近一千八百」） | [Gwanggaeto Stele（Wikipedia）](https://en.wikipedia.org/wiki/Gwanggaeto_Stele) |
+| 碑文涉及倭的一段（辛卯年条）各国学者解读不同 | 属实（旁白不站队） | [Gwanggaeto Stele（Wikipedia）](https://en.wikipedia.org/wiki/Gwanggaeto_Stele) |
+| 427 年高句丽迁都平壤 | 属实 | [Gungnae（Wikipedia）](https://en.wikipedia.org/wiki/Gungnae) |
+| 古坟多为前方后圆（钥匙孔形） | 属实 | [Kofun（Wikipedia）](https://en.wikipedia.com/wiki/Kofun)；[Miyazaki archive](https://www.miyazaki-archive.jp/d-museum/mk-heritage/en/burialmounds/data_keyhole.html) |
+| 大仙陵古坟长约 486 米，日本最大，世界占地最大陵墓之一；传为仁德天皇陵，学界无定论 | 属实（新测量有约 500 米以上之说；墓主无法确认） | [Mozu Kofun Group（Wikipedia）](https://en.wikipedia.org/wiki/Mozu_Kofun_Group)；[nippon.com](https://www.nippon.com/en/japan-data/h00492/) |
+| 新罗都城在庆州；天马冢出土金冠，有树枝、鹿角形立饰和勾玉 | 属实 | [Cheonmachong（World History Encyclopedia）](https://worldhistory.org/Cheonmachong)；[Korea Times](https://www.koreatimes.co.kr/amp/opinion/20251207/sillas-golden-crowns-koreas-ancient-spirit)；[Smarthistory](https://smarthistory.org/gold-and-jade-crown-silla-kingdom) |
+| 树和鹿角象征通天，与萨满信仰有关 | 属实（主流解读，旁白写「不少学者认为」） | [Crowns of Silla（Wikipedia）](https://en.wikipedia.org/wiki/Crowns_of_Silla)；[The Gold Crowns of Silla（WHE）](https://worldhistory.org/article/957) |
+| 百济圣王赠佛像佛经，传统说法 538 年或 552 年 | 属实（两说并存） | [Buddhism in Japan（Wikipedia）](https://en.wikipedia.org/wiki/Buddhism_in_Japan)；[Soga no Iname（Wikipedia）](https://en.wikipedia.org/wiki/Soga_no_Iname) |
+| 苏我氏支持、物部氏反对；587 年苏我氏打败物部氏 | 属实 | [Soga no Iname（Wikipedia）](https://en.wikipedia.org/wiki/Soga_no_Iname)；[Buddhism in Ancient Japan（WHE）](https://www.worldhistory.org/article/1080/buddhism-in-ancient-japan/) |
+| 据《日本书纪》，圣德太子 604 年制定十七条宪法，第一条以和为贵 | 属实（真伪有争论，旁白已注明） | [Seventeen-article constitution（Wikipedia）](https://en.wikipedia.org/wiki/Seventeen-article_constitution) |
+| 《日本书纪》成书于一百多年后（720 年） | 属实 | 同上 |
+| 相传圣德太子创建法隆寺；金堂、五重塔被认为是世界现存最古老木构建筑 | 属实（670 年火灾后重建，但仍公认最古老之列） | [Hōryū-ji（Wikipedia）](https://en.wikipedia.org/wiki/H%C5%8Dry%C5%AB-ji)；[Prince Shōtoku（Wikipedia）](https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku) |
+| 607 年小野妹子使隋，国书「日出处天子致书日没处天子无恙」；隋炀帝不悦 | 属实（原因有两种推测，旁白写「也许」） | [Ono no Imoko（Wikipedia）](https://en.wikipedia.org/wiki/Ono_no_Imoko)；[Japanese missions to Imperial China（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_missions_to_Imperial_China) |
+| 「日出处」称呼日本是已知最早的记录之一 | 属实 | [Prince Shōtoku（Wikipedia）](https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku) |
+| 612 年乙支文德在萨水大败隋军；渡辽三十万五千人，回辽东城只有两千七百人 | 属实（据《资治通鉴》《三国史记》；一说 2,800，旁白写「据史书记载」） | [Goguryeo–Sui War（Wikipedia）](https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War)；[Ŭlchi Mundŏk（Wikipedia）](https://en.wikipedia.org/wiki/%C5%AClchi_Mund%C5%8Fk) |
+| 战争是隋亡的重要原因之一，618 年唐代隋 | 属实 | [Goguryeo–Sui War（Wikipedia）](https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War) |
+| 645 年中大兄皇子与中臣镰足刺杀苏我入鹿（乙巳之变），大化改新 | 属实 | [Isshi incident（Wikipedia）](https://en.wikipedia.org/wiki/Isshi_incident)；[Taika Reform（Wikipedia）](https://en.wikipedia.org/wiki/Taika_Reform) |
+| 「大化」是日本第一个年号 | 属实 | [Taika Reform（Wikipedia）](https://en.wikipedia.org/wiki/Taika_Reform) |
+| 镰足临终前被赐姓藤原，为藤原氏始祖 | 属实（669 年） | [Fujiwara no Kamatari（Wikipedia）](https://en.wikipedia.org/wiki/Fujiwara_no_Kamatari) |
+| 660 年唐新罗灭百济；663 年白江口倭军大败，《日本书纪》记载损失四百艘船 | 属实 | [Battle of Baekgang（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Baekgang) |
+| 668 年唐与新罗灭高句丽 | 属实 | [Silla–Tang War（Wikipedia）](https://en.wikipedia.org/wiki/Silla%E2%80%93Tang_War) |
+| 664 年在大宰府附近修长约 1.2 公里的水城；又建大野城等山城，百济流亡贵族指导 | 属实 | [Mizuki Fortress Ruins（日本观光厅多语言解说）](https://www.mlit.go.jp/tagengo-db/en/R5-00330.html)；[Ōnojō Fortress Ruins（同上）](https://www.mlit.go.jp/tagengo-db/en/R5-00331.html) |
+| 据估计渡海定居日本的百济上层人士约三千人 | 有争议，旁白已写「据估计」（来源为韩国报纸专栏） | [Herald Corp 专栏](https://biz.heraldcorp.com/article/10780474)；[History of Japan–Korea relations（Wikipedia）](https://en.wikipedia.org/wiki/History_of_Japan%E2%80%93Korea_relations) |
+| 676 年新罗把唐军挡在大同江以北，控制大同江以南 | 属实（伎伐浦之战年份有争论，旁白未提具体战役） | [Silla–Tang War（Wikipedia）](https://en.wikipedia.org/wiki/Silla%E2%80%93Tang_War)；[Unified Silla（Wikipedia）](https://en.wikipedia.org/wiki/Unified_Silla) |
+| 庆州此后作为都城又繁荣两百多年（至 935 年） | 属实 | [Gyeongju（Wikipedia）](https://en.wikipedia.org/wiki/Gyeongju) |
+| 698 年大祚荣建国，713 年唐封渤海郡王；号「海东盛国」；遣使日本 34 次；926 年被契丹所灭 | 属实 | [Balhae（Wikipedia）](https://en.wikipedia.org/wiki/Balhae) |
+| 渤海历史归属中、韩、朝学界看法不同 | 属实（旁白不站队） | [Balhae（Wikipedia）](https://en.wikipedia.org/wiki/Balhae) |
+| 上京龙泉府位于今黑龙江宁安渤海镇一带 | 属实 | [Shangjing Longquanfu（Wikipedia）](https://en.wikipedia.org/wiki/Shangjing_Longquanfu)；[Ning'an（Wikipedia）](https://en.wikipedia.org/wiki/Ning%27an) |
+| 710 年迁都平城京，仿照长安 | 属实 | [Heijō-kyō（Wikipedia）](https://en.wikipedia.org/wiki/Heij%C5%8D-ky%C5%8D) |
+| 约七世纪末八世纪初「日本」国号、「天皇」称号确立 | 属实（具体年份说法不一，旁白写「差不多同一时期」） | [Taihō Code（Wikipedia）](https://en.wikipedia.org/wiki/Taih%C5%8D_Code)；[University of Tokyo Biblioplaza](https://www.u-tokyo.ac.jp/biblioplaza/en/L_00054.html) |
+| 712 年《古事记》、720 年《日本书纪》，现存最早史书，从神话讲到七世纪 | 属实（《古事记》止于推古朝 628 年） | [Kojiki（World History Encyclopedia）](https://www.worldhistory.org/Kojiki/.md)；[Kojiki and Nihon Shoki（gltjp）](https://www.gltjp.com/en/directory/item/15365/) |
+| 约 751 年金大城开始兴建佛国寺和石窟庵（一说 742 年） | 属实（旁白写「约」） | [Seokguram（Wikipedia）](https://en.wikipedia.org/wiki/Seokguram)；[UNESCO 提名文件](https://whc.unesco.org/document/217187) |
+| 石窟庵为花岗岩人造石窟，佛像面朝东方大海，据说日出照在佛像额头 | 属实（日出之说旁白写「据说」） | [Seokguram Grotto（WHE）](https://www.worldhistory.org/Seokguram_Grotto/) |
+| 1995 年佛国寺与石窟庵一起列入世界遗产 | 属实 | [Seokguram（Wikipedia）](https://en.wikipedia.org/wiki/Seokguram) |
+| 752 年东大寺大佛开眼，印度僧人菩提仙那点睛，约一万名僧人到场 | 属实 | [Tōdai-ji（Wikipedia）](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji) |
+| 大佛原高约十六米，用掉大量铜 | 属实（现高 14.98 米） | [Tōdai-ji（Wikipedia）](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji) |
+| 现大佛殿 1709 年重建，比原来小约三成，直到 1998 年是世界最大木构建筑 | 属实 | [Tōdai-ji（Wikipedia）](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji) |
+| 鉴真六次东渡五次失败、途中失明，753 年底在九州登岸，时年约六十五岁 | 属实（688 年生；失明原因有不同说法） | [Jianzhen（Wikipedia）](https://en.wikipedia.org/wiki/Jianzhen) |
+| 759 年建唐招提寺，763 年圆寂 | 属实 | [Jianzhen（Wikipedia）](https://en.wikipedia.org/wiki/Jianzhen) |
+| 794 年桓武天皇迁都平安京，1869 年天皇迁往东京 | 属实 | [Heian-kyō（Wikipedia）](https://en.wikipedia.org/wiki/Heian-ky%C5%8D)；[Emperor Kanmu（Wikipedia）](https://en.wikipedia.org/wiki/Emperor_Kanmu) |
+| 平安时代约四百年（794–1185） | 属实 | [Heian period（Wikipedia）](https://en.wikipedia.org/wiki/Heian_period) |
+| 张保皋曾在唐朝从军，828 年设清海镇，打击贩卖人口的海盗，经营三国贸易 | 属实 | [Chang Pogo（Wikipedia）](https://en.wikipedia.org/wiki/Chang_Pogo)；[Jang Bogo（WHE）](https://worldhistory.org/Jang_Bogo) |
+| 圆仁日记是关于张保皋的重要史料 | 属实 | [Chang Pogo（Wikipedia）](https://en.wikipedia.org/wiki/Chang_Pogo) |
+| 894 年停派遣唐使（菅原道真建议） | 属实 | [Japanese missions to Tang China（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China)；[Sugawara no Michizane（Wikipedia）](https://en.wikipedia.org/wiki/Sugawara_no_Michizane) |
+| 平假名由作音符用的汉字（万叶假名）草书简化而来，「安」→平假名第一个字母；片假名取汉字一部分 | 属实 | [Hiragana（Wikipedia）](https://en.wikipedia.org/wiki/Hiragana)；[Man'yōgana（Wikipedia）](https://Www.wikipedia.org/wiki/Manyogana) |
+| 约 935 年纪贯之写《土佐日记》，假托女性口吻 | 属实 | [Tosa Nikki（Wikipedia）](https://en.wikipedia.org/wiki/Tosa_Nikki) |
+| 918 年王建建立高丽，定都开城；935 年新罗归降，936 年灭后百济；渤海遗民投奔高丽 | 属实 | [Goryeo（Wikipedia）](https://en.wikipedia.org/wiki/Goryeo) |
+| 西方语言的 Korea 来自「高丽」 | 属实 | [Goryeo（Wikipedia）](https://en.wikipedia.org/wiki/Goryeo) |
+| 清少纳言侍奉定子，《枕草子》有「可憎之事」等清单 | 属实 | [The Pillow Book（Wikipedia）](https://en.wikipedia.org/wiki/The_Pillow_Book)；[Hateful Things（Wikipedia）](https://en.wikipedia.org/wiki/Hateful_Things) |
+| 紫式部侍奉彰子；《源氏物语》五十四帖、约四百个人物；「世界最早长篇小说」有争议 | 属实（旁白已注明有争议） | [The Tale of Genji（Wikipedia）](https://en.wikipedia.org/wiki/The_Tale_of_Genji)；[Empress Shōshi（Wikipedia）](https://en.wikipedia.org/wiki/Empress_Sh%C5%8Dshi) |
+| 摄关政治：藤原氏嫁女为后，以外祖父身份摄政 | 属实 | [Fujiwara no Michinaga（Wikipedia）](https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga) |
+| 1018 年道长第三女立后，作「望月歌」 | 属实（歌见藤原实资《小右记》） | [Site of the Tsuchimikado Residence（日本观光厅）](https://www.mlit.go.jp/tagengo-db/common/001544908.docx)；[nippon.com](https://www.nippon.com/en/japan-topics/g02368/fujiwara-no-michinaga-powerful-statesman-and-emotional-diarist.html) |
+| 彰子是道长长女 | 属实 | [Empress Shōshi（Wikipedia）](https://en.wikipedia.org/wiki/Empress_Sh%C5%8Dshi)；[Fujiwara no Michinaga（Wikipedia）](https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga) |
+| 1123 年宋使徐兢记载高丽人称青瓷颜色为「翡色」，近年更精 | 属实 | [Yun 1992（Freer Gallery）](https://publications.asia.si.edu/korean-ceramics/essays/English-Yun-1992.pdf)；[Smarthistory](https://smarthistory.org/?p=50963) |
+| 高丽大藏经初雕本 1011 年起雕，1232 年毁于蒙古入侵；1236 年起重刻，八万多块经版存海印寺 | 属实（81,258 块） | [Tripitaka Koreana（Wikipedia）](https://en.wikipedia.org/wiki/Tripitaka_Koreana)；[Goryeo（Wikipedia）](https://en.wikipedia.org/wiki/Goryeo) |
+| 1156 年起京都两次内乱（保元、平治）靠武士决胜 | 属实（平治之乱 1159 年底至 1160 年初） | [Taira no Kiyomori（Wikipedia）](https://en.wikipedia.org/wiki/Taira_no_Kiyomori) |
+| 1167 年平清盛成为首个任太政大臣的武士 | 属实 | [Taira no Kiyomori（Wikipedia）](https://en.wikipedia.org/wiki/Taira_no_Kiyomori) |
+| 1170 年高丽武臣政变，武人掌权约一百年（至 1270 年） | 属实 | [Goryeo（Wikipedia）](https://en.wikipedia.org/wiki/Goryeo) |
+| 1180–1185 年源平合战；1185 年坛之浦，安德天皇六岁随外祖母（平时子）投海 | 属实（周岁六岁） | [Emperor Antoku（Wikipedia）](https://en.wikipedia.org/wiki/Emperor_Antoku)；[The Tale of the Heike（Wikipedia）](https://en.wikipedia.org/wiki/The_Tale_of_the_Heike) |
+| 《平家物语》开头：祇园精舍钟声，诸行无常 | 属实 | [The Tale of the Heike（Wikipedia）](https://en.wikipedia.org/wiki/The_Tale_of_the_Heike) |
+| 1192 年源赖朝任征夷大将军；也有 1185 年实际成立之说 | 属实（旁白已注明两说） | [Kamakura shogunate（Wikipedia）](https://en.wikipedia.org/wiki/Kamakura_shogunate) |
+| 直到 1868 年武士政权掌握实权，近七百年 | 属实（1192–1868 约 676 年，中有建武新政短暂中断，旁白写「大多数时候」） | [Kamakura shogunate（Wikipedia）](https://en.wikipedia.org/wiki/Kamakura_shogunate) |
+
 ## 宋朝与诺曼征服
 
 | 说法 | 结果 | 来源 |
@@ -370,6 +459,184 @@
 | 贝叶挂毯约 70 米，绣有 1066 年的哈雷彗星 | 属实（约 68–70 米） | 同上 |
 | 牛（cow）和牛肉（beef）是两个词，beef 来自法语 | 已修改（保留事实，但删去「农民养牛、贵族吃肉」的绝对说法，改为「常听到的解释……实际过程更复杂」） | [美国之音](https://learningenglish.voanews.com/a/words-and-their-stories-pig-or-pork-cow-or-beef/4104856.html) |
 | 英语词汇约三成源自法语 | 属实（约 29%） | [Foreign language influences in English（Wikipedia）](https://en.wikipedia.org/wiki/Foreign_language_influences_in_English) |
+
+## 东南亚
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 东南亚夹在印度和中国之间，靠季风航行，是古代海上贸易的十字路口 | 属实（概述性说法） | [Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Srivijaya) |
+| 东山文化约公元前一千纪中叶起兴起于越南北部红河流域，以青铜鼓闻名 | 属实（铜鼓约公元前六〇〇年或更早至公元三世纪；各家断代略有出入，旁白用「约」） | [Dong Son drum（Wikipedia）](https://en.wikipedia.org/wiki/Dong_Son_drum) |
+| 铜鼓上铸有头戴羽冠的人、高脚屋、船只、飞翔的水鸟 | 属实（以玉缕铜鼓为例：羽人、干栏式房屋、羽饰船队、犀鸟、鹭等） | [Ngoc Lu drum（Wikipedia）](https://en.wikipedia.org/wiki/Ngoc_Lu_drum) |
+| 铜鼓用于祈雨、祭祀、葬礼 | 属实 | [Dong Son drum（Wikipedia）](https://en.wikipedia.org/wiki/Dong_Son_drum) |
+| 从越南到印度尼西亚东部已发现两百多面 | 属实（「200 多面，分布从印尼东部到越南及华南部分地区」） | [Dong Son drum（Wikipedia）](https://en.wikipedia.org/wiki/Dong_Son_drum) |
+| 公元前一一一年汉武帝灭南越（都城番禺，今广州），在今越南北部、中部设郡 | 属实（交趾、九真、日南等郡；日南在今越南中部） | [Timeline of Vietnam under Chinese rule（Wikipedia）](https://en.wikipedia.org/wiki/Timeline_of_Vietnam_under_Chinese_rule)；[Jiaozhou (region)（Wikipedia）](https://en.wikipedia.org/wiki/Jiaozhou_%28region%29) |
+| 此后约一千年越南北部大体处在中国历代王朝统治下（北属时期） | 属实（前一一一年至九三九年，约一千年，旁白用「约」「大体」） | [Timeline of Vietnam under Chinese rule（Wikipedia）](https://en.wikipedia.org/wiki/Timeline_of_Vietnam_under_Chinese_rule) |
+| 公元四〇年征侧、征贰姐妹起兵，征侧自立为王，约三年后被马援镇压，至今是越南民族英雄 | 属实（起兵在四〇年；马援四二年出兵，四三年平定，具体年份各书略有出入，旁白用「约三年后」） | [Trưng sisters（Wikipedia）](https://en.wikipedia.org/wiki/Tr%C6%B0ng_sisters)；[History.com](https://www.history.com/articles/trung-sisters-vietnam-rebellion-han-dynasty) |
+| 约公元初起，印度商人、僧侣、婆罗门越过孟加拉湾；东南亚统治者主动采纳梵文、印度教和佛教来装点王权，并加以本地化改造 | 属实（学界现多认为是东南亚统治者主动引入，并非照搬；呼应古代印度章） | [The Indianized States of Southeast Asia（Angkor Database）](https://angkordatabase.asia/books/the-indianized-states-of-southeast-asia)；[Process of Indianization（Angkor Database PDF）](https://angkordatabase.asia/libs/docs/publications/processes-of-indianization-in-the-khmer-empire/Process-of-Indianization-ksrinivasan.pdf) |
+| 扶南建国传说：混填乘船而来，用神弓射穿女王柳叶的船，女王投降并嫁给他 | 属实（传说，旁白已注明） | [Queen Soma（Wikipedia）](https://en.wikipedia.org/wiki/Queen_Soma)；[Kaundinya I（Wikipedia）](https://en.wikipedia.org/wiki/Kaundinya_I) |
+| 传说出自三世纪中叶东吴使者康泰、朱应的见闻；学者多视为象征性传说 | 属实（原书已佚，片段存于《太平御览》等） | [Funan（Wikipedia）](https://en.wikipedia.org/wiki/Funan)；[Queen Soma（Wikipedia）](https://en.wikipedia.org/wiki/Queen_Soma) |
+| 俄厄港在今越南南部；一九四二年起发掘 | 属实（马勒雷 1942 年 2 月开始发掘） | [Óc Eo（Wikipedia）](https://en.wikipedia.org/wiki/%C3%93c_Eo) |
+| 俄厄出土安东尼·庇护时代的罗马金质奖章，以及仿罗马金币的金饰 | 属实（是奖章、金币还是吊坠学界有不同看法，旁白分开表述） | [Óc Eo（Wikipedia）](https://en.wikipedia.org/wiki/%C3%93c_Eo)；[Owen Rees: Roman medallion in South Vietnam](https://owenrees.substack.com/p/artifact-roman-medallion-in-south) |
+| 一六六年自称大秦使者的人从日南上岸 | 属实（秦汉与罗马章已讲，《后汉书》记载） | 见 qin-han-rome 章核对 |
+| 约一九二年越南中部人民摆脱汉朝统治建国，中国史书称林邑、环王、占城 | 属实（UNESCO 申遗文件：192 年建国，中国记载先后称林邑、环王、占城） | [UNESCO My Son nomination（PDF）](https://webarchive.unesco.org/web/20190616101747/http://whc.unesco.org/uploads/nominations/949.pdf)；[whc.unesco.org document](https://whc.unesco.org/document/154666) |
+| 占城稻来自这里 | 属实（宋朝章已讲） | 见 song-1066 章核对 |
+| 美山的红砖神庙延续好几百年 | 属实（约四至十三世纪，大部分塔建于十世纪；旁白不写具体起止） | [UNESCO My Son nomination（PDF）](https://webarchive.unesco.org/web/20190616101747/http://whc.unesco.org/uploads/nominations/949.pdf) |
+| 法显从斯里兰卡搭商船回国，遇风暴漂到耶婆提（可能是爪哇或苏门答腊），住五个月 | 属实（耶婆提的地望有争论，旁白已写「可能」） | [Faxian（Wikipedia）](https://en.wikipedia.org/wiki/Faxian)；[EBSCO: Faxian Travels to India](https://www.ebsco.com/research-starters/religion-and-philosophy/faxian-travels-india) |
+| 再北上又被吹偏，四一二年在山东崂山靠岸 | 属实 | [Faxian（Wikipedia）](https://en.wikipedia.org/wiki/Faxian) |
+| 六七一年义净从广州南下，约二十天到室利佛逝，学半年梵文语法 | 属实 | [Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Srivijaya)；[Seasia: Srivijaya was where Chinese monks learned Sanskrit](https://seasia.co/2026/10/06/centuries-ago-srivijaya-was-where-chinese-monks-learned-sanskrit-before-india) |
+| 义净之后去印度那烂陀寺 | 属实（在那烂陀学习约十年） | [Yijing (monk)（Wikipedia）](https://en.wikipedia.org/wiki/Yijing_%28monk%29) |
+| 义净写道佛逝僧人一千多，建议中国僧人先住一两年学好规矩再去印度 | 属实（《南海寄归内法传》：「僧众千余……停斯一二载，习其法式，方进中天」） | [Yijing (monk)（Wikipedia）](https://en.wikipedia.org/wiki/Yijing_%28monk%29) |
+| 巨港附近石碑（格杜坎·布吉碑）记载六八三年首领率约两万人乘船出征，碑文出现室利佛逝国名 | 属实（「两万」为马来/印尼语释读，英译残缺；旁白用「约」） | [Kedukan Bukit inscription（Wikipedia）](https://en.wikipedia.org/wiki/Kedukan_Bukit_inscription) |
+| 这是现存最古老的马来语碑文 | 属实 | [Kedukan Bukit inscription（Wikipedia）](https://en.wikipedia.org/wiki/Kedukan_Bukit_inscription) |
+| 此后三百多年室利佛逝控制马六甲海峡，迫使商船到其港口停靠 | 属实（约七世纪末至一〇二五年；海军以惩罚性手段迫使船只靠港） | [Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Srivijaya) |
+| 婆罗浮屠由夏连特拉王朝在约八到九世纪建造 | 属实（约 780–833 年分期建成） | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 用约五万五千立方米安山岩 | 属实 | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 顶层七十二座镂空小塔，每座有一尊佛像；原有五百零四尊佛像 | 属实 | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 两千六百多块浮雕 | 属实（约 2,672 块） | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 朝圣者顺时针绕行逐层而上，象征从欲界走向觉悟 | 属实（三界结构：欲界、色界、无色界） | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 被火山灰和丛林掩埋，一八一四年莱佛士听说后派人清理 | 属实（莱佛士 1814 年得知，派科尼利厄斯带约两百人清理） | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 被认为是世界最大的佛教寺庙 | 属实（2012 年列入吉尼斯世界纪录） | [Borobudur（Wikipedia）](https://en.wikipedia.org/wiki/Borobudur) |
+| 八〇二年阇耶跋摩二世在荔枝山（库伦山）举行仪式，宣布为转轮王，不再臣服于「爪哇」 | 属实（据 1052 年斯多卡通碑记载；「爪哇」所指学界有争论，旁白已注明） | [Jayavarman II（Wikipedia）](https://en.wikipedia.org/wiki/Jayavarman_II) |
+| 库伦山在高棉语里意思是荔枝山 | 属实 | [Phnom Kulen（Wikipedia）](https://en.wikipedia.org/wiki/Phnom_Kulen) |
+| 一般把八〇二年视为高棉帝国（吴哥时代）的开端 | 属实 | [Jayavarman II（Wikipedia）](https://en.wikipedia.org/wiki/Jayavarman_II) |
+| 一九九八年勿里洞岛附近渔民发现沉船 | 属实 | [Belitung shipwreck（Wikipedia）](https://en.wikipedia.org/wiki/Belitung_shipwreck) |
+| 约八三〇年沉没的阿拉伯式帆船（dhow） | 属实 | [Belitung shipwreck（Wikipedia）](https://en.wikipedia.org/wiki/Belitung_shipwreck) |
+| 约六万件货物，大多是长沙窑瓷碗；一只写有宝历二年（八二六年） | 属实 | [Belitung shipwreck（Wikipedia）](https://en.wikipedia.org/wiki/Belitung_shipwreck) |
+| 有迄今发现最大的唐代金杯 | 属实 | [Belitung shipwreck（Wikipedia）](https://en.wikipedia.org/wiki/Belitung_shipwreck) |
+| 普兰巴南在婆罗浮屠东南不远，八五六年落成 | 属实（湿婆神殿据湿婆屋碑于 856 年 11 月落成） | [Prambanan（Wikipedia）](https://en.wikipedia.org/wiki/Prambanan) |
+| 主殿湿婆神庙高四十七米 | 属实 | [Prambanan（Wikipedia）](https://en.wikipedia.org/wiki/Prambanan) |
+| 一夜建一千座神庙、建到第九百九十九座、舂米点火、鸡鸣鬼神散去的传说 | 属实（传说，旁白已注明「当地传说」） | [Prambanan（Wikipedia）](https://en.wikipedia.org/wiki/Prambanan) |
+| 九三八年吴权在白藤江江底打下包铁尖的木桩，利用潮汐大破南汉水军 | 属实 | [Battle of Bạch Đằng (938)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_%28938%29) |
+| 南汉王子刘弘操战死，第二年（九三九年）吴权称王 | 属实 | [Battle of Bạch Đằng (938)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_%28938%29) |
+| 一〇一〇年李公蕴（李太祖）把都城从华闾迁到大罗（红河边） | 属实（《迁都诏》） | [Edict on the Transfer of the Capital（Wikipedia）](https://en.wikipedia.org/wiki/Edict_on_the_Transfer_of_the_Capital) |
+| 据说看见龙从河上升起，取名升龙，即今河内 | 属实（传说，旁白用「据说」） | [Thăng Long（Wikipedia）](https://en.wikipedia.org/wiki/Th%C4%83ng_Long) |
+| 二〇一〇年河内办千年庆典 | 属实（2010 年 10 月 1–10 日） | [Millennial Anniversary of Hanoi（Wikipedia）](https://en.wikipedia.org/wiki/Millennial_Anniversary_of_Hanoi) |
+| 一〇七〇年建文庙祭祀孔子，五年后（一〇七五年）开科取士 | 属实 | [Temple of Literature, Hanoi（Wikipedia）](https://en.wikipedia.org/wiki/Temple_of_Literature,_Hanoi)；[Hanoi Times](https://m.hanoitimes.vn/exhibition-highlights-vietnams-imperial-examinations-kicks-off-8095.html) |
+| 一〇二五年朱罗王朝（拉金德拉一世）远征室利佛逝，攻破巨港，俘虏国王 | 属实（坦贾武尔碑文记载俘获国王桑格拉玛·维查约东加跋摩） | [Chola invasion of Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Chola_invasion_of_Srivijaya) |
+| 室利佛逝从此一蹶不振 | 属实（贸易垄断被打破，国力大衰） | [Chola invasion of Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Chola_invasion_of_Srivijaya) |
+| 室利佛逝后来被遗忘，一九一八年法国学者赛代斯重新提出它的存在 | 属实 | [Srivijaya（Wikipedia）](https://en.wikipedia.org/wiki/Srivijaya) |
+| 一〇四四年阿奴律陀成为蒲甘国王，统一伊洛瓦底江流域，常被视为缅甸国家奠基人，推崇上座部佛教 | 属实（他征服直通等事迹有学者质疑，旁白未展开） | [Anawrahta（Wikipedia）](https://en.wikipedia.org/wiki/Anawrahta) |
+| 此后两百多年蒲甘建起一万多座宗教建筑，如今留下两千多座 | 属实（十一至十三世纪建了一万多座，现存约 2,229–2,300 座） | [Bagan（Wikipedia）](https://en.wikipedia.org/wiki/Bagan) |
+| 苏利耶跋摩二世一一一三年即位，修建吴哥窟献给毗湿奴，花了几十年 | 属实（约 1122–1150 年建造） | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 占地约一百六十公顷，护城河宽一百九十米，中央塔高六十五米 | 属实（162.6 公顷） | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 吉尼斯世界纪录列为世界最大的宗教建筑 | 属实 | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 吴哥窟动工时，巴黎圣母院还要再过约四十年才开工 | 属实（吴哥窟约 1122 年动工，巴黎圣母院 1163 年奠基） | [Notre-Dame de Paris（Wikipedia）](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris)；[Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 大多数高棉神庙朝东，吴哥窟朝西；原因有毗湿奴说和陵庙说 | 属实（学界有争论，旁白两说并列） | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat)；[Archaeoastronomy in the Khmer heartland（arXiv）](https://arxiv.org/pdf/1604.05674) |
+| 回廊浮雕「乳海翻腾」：众神和阿修罗拉巨蛇搅动大海求甘露 | 属实 | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 吴哥窟印在柬埔寨国旗上 | 属实（1863 年第一版国旗起就有） | [Angkor Wat（Wikipedia）](https://en.wikipedia.org/wiki/Angkor_Wat) |
+| 西池长约八公里、宽约两公里 | 属实（约 7.8×2.1 公里） | [Day et al. 2011（University of Florida PDF）](https://lueci.clas.ufl.edu/wp-content/uploads/sites/92/Day-et-al.-2011-2.pdf)；[West Baray（Wikipedia）](https://www.wikipedia.org/wiki/West_Baray) |
+| 二〇〇七年研究：大吴哥至少一千平方公里，可能是工业革命前面积最大的城市 | 属实 | [Angkor（Wikipedia）](https://en.wikipedia.org/wiki/Angkor) |
+| 一一七七年占婆船队沿湄公河、穿洞里萨湖突袭吴哥，杀高棉国王，占领约四年 | 属实（个别资料作 1178 年，主流作 1177 年） | [Jayavarman VII（Wikipedia）](https://en.wikipedia.org/wiki/Jayavarman_VII)；[Khmer–Cham wars（Wikipedia）](https://en.wikipedia.org/wiki/Khmer%E2%80%93Cham_wars) |
+| 一一八一年阇耶跋摩七世赶走占婆军登基，信奉大乘佛教 | 属实 | [Jayavarman VII（Wikipedia）](https://en.wikipedia.org/wiki/Jayavarman_VII) |
+| 据碑文记载修建一百零二座医院 | 属实（另有 121 座驿站） | [Jayavarman VII（Wikipedia）](https://en.wikipedia.org/wiki/Jayavarman_VII) |
+| 巴戎寺在吴哥通王城正中，原有四十九座塔，约两百张面孔，观音说与国王说并存 | 属实（面孔数约 200 到 216，旁白用「约」） | [Bayon（Wikipedia）](https://en.wikipedia.org/wiki/Bayon) |
+| 回廊浮雕有赶集、做饭、斗鸡及与占婆人在洞里萨湖的水战 | 属实 | [Bayon（Wikipedia）](https://en.wikipedia.org/wiki/Bayon) |
+| 约一二三八年两位泰人首领脱离高棉，建立素可泰 | 属实 | [Sukhothai Kingdom（Wikipedia）](https://en.wikipedia.org/wiki/Sukhothai_Kingdom) |
+| 素可泰名字来自梵文，意为幸福的黎明 | 属实（sukha + udaya） | [Sukhothai (city)（Wikipedia）](https://en.wikipedia.org/wiki/Sukhothai_%28city%29)；[World History Encyclopedia: Sukhothai](https://www.worldhistory.org/Sukhothai/) |
+| 素可泰常被视为第一个泰人王国，这种看法有近代塑造的成分 | 属实（铭文与史观的形成有关，学界有讨论） | [Ram Khamhaeng Inscription（Wikipedia）](https://en.wikipedia.org/wiki/Ram_Khamhaeng_Inscription) |
+| 一二八二年起元军从海路进攻占城，占婆国王入山游击，元军最终撤走 | 属实（1282 年末或 1283 年初，唆都率军） | [Indravarman V（Wikipedia）](https://en.wikipedia.org/wiki/Indravarman_V) |
+| 蒲甘王朝约一二八七年在元军连番进攻中崩溃；新研究认为元军可能没打到蒲甘城 | 属实 | [Bagan（Wikipedia）](https://en.wikipedia.org/wiki/Bagan) |
+| 元朝两次渡海攻打日本失败 | 属实（蒙古章已讲） | 见 mongols-plague 章核对 |
+| 元军三次进攻大越（一二五八、一二八五、一二八八） | 属实 | [Battle of Bạch Đằng (1288)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_%281288%29) |
+| 一二八八年陈兴道在白藤江仿效吴权木桩战术，元朝水军几乎全军覆没 | 属实（1288 年 4 月 9 日） | [Battle of Bạch Đằng (1288)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_%281288%29) |
+| 九三八到一二八八年相隔三百多年 | 属实（350 年） | 计算 |
+| 此后大越以名义朝贡换取和平 | 属实 | [Battle of Bạch Đằng (1288)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_%281288%29) |
+| 一八三三年蒙固（当时为僧人）在素可泰发现石碑，传统定为一二九二年，被视为最早的泰文 | 属实 | [Ram Khamhaeng Inscription（Wikipedia）](https://en.wikipedia.org/wiki/Ram_Khamhaeng_Inscription) |
+| 碑文「水里有鱼，田里有稻」；宫门挂钟，百姓可敲钟申冤 | 属实 | [English Translation of the Ramkhamhaeng Inscription](https://www.timsthailand.com/ramkhamhaeng-inscription-english/) |
+| 有学者怀疑是伪造，争论未完全平息 | 属实（维克里、披耶·盖里克等自八十年代起质疑；多数学者认为至少部分为真） | [Ram Khamhaeng Inscription（Wikipedia）](https://en.wikipedia.org/wiki/Ram_Khamhaeng_Inscription) |
+| 爪哇国王（格尔达纳卡拉）在元朝使者孟琪脸上刺字（黥面）赶回 | 属实（史料称其黥面、割耳；旁白只写刺字） | [Mongol invasion of Java（Wikipedia）](https://en.wikipedia.org/wiki/Mongol_invasion_of_Java) |
+| 一二九三年元军登陆爪哇时国王已被政敌（查耶卡特望）所杀 | 属实（1292 年被杀） | [Mongol invasion of Java（Wikipedia）](https://en.wikipedia.org/wiki/Mongol_invasion_of_Java) |
+| 女婿罗登·威查耶借元军打败仇人，再突袭元军迫其撤走，建立满者伯夷 | 属实 | [Mongol invasion of Java（Wikipedia）](https://en.wikipedia.org/wiki/Mongol_invasion_of_Java)；[Raden Wijaya（Wikipedia）](https://en.wikipedia.org/wiki/Raden_Wijaya) |
+| 满者伯夷（1293 年建立）后来成为群岛上最强大的国家之一 | 属实（十四世纪中叶鼎盛） | [Majapahit（Wikipedia）](https://en.wikipedia.org/wiki/Majapahit) |
+| 一二九六年元朝派使团去真腊，温州人周达观随行，从温州出海经占城 | 属实（《真腊风土记·总叙》：丙申二月离明州，自温州港口开洋，三月抵占城；周达观为永嘉即温州人） | [真臘風土記（维基文库）](https://zh.wikisource.org/wiki/%E7%9C%9F%E8%87%98%E9%A2%A8%E5%9C%9F%E8%A8%98)；[Zhou Daguan（Wikipedia）](https://en.wikipedia.org/wiki/Zhou_Daguan) |
+| 在吴哥住了将近一年 | 属实（1296 年 8 月至 1297 年 7 月，约十一个月） | [Zhou Daguan（Wikipedia）](https://en.wikipedia.org/wiki/Zhou_Daguan) |
+| 《真腊风土记》是现存唯一一部亲历者描写吴哥日常生活的著作 | 属实（一般说法：唯一存世的高棉帝国日常生活第一手记录） | [The Customs of Cambodia（Wikipedia）](https://en.wikipedia.org/wiki/The_Customs_of_Cambodia) |
+| 买卖由妇女做，中国人到了常先娶当地妻子帮着做生意 | 属实（原文：「國人交易皆婦人能之，所以唐人到彼，必先納一婦人者，兼亦利其能買賣故也」） | [真臘風土記（维基文库）](https://zh.wikisource.org/wiki/%E7%9C%9F%E8%87%98%E9%A2%A8%E5%9C%9F%E8%A8%98) |
+| 中国水手因不必多穿衣、米粮易得而留下不走 | 属实（原文：「唐人之為水手者，利其國中不著衣裳，且米糧易求……往往皆逃逸于彼」） | [真臘風土記（维基文库）](https://zh.wikisource.org/wiki/%E7%9C%9F%E8%87%98%E9%A2%A8%E5%9C%9F%E8%A8%98) |
+| 「天狱」：双方坐进石塔，几天后谁生病谁理亏 | 属实（原文见《争讼》条：「以此剖判曲直，謂之天獄」） | [真臘風土記（维基文库）](https://zh.wikisource.org/wiki/%E7%9C%9F%E8%87%98%E9%A2%A8%E5%9C%9F%E8%A8%98) |
+| 十四世纪初吴哥渐衰、素可泰和大越兴起、伊斯兰教将随商船到来 | 属实（概述；吴哥约 1431 年被弃） | [Angkor（Wikipedia）](https://en.wikipedia.org/wiki/Angkor) |
+
+## 突厥与塞尔柱
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 五五二年土门（布民）击败柔然，自称伊利可汗，建立突厥汗国 | 属实 | [First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate) |
+| 突厥是第一个以「突厥」为政治名号的国家 | 属实（旁白写作「第一次作为一个国家的名号」） | [First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate) |
+| 史书说突厥居金山（阿尔泰山）之阳，金山形似兜鍪，俗称兜鍪为突厥，因以为号 | 属实（《周书》《北史》均有）；有学者认为是民间词源，旁白已注明 | [周書/卷50（维基文库）](https://zh.wikisource.org/wiki/%E5%91%A8%E6%9B%B8/%E5%8D%B750)；[北史/卷099（维基文库）](https://zh.wikisource.org/wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7099)；[包文胜文章（全国哲学社会科学工作办公室）](https://www.nopss.gov.cn/n1/2024/1127/c458484-40370507.html) |
+| 柔然可汗阿那瓌骂土门是「锻奴」 | 属实 | [First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate)；[北史/卷099（「为蠕蠕铁工」）](https://zh.wikisource.org/wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7099) |
+| 阿史那氏母狼祖先传说 | 传说，旁白已注明 | [周書/卷50（维基文库）](https://zh.wikisource.org/wiki/%E5%91%A8%E6%9B%B8/%E5%8D%B750) |
+| 《周书》：突厥「旗纛之上，施金狼头」 | 属实 | [周書/卷50（维基文库）](https://zh.wikisource.org/wiki/%E5%91%A8%E6%9B%B8/%E5%8D%B750) |
+| 突厥疆域从中国东北延伸到黑海 | 属实（「from Manchuria to the Black Sea」） | [First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate) |
+| 五六八年突厥派粟特人出使君士坦丁堡，向查士丁二世献丝绸，并提议联手对付波斯 | 属实 | [Istämi（Wikipedia）](https://en.wikipedia.org/wiki/Ist%C3%A4mi)；[First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate) |
+| 五八一年起突厥内部争位；六〇三年前后正式分为东西两部 | 属实（分裂的年代说法不一，旁白写「前后」） | [First Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/First_Turkic_Khaganate) |
+| 长孙晟献策「远交而近攻，离强而合弱」 | 属实（《隋书·长孙晟传》开皇元年） | [隋書/卷51（维基文库）](https://zh.wikisource.org/zh-hans/%E9%9A%8B%E6%9B%B8/%E5%8D%B751) |
+| 六二六年唐太宗即位不到二十天，颉利兵临渭水，订立渭水之盟 | 属实（即位后十九天） | [Tang campaign against the Eastern Turks（Wikipedia）](https://en.wikipedia.org/wiki/Tang_campaign_against_the_Eastern_Turks) |
+| 六三〇年李靖在阴山一带大破东突厥，颉利被擒，东突厥灭亡 | 属实（颉利具体如何被擒说法不一，旁白只写「兵败被擒」） | [Battle of Yinshan（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Yinshan)；[Illig Qaghan（Wikipedia）](https://en.wikipedia.org/wiki/Illig_Qaghan) |
+| 六三〇年草原各部尊唐太宗为天可汗 | 属实 | [Khan of Heaven（Wikipedia）](https://en.wikipedia.org/wiki/Khan_of_Heaven)；[Cambridge 书摘](https://assets.cambridge.org/97810092/14643/excerpt/9781009214643_excerpt.pdf) |
+| 太上皇李渊设宴，命颉利起舞 | 属实（《资治通鉴》贞观七年十二月，在故汉未央宫） | [資治通鑑/卷194（维基文库）](https://zh.wikisource.org/wiki/%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91/%E5%8D%B7194) |
+| 玄奘在碎叶拜见西突厥可汗 | 属实（一般认为是统叶护可汗，也有学者认为是其子） | [Tong Yabghu Qaghan（Wikipedia）](https://en.wikipedia.org/wiki/Tong_Yabghu_Qaghan)；[Suyab（Wikipedia）](https://en.wikipedia.org/wiki/Suyab) |
+| 六五七年苏定方击败西突厥 | 属实 | [Su Dingfang（Wikipedia）](https://en.wikipedia.org/wiki/Su_Dingfang) |
+| 李白出生于碎叶的说法 | 有争议，旁白已注明（传统说法为蜀中） | [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_32489802)；[爱思想](https://www.aisixiang.com/data/92617.html) |
+| 六八二年突厥起兵复国，建立后突厥（第二突厥）汗国 | 属实 | [Second Turkic Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Second_Turkic_Khaganate)；[Ilterish Qaghan（Wikipedia）](https://en.wikipedia.org/wiki/Ilterish_Qaghan) |
+| 七三二年毗伽可汗为阙特勤立碑 | 属实 | [The Chinese inscription on the Kultegin monument（ENU 学报）](https://tsj.enu.kz/index.php/new/article/view/771) |
+| 鄂尔浑碑铭与暾欲谷碑是现存最古老的突厥语文献 | 属实（「oldest extant attestation of Old Turkic」） | [Orkhon inscriptions（Wikipedia）](https://en.wikipedia.org/wiki/Orkhon_inscriptions) |
+| 阙特勤碑一面为汉文，一般认为由唐玄宗撰写 | 属实（另有学者讨论突厥文部分的作者，旁白写「一般认为」） | [The Chinese inscription on the Kultegin monument（ENU 学报）](https://tsj.enu.kz/index.php/new/article/view/771)；[On the authorship of the Old Turkic inscriptions（Cambridge）](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/on-the-authorship-of-the-old-turkic-inscriptions/B6442E0866E7C2CB5B04DA614968DE41) |
+| 碑文提醒族人：唐人言辞甜蜜、财物柔软，以此引诱远方之人 | 属实（各译本措辞略有不同） | [China and Tibet as referred to in the Old Turkish inscriptions（Diogenes）](https://resolve.cambridge.org/core/journals/diogenes/article/china-and-tibet-as-referred-to-in-the-old-turkish-inscriptions/3A5567A3A4FB79D566E2D1CFAD00445E)；[Orkhon inscriptions（Wikipedia）](https://en.wikipedia.org/wiki/Orkhon_inscriptions) |
+| 一八九三年丹麦学者汤姆森破译古突厥文 | 属实 | [Orkhon inscriptions（Wikipedia）](https://en.wikipedia.org/wiki/Orkhon_inscriptions) |
+| 西突厥瓦解后兴起可萨汗国 | 属实（被视为西突厥最西的继承国） | [Khazars（Wikipedia）](https://en.wikipedia.org/wiki/Khazars) |
+| 东罗马皇储（君士坦丁五世）娶可萨公主，其子利奥四世外号「可萨人」 | 属实（七三二年成婚） | [Khazars（Wikipedia）](https://en.wikipedia.org/wiki/Khazars) |
+| 可萨上层约八世纪改信犹太教，民众改信程度有争论 | 有争议，旁白已注明 | [Khazars（Wikipedia）](https://en.wikipedia.org/wiki/Khazars) |
+| 七四四年回鹘联合其他部落推翻后突厥，建立回鹘汗国 | 属实 | [Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 斡耳朵八里有宫殿、寺院、市场 | 属实（设防的商贸城市，有宫殿、寺庙和修道院） | [Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 七五一年怛逻斯之战，葛逻禄临阵倒戈 | 属实（中国史书记为倒戈；也有学者认为其早与阿拔斯方面串通，旁白写「据中国史书记载」） | [Battle of Talas（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Talas) |
+| 葛逻禄是喀喇汗王朝的重要源头之一 | 属实（喀喇汗由葛逻禄、样磨、炽俟等部组成） | [Kara-Khanid Khanate（Wikipedia）](https://en.wikipedia.org/wiki/Kara-Khanid_Khanate) |
+| 安禄山母亲为突厥人（阿史德氏），父亲一般认为是粟特人 | 属实（生父身份有争议，旁白写「一般认为」） | [An Lushan（Wikipedia）](https://en.wikipedia.org/wiki/An_Lushan) |
+| 七五七年回鹘骑兵协助唐军收复长安、洛阳，并在洛阳劫掠 | 属实 | [Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 绢马贸易：一马换四十匹绢，岁以数万匹求售，马「骀弱不可用」 | 属实（《新唐书·回鹘传上》） | [新唐書/卷217上（维基文库）](https://zh.wikisource.org/zh-hans/%E6%96%B0%E5%94%90%E6%9B%B8/%E5%8D%B7217%E4%B8%8A)；[Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 七六二年牟羽可汗助唐时在洛阳结识摩尼教僧侣，摩尼教成为回鹘国教 | 属实（改宗年份有七六二、七六三两说，旁白以七六二年南下为准，未写改宗确切年份） | [Bögü Qaghan（Wikipedia）](https://en.wikipedia.org/wiki/B%C3%B6g%C3%BC_Qaghan)；[Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 八三六年哈里发穆阿台绥姆为突厥奴隶兵另建新都萨迈拉 | 属实 | [Samarra（Wikipedia）](https://en.wikipedia.org/wiki/Samarra) |
+| 突厥军人后来左右哈里发废立 | 属实（萨迈拉时期的「无政府」时代） | [Samarra（Wikipedia）](https://en.wikipedia.org/wiki/Samarra) |
+| 八四〇年黠戛斯攻破回鹘都城，回鹘汗国崩溃，分迁甘州和高昌 | 属实 | [Uyghur Khaganate（Wikipedia）](https://en.wikipedia.org/wiki/Uyghur_Khaganate) |
+| 裕固族是甘州回鹘的后裔 | 属实 | [Old Uyghur（Wikipedia）](https://en.wikipedia.org/wiki/Old_Uyghur)；[Ganzhou Uyghur Kingdom（Wikipedia）](https://en.wikipedia.org/wiki/Ganzhou_Uyghur_Kingdom) |
+| 高昌回鹘大多改信佛教，柏孜克里克石窟有回鹘供养的壁画 | 属实 | [Late Buddhism on the Silk Roads（大英图书馆 IDP）](https://idp.bl.uk/learning/buddhism-on-the-silk-roads/articles/transmission-of-buddhism/late-buddhism-on-the-silk-roads) |
+| 回鹘文源自粟特字母；蒙古文借自回鹘文（约一二〇四年）；满文（一五九九年）由蒙古文改造 | 属实 | [Old Uyghur alphabet（Wikipedia）](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet)；[Unicode 蒙古文区块文档](https://www.unicode.org/mwg/mwg3docs/mwg3-2UnicodeV12MongolianBlockR.pdf) |
+| 萨图克·博格拉汗率先皈依伊斯兰教 | 属实（约九三二或九三四年） | [Kara-Khanid Khanate（Wikipedia）](https://en.wikipedia.org/wiki/Kara-Khanid_Khanate) |
+| 九六〇年「二十万帐突厥人」改宗 | 属实（伊本·米斯凯韦、伊本·阿西尔记载） | [Kara-Khanid Khanate（Wikipedia）](https://en.wikipedia.org/wiki/Kara-Khanid_Khanate) |
+| 喀喇汗是最早的伊斯兰突厥王朝之一 | 属实（「the first of the Islamic Turco-Iranian states」，旁白写「之一」） | [Kara-Khanid Khanate（Wikipedia）](https://en.wikipedia.org/wiki/Kara-Khanid_Khanate) |
+| 九九九年前后喀喇汗攻占布哈拉，取代萨曼王朝 | 属实 | [Kara-Khanid Khanate（Wikipedia）](https://en.wikipedia.org/wiki/Kara-Khanid_Khanate) |
+| 塞尔柱约九八五年在锡尔河下游（毡的）皈依伊斯兰教 | 属实（另有九九二年一说，旁白写「约」） | [Seljuk dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Seljuk_dynasty)；[Seljuk (leader)（Wikipedia）](https://en.wikipedia.org/wiki/Seljuk_%28leader%29) |
+| 图格里勒、恰格里兄弟是塞尔柱之孙 | 属实 | [Tughril（Wikipedia）](https://en.wikipedia.org/wiki/Tughril) |
+| 伽色尼王朝由奴隶出身的突厥将领建立 | 属实（萨布克特勤为葛逻禄突厥奴隶出身） | [Mahmud of Ghazni（Wikipedia）](https://en.wikipedia.org/wiki/Mahmud_of_Ghazni) |
+| 马哈茂德九九八年即位，十几次远征印度 | 属实（一般说十七次） | [Mahmud of Ghazni（Wikipedia）](https://en.wikipedia.org/wiki/Mahmud_of_Ghazni) |
+| 一〇二五年洗劫索姆纳特神庙 | 属实（出兵在一〇二五年，攻破在一〇二六年一月） | [Mahmud of Ghazni（Wikipedia）](https://en.wikipedia.org/wiki/Mahmud_of_Ghazni) |
+| 菲尔多西把《列王纪》献给马哈茂德；金币换银币的故事 | 献书属实；金币银币是传说，旁白已注明 | [Ferdowsi（Wikipedia）](https://www.wikipedia.com/wiki/Ferdosi)；[Brewminate](https://brewminate.com/ferdowsi-and-the-epic-of-kings-in-medieval-persia/) |
+| 比鲁尼随马哈茂德的军队到印度，学梵文，写《印度志》 | 属实 | [Al-Biruni（Encyclopedia.com）](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/al-biruni-0)；[Al-Biruni's India（Lotus Arise）](https://lotusarise.com/albirunis-india-upsc/) |
+| 一〇四〇年丹丹坎之战，塞尔柱切断粮道和水源，击败伽色尼 | 属实（五月二十三日，木鹿附近） | [Battle of Dandanaqan（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Dandanaqan) |
+| 一〇五五年图格里勒进入巴格达，结束布韦希王朝对哈里发的控制 | 属实 | [Tughril（Wikipedia）](https://en.wikipedia.org/wiki/Tughril)；[Siege of Baghdad (1055)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281055%29) |
+| 图格里勒自称苏丹；苏丹本意是「权力」 | 属实（最早称苏丹的是伽色尼的马哈茂德，旁白未说「第一个」） | [Sultan（Wikipedia）](https://en.wikipedia.org/wiki/Sultan)；[Tughril（Wikipedia）](https://en.wikipedia.org/wiki/Tughril) |
+| 此后哈里发只保留宗教尊位，实权在苏丹 | 属实 | [Tughril I（Wikipedia）](https://en.wikipedia.org/wiki/Tughril_I) |
+| 约一〇六九年尤素甫写成《福乐智慧》，献给喀什噶尔君主 | 属实（一〇六九至一〇七〇年） | [Kutadgu Bilig（Wikipedia）](https://en.wikipedia.org/wiki/Kutadgu_Bilig) |
+| 全诗六千六百多联，四个人物（国王、宰相、智者、隐士）对话 | 属实（六千六百四十五联） | [Kutadgu Bilig（Wikipedia）](https://en.wikipedia.org/wiki/Kutadgu_Bilig)；[TDV 伊斯兰百科](https://islamansiklopedisi.org.tr/kutadgu-bilig) |
+| 一〇七一年曼齐刻尔特之战，雇佣兵倒戈、后军将领擅自撤走，罗曼努斯四世被俘 | 属实（八月二十六日） | [Battle of Manzikert（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Manzikert) |
+| 上一次罗马皇帝被活捉是瓦勒良 | 属实 | [Battle of Manzikert（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Manzikert) |
+| 苏丹与被俘皇帝的对话 | 流传很广但具体原话难以核实，旁白写「据流传的记载」；苏丹宽待并释放皇帝属实 | [The Latin Library: Manzikert](https://www.thelatinlibrary.com/imperialism/notes/manzikert.html)；[Battle of Manzikert（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Manzikert) |
+| 罗曼努斯回国后被废黜、刺瞎，不久死去 | 属实 | [Battle of Manzikert（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Manzikert) |
+| 喀什噶里约一〇七二至一〇七四年在巴格达写成《突厥语大词典》，用阿拉伯语讲解突厥语 | 属实 | [Dīwān Lughāt al-Turk（Wikipedia）](https://en.wikipedia.org/wiki/D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk) |
+| 书中圆形世界地图以八剌沙衮为中心，画有日本 | 属实 | [Big Think: The First Turkish World Map](https://bigthink.com/?p=26694)；[Dīwān Lughāt al-Turk（Wikipedia）](https://en.wikipedia.org/wiki/D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk) |
+| 一〇七七年罗姆苏丹国建立，初都尼西亚，一〇九七年后定都科尼亚；罗姆即罗马 | 属实 | [Sultanate of Rum（Wikipedia）](https://en.wikipedia.org/wiki/Sultanate_of_Rum) |
+| 罗姆苏丹国修了约一百座商队客栈 | 属实（「about a hundred structures」） | [Sultanate of Rum（Wikipedia）](https://en.wikipedia.org/wiki/Sultanate_of_Rum) |
+| 马立克沙时期塞尔柱最强盛，疆域从河中到小亚细亚、叙利亚 | 属实 | [Malik-Shah I（Wikipedia）](https://en.wikipedia.org/wiki/Malik-Shah_I) |
+| 尼扎姆·穆勒克辅佐两代苏丹近三十年 | 属实（一〇六四至一〇九二年，约二十八年） | [Nizam al-Mulk（Wikipedia）](https://en.wikipedia.org/wiki/Nizam_al-Mulk) |
+| 海亚姆的贾拉里历是在马立克沙时期制定的 | 属实 | [Malik-Shah I（Wikipedia）](https://en.wikipedia.org/wiki/Malik-Shah_I) |
+| 尼扎米亚学校分布于巴格达、内沙布尔等地，以捐赠供养师生 | 属实（巴格达一〇六七年开办） | [Nizam al-Mulk（Wikipedia）](https://en.wikipedia.org/wiki/Nizam_al-Mulk)；[Madrasah（Encyclopedia.com）](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/madrasah) |
+| 《治国策》传统上认为是尼扎姆·穆勒克所写 | 属实，旁白写「据说」 | [Nizam al-Mulk（Wikipedia）](https://en.wikipedia.org/wiki/Nizam_al-Mulk) |
+| 同时期王安石变法（一〇六九年起） | 属实 | [New Policies (Song dynasty)（Wikipedia）](https://en.wikipedia.org/wiki/New_Policies_%28Song_dynasty%29) |
+| 一〇九〇年哈桑·萨巴赫靠发展信徒、几乎不流血地夺取阿拉穆特堡 | 属实 | [Hassan-i Sabbah（Wikipedia）](https://en.wikipedia.org/wiki/Hassan-i_Sabbah) |
+| 「刺客」一词来自其外号，与大麻的关系有争论 | 有争议，旁白已注明 | [Institute of Ismaili Studies](https://www.iis.ac.uk/?p=1459)；[Word Origins: hashish / assassin](https://wordorigins.org/big-list-entries/hashish-assassin) |
+| 一〇九二年十月尼扎姆遇刺，一般归于阿拉穆特，但也有别的说法 | 属实（十月十四日，纳哈万德附近；另有马立克沙授意等说法） | [Nizam al-Mulk（Wikipedia）](https://en.wikipedia.org/wiki/Nizam_al-Mulk)；[Malik-Shah I（Wikipedia）](https://en.wikipedia.org/wiki/Malik-Shah_I) |
+| 一个多月后马立克沙在巴格达去世，随后继承战争，帝国分裂 | 属实（十一月十九日） | [Malik-Shah I（Wikipedia）](https://en.wikipedia.org/wiki/Malik-Shah_I) |
+| 一〇九五年起阿勒颇（里德万）与大马士革（杜卡克）兄弟相争 | 属实 | [Fakhr al-Mulk Ridwan（Wikipedia）](https://en.wikipedia.org/wiki/Fakhr_al-Mulk_Ridwan)；[Shams al-Muluk Duqaq（Wikipedia）](https://en.wikipedia.org/wiki/Shams_al-Muluk_Duqaq) |
+| 一〇九五年阿历克塞一世派使者到皮亚琴察向乌尔班二世求援；数月后克莱蒙演说 | 属实（三月皮亚琴察，十一月克莱蒙） | [1095（Wikipedia）](https://en.wikipedia.org/wiki/1095)；[Call from the East（Cambridge）](https://www.cambridge.org/core/books/rewriting-the-first-crusade/call-from-the-east-the-letters-of-alexios-i/8685979B75751CC26339AA2729867E94) |
 
 ## 十字军
 
@@ -408,6 +675,165 @@
 | 1347 年鼠疫传到西西里；欧洲约三分之一到一半人口死亡 | 属实（估计 30%–60%） | [Black Death（Wikipedia）](https://en.wikipedia.org/wiki/Black_Death) |
 | 检疫隔离后来定为四十天，quarantine 来自意大利语「四十」 | 属实（1377 年拉古萨先定 30 天，后改 40 天） | [Quarantine（Wikipedia）](https://en.wikipedia.org/wiki/Quarantine) |
 | 1368 年朱元璋建立明朝 | 属实 | [Ming dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Ming_dynasty) |
+
+## 黄金之国
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 约八世纪末，阿拉伯学者法扎里称加纳为「黄金之国」 | 属实（是父亲易卜拉欣还是儿子穆罕默德有争议，年代说法从 772 年到八世纪末不等，旁白只写「约八世纪末」「法扎里」） | [Ghana Empire（Wikipedia）](https://en.wikipedia.org/wiki/Ghana_Empire)；[Muhammad ibn Ibrahim al-Fazari（Wikipedia）](https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_Ibr%C4%81h%C4%ABm_al-Faz%C4%81r%C4%AB) |
+| 骆驼让穿越撒哈拉的贸易成为可能（呼应非洲古国章） | 属实（前文已核） | 见「非洲古国」章核对表 |
+| 中世纪加纳帝国在今毛里塔尼亚东南部和马里西部，与今加纳共和国相隔好几百公里 | 属实（昆比萨利赫在北纬 15.8 度、西经 8 度，今加纳最北端约在北纬 11 度） | [Koumbi Saleh（Wikipedia）](https://en.wikipedia.org/wiki/Koumbi_Saleh) |
+| 「加纳」原是国王称号，意为战争首领；索宁克人称国家为瓦加杜 | 属实 | [Ghana Empire（Wikipedia）](https://en.wikipedia.org/wiki/Ghana_Empire) |
+| 一九五七年黄金海岸独立时借用加纳之名 | 属实 | [Ghana Empire（Wikipedia）](https://en.wikipedia.org/wiki/Ghana_Empire) |
+| 一〇六八年，西班牙地理学家巴克里写成地理书，本人从未去过西非 | 属实（他一生住在安达卢斯，书成于 1068 年） | [Abu Abdullah al-Bakri（Wikipedia）](https://en.wikipedia.org/wiki/Abu_Abdullah_al-Bakri) |
+| 加纳都城分两半，穆斯林城有十二座清真寺，王城在约十公里外 | 属实（约 6 英里） | [Koumbi Saleh（Wikipedia）](https://en.wikipedia.org/wiki/Koumbi_Saleh)；[Kingdom of Ghana（波士顿大学）](https://www.bu.edu/africa/outreach/teachingresources/history/ancient-to-medieval-history/k_o_ghana) |
+| 国王门口的狗戴金银项圈 | 属实（巴克里原文：项圈为金银所制，缀有金银小球） | [Kingdom of Ghana（波士顿大学）](https://www.bu.edu/africa/outreach/teachingresources/history/ancient-to-medieval-history/k_o_ghana) |
+| 金块归国王、百姓只能拿金沙；巴克里解释说否则金子会贬值 | 属实 | [Kingdom of Ghana（波士顿大学）](https://www.bu.edu/africa/outreach/teachingresources/history/ancient-to-medieval-history/k_o_ghana)；[Abd al-'aziz al-Bakri on West Africa（CUNY）](https://jjcweb.jjay.cuny.edu/history/worldspring09/paperdemo/albakri.html) |
+| 加纳的金矿大多在更南边（班布克），财富主要来自控制贸易和收税 | 属实（加纳对班布克金矿的控制程度学界说法不一，旁白写「大多在更南边」） | [Medieval Sub-Saharan Africa（OpenStax）](https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa) |
+| 无声贸易：不见面、不说话地交换盐和金沙；希罗多德就讲过类似故事；带传说色彩 | 属实（希罗多德 4.196 记迦太基人与「利比亚」人的无声贸易；学界有专文讨论其「神话与证据」，旁白已注明传说色彩） | [Silent trade（Wikipedia）](https://en.wikipedia.org/wiki/Silent_trade)；[Silent Trade: Myth and Historical Evidence（History in Africa）](https://www.cambridge.org/core/product/1C4DAF0E56226C6DDE644158C7A89487) |
+| 阿尔摩拉维德起于撒哈拉西部柏柏尔游牧部落，男子蒙面纱 | 属实（被称为「蒙面者」） | [Almoravid dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Almoravid_dynasty) |
+| 约一〇七〇年建马拉喀什，后来统治西班牙南部 | 属实（建城年份有 1062–1078 多说，通常取 1070；1086 年后进入安达卢斯） | [Almoravid dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Almoravid_dynasty) |
+| 一〇七六年攻占加纳之说，不少学者认为是误读，考古无城破痕迹 | 有争议，旁白已注明 | [Almoravid dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Almoravid_dynasty)；[Ghana Empire（Wikipedia）](https://en.wikipedia.org/wiki/Ghana_Empire) |
+| 扎格维王朝；国王拉利贝拉约十二世纪末至十三世纪初下令凿教堂 | 属实（拉利贝拉约 1181–1221 年在位，教堂年代学界未完全确定） | [Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Lalibela)；[Zagwe dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Zagwe_dynasty) |
+| 有学者认为与一一八七年萨拉丁夺取耶路撒冷有关，「新耶路撒冷」 | 属实（旁白写「有学者认为」） | [Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Lalibela) |
+| 共十一座教堂，从整块岩石往下凿出 | 属实 | [Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Lalibela)；[Bete Giyorgis（Atlas Obscura）](https://Www.Atlasobscura.com/places/bete-giyorgis-lalibela) |
+| 圣乔治教堂俯视呈十字，藏在十几米深的坑里 | 属实（各来源给出约 12 米或约 15 米，旁白写「十几米」） | [Church of Saint George, Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela)；[Bete Giyorgis（Atlas Obscura）](https://Www.Atlasobscura.com/places/bete-giyorgis-lalibela) |
+| 传说天使夜里帮忙凿 | 属实（是传说，旁白已标明；葡萄牙人记载当地说教堂「归功于天使」） | [Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Lalibela) |
+| 约一二三五年松迪亚塔在基里纳击败索索国王苏曼古鲁，马里帝国兴起 | 属实 | [Battle of Kirina（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Kirina) |
+| 差不多同时蒙古人准备第二次西征 | 属实（1235 年忽里勒台决定长子西征，1236 年出发） | 见「蒙古旋风与黑死病」章核对表 |
+| 格里奥是世袭说唱史官，弹科拉琴，背诵谱系 | 属实 | [Griot（Wikipedia）](https://en.wikipedia.org/wiki/Griot) |
+| 史诗中王子幼时不会走路，撑着树枝站起；用带白公鸡距的箭破对手魔法 | 属实（史诗内容，旁白已标明是传说） | [Epic of Sundiata（Wikipedia）](https://en.wikipedia.org/wiki/Epic_of_Sundiata)；[Battle of Kirina（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Kirina) |
+| 库鲁坎富加的《曼丁宪章》，主要口头流传，二〇〇九年列入人类非物质文化遗产代表作名录 | 属实（UNESCO 称其宣布于十三世纪初一次大胜之后；旁白写「传说」「原貌难以考证」） | [Manden Charter（UNESCO）](https://ich.unesco.org/en/RL/manden-charter-proclaimed-in-kurukan-fuga-00290) |
+| 马蓬古布韦王国在今南非北部林波波河畔；贵族住山顶、百姓住山下；南部非洲最早的等级社会之一 | 属实（约 1220–1300 年为鼎盛期） | [Kingdom of Mapungubwe（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Mapungubwe) |
+| 王族墓出土金犀牛，木芯包薄金片，手掌大小 | 属实（二十世纪三十年代出土，1932 或 1933 年说法不一，旁白未写年份） | [Golden Rhinoceros of Mapungubwe（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Rhinoceros_of_Mapungubwe) |
+| 一二七〇年耶库诺·阿姆拉克推翻扎格维王朝，建所罗门王朝 | 属实 | [Solomonic dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Solomonic_dynasty) |
+| 王朝自称所罗门与示巴女王后代，历史学家认为是政治神话；延续到一九七四年，末代皇帝海尔·塞拉西 | 属实 | [Solomonic dynasty（Wikipedia）](https://en.wikipedia.org/wiki/Solomonic_dynasty) |
+| 大津巴布韦约十一世纪起建石墙，不用灰浆 | 属实 | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 大围墙高约十一米、长约二百五十米 | 属实 | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 全盛时也许住着上万人 | 属实（传统估计最多约一万八千，新研究认为不超过一万，旁白写「也许上万人」） | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 「津巴布韦」在绍纳语中大意是石头房子 | 属实（也有「受尊崇的房屋」一说） | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 黄金经索法拉由斯瓦希里商人北运；遗址出土中国瓷器、波斯和叙利亚器物、玻璃珠 | 属实（基尔瓦约十三世纪控制索法拉黄金贸易） | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe)；[Kilwa Kisiwani（Wikipedia）](https://en.wikipedia.org/wiki/Kilwa_Kisiwani) |
+| 一八七一年德国探险家毛赫猜是示巴女王宫殿；罗得西亚政府向考古学家施压 | 属实 | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 二十世纪初的科学发掘证明建造者是绍纳人祖先 | 属实（兰德尔-麦基弗 1905–1906 年首次科学发掘；1929 年卡顿-汤普森再次确认） | [Great Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Great_Zimbabwe) |
+| 遗址出土八只皂石鸟；一八八九年一只被欧洲猎人凿下，后卖给罗得斯；大多已归还 | 属实（猎人波塞尔特；1981 年南非归还四只，2003 年德国归还一段底座） | [Zimbabwe Bird（Wikipedia）](https://en.wikipedia.org/wiki/Zimbabwe_Bird) |
+| 一九八〇年独立的津巴布韦国名取自古城，石鸟上了国旗和国徽 | 属实（国旗 1980 年 4 月 18 日启用） | [Zimbabwe Bird（Wikipedia）](https://en.wikipedia.org/wiki/Zimbabwe_Bird)；[Flag of Zimbabwe（Wikipedia）](https://en.wikipedia.org/wiki/Flag_of_Zimbabwe) |
+| 约十四世纪初，阿克苏姆一位教士用吉兹语编成《国王的荣耀》，讲示巴女王、所罗门、孟尼利克与约柜，为所罗门王朝正统服务 | 属实（编者为阿克苏姆的伊沙克，约 1314–1322 年；中文维基译作《众王荣耀》，本片按项目要求用《国王的荣耀》，避免与《列王纪》《王者荣耀》混淆） | [Kebra Nagast（Wikipedia）](https://en.wikipedia.org/wiki/Kebra_Nagast) |
+| 曼萨·穆萨一三二四年朝圣（呼应蒙古章） | 属实（前文已核） | 见「蒙古旋风与黑死病」章核对表 |
+| 穆萨在开罗讲：前任先派四百条船（两百条载人、两百条载补给），只回一条；又亲率两千条船出海，杳无音讯 | 属实（出自欧麦里的记载，只有这一处来源；旁白「先派四百条船」） | [Abu Bakr II（Wikipedia）](https://en.wikipedia.org/wiki/Abu_Bakr_II) |
+| 有人说他们到了美洲，但没有考古证据 | 属实 | [Abu Bakr II（Wikipedia）](https://en.wikipedia.org/wiki/Abu_Bakr_II) |
+| 穆萨带回来自格拉纳达的诗人萨赫利；萨赫利主持修建一座议事大厅，得酬约五十公斤金沙 | 属实（一万二千米斯卡尔，按每米斯卡尔约 4.25 克折合约五十公斤；该款可能含工程费） | [Al-Sahili（Wikipedia）](https://en.wikipedia.org/wiki/Al-Sahili) |
+| 津加里贝尔清真寺「传说」出自萨赫利之手，以泥土为主，约一三二七年建成，至今近七百年 | 属实（建成年份有 1325–1327 说；萨赫利的建筑角色学界存疑，已改为「传说」——初稿写「光给设计者的酬劳就有一万二千米斯卡尔」，经核这笔钱是付给议事大厅的，已改） | [Djinguereber Mosque（Wikipedia）](https://en.wikipedia.org/wiki/Djinguereber_Mosque)；[Al-Sahili（Wikipedia）](https://en.wikipedia.org/wiki/Al-Sahili) |
+| 约一三三一年伊本·白图泰到基尔瓦，称其为世界上最美丽的城市之一 | 属实（年份有 1330、1331 两说，已写「约」） | [Kilwa Kisiwani（Wikipedia）](https://en.wikipedia.org/wiki/Kilwa_Kisiwani)；[Ibn Battuta（Wikipedia）](https://en.wikipedia.org/wiki/Ibn_Battuta) |
+| 基尔瓦控制索法拉黄金贸易；苏丹修海边大宫殿；铸币几百年 | 属实（胡苏尼库布瓦宫；约 1100–1600 年铸币） | [Kilwa Kisiwani（Wikipedia）](https://en.wikipedia.org/wiki/Kilwa_Kisiwani) |
+| 斯瓦希里一词来自阿拉伯语「海岸」；斯瓦希里语是班图语，吸收大量阿拉伯语词汇；好几千万人使用 | 属实（约四成词汇来自阿拉伯语的常见估计；使用人数估计多在六千万至一亿五千万） | [Swahili language（Wikipedia）](https://en.wikipedia.org/wiki/Swahili_language) |
+| 英语 safari 来自斯瓦希里语「旅行」 | 属实（斯瓦希里语又借自阿拉伯语 safar） | [Safari（Wikipedia）](https://en.wikipedia.org/wiki/Safari) |
+| 一九四四年驻守马奇巴尔岛的雷达兵捡到古钱，其中几枚是基尔瓦铜币，来历至今无定论 | 属实（伊森伯格；共九枚，其中五枚为基尔瓦铜币，其余为荷兰东印度公司钱币） | [How did ancient African coins wash up on a Northern Territory island（珀斯铸币厂）](https://perthmint.com/news/collector/coin-collecting/how-did-ancient-african-coins-wash-up-on-a-northern-territory-island)；[Unravelling the mystery of Arnhem Land's ancient African coins（Australian Geographic）](https://www.australiangeographic.com.au/history-culture/2014/08/mystery-of-ancient-african-coins-found-in-australia/) |
+| 伊费铜合金头像写实，多为约十二至十五世纪作品 | 属实（国家地理图注作 12–15 世纪；大英博物馆藏的那件定为 14–15 世纪） | [Nigeria's ancient royal portraits（National Geographic）](https://www.nationalgeographic.com/history/history-magazine/article/nigerian-treasures-ife-heads-bronze)；[Ife Head（Wikipedia）](https://en.wikipedia.org/wiki/Ife_Head) |
+| 一九一〇年弗罗贝尼乌斯见到伊费头像，称是亚特兰蒂斯遗物；实为本地工匠所作 | 属实 | [Nigeria's ancient royal portraits（National Geographic）](https://www.nationalgeographic.com/history/history-magazine/article/nigerian-treasures-ife-heads-bronze) |
+| 一三五二年伊本·白图泰从摩洛哥出发去马里，途经塔加扎 | 属实（1352 年 2 月从西吉尔马萨出发，25 天到塔加扎） | [Ibn Battuta（Wikipedia）](https://en.wikipedia.org/wiki/Ibn_Battuta)；[Taghaza（Wikipedia）](https://en.wikipedia.org/wiki/Taghaza) |
+| 塔加扎没有树，房屋和清真寺用盐块砌、骆驼皮盖顶；奴隶挖盐，粮食外运，水是咸的 | 属实 | [Taghaza（Wikipedia）](https://en.wikipedia.org/wiki/Taghaza)；[Ibn Battuta: Travels in Asia and Africa（Fordham 中世纪资料库）](https://sourcebooks.fordham.edu/source/1354-ibnbattuta.asp) |
+| 伊本·白图泰把尼日尔河当成尼罗河 | 属实 | [Ibn Battuta（Wikipedia）](https://en.wikipedia.org/wiki/Ibn_Battuta) |
+| 苏莱曼是曼萨·穆萨的弟弟；见面礼是面包、炸牛肉和一葫芦酸奶；伊本·白图泰抱怨国王小气 | 属实（原文：三块面饼、一块用本地油炸的牛肉、一葫芦酸奶；他称苏莱曼是「吝啬的国王」） | [Sulayman of Mali（Wikipedia）](https://en.wikipedia.org/wiki/Sulayman_of_Mali)；[Ibn Battuta: Travels in Asia and Africa（Fordham）](https://sourcebooks.fordham.edu/source/1354-ibnbattuta.asp) |
+| 他承认马里治安极好，旅人不必怕强盗 | 属实（原文「他们国家完全安全」） | [Ibn Battuta: Travels in Asia and Africa（Fordham）](https://sourcebooks.fordham.edu/source/1354-ibnbattuta.asp) |
+| 一四一四年被当作麒麟的长颈鹿（呼应郑和章）其实来自马林迪：马林迪使节在孟加拉转送给中国人；次年又有一头从马林迪来到南京 | 属实（各来源细节略有出入，旁白写「据研究」） | [The giraffes that sailed to medieval China（Science News）](https://www.sciencenews.org/blog/wild-things/giraffes-sailed-medieval-china)；[The Peculiar Story of Giraffes in Medieval China（Smithsonian）](https://www.smithsonianmag.com/smart-news/peculiar-story-giraffes-medieval-china-180963737/) |
+| 郑和船队到过东非海岸 | 属实（郑和章已核） | 见「郑和、君士坦丁堡与印刷机」章核对表 |
+| 桑海都城加奥；索尼·阿里约一四六八年拿下廷巴克图 | 属实（另有 1469 年说，已写「约」） | [Songhai Empire（Wikipedia）](https://en.wikipedia.org/wiki/Songhai_Empire)；[Sonni Ali（Wikipedia）](https://en.wikipedia.org/wiki/Sonni_Ali) |
+| 廷巴克图学者把他写成暴君；也有现代学者认为评价带偏见 | 属实 | [Sonni Ali（Wikipedia）](https://en.wikipedia.org/wiki/Sonni_Ali) |
+| 围攻杰内，传说七年七个月零七天，断粮投降 | 属实（城于 1473 年投降；「七年七月七天」是传统说法，旁白写「传说」） | [Sonni Ali（Britannica）](https://www.britannica.com/biography/Sonni-Ali)；[Sonni ʿAlī（EBSCO）](https://ebsco.com/research-starters/biography/sonni-ali) |
+| 杰内大清真寺建于一九〇七年，常被称为世界最大的土坯建筑；墙上棕榈木棍兼作脚手架 | 属实 | [Great Mosque of Djenné（Wikipedia）](https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9) |
+| 每年全城一起给清真寺重新抹泥，成为节日 | 属实 | [Great Mosque of Djenné（Wikipedia）](https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9) |
+| 一四九三年穆罕默德夺位，史称阿斯基亚大帝；一四九六年朝圣；推行教法、设官、统一度量衡 | 属实 | [Askia Muhammad I（Wikipedia）](https://en.wikipedia.org/wiki/Askia_Muhammad_I) |
+| 桑海一度有一百多万平方公里，非洲历史上最大的帝国之一 | 属实（1528 年约 140 万平方公里） | [Songhai Empire（Wikipedia）](https://en.wikipedia.org/wiki/Songhai_Empire) |
+| 加奥的金字塔形土坯陵墓高约十七米 | 属实（建于 1495 年，世界遗产） | [Tomb of Askia（UNESCO）](https://whc.unesco.org/en/list/1139) |
+| 达伽马在马林迪找到领航员（呼应大航海章） | 属实（前文已核） | 见「大航海」章核对表 |
+| 一五〇五年葡萄牙舰队攻下并洗劫基尔瓦和蒙巴萨 | 属实（阿尔梅达，7 月基尔瓦、8 月蒙巴萨） | [Sack of Kilwa（Wikipedia）](https://en.wikipedia.org/wiki/Sack_of_Kilwa)；[Battle of Mombasa (1505)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Mombasa_%281505%29) |
+| 廷巴克图围绕桑科雷等清真寺有很多学校 | 属实（十六世纪约 150–180 所学校） | [Sankore Madrasah（Wikipedia）](https://en.wikipedia.org/wiki/Sankore_Madrasah) |
+| 约一五一〇年利奥·阿非利加努斯到过廷巴克图；在摩洛哥长大 | 属实（生于格拉纳达，在非斯长大，约 1509–1510 年到访） | [Leo Africanus（Wikipedia）](https://en.wikipedia.org/wiki/Leo_Africanus) |
+| 他写道在廷巴克图卖书比卖别的货物都赚钱 | 属实 | [Sankore Madrasah（Wikipedia）](https://en.wikipedia.org/wiki/Sankore_Madrasah) |
+| 廷巴克图留下几十万份手稿 | 属实（估计 35 万到 70 万不等） | [Timbuktu's Badass Librarians（NPR）](https://www.npr.org/2016/04/23/475420855/timbuktus-badass-librarians-checking-out-books-under-al-qaidas-nose) |
+| 二〇一二年极端武装占领后，海达拉等人把三十多万份手稿装进两千多只铁皮箱运到巴马科 | 属实（约 35 万份、约 2500 只箱子） | [Timbuktu's Badass Librarians（NPR）](https://www.npr.org/2016/04/23/475420855/timbuktus-badass-librarians-checking-out-books-under-al-qaidas-nose)；[Scroll smugglers（Mail & Guardian）](https://mg.co.za/article/2014-05-30-scroll-smugglers-how-timbuktus-secret-treasures-were-saved) |
+| 仍有几千份被焚毁 | 属实（约 4000 份） | [Scroll smugglers（Mail & Guardian）](https://mg.co.za/article/2014-05-30-scroll-smugglers-how-timbuktus-secret-treasures-were-saved) |
+| 欧洲人相信祭司王约翰，后来认定在埃塞俄比亚 | 属实 | [Prester John（Wikipedia）](https://en.wikipedia.org/wiki/Prester_John) |
+| 一五二〇年葡萄牙使团到达；阿尔瓦雷斯写「我不想再写这些建筑了，恐怕没人会信」 | 属实（原文 I weary of writing more about these buildings, because it seems to me that I shall not be believed） | [Lalibela（Wikipedia）](https://en.wikipedia.org/wiki/Lalibela)；[Prester John（Wikipedia）](https://en.wikipedia.org/wiki/Prester_John) |
+| 刚果王国约十四世纪末兴起；一四八三年葡萄牙船只到来；一四九一年国王受洗 | 属实（约 1390 年；迪奥戈·卡昂；恩津加·恩库武受洗为若昂一世） | [Kingdom of Kongo（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Kongo) |
+| 阿方索一世的一个儿子当上主教 | 属实（恩里克 1518 年受任主教） | [Afonso I of Kongo（Wikipedia）](https://en.wikipedia.org/wiki/Afonso_I_of_Kongo) |
+| 一五二六年阿方索写信抗议：商人每天都在绑走我们的人 | 属实 | [Afonso I of Kongo（Wikipedia）](https://en.wikipedia.org/wiki/Afonso_I_of_Kongo)；[Kingdom of Kongo（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Kongo) |
+| 一五九〇年曼苏尔误以为桑海财富来自金矿，派约四千人穿越撒哈拉，带火绳枪和几门大炮 | 属实（约 1500 骑兵、2500 步兵，八门炮；1590 年 10 月出发） | [Battle of Tondibi（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Tondibi) |
+| 一五九一年三月在加奥以北的通迪比交战；桑海人多但无火器 | 属实（3 月 13 日） | [Battle of Tondibi（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Tondibi) |
+| 上千头牛被枪炮声惊回冲乱桑海军；战斗约两小时；加奥、廷巴克图、杰内被洗劫；摩洛哥管不住，西非分裂 | 属实 | [Battle of Tondibi（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Tondibi)；[Songhai Empire（Wikipedia）](https://en.wikipedia.org/wiki/Songhai_Empire) |
+| 通迪比之战第二年丰臣秀吉出兵朝鲜 | 属实（1592 年壬辰战争爆发） | [Imjin War（Wikipedia）](https://en.wikipedia.org/wiki/Imjin_War) |
+
+## 罗斯
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 九世纪东欧平原住着东斯拉夫人和芬兰语、波罗的语部落；基辅罗斯是乌克兰、白俄罗斯、俄罗斯共同的历史源头 | 属实 | [Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Kievan_Rus%27)；[Kievan Rus（Britannica）](https://www.britannica.com/topic/Kievan-Rus) |
+| 「从瓦良格到希腊之路」：波罗的海—涅瓦河—拉多加湖—沃尔霍夫河—诺夫哥罗德—陆上拖船—第聂伯河—黑海—君士坦丁堡 | 属实 | [Trade route from the Varangians to the Greeks（Wikipedia）](https://en.wikipedia.org/wiki/Trade_route_from_the_Varangians_to_the_Greeks) |
+| 《往年纪事》约十二世纪初编成 | 属实（约一一一三年） | [Rurik（Wikipedia）](https://en.wikipedia.org/wiki/Rurik) |
+| 八六二年部落请留里克：「我们的土地辽阔富饶，却没有秩序，请来统治我们吧」 | 属实（编年史记载，旁白已注明传说色彩） | [Russian Primary Chronicle 节选（NVCC）](https://novaonline.nvcc.edu/eli/evans/HIS101/Documents/Chronicle.html)；[Rurik（Wikipedia）](https://en.wikipedia.org/wiki/Rurik) |
+| 留里克是否真有其人、身世如何，学界有争论 | 属实，旁白已注明 | [Rurik（Wikipedia）](https://en.wikipedia.org/wiki/Rurik) |
+| 八六三年西里尔和美多德去大摩拉维亚传教，创制格拉哥里字母 | 属实（个别资料作八六二年请求、八六三年出发） | [Cyril and Methodius（New World Encyclopedia）](https://www.newworldencyclopedia.org/entry/Saints_Cyril_and_Methodius)；[Cyril and Methodius（OrthodoxWiki）](https://orthodoxwiki.org/Cyril_and_Methodius) |
+| 西里尔字母由弟子在保加利亚（普雷斯拉夫文学学校）以希腊字母为基础发展，以西里尔命名是为纪念 | 属实 | [Cyrillic script（Wikipedia）](https://en.wikipedia.org/wiki/Cyrillic_script) |
+| 八八二年奥列格南下，取斯摩棱斯克，诱杀阿斯科尔德和迪尔，占据基辅，称其为「罗斯众城之母」 | 属实（编年史记载） | [Oleg the Wise（Wikipedia）](https://en.wikipedia.org/wiki/Oleg_the_Wise)；[Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Kievan_Rus%27) |
+| 「基辅罗斯」这个名称是十九世纪史学家起的 | 属实 | [Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Kievan_Rus%27) |
+| 九〇七年远征君士坦丁堡，船装轮子、盾牌钉在城门上 | 编年史记载，多为民间传说，旁白已注明 | [Rus'–Byzantine War (907)（Wikipedia）](https://en.wikipedia.org/wiki/Rus%27%E2%80%93Byzantine_War_%28907%29) |
+| 九一一年条约真实，文本收在编年史里 | 属实 | [Rus'–Byzantine War (907)（Wikipedia）](https://en.wikipedia.org/wiki/Rus%27%E2%80%93Byzantine_War_%28907%29)；[Oleg the Wise（Wikipedia）](https://en.wikipedia.org/wiki/Oleg_the_Wise) |
+| 九二一年巴格达哈里发派使团去伏尔加保加尔，伊本·法德兰随行；称罗斯人「高得像椰枣树」、体格完美；记录了船葬 | 属实（出使在九二一至九二二年） | [Ahmad ibn Fadlan（Wikipedia）](https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan) |
+| 九四五年伊戈尔向德列夫利安人再次收贡被杀，奥尔加替年幼的斯维亚托斯拉夫摄政 | 属实 | [Olga of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Olga_of_Kiev) |
+| 奥尔加复仇：诛杀使者，围城时每户要三只鸽子三只麻雀，鸟带燃烧的硫磺飞回全城起火 | 编年史记载，带传说色彩，旁白已注明 | [Olga of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Olga_of_Kiev) |
+| 奥尔加整顿贡赋，设立固定收贡点（波戈斯特） | 属实 | [Olga of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Olga_of_Kiev) |
+| 约九五七年访问君士坦丁堡受洗，教名叶莲娜 | 属实（有学者认为她约九五五年已在基辅受洗，旁白用「约」） | [Olga of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Olga_of_Kiev) |
+| 斯维亚托斯拉夫拒绝受洗，怕亲兵笑话 | 属实（编年史记载，旁白用「据说」） | [Sviatoslav I（Wikipedia）](https://en.wikipedia.org/wiki/Sviatoslav_I)；[Christianization of Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27) |
+| 斯维亚托斯拉夫行军不带大车和锅，肉切薄片炭火烤，铺马毯枕马鞍 | 属实（编年史记载） | [Sviatoslav I（Wikipedia）](https://en.wikipedia.org/wiki/Sviatoslav_I) |
+| 出兵前通知对方「我要来攻打你们了」，这句话至今用于俄语和乌克兰语 | 属实（原话是对维亚季奇人说的） | [Sviatoslav I（Wikipedia）](https://en.wikipedia.org/wiki/Sviatoslav_I) |
+| 约九六五年攻破萨克尔，之后（到九六九年）拿下可萨都城阿的尔 | 属实（年代学界有争论，旁白用「约」） | [Sviatoslav I（Wikipedia）](https://en.wikipedia.org/wiki/Sviatoslav_I)；[Khazars（Wikipedia）](https://en.wikipedia.org/wiki/Khazars) |
+| 可萨汗国称雄约三百年 | 属实（约六五〇—九六九年） | [Khazars（Wikipedia）](https://en.wikipedia.org/wiki/Khazars) |
+| 想迁都多瑙河边（佩列亚斯拉韦茨），被东罗马击退；九七二年在第聂伯河险滩遭佩切涅格人伏击身亡 | 属实 | [Sviatoslav I（Wikipedia）](https://en.wikipedia.org/wiki/Sviatoslav_I) |
+| 九八六年起各教使者来劝弗拉基米尔改宗（「挑选宗教」），学者认为经过加工 | 属实（编年史记载；学界视为传说） | [Vladimir the Great（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_the_Great)；[Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Kievan_Rus%27) |
+| 「喝酒是罗斯人的快乐，没有这份乐趣我们活不下去」 | 属实（编年史九八六年条） | [Russian Primary Chronicle 节选（NVCC）](https://novaonline.nvcc.edu/eli/evans/HIS101/Documents/Chronicle.html) |
+| 使者说在圣索菲亚大教堂「不知道自己是在天上还是在人间」 | 属实（编年史九八七年条） | [Russian Primary Chronicle 节选（NVCC）](https://novaonline.nvcc.edu/eli/evans/HIS101/Documents/Chronicle.html)；[Vladimir the Great（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_the_Great) |
+| 约九八八年巴西尔二世遇叛乱求援，弗拉基米尔派六千人，条件是娶安娜并受洗 | 属实（年份学界有争论，旁白用「约」） | [Vladimir the Great（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_the_Great)；[Varangian Guard（Wikipedia）](https://en.wikipedia.org/wiki/Varangian_Guard) |
+| 这六千人一般被看作瓦良格卫队的开端 | 属实（「推定」的起点） | [Varangian Guard（Wikipedia）](https://en.wikipedia.org/wiki/Varangian_Guard) |
+| 在赫尔松涅斯受洗；回基辅后把庇隆神像扔进第聂伯河，市民在河中集体受洗 | 属实 | [Vladimir the Great（Wikipedia）](https://en.wikipedia.org/wiki/Vladimir_the_Great)；[Christianization of Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27) |
+| 雅罗斯拉夫在兄弟争位中胜出，修金门（仿君士坦丁堡金门）和圣索菲亚大教堂 | 属实（金门约一〇一七—一〇二四年；教堂编年史作一〇三七年，也有一〇一一年说，旁白未写具体年份） | [Yaroslav the Wise（Wikipedia）](https://en.wikipedia.org/wiki/Yaroslav_the_Wise)；[Golden Gate, Kyiv（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv)；[Saint Sophia Cathedral, Kyiv（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv) |
+| 教堂保存大片十一世纪马赛克和壁画；墙上七千多处刻字涂鸦，其中一条记雅罗斯拉夫去世 | 属实 | [Saint Sophia Cathedral, Kyiv（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv) |
+| 《罗斯法典》是东斯拉夫人最早的成文法典，限制血亲复仇，没有死刑和肉刑 | 属实 | [Russkaya Pravda（Wikipedia）](https://en.wikipedia.org/wiki/Russkaya_Pravda)；[Yaroslav the Wise（Wikipedia）](https://en.wikipedia.org/wiki/Yaroslav_the_Wise) |
+| 罚金：擅自骑别人的马三格里夫纳，砍手指三格里夫纳，剪胡子十二格里夫纳（手指的四倍） | 属实（据法典英译条文） | [Kievan Rus' & Pravda Russkaia（Dickinson College）](https://blogs.dickinson.edu/quallsk/2014/09/04/kievan-rus-pravda-russkaia/) |
+| 格里夫纳是银锭，既是货币也是重量单位 | 属实 | [Grivna（Wikipedia）](https://en.wikipedia.org/wiki/Grivna) |
+| 雅罗斯拉夫有「欧洲的岳父」之称 | 属实（后世绰号） | [Anna of Kyiv（Euromaidan Press）](https://euromaidanpress.com/2016/05/22/anna-of-kyiv-the-french-queen-from-kyivan-rus/) |
+| 女儿分别嫁匈牙利安德烈一世、挪威哈拉尔（一〇六六年战死斯坦福桥）、法国亨利一世（安娜，一〇五一年） | 属实（安娜一〇五一年五月十九日成婚） | [Yaroslav the Wise（Wikipedia）](https://en.wikipedia.org/wiki/Yaroslav_the_Wise)；[The Kyivan queens of medieval Europe（Mathew Lyons）](https://mathewlyons.co.uk/2022/07/12/the-kyivan-queens-of-medieval-europe/)；[Anne of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Anne_of_Kiev) |
+| 法国王室文书上有一行西里尔字母签名，一般认为是「安娜王后」 | 属实（约一〇六三年文书，旁白未写年份） | [Anne of Kiev（Wikipedia）](https://en.wikipedia.org/wiki/Anne_of_Kiev) |
+| 雅罗斯拉夫死后王位轮流传承导致内斗；一〇九七年柳别奇会议约定各守父辈领地，罗斯逐渐分裂 | 属实 | [Council of Liubech（Wikipedia）](https://en.wikipedia.org/wiki/Council_of_Liubech) |
+| 诺夫哥罗德自一一三六年由市民大会选择和撤换王公，称「诺夫哥罗德大君主」，大贵族主导 | 属实 | [Novgorod Republic（Wikipedia）](https://en.wikipedia.org/wiki/Novgorod_Republic) |
+| 诺夫哥罗德靠毛皮致富，是汉萨同盟最东的贸易站，有德意志商馆（彼得霍夫） | 属实 | [Novgorod Republic（Wikipedia）](https://en.wikipedia.org/wiki/Novgorod_Republic) |
+| 一一四七年莫斯科首次见于编年史，尤里·多尔戈鲁基（「长手」）邀盟友「到莫斯科来」，次日设宴 | 属实（见《伊帕季耶夫编年史》；Britannica 记为四月四日宴会） | [History of Moscow（Britannica）](https://www.britannica.com/place/Moscow/History)；[The origins of Moscow（mos.ru）](https://www.mos.ru/en/news/item/22507073/)；[Moscow（Wikipedia）](https://en.wikipedia.org/wiki/Moscow) |
+| 一九五一年七月二十六日诺夫哥罗德出土第一封桦树皮文书 | 属实 | [Birch bark manuscript（Wikipedia）](https://en.wikipedia.org/wiki/Birch_bark_manuscript) |
+| 诺夫哥罗德已出土一千一百多件，多为十一到十五世纪 | 属实（截至二〇一八年共一二二二件，其中诺夫哥罗德一一一三件） | [Birch bark manuscript（Wikipedia）](https://en.wikipedia.org/wiki/Birch_bark_manuscript) |
+| 信件：「把房子卖了，到斯摩棱斯克或基辅来吧，面包便宜」 | 属实 | [Birch bark manuscript（Wikipedia）](https://en.wikipedia.org/wiki/Birch_bark_manuscript) |
+| 翁菲姆生活在十三世纪中叶，约六七岁，练字母、抄诗篇，画骑马武士刺敌并写自己名字，把自己画成野兽 | 属实（活跃约一二二〇—一二六〇年） | [Onfim（Wikipedia）](https://en.wikipedia.org/wiki/Onfim) |
+| 一二三七年冬攻破梁赞；一二三八年二月攻破弗拉基米尔，大公家人死于大火；科泽利斯克坚守七周；诺夫哥罗德提前臣服得免 | 属实 | [Mongol invasion of Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27) |
+| 一二四〇年十二月六日基辅陷落；什一教堂一部分在人群重压下坍塌 | 属实 | [Siege of Kiev (1240)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Kiev_%281240%29) |
+| 六年后柏朗嘉宾路过，地上满是头骨白骨，只剩约两百户；可靠性有讨论 | 属实（一二四六年；该段真实性有争议，旁白已注明） | [Siege of Kiev (1240)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Kiev_%281240%29) |
+| 一二四〇年亚历山大在涅瓦河击败瑞典人，后得名「涅夫斯基」 | 属实（七月十五日；绰号十五世纪才出现，旁白用「后来」） | [Alexander Nevsky（Wikipedia）](https://en.wikipedia.org/wiki/Alexander_Nevsky) |
+| 一二四二年冰湖之战击败立窝尼亚骑士团；规模可能不大；骑士落水的场面主要来自一九三八年电影 | 属实（原始史料未提冰面破裂，见 Ostrowski 2006） | [Battle on the Ice（Wikipedia）](https://en.wikipedia.org/wiki/Battle_on_the_Ice)；[Alexander Nevsky（Wikipedia）](https://en.wikipedia.org/wiki/Alexander_Nevsky) |
+| 此后两百多年向金帐汗国纳贡（到一四八〇年）；都城萨莱在伏尔加河下游；王公须得大汗许可状 | 属实 | [Mongol invasion of Kievan Rus'（Wikipedia）](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27)；[Jarlig（Wikipedia）](https://en.wikipedia.org/wiki/Jarlig) |
+| 涅夫斯基接受蒙古宗主权、替汗国收贡，从萨莱返回途中去世 | 属实（一二六三年） | [Alexander Nevsky（Wikipedia）](https://en.wikipedia.org/wiki/Alexander_Nevsky) |
+| 丹尼洛一二五三年由教皇使节加冕为国王，建利沃夫并以儿子列夫命名 | 属实（利沃夫约一二五六年） | [Daniel of Galicia（Wikipedia）](https://en.wikipedia.org/wiki/Daniel_of_Galicia) |
+| 十四世纪立陶宛大公国并入大片罗斯土地包括基辅；公文用罗斯书面语 | 属实（基辅归属立陶宛的确切年份有一三二一年、一三六二年前后等说法，旁白只写十四世纪） | [Grand Duchy of Lithuania（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania)；[Ruthenian language（Wikipedia）](https://en.wikipedia.org/wiki/Ruthenian_language) |
+| 伊凡一世外号「钱袋」，替汗国收贡；一三二七年随蒙古军镇压特维尔起义，随后获大公头衔；都主教驻地迁莫斯科 | 属实（大公头衔一三三一年） | [Ivan I of Moscow（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_I_of_Moscow) |
+| 一三八〇年九月八日库利科沃之战，德米特里击败马麦，得名「顿斯科伊」 | 属实 | [Battle of Kulikovo（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Kulikovo) |
+| 一三八二年脱脱迷失攻破并焚烧莫斯科，德米特里重新称臣 | 属实 | [Battle of Kulikovo（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Kulikovo) |
+| 谢尔盖与哥哥在林中建献给圣三一的小教堂，为圣三一修道院起点 | 属实 | [Sergius of Radonezh（Wikipedia）](https://en.wikipedia.org/wiki/Sergius_of_Radonezh) |
+| 鲁布廖夫为纪念谢尔盖画《圣三一》，三位天使 | 属实（约一四一一年或一四二五—一四二七年，年份有争论，镜头年份用「约」） | [Trinity (Andrei Rublev)（Wikipedia）](https://en.wikipedia.org/wiki/Trinity_%28Andrei_Rublev%29) |
+| 同一时期郑和下西洋 | 属实（一四〇五—一四三三年，见本片郑和章） | 本片「郑和、君士坦丁堡与印刷机」章 |
+| 一四七二年伊凡三世娶索菲娅，她是君士坦丁十一世的侄女、在罗马长大；教皇想借此促进教会合一，落空 | 属实（十一月十二日在莫斯科成婚） | [Sophia Palaiologina（Wikipedia）](https://en.wikipedia.org/wiki/Sophia_Palaiologina) |
+| 此后双头鹰出现在莫斯科大公印章上 | 属实（一四九七年文书上的印章有双头鹰；起源说法不一，旁白未写具体年份） | [Coat of arms of Russia（Wikipedia）](https://en.wikipedia.org/wiki/Coat_of_arms_of_Russia)；[Ivan III of Russia（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_III_of_Russia) |
+| 一四七八年吞并诺夫哥罗德，废市民大会，大钟运到莫斯科 | 属实 | [Novgorod Republic（Wikipedia）](https://en.wikipedia.org/wiki/Novgorod_Republic)；[Ivan III of Russia（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_III_of_Russia) |
+| 意大利建筑师重建克里姆林宫；城墙和塔楼一四八五年起由意大利人主持修建 | 属实（一四八五—一四九五年） | [Moscow Kremlin Wall（Wikipedia）](https://en.wikipedia.org/wiki/Moscow_Kremlin_Wall)；[Dormition Cathedral, Moscow（Wikipedia）](https://en.wikipedia.org/wiki/Dormition_Cathedral,_Moscow) |
+| 一四八〇年秋阿合马北上，乌格拉河对峙一个多月，立陶宛援军未到，河将封冻，双方撤兵 | 属实（十月八日至十一月十一日） | [Great Stand on the Ugra River（Wikipedia）](https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River) |
+| 传统上视为「鞑靼之轭」结束，也有学者认为意义被夸大 | 属实，旁白已注明 | [Great Stand on the Ugra River（Wikipedia）](https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River) |
+| 十六世纪二十年代菲洛费：「两个罗马已经倒下，第三个屹立，不会有第四个」 | 属实（约一五二三—一五二四年） | [Moscow, third Rome（Wikipedia）](https://en.wikipedia.org/wiki/Moscow,_third_Rome) |
+| 从基辅到莫斯科罗斯走了六百多年 | 属实（八六二年传说至十六世纪二十年代约六百六十年） | 同上各条 |
 
 ## 郑和、君士坦丁堡与印刷机
 

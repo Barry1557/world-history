@@ -42,13 +42,18 @@ import ancientIndia from './scenes/ancient-india.js';
 import ancientAfrica from './scenes/ancient-africa.js';
 import classicAmericas from './scenes/classic-americas.js';
 import iran from './scenes/iran.js';
+import koreaJapan from './scenes/korea-japan.js';
+import southeastAsia from './scenes/southeast-asia.js';
+import turksSeljuks from './scenes/turks-seljuks.js';
+import goldenAfrica from './scenes/golden-africa.js';
+import rus from './scenes/rus.js';
 
 const ORDER = [
   earthDay, outOfAfrica, agriculture, dawn, bronzeCollapse, axial, persiaGreece,
   steppe, qinHanRome, ancientIndia, fallOfRome, ancientAfrica, classicAmericas,
-  islam, iran, tangCharlemagneVikings, song1066, crusades,
-  mongolsPlague, zhenghePrinting, exploration, reformationScience, revolutions,
-  steamOpiumMeiji, imperialismWw1, depressionWw2, coldWarInternet,
+  islam, iran, tangCharlemagneVikings, koreaJapan, song1066, southeastAsia,
+  turksSeljuks, crusades, mongolsPlague, goldenAfrica, rus, zhenghePrinting,
+  exploration, reformationScience, revolutions, steamOpiumMeiji, imperialismWw1, depressionWw2, coldWarInternet,
 ];
 
 export const chapters = ORDER.map(({ title, sub }) => ({ title, sub }));
