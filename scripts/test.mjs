@@ -39,6 +39,24 @@ const fakeSpeech = () => {
   window.SpeechSynthesisUtterance = function (text) { this.text = text; };
 };
 
+
+// 在封面上真实点击「目录」「设置」（会检查按钮是否被别的层挡住），再关闭
+async function coverButtons(page, mobile) {
+  const press = (sel) => (mobile ? page.tap(sel, { timeout: 3000 }) : page.click(sel, { timeout: 3000 }));
+  const out = [];
+  for (const [btn, panel] of [['#btnToc', '#toc'], ['#btnSet', '#settings']]) {
+    try {
+      await press(btn);
+      await page.waitForTimeout(200);
+      const open = await page.isVisible(panel);
+      await press(panel + ' [data-close]');
+      await page.waitForTimeout(150);
+      out.push(open && !(await page.isVisible(panel)));
+    } catch (e) { out.push(false); }
+  }
+  return out.every(Boolean);
+}
+
 async function open(viewport, opts = {}) {
   const ctx = await browser.newContext({ viewport, deviceScaleFactor: opts.dpr || 1, isMobile: !!opts.mobile, hasTouch: !!opts.mobile });
   const page = await ctx.newPage();
@@ -59,6 +77,8 @@ console.log('1. 电脑（1440×900）：封面、开播、截图');
   ok((await page.textContent('#subText')).length > 10, '封面上已显示第一句字幕');
   ok(await page.$$eval('#proj-a .land', (e) => e.length === 1 && e[0].getAttribute('d').length > 100000), '陆地路径已内联');
   await page.screenshot({ path: shots + '01-desktop-cover.png' });
+  ok(await coverButtons(page, false), '封面上能点开并关闭「目录」和「设置」');
+  ok(!(await page.evaluate(() => window.__wh.playing)), '只打开面板不会自动开始播放');
   await page.click('text=开始放映');
   await page.waitForTimeout(400);
   ok(await page.evaluate(() => window.__wh.playing), '点击后开始播放');
@@ -132,6 +152,7 @@ console.log('4. 手机竖屏（390×844）：布局与横向滚动');
 {
   const { ctx, page, errors } = await open({ width: 390, height: 844 }, { mobile: true, dpr: 2 });
   await page.screenshot({ path: shots + '08-mobile-cover.png' });
+  ok(await coverButtons(page, true), '手机封面上能点开并关闭「目录」和「设置」');
   const noScroll = async () => page.evaluate(() => document.documentElement.scrollWidth <= innerWidth && document.body.scrollWidth <= innerWidth);
   ok(await noScroll(), '封面不横向滚动');
   await page.tap('text=开始放映');
