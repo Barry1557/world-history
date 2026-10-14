@@ -1344,6 +1344,86 @@
 | 一七九六年十一月叶卡捷琳娜二世去世 | 属实（十一月十七日） | [Catherine the Great（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_the_Great) |
 | 库克三次远航太平洋在女皇在位期间（一七六八至一七七九年） | 属实（第三次航行一七七九年结束，库克死于夏威夷） | [James Cook（Wikipedia）](https://en.wikipedia.org/wiki/James_Cook) |
 
+## 大洋洲
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 至少五万年前人类渡海登上澳洲，有学者认为可早到六万五千年前（马杰德贝贝） | 属实（呼应「走出非洲」章，见该章核对） | [Adelaide University news](https://www.adelaide.edu.au/news/news93602.html) |
+| 冰期海平面比今天低一百多米（最低约一百二十米） | 属实 | [Sahul（Wikipedia）](https://en.wikipedia.org/wiki/Sahul) |
+| 巽他古陆连起东南亚诸岛；莎湖古陆连起澳洲、新几内亚、塔斯马尼亚；两者之间始终有海相隔 | 属实 | [Sahul（Wikipedia）](https://en.wikipedia.org/wiki/Sahul) |
+| 华莱士线：西边有大象、犀牛、猴子等有胎盘哺乳动物，东边有袋类；穿过龙目海峡、望加锡海峡 | 属实（原稿写「老虎」，词条只说「猫科」，已改为大象、犀牛和猴子） | [Wallace Line（Wikipedia）](https://en.wikipedia.org/wiki/Wallace_Line) |
+| 澳洲原住民文化常被称为世界上延续最久的文化之一 | 属实（是常见提法，并非严格排名，旁白用「常被称为……之一」） | [NIAA：Culture and capability](https://www.niaa.gov.au/indigenous-affairs/culture-and-capability) |
+| 二〇二一年用泥蜂巢测年，金伯利一幅两米长的袋鼠岩画约一万七千三百年，是澳洲已知最古老的完整岩画 | 属实（范围约一万七千一百至一万七千五百年） | [University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2021/february/australias-oldest-rock-painting-is-a-kangaroo) |
+| 梦创时代、歌之路：祖先神灵走过的路线，记在歌、故事、舞蹈中，传授水源和食物所在 | 属实 | [Songline（Wikipedia）](https://en.wikipedia.org/wiki/Songline)；[NMA 七姐妹歌之路新闻稿](https://www.nma.gov.au/about/media/media-releases-listing-by-year/media-releases-2024/songlines-tracking-the-seven-sisters-finland) |
+| 欧洲人到来前澳洲有两百五十多种语言 | 属实（AIATSIS：超过二百五十种语言、约八百种方言） | [AIATSIS](https://aiatsis.gov.au/explore/articles/indigenous-australian-languages) |
+| 新几内亚高地独立发明农业（呼应「农业革命」章） | 属实 | [Kuk Swamp（Wikipedia）](https://en.wikipedia.org/wiki/Kuk_Swamp) |
+| 库克沼泽约九千年前开始挖排水沟，后来种芋头和香蕉；是香蕉最早被驯化的地方之一；二〇〇八年列入世界遗产 | 属实（排水沟约九千年前；香蕉种植证据约六千九百至六千四百年前，旁白用「后来」） | [Kuk Swamp（Wikipedia）](https://en.wikipedia.org/wiki/Kuk_Swamp)；[UNESCO 提名文件](https://whc.unesco.org/document/154519) |
+| 布吉必姆：冈迪治马拉人利用熔岩流修水渠、堰坝、鱼梁养鳗鱼；最早约六千六百年；二〇一九年列入世界遗产 | 属实 | [ICOMOS](https://landscapes.icomos.org/budj-bim-australia/)；[UNESCO 文件](https://whc.unesco.org/document/176137) |
+| 比埃及大金字塔还早约两千年 | 属实（六千六百年前≈公元前四六〇〇年；胡夫金字塔约公元前二五六〇年） | 推算，金字塔年代见「文明的曙光」章核对 |
+| 「出台湾」模式是学界主流：约五千年前台湾人口增长并南下（与种稻相联），约四千年前（约四千二百年前）到菲律宾 | 属实，旁白已注明「学界主流的看法」（有基因研究提出更复杂的迁徙） | [Models of migration to the Philippines（Wikipedia）](https://en.wikipedia.org/wiki/Models_of_migration_to_the_Philippines)；[Springer Nature 研究札记](https://communities.springernature.com/posts/the-dispersal-of-rice-and-rethinking-the-austronesian-expansion) |
+| 南岛语系今天有一千两百多种语言 | 属实（约一千二百五十七种） | [Austronesian languages（Wikipedia）](https://en.wikipedia.org/wiki/Austronesian_languages) |
+| 南岛语族航海者往西到马达加斯加（呼应「非洲古国」章） | 属实 | 见「非洲古国」章核对表 |
+| 约三千三百年前俾斯麦群岛出现拉皮塔陶器，齿状压印花纹；约四百年内向东到斐济、汤加、萨摩亚 | 属实 | [Lapita culture（Britannica）](https://www.britannica.com/topic/Lapita-culture)；[Science News](https://www.sciencenews.org/article/ancient-pottery-maps-route-south-pacific) |
+| 斐济、汤加、萨摩亚此前无人居住 | 属实（拉皮塔人是这些岛的首批居民；汤加约二千九百年前、萨摩亚约二千七百年前） | [McNiven et al. 2011](https://researchonline.jcu.edu.au/17433/1/mcniven_etal_2011.pdf) |
+| 在汤加、萨摩亚停留一千多年，然后才东进 | 属实（汤加约二千九百年前定居；社会群岛约一〇二五至一一二〇年才有人，间隔近两千年） | [Wilmshurst et al. 2011（PNAS）](https://pmc.ncbi.nlm.nih.gov/articles/PMC3033261) |
+| 船上带着芋头、薯蓣等作物，还有猪、狗、鸡和太平洋鼠 | 属实 | [Te Ara：Pacific migrations](https://teara.govt.nz/en/pacific-migrations/page-7)；[Te Ara：food production](https://teara.govt.nz/te-mahi-kai-food-production-economics) |
+| 导航：记住数百颗星星的出没方位；读涌浪；看鸟；看云 | 属实 | [Yachting World](https://www.yachtingworld.com/special-reports/polynesian-wayfinding-how-these-sailors-navigated-the-open-pacific-with-no-compass-or-gps-163838)；[ScienceAlert](https://www.sciencealert.com/were-still-slowly-learning-how-polynesian-voyagers-navigated-entire-oceans) |
+| 约一〇二五至一一二〇年到社会群岛；约一一九〇至一二九〇年散布到夏威夷、复活节岛、新西兰 | 属实（Wilmshurst 2011 的「短年表」），旁白已注明「确切年代学界仍有争论」 | [Wilmshurst et al. 2011（PNAS）](https://pmc.ncbi.nlm.nih.gov/articles/PMC3033261) |
+| 波利尼西亚三角海面约两千六百万平方公里 | 属实（约一千万平方英里≈两千五百九十万平方公里） | [Sea People 简介](https://books.underscore.world/book/49160)；[Polynesia（Wikipedia）](https://en.wikipedia.com/wiki/Polynesia) |
+| 维京人约同一时代到过北美（呼应「大唐、查理曼与维京人」章，兰塞奥兹牧草地） | 属实 | 见该章核对表 |
+| 番薯老家在美洲；一五九三年从吕宋传入福建（呼应「大航海」章） | 属实 | 见「大航海」章核对表 |
+| 库克群岛芒艾亚岛出土约一千年前的番薯残块 | 属实（碳测年九八八至一一五五年） | [Sweet potato cultivation in Polynesia（Wikipedia）](https://en.wikipedia.org/wiki/Sweet_potato_cultivation_in_Polynesia) |
+| 波利尼西亚语「库马拉」与克丘亚语 k'umar(a) 相似 | 属实 | [Sweet potato cultivation in Polynesia（Wikipedia）](https://en.wikipedia.org/wiki/Sweet_potato_cultivation_in_Polynesia) |
+| 二〇二〇年基因研究：部分波利尼西亚人带少量美洲原住民血统，混血约在一二〇〇年前后 | 属实（Ioannidis et al., Nature 2020；也有学者质疑） | [Stanford Daily](https://stanforddaily.com/2020/08/17/study-reveals-contact-between-native-americans-and-polynesians-occurred-800-years-ago/)；[Down To Earth（质疑观点）](https://www.downtoearth.org.in/science-technology/did-ancient-americans-settle-in-polynesia-the-evidence-doesn-t-stack-up-72262) |
+| 也有学者认为番薯是自然漂流传过去的 | 属实（二〇一八年基于班克斯标本的研究），旁白已注明「争论还没结束」 | [Sweet potato cultivation in Polynesia（Wikipedia）](https://en.wikipedia.org/wiki/Sweet_potato_cultivation_in_Polynesia) |
+| 图依汤加被奉为神的后裔；约一二〇〇年第十一代图依汤加用三块珊瑚灰岩搭起哈阿蒙加石门，高五米多 | 属实（高约五点二米；传统说法也有归于毛伊或第十代的） | [Haʻamonga ʻa Maui（Wikipedia）](https://en.wikipedia.org/wiki/Ha%CA%BBamonga_%CA%BBa_Maui)；[UNESCO 预备名录](https://whc.unesco.org/en/tentativelists/5167/) |
+| 鼎盛时汤加势力远及萨摩亚、斐济的一部分 | 有争议，旁白已注明「据说」 | [Monuments of Tonga（Wikipedia）](https://en.wikipedia.org/wiki/Monuments_of_Tonga) |
+| 夏威夷离最近的大陆三千八百多公里，是最孤立的群岛之一 | 属实（约两千四百英里） | [UMD](https://fia.umd.edu/?p=4498)；[Hawaii Guide](https://www.hawaii-guide.com/where-is-hawaii) |
+| 从山到海的扇形地块（阿胡普阿阿）、石墙鱼塘 | 属实（鱼塘具体始建年代不详，旁白未给年份） | [Hawaiʻi Sea Grant](https://seagrant.soest.hawaii.edu/the-return-of-kuula/) |
+| 约一二〇〇年有人登上复活节岛 | 属实（Hunt 与 Lipo 的测年） | [Star-Advertiser](https://www.staradvertiser.com/2011/07/05/hawaii-news/rats-helped-ruin-isle-uh-researcher-finds/) |
+| 摩艾近千尊，多用拉诺拉拉库的火山凝灰岩；立起来的最大一尊（帕罗）高近十米、重八十二吨 | 属实（已知九百多尊；原稿「高约十米」改为「高近十米」） | [Moai（Wikipedia）](https://en.wikipedia.org/wiki/Moai) |
+| 传说石像自己「走」；实验中十几个人用绳子左右摇晃即可让石像前进 | 属实（二〇一二年实验十八人移动四点三五吨复制品） | [Johns Hopkins News-Letter](https://jhunewsletter.com/article/2012/11/easter-island-statues-may-have-walked-25205)；[Binghamton University](https://www.binghamton.edu/news/story/5830/easter-islands-statues-actually-walked-and-physics-backs-it-up) |
+| 新西兰约一二五〇至一三〇〇年有人定居，是最后定居的大块陆地之一 | 属实 | [Te Ara：When was NZ first settled](https://teara.govt.nz/en/when-was-new-zealand-first-settled/page-3) |
+| 椰子、面包果在新西兰种不活，番薯难种 | 属实 | [Te Ara：Pacific migrations](https://teara.govt.nz/en/pacific-migrations/page-7) |
+| 除蝙蝠外新西兰原本没有陆生哺乳动物 | 属实 | [Fauna of New Zealand（Wikipedia）](https://en.wikipedia.org/wiki/Fauna_of_New_Zealand) |
+| 最大的恐鸟伸长脖子约三米六 | 属实 | [Moa（Wikipedia）](https://en.wikipedia.org/wiki/Moa)；[NZ Birds Online](https://nzbirdsonline.org.nz/species/south-island-giant-moa) |
+| 哈斯特鹰翼展近三米，捕食恐鸟，随恐鸟灭绝 | 属实（约二点九米） | [Otago Daily Times](https://www.odt.co.nz/node/321080) |
+| 人类到来后不到两百年，约一四四五年前后恐鸟灭绝 | 属实（研究给出约一四四〇至一四四五年） | [Mongabay 2014](https://news.mongabay.com/2014/03/blame-humans-new-research-proves-people-killed-off-new-zealands-giant-birds/) |
+| 一五六八年门达尼亚以为找到所罗门王黄金来源，起名所罗门群岛 | 属实 | [Catholic Encyclopedia（New Advent）](https://www.newadvent.org/cathen/10179b.htm)；[Solomon Islands Encyclopaedia](https://solomonencyclopaedia.net/biogs/E000595b.htm) |
+| 一六〇六年杨松（小鸽子号）在约克角登陆，是欧洲人首次有记录地登上澳洲，但他以为是新几内亚 | 属实 | [Willem Janszoon（Wikipedia）](https://en.wikipedia.org/wiki/Willem_Janszoon) |
+| 一六四二年塔斯曼寻找南方大陆，发现塔斯马尼亚，又到新西兰，在金湾冲突中四名水手被杀 | 属实（十一月二十四日见塔斯马尼亚，十二月十三日见新西兰） | [Abel Tasman（Wikipedia）](https://en.wikipedia.org/wiki/Abel_Tasman)；[Te Ara 传记](https://teara.govt.nz/en/1966/tasman-abel-janszoon) |
+| 塔斯曼绕澳洲一大圈却没看见澳洲本土 | 属实（词条：远距离环绕澳洲；此次航行只见到塔斯马尼亚，北岸是一六四四年才测绘的） | [Abel Tasman（Wikipedia）](https://en.wikipedia.org/wiki/Abel_Tasman) |
+| 望加锡人随季风南下阿纳姆地捞海参，加工后卖给中国市场；约一七二〇年开始，也有人说更早；雍古语中有望加锡借词 | 属实（年代有争议，旁白已注明） | [Museums Victoria](https://collections.museumsvictoria.com.au/articles/15844)；[The Land Where Time Began](https://www.austhrutime.com/macassan_traders.htm) |
+| 一七二二年复活节罗赫芬到达复活节岛 | 属实 | [Easter Island（Wikipedia）](https://en.wikipedia.org/wiki/Easter_Island) |
+| 「生态自杀」说法有争议：老鼠吃棕榈种子说；二〇二四年古基因研究未见人口崩溃 | 属实，旁白已注明「学界争论很大」 | [哥本哈根大学 2024](https://archaeology.ku.dk/news/easter-island-population-collapse-never-happened/)；[Archaeology 2025](https://archaeology.org/news/2025/11/07/invasive-rats-may-have-contributed-to-deforestation-of-rapa-nui/) |
+| 十九世纪奴隶掳掠与天花后人口锐减 | 属实（一八六二至六三年秘鲁奴隶贩子掳走约一千五百人，一八七七年仅剩一百一十一人） | [Easter Island（Wikipedia）](https://en.wikipedia.org/wiki/Easter_Island) |
+| 一七六九年库克在塔希提观测金星凌日（六月三日），用以推算日地距离 | 属实 | [1769 transit of Venus observed from Tahiti（Wikipedia）](https://en.wikipedia.org/wiki/1769_transit_of_Venus_observed_from_Tahiti) |
+| 库克带有密封命令，要他去找南方大陆 | 属实 | [UK National Archives](https://www.nationalarchives.gov.uk/education/resources/the-search-for-terra-australis/) |
+| 图帕伊亚：赖阿特阿岛祭司兼领航员；海图半径约三千二百公里、一百三十座岛、能叫出七十四座；毛利人视其为博学长者；一七七〇年十二月死于巴达维亚 | 属实 | [Tupaia（Wikipedia）](https://en.wikipedia.org/wiki/Tupaia_(navigator)) |
+| 库克约半年环绕新西兰，证明是两座大岛 | 属实（一七六九年十月至一七七〇年三月） | [Rare Maps：Cook's first voyage](https://raremaps.com/essay/73/cooks-first-voyage-1768-1771) |
+| 一七七〇年四月（二十九日）在植物学湾登陆，因班克斯等采集大量植物而得名 | 属实 | [Botany Bay（Wikipedia）](https://en.wikipedia.org/wiki/Botany_Bay) |
+| 六月奋进号撞上大堡礁，在库克敦一带修了约七个星期 | 属实（六月十日夜至十一日；六月十七日至八月四日） | [NMA](https://digital-classroom.nma.gov.au/defining-moments/cook-claims-australia)；[Cooktown（Wikipedia）](https://en.wikipedia.org/wiki/Cooktown,_Queensland) |
+| 「袋鼠」一词来自古古伊米舍语 gangurru；「我听不懂」是误传 | 属实 | [American Heritage Dictionary](https://ahdictionary.com/word/search.html?q=kangaroo)；[Etymonline](https://www.etymonline.com/es/word/kangaroo) |
+| 一七七〇年八月在占有岛宣布东海岸归英国 | 属实（八月二十二日） | [NMA](https://digital-classroom.nma.gov.au/defining-moments/cook-claims-australia) |
+| 一七七三年（一月十七日）决心号首次驶入南极圈；证明不存在温暖可居的南方大陆 | 属实 | [Second voyage of James Cook（Wikipedia）](https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook) |
+| 一七七八年库克到夏威夷，是有记录的首位到达的欧洲人；一七七九年二月（十四日）因小艇被偷欲扣押首领，在凯阿拉凯夸湾被杀 | 属实 | [Royal Museums Greenwich](https://www.rmg.co.uk/collections/objects/rmgc-object-11916)；[State Library of NSW](https://www2.sl.nsw.gov.au/archive/discover_collections/history_nation/voyages/death_cook/discovery.html) |
+| 失去北美十三殖民地后英国需要新的流放地 | 属实 | [Museums of History NSW](https://mhnsw.au/stories/general/first-fleet/) |
+| 第一舰队十一艘船、一千多人（约一千四百人出发）、七百多名囚犯；一七八八年一月到植物学湾，一月二十六日在悉尼湾建立殖民地 | 属实 | [Museums of History NSW](https://mhnsw.au/stories/general/first-fleet/)；[State Library of NSW](https://www2.sl.nsw.gov.au/archive/discover_collections/history_nation/terra_australis/firstfleet.html) |
+| 早期定居者形容土地像庄园；原住民用火镶嵌式轮烧，长嫩草引来猎物、减少燃料；「火棍农业」一词出自一九六九年 | 属实（Gammage 的说法也有批评者，旁白只陈述公认的部分） | [The Conversation](https://theconversation.com/the-biggest-estate-on-earth-how-aborigines-made-australia-3787)；[Bliege Bird et al. 2008（PNAS）](https://pmc.ncbi.nlm.nih.gov/articles/PMC2567447) |
+| 一七八九年悉尼一带天花，本尼朗估计死去约一半 | 属实 | [Smallpox in Australia（Wikipedia）](https://en.wikipedia.org/wiki/Smallpox_in_Australia) |
+| 边疆冲突持续一百多年；塔斯马尼亚「黑色战争」（一八二四至一八三一年）后原住民仅少数幸存 | 属实 | [Australian frontier wars（Wikipedia）](https://en.wikipedia.org/wiki/Australian_frontier_wars)；[SBS NITV](https://www.sbs.com.au/nitv/article/what-are-the-frontier-wars/6ym0q6ic9) |
+| 到二十世纪初原住民人口据估计减少九成左右 | 属实（SBS：一七八八至一九〇〇年约下降九成；一七八八年人口估计从几十万到两百多万不等，旁白未给绝对数） | [SBS NITV](https://www.sbs.com.au/nitv/article/what-are-the-frontier-wars/6ym0q6ic9)；[UNSW 2026](https://www.unsw.edu.au/newsroom/news/2026/09/more-than-2-million-indigenous-people-Australia-1788) |
+| 一七八九年四月（二十八日）邦蒂号在汤加托富阿附近叛变；布莱与十八人被放上约七米长的小艇 | 属实（二十三英尺） | [HISTORY](https://www.history.com/this-day-in-history/april-28/mutiny-on-the-hms-bounty) |
+| 四十七天、六千多公里到帝汶 | 属实（四月二十八日至六月十四日；三千六百一十八海里≈六千七百公里；自托富阿起算为四十一天） | [HISTORY](https://www.history.com/this-day-in-history/june-14/bounty-mutiny-survivors-reach-timor) |
+| 叛变者躲到皮特凯恩岛，后代至今居住，只有几十人 | 属实（二〇二三年常住约三十五人；一八〇八年才被美国船「黄玉号」发现） | [Pitcairn Islands（Wikipedia）](https://en.wikipedia.org/wiki/Pitcairn_Islands) |
+| 一八一〇年考艾国王考穆阿利伊归顺，卡美哈梅哈一世统一夏威夷 | 属实 | [NLM Native Voices](https://www.nlm.nih.gov/nativevoices/timeline/258.html) |
+| 檀香木运往广州；华人称夏威夷为「檀香山」 | 属实 | [Honolulu Advertiser 2006](https://www.honoluluadvertiser.com/article/2006/Apr/14/il/FP604140306.html)；[Keola Magazine](https://keolamagazine.com/land/the-story-of-iliahi/) |
+| 火枪战争约一八一八年至一八三〇年代，约两万人死亡 | 属实（nzhistory、Te Ara 均为约两万；也有更高估计） | [NZHistory：Musket Wars](https://nzhistory.govt.nz/war/musket-wars/overview)；[Te Ara](https://teara.govt.nz/en/musket-wars/page-1) |
+| 约一八二〇年特劳帕拉哈藏在番薯窖里躲过追兵，作《卡马泰》，全黑队赛前所跳 | 属实 | [Ka Mate（Wikipedia）](https://en.wikipedia.org/wiki/Ka_Mate)；[All Blacks](https://www.allblacks.com/our-legacy/haka/ka-mate) |
+| 一八四〇年二月六日在怀唐伊签约；到九月共五百多位首领签字 | 属实（约五十次签字会，二月至九月） | [NZHistory：All about the Treaty](https://nzhistory.govt.nz/sites/default/files/documents/All_about_the_Treaty.pdf) |
+| 英文本让渡主权；毛利文本用 kāwanatanga（治理权），并保证对土地和珍宝的 tino rangatiratanga | 属实 | [NZHistory：Differences between the texts](https://nzhistory.govt.nz/politics/treaty/read-the-treaty/differences-between-the-texts)；[NZHistory FAQ](https://nzhistory.govt.nz/politics/treaty/treaty-faqs) |
+| 一九七六年霍库莱阿号不用仪器，只靠星星、海浪等从夏威夷航行到塔希提 | 属实（五月一日从毛伊岛出发，六月四日到帕皮提；领航员毛·皮埃卢格） | [Hawaii Tribune-Herald 2026](https://www.hawaiitribune-herald.com/2026/05/04/hawaii-news/50-years-after-hokuleas-first-voyage-the-canoe-continues-to-reshape-hawaii/)；[Popular Science](https://www.popsci.com/sea-people-excerpt/) |
+
 ## 革命的时代
 
 | 说法 | 结果 | 来源 |
@@ -1366,6 +1446,104 @@
 | 1815 年滑铁卢；1821 年死于圣赫勒拿岛 | 属实 | 同上 Napoleon I |
 | 十九世纪二十年代西班牙美洲大陆殖民地基本独立 | 属实 | [Spanish American wars of independence（Wikipedia）](https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence) |
 
+## 拉丁美洲的十九世纪
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一八〇八年拿破仑在法国巴约讷逼西班牙国王父子（查理四世、斐迪南七世）让位，王冠交给哥哥约瑟夫 | 属实（一八〇八年五月五日至七日） | [Abdications of Bayonne（Wikipedia）](https://en.wikipedia.org/wiki/Abdications_of_Bayonne) |
+| 一八〇七年底法军逼近，葡萄牙王室和朝臣近万人登船，英国军舰护送 | 属实（十一月二十九日启航，约一万人，英舰护航） | [Transfer of the Portuguese court to Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil) |
+| 一八〇八年三月到达里约热内卢 | 属实（一月二十二日先到萨尔瓦多，三月七日到里约） | 同上 |
+| 西属美洲半岛人与克里奥尔人的等级差别；一八一〇年各地成立洪他，名义上效忠被囚国王 | 属实 | [1810 Juntas Form in Caracas, Buenos Aires, Bogota and Santiago（University of Kent）](https://research.kent.ac.uk/warandnation/juntas-form-in-caracas-buenos-aires-bogota-and-santiago/) |
+| 一八一〇年加拉加斯（四月十九日）、布宜诺斯艾利斯（五月二十五日）、波哥大（七月二十日）、圣地亚哥（九月十八日）相继成立自治政府 | 属实 | 同上；[May Revolution（Wikipedia）](https://en.wikipedia.org/wiki/May_Revolution) |
+| 一八一〇年九月十六日凌晨，神父伊达尔戈在多洛雷斯敲钟号召起义，这一天是墨西哥独立日 | 属实（约凌晨两点半） | [Cry of Dolores（Wikipedia）](https://en.wikipedia.org/wiki/Cry_of_Dolores) |
+| 每年九月十五日深夜，墨西哥总统在国家宫阳台敲响原钟，重现呼喊 | 属实（原钟一八九六年移到国家宫） | [Independence Day (Mexico)（Wikipedia）](https://en.wikipedia.org/wiki/Independence_Day_%28Mexico%29) ；[National Palace (Mexico)（Wikipedia）](https://en.wikipedia.org/wiki/National_Palace_%28Mexico%29) |
+| 起义队伍壮大到数万人 | 属实（各处说法从四万到近十万不等，旁白用「数万」） | [Miguel Hidalgo y Costilla（Wikipedia）](https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla) |
+| 攻下瓜纳华托时发生屠杀 | 属实（一八一〇年九月二十八日，约四百至六百人被杀） | 同上；[Siege of Guanajuato（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Guanajuato) |
+| 一八一一年伊达尔戈被俘处决，首级和另外三位领袖的挂在瓜纳华托粮仓四角十年 | 属实（七月三十日处决；与阿连德、阿尔达马、希门尼斯的首级一起） | [Miguel Hidalgo y Costilla（Wikipedia）](https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla) |
+| 莫雷洛斯一八一五年被处决 | 属实 | [Agustín de Iturbide（Wikipedia）](https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide) |
+| 玻利瓦尔一七八三年生于加拉加斯，九岁前父母双亡 | 属实（父亲一七八六年去世，母亲一七九二年去世，当时他八岁） | [Simón Bolívar（Wikipedia）](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) |
+| 一八一一年委内瑞拉宣布独立 | 属实（七月五日） | [Venezuelan Declaration of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Venezuelan_Declaration_of_Independence) |
+| 次年三月圣周四大地震，保王派教士说是天罚；玻利瓦尔：如果大自然反对我们，我们就与它斗争 | 属实（一八一二年三月二十六日；名言为广泛引用的说法） | [1812 Caracas earthquake（Wikipedia）](https://en.wikipedia.org/wiki/1812_Caracas_earthquake) |
+| 共和国两度覆灭 | 属实（第一共和国一八一〇至一八一二，第二共和国一八一三至一八一四） | [Venezuelan Declaration of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Venezuelan_Declaration_of_Independence) |
+| 一八一五年在牙买加写《牙买加来信》，憧憬美洲团结 | 属实（九月，金斯敦） | [Jamaica Letter（Wikipedia）](https://en.wikipedia.org/wiki/Jamaica_Letter) |
+| 海地总统佩蒂翁资助枪支、船只和人手，条件是解放奴隶 | 属实（一八一六年） | [Haiti–Venezuela relations（Wikipedia）](https://en.wikipedia.org/wiki/Haiti%E2%80%93Venezuela_relations) ；[Pétion and Bolívar（FIU）](https://islandluminous.fiu.edu/part03-slide03.html) |
+| 南美各共和国奴隶制大多拖到十九世纪五十年代才彻底废除 | 属实（哥伦比亚、厄瓜多尔一八五一，委内瑞拉一八五四，秘鲁一八五四或一八五五） | [Freedom of wombs（Wikipedia）](https://en.wikipedia.org/wiki/Freedom_of_wombs) |
+| 一八一九年雨季蹚过洪水泛滥的平原，翻越皮斯瓦荒原，许多人和马倒下 | 属实（伤亡数字各说不一，旁白不给具体数） | [Bolívar's campaign to liberate New Granada（Wikipedia）](https://en.wikipedia.org/wiki/Bol%C3%ADvar%27s_campaign_to_liberate_New_Granada) |
+| 八月七日博亚卡战役获胜，进入波哥大 | 属实（一八一九年八月七日） | [Battle of Boyacá（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1) |
+| 年底大哥伦比亚成立，包括今天哥伦比亚、委内瑞拉、厄瓜多尔、巴拿马 | 属实（一八一九年十二月安戈斯图拉会议宣告） | [Gran Colombia（Wikipedia）](https://en.wikipedia.org/wiki/Gran_Colombia) |
+| 圣马丁生于今阿根廷东北部（亚佩尤），幼年随家人去西班牙，在西班牙军中服役二十多年，一八〇八年和法军交过手 | 属实（一七八三年举家迁西班牙；一七八九至一八一二年在西班牙军中；一八〇八年拜伦战役立功） | [José de San Martín（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn) |
+| 一八一二年回到南美 | 属实（三月九日抵达布宜诺斯艾利斯） | 同上 |
+| 一八一六年七月九日在图库曼宣布独立 | 属实 | [May Revolution（Wikipedia）](https://en.wikipedia.org/wiki/May_Revolution) |
+| 一八一七年一月约四五千人翻越安第斯山，平均海拔约三千米，约三个星期，约三分之一掉队或倒下 | 属实（一月十九日出发，历时二十一天；约四千人翻越，全军约五千） | [Crossing of the Andes（Wikipedia）](https://en.wikipedia.org/wiki/Crossing_of_the_Andes) |
+| 二月十二日查卡布科获胜，随即进入圣地亚哥 | 属实 | 同上；[José de San Martín（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn) |
+| （删去）这次翻越常被拿来和汉尼拔翻越阿尔卑斯山相比 | 未能核对，已删除 | — |
+| 一八一八年智利宣布独立，同年迈普战役 | 属实（二月十二日公开宣布） | [Chilean Declaration of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Chilean_Declaration_of_Independence) ；[José de San Martín（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn) |
+| 英国海军将领科克伦组建舰队；一八二〇年从瓦尔帕莱索出海，在秘鲁登陆 | 属实（八月二十日启航，九月八日在帕拉卡斯登陆） | [Freedom Expedition of Peru（Wikipedia）](https://en.wikipedia.org/wiki/Freedom_Expedition_of_Peru) |
+| 一八二一年七月二十八日在利马宣布秘鲁独立 | 属实 | [José de San Martín（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn) |
+| 一八二二年七月两人在瓜亚基尔会面，闭门密谈，内容没有可靠记录 | 属实（七月二十六至二十七日；细节至今有争论）；原「没有留下记录」改为「具体内容没有可靠记录」 | [Guayaquil conference（Wikipedia）](https://en.wikipedia.org/wiki/Guayaquil_conference) |
+| 会后圣马丁交出权力，远走法国，一八五〇年死在那里 | 属实（一八五〇年八月十七日死于滨海布洛涅） | [José de San Martín（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn) |
+| 一八二四年十二月九日阿亚库乔战役，苏克雷获胜，总督被俘 | 属实 | [Battle of Ayacucho（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Ayacucho) |
+| 第二年上秘鲁独立，以玻利瓦尔命名为玻利维亚 | 属实（玻利瓦尔任首任总统，一八二五年） | [Simón Bolívar（Wikipedia）](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) |
+| 伊图尔维德原是保王派军官，一八二一年倒戈，九月进墨西哥城 | 属实（九月二十七日；伊瓜拉计划二月二十四日） | [Agustín de Iturbide（Wikipedia）](https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide) |
+| 一八二二年加冕，不到一年退位，一八二四年回国被处决 | 属实（一八二二年七月二十一日加冕，一八二三年三月十九日退位，一八二四年七月十九日处决） | 同上 |
+| 一八二一年葡萄牙国王回里斯本，留下王子佩德罗 | 属实（一八二一年四月） | [Transfer of the Portuguese court to Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil) |
+| 一八二二年一月九日「我留下」 | 属实 | [Dia do Fico（Wikipedia）](https://en.wikipedia.org/wiki/Dia_do_Fico) |
+| 九月七日伊皮兰加河畔喊出「独立或死亡」，年底加冕 | 属实（十二月一日加冕） | [Independence of Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Independence_of_Brazil) |
+| 巴西保持统一，保留奴隶制 | 属实（学界通行说法） | [Lei Áurea（Wikipedia）](https://en.wikipedia.org/wiki/Lei_%C3%81urea) |
+| 一八二三年门罗宣言：欧洲不得再在美洲开拓新殖民地 | 属实（十二月二日国情咨文） | [Monroe Doctrine（Wikipedia）](https://en.wikipedia.org/wiki/Monroe_Doctrine) |
+| 大哥伦比亚一八三〇年前后分裂成三国 | 属实（一八三〇年底解体，一八三一年正式废止） | [Gran Colombia（Wikipedia）](https://en.wikipedia.org/wiki/Gran_Colombia) |
+| 一八三〇年十二月玻利瓦尔死于圣玛尔塔，肺结核，四十七岁 | 属实（十二月十七日） | [Simón Bolívar（Wikipedia）](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) |
+| 去世前不久感叹：为革命效力的人都是在海上犁地 | 属实（出自一八三〇年十一月九日致弗洛雷斯的信，常被引用） | [History of Ecuador (1830–1860)（Wikipedia）](https://en.wikipedia.org/wiki/History_of_Ecuador_%281830%E2%80%931860%29) ；[El Libertador: Writings of Simón Bolívar（OUP）](https://academic.oup.com/book/48662) |
+| 考迪罗：手握私人武装的地方强人 | 属实 | [Juan Manuel de Rosas（Wikipedia）](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) |
+| 圣安纳一八三三至一八五五年十一次出任总统，有的任期只有几个星期 | 属实（按通常算法十一次；旁白已注明「按通常的算法」） | [Antonio López de Santa Anna（Wikipedia）](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) |
+| 一八三八年糕点战争，起因之一是法国糕点师索赔 | 属实（一八三八年十一月至一八三九年三月；糕点师索赔六万比索） | [Pastry War（Wikipedia）](https://en.wikipedia.org/wiki/Pastry_War) |
+| 圣安纳在韦拉克鲁斯负伤失去一条腿 | 属实 | 同上 |
+| 一八四二年为这条腿举行隆重葬礼，两年后民众把腿挖出拖着游街 | 属实（一八四二年九月葬于墨西哥城圣保拉公墓，一八四四年被挖出） | [Antonio López de Santa Anna（Wikipedia）](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) ；[6 things you may not know about Santa Anna（History.com）](https://www.history.com/.amp/news/6-things-you-may-not-know-about-santa-anna) |
+| 一八三六年得克萨斯脱离墨西哥，后并入美国 | 属实（一八四五年并入） | [Antonio López de Santa Anna（Wikipedia）](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) |
+| 一八四六年美墨战争，美军打进墨西哥城；一八四八年二月和约，墨西哥失去约一半国土 | 属实（二月二日签约；按战前领土主张约百分之五十五） | [Treaty of Guadalupe Hidalgo（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) |
+| 签约九天前加利福尼亚发现金矿，消息还没传到谈判桌上 | 属实（一八四八年一月二十四日萨特磨坊） | [California gold rush（Wikipedia）](https://en.wikipedia.org/wiki/California_gold_rush) |
+| 同一时期鸦片战争刚结束 | 属实（一八四二年结束，后一章讲） | 本片「蒸汽、鸦片与明治」 |
+| 鸟粪时代，钦查群岛，十九世纪四十年代中期起二十来年 | 属实（约一八四五至一八六六年后） | [Guano Era（Wikipedia）](https://en.wikipedia.org/wiki/Guano_Era) |
+| 一八四九至一八七四年约十万华工被运到秘鲁 | 属实（估计八万至十万） | [Chinese Peruvians（Wikipedia）](https://en.wikipedia.org/wiki/Chinese_Peruvians) |
+| 同期运往古巴的十几万 | 属实（一八四七至一八七四年约十四万） | [Chinese Cubans（Wikipedia）](https://en.wikipedia.org/wiki/Chinese_Cubans) |
+| 契约看不懂、被债务拖住；秘鲁华工约一半死于劳累、虐待和自杀 | 属实（估计数字，旁白用「据估计」） | [Chinese Peruvians（Wikipedia）](https://en.wikipedia.org/wiki/Chinese_Peruvians) |
+| 地图标记：澳门为主要出发港 | 属实 | [Coolie trade（Wikipedia）](https://en.wikipedia.org/wiki/Coolie_trade) |
+| 胡亚雷斯一八〇六年生于瓦哈卡萨波特克人家庭，三岁成孤儿，十二岁前放羊、不会说西班牙语 | 属实 | [Benito Juárez（Wikipedia）](https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez) |
+| 墨西哥第一位原住民出身的总统 | 属实 | 同上 |
+| 一八六一年宣布暂停偿还外债，法国借机出兵 | 属实 | 同上；[Pastry War（Wikipedia）](https://en.wikipedia.org/wiki/Pastry_War) |
+| 一八六二年五月五日普埃布拉击退法军；五月五日节在美国比墨西哥更热闹，常被误当成独立日 | 属实 | [Cinco de Mayo（Wikipedia）](https://en.wikipedia.org/wiki/Cinco_de_Mayo) |
+| 第二年法军卷土重来 | 属实（一八六三年第二次普埃布拉之战后占领墨西哥城） | 同上 |
+| 马克西米利安是奥地利皇帝弟弟，一八六四年当墨西哥皇帝 | 属实 | [Maximilian I of Mexico（Wikipedia）](https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico) |
+| 美国内战结束后施压，法军撤走；一八六七年六月在克雷塔罗被处决 | 属实（六月十九日，钟山） | 同上 |
+| 胡亚雷斯名言：在个人之间，正如在国家之间，尊重他人的权利就是和平 | 属实（一八六七年七月十五日宣言） | [Manifiesto（UACJ 虚拟图书馆）](https://bivir.uacj.mx/BenitoJuarez/MANIFIESTO.pdf) ；[culturagenial](https://www.culturagenial.com/es/el-respeto-al-derecho-ajeno-es-la-paz/) |
+| 一八六四至一八七〇年巴拉圭战争，对巴西、阿根廷、乌拉圭；洛佩斯战死 | 属实（一八七〇年三月一日塞罗科拉） | [Paraguayan War（Wikipedia）](https://en.wikipedia.org/wiki/Paraguayan_War) |
+| 巴拉圭人口损失估计从不到一成到近七成 | 有争议，旁白已注明（学术估计从约百分之七到六十九） | [Paraguayan War casualties（Wikipedia）](https://en.wikipedia.org/wiki/Paraguayan_War_casualties) |
+| 同一时期中国刚平定太平天国、日本即将明治维新 | 属实（一八六四年天京陷落；一八六八年明治维新；后一章讲） | 本片「蒸汽、鸦片与明治」 |
+| 阿塔卡马硝石；一八七九年智利对秘鲁、玻利维亚的太平洋战争 | 属实（一八七九至一八八四） | [War of the Pacific（Wikipedia）](https://en.wikipedia.org/wiki/War_of_the_Pacific) ；[Guano Era（Wikipedia）](https://en.wikipedia.org/wiki/Guano_Era) |
+| 秘鲁失去塔拉帕卡，玻利维亚失去全部海岸线成为内陆国 | 属实 | [War of the Pacific（Wikipedia）](https://en.wikipedia.org/wiki/War_of_the_Pacific) |
+| 玻利维亚至今保留海军，在的的喀喀湖和河流上巡逻 | 属实 | [Bolivian Navy（Wikipedia）](https://en.wikipedia.org/wiki/Bolivian_Navy) |
+| 每年三月二十三日纪念海洋日 | 属实（一九六二年定为海洋日，纪念阿瓦罗阿） | [Bolivia celebra Día del Mar（Correo del Sur）](https://correodelsur.com/politica/20190323/bolivia-celebra-dia-del-mar-bajo-la-sombra-de-la-haya.html) |
+| 一八七七年前后，冷冻船第一次把冻肉从拉普拉塔河运到法国 | 属实（一八七七年「巴拉圭号」，出发港与到达港各说不一，旁白只说「拉普拉塔河」「法国」） | [Charles Tellier（Wikipedia）](https://en.wikipedia.org/wiki/Charles_Tellier) |
+| 大批意大利人和西班牙人移民阿根廷 | 属实（一八五七至一九四〇年意大利人约占四成三，西班牙人约占两成七） | [Immigration to Argentina（Wikipedia）](https://en.wikipedia.org/wiki/Immigration_to_Argentina) |
+| 二十世纪初阿根廷一度跻身世界最富国家之列 | 属实（一九一三年人均GDP约在前十，具体排名依数据而异，旁白用「一度跻身……之列」） | [The Rise and Fall of Argentina（Mercatus Center）](https://www.mercatus.org/research/working-papers/rise-and-fall-argentina) |
+| 一八九五年前后布宜诺斯艾利斯约一半居民是外国出生 | 属实（一八九五年首都为百分之五十二） | [Immigration to Argentina（Wikipedia）](https://en.wikipedia.org/wiki/Immigration_to_Argentina) |
+| 探戈十九世纪末诞生于布宜诺斯艾利斯和蒙得维的亚的底层，融合移民、非洲裔与本地文化 | 属实 | [Tango（UNESCO）](https://ich.unesco.org/en/RL/tango-00258) |
+| 起初被上流社会看不起，在巴黎走红后才在家乡翻身 | 属实（巴黎热潮约一九一一至一九一四年；因果关系有讨论） | [History of the tango（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_tango) ；[First Tango in Paris（Smithsonian）](https://www.smithsonianmag.com/arts-culture/first-tango-in-paris-made-stir-worth-remembering-180984505/) |
+| 二〇〇九年列入人类非物质文化遗产 | 属实（阿根廷、乌拉圭联合申报） | [Tango（UNESCO）](https://ich.unesco.org/en/RL/tango-00258) |
+| 被强行运到巴西的非洲人四百多万，约占跨大西洋奴隶贸易四成 | 属实（Slave Voyages 数据约四百八十六万人活着上岸） | [Lei Áurea（Wikipedia）](https://en.wikipedia.org/wiki/Lei_%C3%81urea) ；[Of Note: Voyages（Emory Magazine）](https://magazine.emory.edu/2009/spring/voyages.html) |
+| 一八八八年五月十三日伊莎贝尔公主代父理政时签署《黄金法》，巴西为美洲最后一个废奴国家 | 属实 | [Lei Áurea（Wikipedia）](https://en.wikipedia.org/wiki/Lei_%C3%81urea) |
+| 一八八九年十一月十五日几乎不流血的政变，成立共和国 | 属实（只有海军大臣一人受伤） | [Proclamation of the Republic (Brazil)（Wikipedia）](https://en.wikipedia.org/wiki/Proclamation_of_the_Republic_%28Brazil%29) |
+| 佩德罗二世在位五十八年，流亡，两年后死于巴黎；爱好天文、摄影，与许多科学家通信 | 属实（一八三一至一八八九；一八九一年十二月五日去世） | [Pedro II of Brazil（Wikipedia）](https://en.wikipedia.org/wiki/Pedro_II_of_Brazil) |
+| 十九世纪末西班牙在美洲只剩古巴和波多黎各 | 属实 | [Spanish–American War（Wikipedia）](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) |
+| 古巴一八六八年起打过十年战争 | 属实（一八六八至一八七八） | [Ten Years' War（Wikipedia）](https://en.wikipedia.org/wiki/Ten_Years%27_War) |
+| 马蒂流亡纽约，组织古巴革命党，一八九五年五月十九日在多斯里奥斯战死；诗句被改编成《关塔那梅拉》 | 属实（一八九二年建党；诗出自《纯朴的诗》） | [José Martí（Wikipedia）](https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD) ；[Battle of Dos Ríos（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Dos_R%C3%ADos) |
+| 一八九八年二月十五日缅因号在哈瓦那港爆炸，两百六十多人遇难 | 属实（各处统计二百六十一至二百六十八人） | [USS Maine (1889)（Wikipedia）](https://en.wikipedia.org/wiki/USS_Maine_%281889%29) |
+| 「记住缅因号」口号；原因有争论，一九七六年里科弗上将的调查认为更可能是煤舱自燃 | 属实 | 同上 |
+| 同年四月美西战争，不到四个月结束 | 属实（四月二十一日至八月十三日） | [Spanish–American War（Wikipedia）](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) |
+| 《巴黎条约》割让波多黎各、关岛、菲律宾，放弃古巴；古巴一九〇二年独立 | 属实（十二月十日签订） | 同上 |
+| 西班牙在美洲经营了四百年 | 属实（一四九二至一八九八年） | 同上 |
+| 一个世纪里拉美变成十几个独立国家 | 属实（一八九八年时约十八个） | — |
+
 ## 蒸汽、鸦片与明治
 
 | 说法 | 结果 | 来源 |
@@ -1384,6 +1562,199 @@
 | 1853 年佩里黑船来航；1868 年明治维新 | 属实 | [Matthew C. Perry（Wikipedia）](https://en.wikipedia.org/wiki/Matthew_C._Perry) |
 | 岩仓使节团考察欧美近两年；1872 年东京—横滨铁路通车 | 属实（1871 年 12 月—1873 年 9 月） | [Nippon.com](https://www.nippon.com/en/japan-topics/g00680/) |
 | 1894 年甲午战争；1895 年《马关条约》割台湾、赔款两亿两 | 属实（另有赎辽费三千万两） | [Treaty of Shimonoseki（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki) |
+
+## 英属印度
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一六〇〇年最后一天（十二月三十一日）伊丽莎白一世颁发特许状，受领人为两百多名伦敦商人（坎伯兰伯爵及另外二百一十八人） | 属实 | [East India Company（Wikipedia）](https://en.wikipedia.org/wiki/East_India_Company) |
+| 特许状授予好望角以东的贸易垄断 | 属实（好望角以东、麦哲伦海峡以西） | [East India Company（Wikipedia）](https://en.wikipedia.org/wiki/East_India_Company) |
+| 香料群岛被荷兰东印度公司把持，英国人转向印度 | 属实（安汶事件后荷兰在东印度群岛占上风；英国转向印度次大陆的决定在此之前已作出，旁白未提安汶事件） | [Amboyna massacre（Wikipedia）](https://en.wikipedia.org/wiki/Amboyna_massacre) |
+| 一六〇八年公司船只首次停靠苏拉特；一六一二年斯瓦利海战击败葡萄牙；一六一三年在苏拉特设第一个固定商馆 | 属实 | [East India Company（Wikipedia）](https://en.wikipedia.org/wiki/East_India_Company) |
+| 托马斯·罗此后（一六一六年初在阿杰梅尔）见贾汉吉尔（火药帝国章已讲） | 属实 | [Base People in a Little Island（LRB）](https://www.lrb.co.uk/the-paper/v45/n19/clare-jackson/base-people-in-a-little-island) |
+| 一六三九年弗朗西斯·戴从当地王公（钱德拉吉里王）得到马德拉斯一片土地；圣乔治堡一六四四年完工；是英国人在印度的第一座堡垒 | 属实（取得土地的日期有七月二十二日、八月二十二日两说，旁白只写年份） | [Francis Day (Madras)（Wikipedia）](https://en.wikipedia.org/wiki/Francis_Day_(Madras))；[Fort St. George（Wikipedia）](https://en.wikipedia.org/wiki/Fort_St._George) |
+| 马德拉斯今称金奈 | 属实（常识） | [Fort St. George（Wikipedia）](https://en.wikipedia.org/wiki/Fort_St._George) |
+| 一六六一年婚约，葡萄牙公主凯瑟琳嫁查理二世，孟买作为嫁妆 | 属实 | [History of Bombay under British rule（Wikipedia）](https://en.wikipedia.org/wiki/History_of_Bombay_under_British_rule_%281661%E2%80%931947%29)；[Seven Islands of Bombay（Wikipedia）](https://en.wikipedia.org/wiki/Seven_Islands_of_Bombay) |
+| 一六六八年查理二世把孟买租给东印度公司，年租十英镑 | 属实（一六六八年三月二十七日特许状） | [Seven Islands of Bombay（Wikipedia）](https://en.wikipedia.org/wiki/Seven_Islands_of_Bombay) |
+| 凯瑟琳让饮茶在英国宫廷流行，证据不多 | 有争议，旁白已注明（皮普斯一六六〇年已提到喝茶，在她来英之前） | [Catherine of Braganza（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_of_Braganza)；[Catherine of Braganza（UK Tea & Infusions Association）](https://www.tea.co.uk/catherine-of-braganza) |
+| 公司与莫卧儿打了几年仗（一六八六—一六九〇）后在加尔各答设新据点 | 属实 | [East India Company（Wikipedia）](https://en.wikipedia.org/wiki/East_India_Company) |
+| 一六九〇年八月（二十四日）乔布·查诺克在苏塔努蒂登岸；后来买下苏塔努蒂、戈宾德布尔、加尔各答三村 | 属实（三村于一六九八至一六九九年间买下） | [Charnock, Job（Banglapedia）](https://en.banglapedia.org/index.php/Charnock%2C_Job)；[Job Charnock（wmcarey.edu）](https://www.wmcarey.edu/carey/wmward/Misc%20html/jobcharnock.html) |
+| 加尔各答后来成为英属印度首都（至一九一一年） | 属实 | [Partition of Bengal (1905)（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)) |
+| 一七四六年法军攻下马德拉斯，一七四八年《亚琛和约》法国归还马德拉斯，换回被英军占领的路易斯堡 | 属实 | [Carnatic wars（Wikipedia）](https://en.wikipedia.org/wiki/Carnatic_wars)；[Battle of Madras（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Madras) |
+| 西帕依（sepoy）一词来自波斯语 sipāhī，意为士兵 | 属实 | [sepoy（Dictionary.com）](https://www.dictionary.com/browse/sepoy) |
+| 一七五六年（六月二十日）西拉杰·乌德-达乌拉攻下加尔各答；黑洞事件，霍尔韦尔称关押一百四十六人，后世史家认为人数少得多 | 属实（沃尔珀特估计六十四人被关；旁白写「当事人说」「人数要少得多」） | [Black Hole of Calcutta（Wikipedia）](https://en.wikipedia.org/wiki/Black_Hole_of_Calcutta) |
+| 克莱武收复加尔各答（一七五七年一月） | 属实 | [Black Hole of Calcutta（Wikipedia）](https://en.wikipedia.org/wiki/Black_Hole_of_Calcutta) |
+| 一七五七年六月二十三日普拉西之战；克莱武约三千人，纳瓦卜约五万人；米尔·贾法尔密约倒戈、按兵不动；大雨打湿纳瓦卜火药，英军用油布遮盖 | 属实 | [Battle of Plassey（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Plassey) |
+| 纳瓦卜逃走后被杀；米尔·贾法尔成为新纳瓦卜 | 属实（七月二日被米尔·贾法尔之子下令杀害） | [Battle of Plassey（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Plassey) |
+| 米尔·贾法尔的名字在孟加拉成了叛徒的代名词 | 属实 | [The Betrayal of Bengal（Brewminate）](https://brewminate.com/the-betrayal-of-bengal-mir-jafar-and-the-genesis-of-british-empire-in-india/) |
+| 克莱武从孟加拉得到巨额财富 | 属实（自穆尔希达巴德国库取十六万英镑，另有年金等） | [Robert Clive（Wikipedia）](https://en.wikipedia.org/wiki/Robert_Clive) |
+| 克莱武在议会受质询时说「我对自己的克制感到吃惊」 | 属实（措辞与日期有一七七二、一七七三两说，旁白用「据说」并意译） | [Robert Clive（Wikiquote）](https://en.wikiquote.org/wiki/Robert_Clive)；[Macaulay on Clive（franpritchett.com）](https://franpritchett.com/00generallinks/macaulay/clive/clive17.html) |
+| 一七六四年布克萨尔之战，公司击败米尔·卡西姆、奥德纳瓦卜舒贾·乌德-达乌拉、沙·阿拉姆二世联军 | 属实 | [Battle of Buxar（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Buxar) |
+| 一七六五年阿拉哈巴德条约，沙·阿拉姆二世把孟加拉、比哈尔、奥里萨的财税权（迪瓦尼）交给公司 | 属实 | [Battle of Buxar（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Buxar) |
+| 一七六九—一七七〇年孟加拉大饥荒；当时报告称死亡约三分之一人口；现代估计从约一百万到七百万至一千万不等 | 属实，旁白已注明争议 | [Bengal famine of 1770（Wikipedia）](https://en.wikipedia.org/wiki/Bengal_famine_of_1770) |
+| 饥荒中公司仍在征税 | 属实（一七七〇年议会甚至因收入目标把税提高百分之十） | [Bengal famine of 1770（Wikipedia）](https://en.wikipedia.org/wiki/Bengal_famine_of_1770) |
+| 一七七三年议会加强管束公司（《调节法》），并通过《茶叶法》帮公司把积压茶叶卖到北美 | 属实 | [Boston Tea Party（Britannica）](https://www.britannica.com/event/Boston-Tea-Party) |
+| 波士顿倾茶倒掉三百四十二箱东印度公司茶叶（革命的时代章已讲） | 属实 | [Boston Tea Party（Britannica）](https://www.britannica.com/event/Boston-Tea-Party)；[The Gazette](https://www.thegazette.co.uk/all-notices/content/285) |
+| 海德尔·阿里与提普苏丹两代人与英国打了四次迈索尔战争 | 属实（一七六七—一七九九） | [Mysorean rockets（Wikipedia）](https://en.wikipedia.org/wiki/Mysorean_rockets) |
+| 迈索尔火箭用铁管、射程一两公里 | 属实（约九百一十米至两公里） | [Mysorean rockets（Wikipedia）](https://en.wikipedia.org/wiki/Mysorean_rockets) |
+| 一七八〇年波利鲁尔之战，一枚火箭可能引爆英军弹药，英军大败 | 属实（维基用「被认为」，旁白用「据说」） | [Mysorean rockets（Wikipedia）](https://en.wikipedia.org/wiki/Mysorean_rockets) |
+| 威廉·琼斯是加尔各答法官，一七八六年（二月二日演讲）提出梵语、希腊语、拉丁语出自共同源头，常被视为比较语言学的开端 | 属实（他不是第一个注意到的人，旁白写「最早……之一」） | [William Jones (philologist)（Wikipedia）](https://en.wikipedia.org/wiki/William_Jones_(philologist)) |
+| 「草原上的骑手」章讲过印欧语系 | 属实（steppe.js 颜那亚人一镜） | 本项目 src/scenes/steppe.js |
+| 一七九九年五月（四日）英军攻破塞林伽帕坦，提普苏丹战死 | 属实 | [Siege of Seringapatam (1799)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)) |
+| 提普之虎：木制老虎扑咬穿欧洲服装的人，转动摇柄，风琴发出人的哀号和老虎的低吼；现藏维多利亚与艾伯特博物馆 | 属实 | [Tipu's Tiger（Wikipedia）](https://en.wikipedia.org/wiki/Tipu%27s_Tiger)；[V&A 藏品 O61949](https://api.vam.ac.uk/v2/object/O61949) |
+| 缴获的迈索尔火箭运回英国研究，一八〇五年造出康格里夫火箭 | 属实（伍利奇兵工厂一八〇一年起研究，一八〇五年演示，旁白用「前后」） | [Mysorean rockets（Wikipedia）](https://en.wikipedia.org/wiki/Mysorean_rockets) |
+| 一八一四年康格里夫火箭用于巴尔的摩之战，美国国歌「火箭红光」一句指的就是它 | 属实 | [Mysorean rockets（Wikipedia）](https://en.wikipedia.org/wiki/Mysorean_rockets) |
+| 阿瑟·韦尔斯利参加攻打塞林伽帕坦，后来成为威灵顿公爵（滑铁卢在革命的时代章已讲） | 属实（指挥预备队） | [Siege of Seringapatam (1799)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)) |
+| 一八〇三年阿萨耶之战；威灵顿说那是他见过的「按兵力算最血腥」的一仗 | 属实 | [The Battle of Assaye（History Today）](https://www.historytoday.com/archive/months-past/battle-assaye) |
+| 一八〇三年英军进入德里，沙·阿拉姆二世受英国保护；他已双目失明（一七八八年被古拉姆·卡迪尔弄瞎） | 属实 | [Battle of Delhi (1803)（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Delhi_(1803))；[Shah Alam II（Wikipedia）](https://en.wikipedia.org/wiki/Shah_Alam_II) |
+| 公司军队二十多万人，比英国本土陆军还多 | 属实（维基：约二十六万人，某些时期为英国陆军的两倍） | [East India Company（Wikipedia）](https://en.wikipedia.org/wiki/East_India_Company) |
+| 一八一〇年萨克·迪恩·穆罕默德在伦敦开印度餐馆；后在布莱顿开蒸汽浴（一八一四年）；任乔治四世、威廉四世的「洗发按摩师」 | 属实 | [Sake Dean Mahomed（Wikipedia）](https://en.wikipedia.org/wiki/Sake_Dean_Mahomed) |
+| shampoo 来自印地语（印度斯坦语）chāmpo，按摩、揉搓 | 属实 | [List of English words of Hindi or Urdu origin（Wikipedia）](https://en.wikipedia.org/wiki/List_of_English_words_of_Hindi_or_Urdu_origin) |
+| bungalow 原意孟加拉式房子；pyjamas 原意腿衣；jungle 来自梵语「荒地」；khaki 尘土色（乌尔都语）；loot 来自印地语 | 属实 | [List of English words of Hindi or Urdu origin（Wikipedia）](https://en.wikipedia.org/wiki/List_of_English_words_of_Hindi_or_Urdu_origin)；[khaki（wordorigins.org）](https://www.wordorigins.org/big-list-entries/khaki) |
+| 英国机织布低关税进入印度，印度布在英国被课重税；到十九世纪中叶印度失去出口市场，成为出口原棉、进口英国布的地方；失业规模学界有争论 | 属实（关税数字来自普及性资料，旁白不写具体数字；去工业化程度学界有争论，旁白已注明） | [India's De-Industrialization Under British Rule（NBER）](https://www.nber.org/papers/w10586)；[Deindustrialisation in Colonial India（GKToday）](https://www.gktoday.in/deindustrialisation-in-colonial-india/) |
+| 一八二九年（十二月四日）总督本廷克颁令禁止萨蒂；拉姆·莫汉·罗伊是主要倡导者 | 属实 | [Bengal Sati Regulation, 1829（Wikipedia）](https://en.wikipedia.org/wiki/Bengal_Sati_Regulation,_1829) |
+| 一八三三年法案结束公司全部商业活动（含对华茶叶垄断），公司成为纯行政机构 | 属实 | [Saint Helena Act 1833（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Helena_Act_1833) |
+| 一八三五年麦考莱教育备忘录；自承不懂梵文和阿拉伯文；「好图书馆的一架书抵得上印度和阿拉伯的全部本土文献」 | 属实（一八三五年二月二日） | [Macaulay's Minute（franpritchett.com，原文）](https://franpritchett.com/00generallinks/macaulay/txt_minute_education_1835.html)；[Scroll.in](https://scroll.in/magazine/821605/thomas-macaulay-and-the-debate-over-english-education-in-india) |
+| 读英文书长大的印度人后来用英国的自由观念要求英国人离开 | 属实（概括性说法，国大党早期领袖多受英式教育） | [History of the Indian National Congress（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Indian_National_Congress) |
+| 鸦片战争前面讲过（蒸汽、鸦片与明治章） | 属实 | 本项目 src/scenes/steam-opium-meiji.js |
+| 孟加拉鸦片由公司（后为政府）垄断，在巴特那、加济布尔工厂加工，加尔各答拍卖，运往中国 | 属实 | [Bengal Opium: a study in continuity（Engelsberg Ideas）](https://engelsbergideas.com/essays/bengal-opium-a-study-in-continuity/) |
+| 鸦片是英属印度最重要的财源之一 | 属实（有说第二大，有说第三大，仅次于土地税和盐税；旁白只写「之一」） | [Bengal Opium（Engelsberg Ideas）](https://engelsbergideas.com/essays/bengal-opium-a-study-in-continuity/)；[Opium Inc.（Asian Review of Books）](https://asianreviewofbooks.com/content/opium-inc-how-a-global-drug-trade-funded-the-british-empire-by-thomas-manuel/) |
+| 十九世纪后期持证种罂粟的农民一度多达一百五十万户 | 属实（十九世纪七八十年代之交孟加拉垄断「持证者超过一百五十万」） | [Bengal Opium（Engelsberg Ideas）](https://engelsbergideas.com/essays/bengal-opium-a-study-in-continuity/) |
+| 一八二三年罗伯特·布鲁斯在阿萨姆发现当地辛福（景颇）人饮用野生茶 | 属实（Singpho 即中国境内的景颇族同源族群） | [Assam tea（Wikipedia）](https://en.wikipedia.org/wiki/Assam_tea) |
+| 第一批阿萨姆茶一八三九年一月在伦敦拍卖 | 属实 | [Assam tea（Wikipedia）](https://en.wikipedia.org/wiki/Assam_tea) |
+| 一八四八年起福琼扮成中国商人深入内地，把茶树和工匠带到印度喜马拉雅山麓 | 属实 | [Robert Fortune（Wikipedia）](https://en.wikipedia.org/wiki/Robert_Fortune) |
+| 一八五三年四月十六日孟买（博里本德尔）至塔纳首列客车，三十四公里，三台机车苏丹、信德、萨希布，十四节车厢、约四百名乘客 | 属实 | [Thane railway station（Wikipedia）](https://en.wikipedia.org/wiki/Thane_railway_station)；[Great Indian Peninsula Railway（Grace's Guide）](https://gracesguide.co.uk/Great_Indian_Peninsula_Railway) |
+| 到一九〇〇年印度铁路长约四万公里 | 属实（营业里程二万四千七百五十二英里，约三万九千八百公里） | [Railways in colonial India（UC Irvine, Bogart & Chaudhary）](https://sites.socsci.uci.edu/~dbogart/indraileconachieve.pdf) |
+| 达尔豪西推行失权原则，无亲生男嗣领地由公司收走，詹西因此被吞并；一八五六年以治理不善为由吞并奥德 | 属实（詹西一八五三或一八五四年） | [Doctrine of lapse（Wikipedia）](https://en.wikipedia.org/wiki/Doctrine_of_lapse) |
+| 一八五七年五月十日密拉特士兵起事；子弹涂牛油猪油的传言；拥立八十多岁（八十一岁）的巴哈杜尔·沙二世 | 属实（传言是否属实学界有争论，旁白写「传言」） | [Indian Rebellion of 1857（Wikipedia）](https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857) |
+| 坎普尔投降的英国人遭屠杀，近两百名妇女儿童被杀（比比加尔）；英军报复：烧村、绞死、炮口处决；九月收复德里 | 属实（被关押二百零六名妇女儿童，约二十五人病死，其余被杀） | [Indian Rebellion of 1857（Wikipedia）](https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857) |
+| 詹西女王拉克希米·芭伊一八五八年六月在瓜廖尔附近阵亡，年纪很轻 | 属实（十七日或十八日两说；生年一八二八或一八三五年两说，旁白不写具体年龄） | [Lakshmi Bai（Britannica）](https://www.britannica.com/biography/Lakshmi-Bai) |
+| 起义中印度人可能死亡八十万，英国人约六千 | 属实（维基估计，旁白注明说法差别很大） | [Indian Rebellion of 1857（Wikipedia）](https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857) |
+| 一八五八年《印度政府法》，公司统治结束，王室直接统治 | 属实（八月二日御准，十一月一日生效） | [Government of India Act 1858（Wikipedia）](https://en.wikipedia.org/wiki/Government_of_India_Act_1858) |
+| 末代莫卧儿皇帝流放仰光，一八六二年（十一月七日）去世 | 属实 | [Bahadur Shah Zafar（Wikipedia）](https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar) |
+| 莫卧儿王朝从巴布尔算起延续三百多年 | 属实（一五二六—一八五七） | [Bahadur Shah Zafar（Wikipedia）](https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar) |
+| 约五分之三土地英国直接统治，其余五百多个土邦 | 属实（一九四七年承认的土邦五百六十五个，约占面积百分之四十） | [Princely state（Wikipedia）](https://en.wikipedia.org/wiki/Princely_state) |
+| 一九〇〇年前后约一千名英国文官管理近三亿人 | 属实 | [The Ruling Caste（David Gilmour，Penguin）](https://www.penguin.co.uk/books/367530/the-ruling-caste-by-david-gilmour/9780712665650) |
+| 一八七七年元旦总督利顿在德里举行典礼，宣布维多利亚为印度女皇 | 属实 | [Queen Victoria Becomes Empress of India（Open University）](https://university.open.ac.uk/research-projects/making-britain/content/queen-victoria-becomes-empress-india) |
+| 维多利亚从未去过印度 | 属实 | [Royal Collection Trust](https://www.rct.uk/collection/themes/exhibitions/treasures-from-the-royal-archives/windsor-castle/ra-vicmainqvjhind21894) |
+| 她晚年（一八八七年起）跟印度侍从阿卜杜勒·卡里姆学乌尔都语（印度斯坦语），并写日记 | 属实 | [Queen Victoria's Hindustani diary（English Heritage）](https://www.english-heritage.org.uk/about/search-news/queen-victorias-hindustani-diary-on-display-for-the-first-time-at-osborne/) |
+| 典礼时印度南部正闹大饥荒 | 属实 | [Lytton, Lord Edward Robert（Banglapedia）](https://en.banglapedia.org/index.php/Lytton,_Lord_Edward_Robert) |
+| 一八七六—一八七八年大饥荒死亡约五六百万到九百多万；饥荒期间粮食仍出口；救济营口粮（坦普尔工资）被压低 | 属实（维基：五百六十万至九百六十万） | [Great Famine of 1876–1878（Wikipedia）](https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878) |
+| 十九世纪末又接连两次大饥荒（一八九六—一八九七、一八九九—一九〇〇） | 属实 | [Indian famine of 1896–1897（Wikipedia）](https://en.wikipedia.org/wiki/Indian_famine_of_1896%E2%80%931897)；[Indian famine of 1899–1900（Wikipedia）](https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900) |
+| 鼠疫从云南（一八五五）经香港（一八九四）传到孟买（一八九六），此后二十多年在印度死亡约一千万 | 属实（维基：英属印度一千万至一千二百万） | [Third plague pandemic（Wikipedia）](https://en.wikipedia.org/wiki/Third_plague_pandemic) |
+| 契约劳工自一八三四年起（首船赴毛里求斯），一百多万印度人前往毛里求斯、加勒比、斐济、南非等地 | 属实（维基统计约一百六十万） | [Indian indenture system（Wikipedia）](https://en.wikipedia.org/wiki/Indian_indenture_system) |
+| 今天毛里求斯约三分之二人口为印度裔 | 属实（维基百分之六十六；大英百科称超过七成为契约劳工后代，旁白取「约三分之二」） | [Indian indenture system（Wikipedia）](https://en.wikipedia.org/wiki/Indian_indenture_system)；[Aapravasi Ghat（UNESCO）](https://whc.unesco.org/en/list/1227) |
+| 一八八五年十二月（二十八日）七十二名代表在孟买成立国大党；退休英国官员休姆是组织者之一 | 属实 | [History of the Indian National Congress（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Indian_National_Congress) |
+| 瑙罗吉是帕西人，提出财富流失论，一八九二年以五票之差当选英国下院议员 | 属实 | [Dadabhai Naoroji（Wikipedia）](https://en.wikipedia.org/wiki/Dadabhai_Naoroji) |
+| 「伊朗高原」章讲过帕西人 | 属实 | 本项目 src/scenes/iran.js |
+| 一八八六年帕西人板球队访英，是第一支访英的印度球队，二十八场只赢一场 | 属实 | [Parsis cricket team in England in 1886（Wikipedia）](https://en.wikipedia.org/wiki/Parsis_cricket_team_in_England_in_1886)；[Wisden](https://www.wisden.com/cricket-features/the-parsee-pioneers-of-1886-trophy-cricket-tour) |
+| 一八九六年兰吉特辛吉代表英格兰对澳大利亚首场测试赛，第二局一百五十四分不败 | 属实（一八九六年七月十六日，第一局六十二分） | [K. S. Ranjitsinhji（Wikipedia）](https://en.wikipedia.org/wiki/K._S._Ranjitsinhji) |
+| 一八九三年六月七日夜甘地在彼得马里茨堡被赶下头等车厢；他持头等票，白人乘客反对；在候车室过夜后决定留在南非抗争；时年二十三岁 | 属实（甘地生于一八六九年十月） | [Gandhi at Pietermaritzburg（UCLA）](https://southasia.ucla.edu/history-politics/gandhi/pietermaritzburg/)；[Tribune India](https://www.tribuneindia.com/2013/20130327/main2.htm) |
+| 一九〇五年十月十六日寇松孟加拉分治生效，东部以穆斯林为主；被批评为分而治之 | 属实 | [Partition of Bengal (1905)（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)) |
+| 抵制英货、使用国货（司瓦德西）运动，改穿本地手织布 | 属实（原稿「当众焚烧英国布」未能找到一九〇五年的可靠来源，已改为「许多人改穿本地织的土布」） | [Swadeshi movement（Wikipedia）](https://en.wikipedia.org/wiki/Swadeshi_movement) |
+| 泰戈尔号召印度教徒与穆斯林互系手绳（拉基）象征团结 | 属实 | [Scroll.in](https://scroll.in/magazine/846275/scroll_in)；[1947 Partition Archive](https://www.1947PartitionArchive.org/node/3231) |
+| 《金色的孟加拉》写于这一时期，后成为孟加拉国国歌；印度国歌《人民的意志》也是泰戈尔作品 | 属实（写作年份一般说一九〇五年，原稿已佚，旁白写「这一时期」） | [Amar Sonar Bangla（Wikipedia）](https://en.wikipedia.org/wiki/Amar_Sonar_Bangla)；[Rabindranath Tagore（Wikipedia）](https://en.wikipedia.org/wiki/Rabindranath_Tagore) |
+| 一九一一年撤销孟加拉分治，首都从加尔各答迁往德里 | 属实（十二月十二日德里杜尔巴宣布） | [Partition of Bengal (1905)（Wikipedia）](https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)) |
+
+## 十九世纪的非洲
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 跨大西洋奴隶贸易持续三百多年（呼应大航海章） | 属实（十六到十九世纪，前文已核） | 见「大航海」章核对表 |
+| 一八〇七年英国议会通过法案，禁止英国人贩卖奴隶 | 属实（1807 年 3 月 25 日御准，5 月 1 日生效） | [Slave Trade Act 1807（Wikipedia）](https://en.wikipedia.org/wiki/Slave_Trade_Act_1807) |
+| 一八〇八年起美国禁止从海外输入奴隶 | 属实（1807 年 3 月 2 日签署，1808 年 1 月 1 日生效） | [Act Prohibiting Importation of Slaves（Wikipedia）](https://en.wikipedia.org/wiki/Act_Prohibiting_Importation_of_Slaves) |
+| 禁的只是买卖，奴隶制本身后来才废除 | 属实（英帝国 1833 年《废奴法》才废除奴隶制） | [Slave Trade Act 1807（Wikipedia）](https://en.wikipedia.org/wiki/Slave_Trade_Act_1807) |
+| 一八〇八年英国海军组建西非分舰队 | 属实 | [West Africa Squadron（Wikipedia）](https://en.wikipedia.org/wiki/West_Africa_Squadron) |
+| 到一八六〇年前后截获约一千六百艘船、解救约十五万人 | 属实（1807–1860 年数字） | [West Africa Squadron（Wikipedia）](https://en.wikipedia.org/wiki/West_Africa_Squadron) |
+| 一八三〇到一八六五年近一千六百名水兵死亡，大多死于疾病 | 属实 | [West Africa Squadron（Wikipedia）](https://en.wikipedia.org/wiki/West_Africa_Squadron) |
+| 一八一〇到一八六〇年间仍有三百五十多万非洲人被运过大西洋 | 属实（「over 3.5 million」） | [Atlantic slave trade（Wikipedia）](https://en.wikipedia.org/wiki/Atlantic_slave_trade) |
+| 巴西一八五〇年才彻底禁止奴隶贸易 | 属实（1850 年 9 月 4 日《欧塞比奥·德·克罗斯法》；此后仍有零星走私到约 1856 年） | [Eusébio de Queirós Law（Wikipedia）](https://en.wikipedia.org/wiki/Eus%C3%A9bio_de_Queir%C3%B3s_Law)；[Atlantic slave trade（Wikipedia）](https://en.wikipedia.org/wiki/Atlantic_slave_trade) |
+| 已知最后一艘运奴船一八六七年抵达古巴 | 属实 | [Atlantic slave trade（Wikipedia）](https://en.wikipedia.org/wiki/Atlantic_slave_trade) |
+| 弗里敦建于一七九二年，最早居民是一千一百多名从新斯科舍来的黑人（独立战争中为英方效力的黑人效忠派） | 属实（1792 年 3 月 11 日；约 1,196 人） | [Freetown（Wikipedia）](https://en.wikipedia.org/wiki/Freetown) |
+| 一八〇八年弗里敦成为英国殖民地；被解救者多被送到这里安家 | 属实 | [Freetown（Wikipedia）](https://en.wikipedia.org/wiki/Freetown) |
+| 一八〇四年乌斯曼·丹·福迪奥发动圣战；同年海地独立（呼应革命的时代章） | 属实 | [Usman dan Fodio（Wikipedia）](https://en.wikipedia.org/wiki/Usman_dan_Fodio) |
+| 乌斯曼写了一百多部著作；年近五十（生于 1754 年） | 属实（Balogun 列出 115 部） | [Usman dan Fodio（Wikipedia）](https://en.wikipedia.org/wiki/Usman_dan_Fodio) |
+| 索科托哈里发国下辖三十多个酋长国，一八三〇年代人口估计一千万到两千万 | 属实（1837 年估计） | [Sokoto Caliphate（Wikipedia）](https://en.wikipedia.org/wiki/Sokoto_Caliphate) |
+| 当时撒哈拉以南最大的国家 | 属实 | [Usman dan Fodio（Wikipedia）](https://en.wikipedia.org/wiki/Usman_dan_Fodio)；[Sokoto Caliphate（Wikipedia）](https://en.wikipedia.org/wiki/Sokoto_Caliphate) |
+| 经济大量依靠奴隶劳动 | 属实（1900 年约有 100 万到 250 万奴隶） | [Sokoto Caliphate（Wikipedia）](https://en.wikipedia.org/wiki/Sokoto_Caliphate) |
+| 今天尼日利亚仍有索科托苏丹，被许多穆斯林视为精神领袖 | 属实（现任阿布巴卡尔三世，2006 年起） | [Sultan of Sokoto（Wikipedia）](https://en.wikipedia.org/wiki/Sultan_of_Sokoto) |
+| 纳娜·阿斯玛乌通晓阿拉伯语、富拉尼语、豪萨语、图阿雷格语，留下六十多部作品 | 属实 | [Nana Asma'u（Wikipedia）](https://en.wikipedia.org/wiki/Nana_Asma%27u) |
+| 约一八三〇年起培养女教师（贾吉），用诗歌把知识带给妇女 | 属实 | [Nana Asma'u（Wikipedia）](https://en.wikipedia.org/wiki/Nana_Asma%27u) |
+| 穆罕默德·阿里阿尔巴尼亚出身，随奥斯曼军来埃及驱逐法军，一八〇五年任埃及总督 | 属实 | [Muhammad Ali of Egypt（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt) |
+| 一八一一年开罗城堡设宴屠杀马穆鲁克首领 | 属实（死亡人数说法从 74 到近 500 不等，旁白未写人数） | [Muhammad Ali of Egypt（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt) |
+| 征兵练新军、办工厂学校、派学生去欧洲、推广棉花 | 属实 | [Muhammad Ali of Egypt（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt) |
+| 一八二〇年起征服苏丹，掠夺黄金和奴隶；次年（1821）建喀土穆 | 属实 | [Muhammad Ali of Egypt（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt)；[Khartoum（Wikipedia）](https://en.wikipedia.org/wiki/Khartoum) |
+| 他开创的王朝统治埃及到一九五二年 | 属实 | [Muhammad Ali of Egypt（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt) |
+| 一八一六年恰卡成为祖鲁首领 | 属实 | [Shaka（Wikipedia）](https://en.wikipedia.org/wiki/Shaka) |
+| 按年龄编军团、短柄刺矛、牛角阵；很多改革并非他一人发明 | 属实（刺矛并非他首创，旁白写「据说推广」；学界有争论，旁白已注明） | [Shaka（Wikipedia）](https://en.wikipedia.org/wiki/Shaka) |
+| 祖鲁统治约二十五万人；一八二八年恰卡被同父异母兄弟刺杀 | 属实（丁冈和姆兰加纳） | [Shaka（Wikipedia）](https://en.wikipedia.org/wiki/Shaka) |
+| 姆菲卡尼原因学界有争论，今认为有干旱、奴隶贸易、殖民扩张等多种原因 | 有争论，旁白已注明（Cobbing 1988 年的批评及之后的共识） | [Mfecane（Wikipedia）](https://en.wikipedia.org/wiki/Mfecane) |
+| 莫舒舒一八二四年连夜登上塔巴博修，意为夜晚之山 | 属实（1824 年 7 月） | [Thaba Bosiu（Wikipedia）](https://en.wikipedia.org/wiki/Thaba_Bosiu) |
+| 他放出风声说山在夜里会长高 | 传说，旁白已注明「传说」 | [Thaba Bosiu（Wikipedia）](https://en.wikipedia.org/wiki/Thaba_Bosiu) |
+| 塔巴博修从没被攻破 | 属实（1865 年布尔人曾攻到半山，未能攻下） | [Thaba Bosiu（Wikipedia）](https://en.wikipedia.org/wiki/Thaba_Bosiu)；[South African Military History Society](https://www.samilitaryhistory.org/vol163ds.html) |
+| 莱索托四面被南非包围 | 属实 | [Lesotho（Wikipedia）](https://en.wikipedia.org/wiki/Lesotho) |
+| 拉纳瓦洛纳一世一八二八年即位，统治三十三年（至 1861） | 属实 | [Ranavalona I（Wikipedia）](https://en.wikipedia.org/wiki/Ranavalona_I) |
+| 一八三五年禁止臣民信基督教，迫害信徒，常用毒果（坦盖纳）审判 | 属实 | [Ranavalona I（Wikipedia）](https://en.wikipedia.org/wiki/Ranavalona_I) |
+| 留用遇海难的法国人（让·拉博尔德）造枪炮 | 属实 | [Ranavalona I（Wikipedia）](https://en.wikipedia.org/wiki/Ranavalona_I) |
+| 一八二七年阿尔及尔统治者为拖了近三十年的欠款用蝇拂抽法国领事 | 属实（1799 年起的债务，28 年） | [Invasion of Algiers in 1830（Wikipedia）](https://en.wikipedia.org/wiki/Invasion_of_Algiers_in_1830) |
+| 一八三〇年法国占领阿尔及尔 | 属实（6 月 14 日登陆） | [Invasion of Algiers in 1830（Wikipedia）](https://en.wikipedia.org/wiki/Invasion_of_Algiers_in_1830) |
+| 阿卜杜·卡迪尔抵抗十五年，一八四七年投降 | 属实（1832 年任埃米尔，1847 年 12 月投降） | [Abdelkader El Djezairi（Wikipedia）](https://en.wikipedia.org/wiki/Abdelkader_El_Djezairi) |
+| 一八三六年前后约一万两千名布尔人大迁徙；不满英国统治与废奴 | 属实 | [Great Trek（Wikipedia）](https://en.wikipedia.org/wiki/Great_Trek) |
+| 一八三八年十二月十六日血河之战：约四百七十名布尔人；布尔人三人受伤，祖鲁一方据称三千多人死亡 | 属实（464 人另加约 200 仆从；祖鲁死亡数有学者怀疑，旁白写「据称」；祖鲁兵力说法从约一万到两三万不等，旁白改为「上万」） | [Battle of Blood River（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Blood_River) |
+| 河水被染红因而得名血河 | 据说，旁白已注明（南非历史在线采此说） | [Blood River（South African History Online）](https://sahistory.org.za/node/16623)；[Blood River（Wikipedia）](https://en.wikipedia.org/wiki/Blood_River) |
+| 十二月十六日今为南非和解日 | 属实 | [Battle of Blood River（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Blood_River) |
+| 一八四〇年赛义德把都城从马斯喀特迁到桑给巴尔；同年鸦片战争（呼应蒸汽、鸦片与明治章） | 属实 | [Said bin Sultan（Wikipedia）](https://en.wikipedia.org/wiki/Said_bin_Sultan) |
+| 桑给巴尔成为世界上最重要的丁香产地，种植园使用奴隶 | 属实（「九成」之说来源较弱，旁白未用） | [Sultanate of Zanzibar（BlackPast）](https://blackpast.org/gah/sultanate-zanzibar-1856-1964)；[Spice Migrations: Cloves（AramcoWorld）](https://aramcoworld.com/articles/2021/spice-migrations-cloves) |
+| 一八四七年利比里亚独立；美国殖民协会一八二二年起安置自由黑人 | 属实（7 月 26 日） | [Liberia（Wikipedia）](https://en.wikipedia.org/wiki/Liberia) |
+| 蒙罗维亚以门罗总统命名 | 属实 | [Monrovia（Wikipedia）](https://en.wikipedia.org/wiki/Monrovia) |
+| 移民后代长期把持政权，原住民一九〇四年才获出生公民权 | 属实 | [Liberia（Wikipedia）](https://en.wikipedia.org/wiki/Liberia) |
+| 利文斯通从罗安达出发横穿大陆到印度洋岸（1854–1856） | 属实 | [David Livingstone（Wikipedia）](https://en.wikipedia.org/wiki/David_Livingstone) |
+| 一八五五年十一月成为有记载的第一个见到维多利亚瀑布的欧洲人；当地名意为「轰鸣的烟雾」 | 属实（1855 年 11 月 16 日） | [Victoria Falls（Wikipedia）](https://en.wikipedia.org/wiki/Victoria_Falls) |
+| 埃塞俄比亚十八世纪后期陷入王子时代；卡萨一八五五年加冕为特沃德罗斯二世，重新统一 | 属实（王子时代 1769–1855） | [Tewodros II（Wikipedia）](https://en.wikipedia.org/wiki/Tewodros_II) |
+| 写信给维多利亚女王请求工匠未获回音，扣押英国领事和传教士 | 属实 | [Tewodros II（Wikipedia）](https://en.wikipedia.org/wiki/Tewodros_II) |
+| 一八六八年英国派一万三千名英印士兵，用大象驮运大炮 | 属实（另有约 2.6 万随军人员；从印度运来 44 头大象） | [British Expedition to Abyssinia（Wikipedia）](https://en.wikipedia.org/wiki/British_Expedition_to_Abyssinia) |
+| 四月马格达拉被攻破，皇帝用女王赠送的手枪自尽；英军掠走大批手稿和圣物 | 属实（4 月 13 日） | [British Expedition to Abyssinia（Wikipedia）](https://en.wikipedia.org/wiki/British_Expedition_to_Abyssinia) |
+| 一八六九年十一月十七日苏伊士运河通航，全长约一百九十公里 | 属实（193.3 公里） | [Suez Canal（Wikipedia）](https://en.wikipedia.org/wiki/Suez_Canal) |
+| 最初几年用强征劳工 | 属实（徭役用到 1864 年） | [Suez Canal（Wikipedia）](https://en.wikipedia.org/wiki/Suez_Canal) |
+| 一八七五年埃及把运河股份卖给英国 | 属实（44% 股份，400 万英镑） | [Suez Canal（Wikipedia）](https://en.wikipedia.org/wiki/Suez_Canal) |
+| 一八八二年英军占领埃及 | 属实 | [Anglo-Egyptian War（Wikipedia）](https://en.wikipedia.org/wiki/Anglo-Egyptian_War) |
+| 利文斯通寻找尼罗河源头；《纽约先驱报》派斯坦利寻找 | 属实 | [Henry Morton Stanley（Wikipedia）](https://en.wikipedia.org/wiki/Henry_Morton_Stanley)；[David Livingstone（Wikipedia）](https://en.wikipedia.org/wiki/David_Livingstone) |
+| 一八七一年十一月两人在坦噶尼喀湖畔乌吉吉相遇 | 属实（11 月 10 日） | [Henry Morton Stanley（Wikipedia）](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) |
+| 「我想您就是利文斯通博士吧」很可能是事后编的；日记里相关两页被撕掉 | 属实（学界看法，旁白写「很可能」） | [Henry Morton Stanley（Wikipedia）](https://en.wikipedia.org/wiki/Henry_Morton_Stanley) |
+| 一八七三年利文斯通病逝于今赞比亚；心脏埋在树下；遗体被抬了六十三天送到海边 | 属实（5 月 1 日，奇坦博村；到巴加莫约 63 天） | [David Livingstone（Wikipedia）](https://en.wikipedia.org/wiki/David_Livingstone) |
+| 一八七三年在英国施压下桑给巴尔最大的奴隶市场关闭 | 属实（1873 年 6 月《弗里尔条约》） | [Frere Treaty（Wikipedia）](https://en.wikipedia.org/wiki/Frere_Treaty) |
+| 原址建起教堂，堂内十字架用埋利文斯通心脏那棵树的木头做成 | 属实 | [Christ Church, Zanzibar（Wikipedia）](https://en.wikipedia.org/wiki/Christ_Church,_Zanzibar) |
+| 一八六七年十五岁男孩在奥兰治河边捡到钻石 | 属实（尤里卡钻石，伊拉斯谟·雅各布斯） | [Eureka Diamond（Wikipedia）](https://en.wikipedia.org/wiki/Eureka_Diamond) |
+| 金伯利矿工用镐和铲挖出两百多米深的大洞 | 属实（1871 年起挖，深约 240 米） | [Big Hole（Wikipedia）](https://en.wikipedia.org/wiki/Big_Hole) |
+| 一八八六年兰德发现巨大金矿，约翰内斯堡建城，十年间人口超过十万 | 属实 | [Witwatersrand Gold Rush（Wikipedia）](https://en.wikipedia.org/wiki/Witwatersrand_Gold_Rush)；[Johannesburg（Wikipedia）](https://en.wikipedia.org/wiki/Johannesburg) |
+| 一八七九年一月二十二日伊散德尔瓦纳：两万多祖鲁战士，英军一方一千三百多人阵亡 | 属实 | [Battle of Isandlwana（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) |
+| 英军面对武器远不如己的对手时最惨痛的失败；战斗将近结束时发生日食 | 属实（约下午两点半日食） | [Battle of Isandlwana（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) |
+| 七月英军攻占乌伦迪 | 属实（7 月 4 日） | [Cetshwayo（Wikipedia）](https://en.wikipedia.org/wiki/Cetshwayo) |
+| 西非有「白人坟墓」的外号 | 属实（最初指塞拉利昂，后泛指西非） | [The White Man's Grave: Image and Reality（Journal of British Studies）](https://resolve.cambridge.org/core/journals/journal-of-british-studies/article/white-mans-grave-image-and-reality-17801850/3D5A35C18B1B4D2A4956641007FB4572)；[Word Histories](https://wordhistories.net/2026/05/25/white-mans-grave/) |
+| 一八五四年尼日尔河考察显示奎宁能预防疟疾 | 属实（拜基率「普莱亚德号」，无欧洲人死于热病） | [Captain William Balfour Baikie（Haslar Heritage Group）](https://haslarheritagegroup.co.uk/captain-william-balfour-baikie/) |
+| 一八八四年马克沁机枪问世，每分钟约六百发 | 属实 | [Maxim gun（Wikipedia）](https://en.wikipedia.org/wiki/Maxim_gun) |
+| 一八八四年底柏林会议（下一章详讲） | 属实（1884–1885） | 见「帝国主义与第一次世界大战」章核对表 |
+| 穆罕默德·艾哈迈德自称马赫迪，反抗埃及统治；一八八五年一月攻下喀土穆，戈登被杀，援军晚到两天 | 属实（1885 年 1 月 26 日） | [Muhammad Ahmad（Wikipedia）](https://en.wikipedia.org/wiki/Muhammad_Ahmad)；[Khartoum（Wikipedia）](https://en.wikipedia.org/wiki/Khartoum) |
+| 萨摩里·杜尔建立瓦苏鲁帝国，一八八二年起与法国周旋十六年 | 属实（1882–1898） | [Samori Ture（Wikipedia）](https://en.wikipedia.org/wiki/Samori_Ture) |
+| 让铁匠修理甚至仿造步枪；坚壁清野、向东转移 | 属实 | [Samori Ture（Wikipedia）](https://en.wikipedia.org/wiki/Samori_Ture) |
+| 一八九八年被俘，两年后死于加蓬流放地；曾孙塞古·杜尔成为几内亚首任总统 | 属实（1900 年 6 月 2 日去世） | [Samori Ture（Wikipedia）](https://en.wikipedia.org/wiki/Samori_Ture) |
+| 亚的斯亚贝巴是新建的首都，意为「新的花朵」 | 属实（1886 年起建，1889 年成为首都） | [Addis Ababa（Wikipedia）](https://en.wikipedia.org/wiki/Addis_Ababa) |
+| 一八八九年《乌查利条约》第十七条两种文本意思不同；孟尼利克后来废约 | 属实（1889 年 5 月 2 日签；废约年份 1893 或 1894，旁白只写「后来」） | [Treaty of Wuchale（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Wuchale) |
+| 一八九六年三月一日阿杜瓦之战：埃军七万到十万，皇后泰图亲临；意军六千多人阵亡、三千多人被俘；意大利首相下台 | 属实（约 3,800 人被俘；克里斯皮 3 月 9 日辞职） | [Battle of Adwa（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Adwa) |
+| 当年十月意大利签约承认埃塞俄比亚独立 | 属实（《亚的斯亚贝巴条约》，10 月 23 日或 26 日） | [Treaty of Addis Ababa（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Addis_Ababa) |
+| 三月一日是埃塞俄比亚公共假日 | 属实 | [Battle of Adwa（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Adwa) |
+| 一八九八年九月二日恩图曼：马赫迪国约一万两千人战死，英埃一方四十多人 | 属实（47–48 人） | [Battle of Omdurman（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Omdurman) |
+| 同年贝洛克的讽刺诗「我们有马克沁机枪，而他们没有」 | 属实（《现代旅行者》，1898 年，原文是讽刺口吻） | [Hilaire Belloc（Wikiquote）](https://en.wikiquote.org/wiki/Hilaire_Belloc)；[Maxim gun（Wikipedia）](https://en.wikipedia.org/wiki/Maxim_gun) |
+| 一八九九年十月第二次布尔战争爆发，起因与金矿有关，一九〇二年结束 | 属实（1899 年 10 月 11 日至 1902 年 5 月 31 日） | [Second Boer War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Boer_War) |
+| 游击战、烧农场、集中营；约两万六千名布尔平民死亡，大多是孩子 | 属实（26,370；委员会统计中约 2.2 万是儿童） | [Second Boer War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Boer_War)；[Second Boer War concentration camps（Wikipedia）](https://en.wikipedia.org/wiki/Second_Boer_War_concentration_camps) |
+| 关押黑人的营地另有约两万人死亡 | 估计数字说法不一（约 1.4 万到 2.5 万），旁白写「据估计约两万」 | [Second Boer War（Wikipedia）](https://en.wikipedia.org/wiki/Second_Boer_War)；[Emily Hobhouse（Wikipedia）](https://en.wikipedia.org/wiki/Emily_Hobhouse) |
+| 英国一八九六年流放阿散蒂国王（普伦佩一世） | 属实 | [Yaa Asantewaa（Wikipedia）](https://en.wikipedia.org/wiki/Yaa_Asantewaa) |
+| 一九〇〇年英国总督霍奇森要求交出金凳子并坐上去 | 属实 | [Golden Stool（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Stool)；[War of the Golden Stool（Wikipedia）](https://en.wikipedia.org/wiki/War_of_the_Golden_Stool) |
+| 金凳子被视为阿散蒂民族的灵魂，不能落地，国王也不坐 | 属实（放在自己的宝座上，新王登基时只在其上方升降、不触碰） | [Golden Stool（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Stool) |
+| 雅阿·阿散提瓦是埃吉苏王太后；「把缠腰布换成我的衬裙」 | 属实（话语出自传述，旁白写「据说」） | [Yaa Asantewaa（Wikipedia）](https://en.wikipedia.org/wiki/Yaa_Asantewaa) |
+| 围困库马西堡垒好几个月，最终失败；她被流放塞舌尔，一九二一年去世；英国人没找到真金凳子 | 属实（3 月底至 7 月 15 日解围） | [War of the Golden Stool（Wikipedia）](https://en.wikipedia.org/wiki/War_of_the_Golden_Stool) |
+| 一九〇〇年前后只有埃塞俄比亚、利比里亚等极少数国家保持独立 | 属实（另有摩洛哥到 1912 年，旁白写「等极少数」） | [Battle of Adwa（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Adwa)；见「帝国主义与第一次世界大战」章 |
+| 一九〇〇年八国联军攻入北京 | 属实（下一章已核） | 见「帝国主义与第一次世界大战」章核对表 |
 
 ## 帝国主义与第一次世界大战
 
@@ -1407,6 +1778,84 @@
 | 1919 年巴黎和会将山东权益转给日本；五四运动；中国代表拒签 | 属实 | [May Fourth Movement（Wikipedia）](https://en.wikipedia.org/wiki/May_Fourth_Movement) |
 | 德先生、赛先生；鲁迅《狂人日记》（1918 年） | 属实 | [A Madman's Diary（Wikipedia）](https://en.wikipedia.org/wiki/A_Madman%27s_Diary) |
 | 1921 年中共一大，最后一天移到嘉兴南湖游船 | 属实 | [1st National Congress of the CCP（Wikipedia）](https://en.wikipedia.org/wiki/1st_National_Congress_of_the_Chinese_Communist_Party) |
+
+## 奥斯曼的终结与新中东
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一八二一年春希腊人在伯罗奔尼撒起义，希腊独立战争爆发 | 属实（传统纪念日为三月二十五日，实际三月中下旬各地相继起事） | [Greek War of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Greek_War_of_Independence) |
+| 一八三〇年列强承认希腊独立 | 属实（一八三〇年二月三日伦敦议定书） | [Greek War of Independence（Wikipedia）](https://en.wikipedia.org/wiki/Greek_War_of_Independence) |
+| 拜伦出资资助希腊舰队，来到迈索隆吉翁，一八二四年四月染热病去世，年仅三十六岁 | 属实（一八二四年四月十九日去世，刚过三十六岁生日；曾出资四千英镑供舰队之用；生前未参加实战） | [Greek City Times](https://greekcitytimes.com/2025/04/19/lord-byrons-passes-away-3/)；[Neos Kosmos](https://neoskosmos.com/en/195624/cheque-found-in-archives-reflects-byrons-generosity-and-his-influence-in-the-greek-cause/) |
+| 一八二六年马哈茂德二世解散耶尼切里，数千人被杀，官方称吉祥事件 | 属实（一八二六年六月；处死六千人以上，各说不一，旁白写「数千人」） | [Auspicious Incident（Wikipedia）](https://en.wikipedia.org/wiki/Auspicious_Incident) |
+| 耶尼切里存在了四百多年 | 属实（一般认为成立于十四世纪穆拉德一世时期，约一三六五至一三八三年） | [New World Encyclopedia: Janissary](https://newworldencyclopedia.org/entry/Janissary) |
+| 马哈茂德二世推广菲斯帽，一八二九年令文官改戴菲斯帽、不许缠头巾 | 属实 | [Fez (hat)（Wikipedia）](https://en.wikipedia.org/wiki/Fez_(hat)) |
+| 埃及总督派儿子率军帮奥斯曼镇压希腊起义；一八二七年十月英法俄联合舰队在纳瓦里诺湾几乎全歼奥斯曼—埃及舰队 | 属实（一八二七年十月二十日；埃及总督穆罕默德·阿里之子易卜拉欣） | [Battle of Navarino（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Navarino) |
+| 纳瓦里诺是历史上最后一场完全由帆船打的大海战 | 属实（维基百科说法；大英百科措辞更谨慎：最后一场传统木制帆船间的重要海战） | [Battle of Navarino（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Navarino)；[Britannica](https://www.britannica.com/print/article/406907) |
+| 一八三九年古尔哈内诏书开启坦齐马特改革，承诺保障所有臣民生命、名誉和财产，不分宗教 | 属实 | [Edict of Gülhane（Wikipedia）](https://en.wikipedia.org/wiki/Edict_of_G%C3%BClhane)；[Tanzimat（Britannica）](https://www.britannica.com/event/Tanzimat) |
+| 同一年林则徐虎门销烟，第二年鸦片战争爆发 | 属实（虎门销烟一八三九年六月；鸦片战争在「蒸汽、鸦片与明治」章已讲） | 本片「蒸汽、鸦片与明治」章 |
+| 一八五三年初沙皇尼古拉一世对英国大使说「我们手上有个病人，一个病得很重的人」，欧洲病夫说法由此流传 | 属实（英国驻圣彼得堡公使西摩一八五三年一月的报告；原话细节有争议，旁白用「据英国大使的报告」） | [Sick man of Europe（Wikipedia）](https://en.wikipedia.org/wiki/Sick_man_of_Europe)；[NYRB 读者来信](https://www.nybooks.com/articles/2001/07/05/the-sick-man-of-europe/) |
+| 这个比喻后来被搬到中国身上，是「东亚病夫」一词的源头之一 | 属实（一八九六年《字林西报》转载文章称中国为「东方病夫」，严复、梁启超亦用「病夫」；具体首创者有争议，旁白写「源头之一」） | [Sick man of Asia（Wikipedia）](https://en.wikipedia.org/wiki/Sick_man_of_Asia)；[汉典：东亚病夫](https://www.zdic.net/hant/东亚病夫) |
+| 一八五三年俄奥开战，英法一八五四年参战，围攻塞瓦斯托波尔将近一年，一八五六年俄国战败 | 属实（围城一八五四年十月至一八五五年九月，约十一个月） | [Siege of Sevastopol（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Sevastopol_(1854%E2%80%931855)) |
+| 同一时间中国陷于太平天国战争 | 属实（一八五〇年底至一八六四年；本片前一章已讲） | 本片「蒸汽、鸦片与明治」章 |
+| 克里米亚战争中病死的士兵远多于战死的 | 属实（英军战死约两千七百、病死约一万六千；法军病死约五万） | [Siege of Sevastopol（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Sevastopol_(1854%E2%80%931855)) |
+| 南丁格尔在斯库台整顿卫生，被称为提灯女士；用扇形图（极区图）说明可预防的死亡；英国皇家统计学会第一位女会员 | 属实（一八五八年入会） | [Royal Statistical Society](https://rss.org.uk/news-publication/news-publications/2020/general-news/nightingale-2020-the-bicentenary-our-first-female/)；[University of York](https://www.york.ac.uk/depts/maths/histstat/passionate_stat.htm) |
+| 一八七六年米德哈特帕夏推动颁布第一部宪法、召开议会；一八七八年阿卜杜勒-哈米德二世借对俄战败解散议会、搁置宪法，独揽大权三十年 | 属实（一八七八年至一九〇八年） | [Abdul Hamid II（Wikipedia）](https://en.wikipedia.org/wiki/Abdul_Hamid_II)；[Government of the late Ottoman Empire（Wikipedia）](https://en.wikipedia.org/wiki/Government_of_the_late_Ottoman_Empire) |
+| 这是伊斯兰世界最早的宪法之一 | 属实（突尼斯一八六一年宪法更早，故用「之一」） | [Government of the late Ottoman Empire（Wikipedia）](https://en.wikipedia.org/wiki/Government_of_the_late_Ottoman_Empire) |
+| 汉志铁路一九〇〇年开工，号召各地穆斯林捐款，大马士革到麦地那约一千三百公里，一九〇八年通车 | 属实（经费并非全靠捐款，旁白只说「号召捐款」） | [UNESCO 预备名录](https://whc.unesco.org/en/tentativelists/6026/)；[Jordan Hijaz Railway](https://form.jordan.gov.jo/wps/wcm/connect/gov/eGov/Government+Ministries+_+Entities/Jordan+Hijaz+Railway+Corporation/General+Information) |
+| 朝圣路从骑骆驼约四十天缩短到四五天 | 属实（各说四天或五天） | [Hejaz railway（Wikipedia）](https://en.wikipedia.org/wiki/Hejaz_railway)；[Amusing Planet](https://www.amusingplanet.com/2016/09/saudi-arabias-abandoned-hejaz-railway.html) |
+| 一九〇八年七月驻马其顿青年军官起事逼苏丹恢复宪法；团结与进步委员会以萨洛尼卡为大本营；一九〇九年阿卜杜勒-哈米德被废黜 | 属实（七月三日尼亚齐率众进山，七月二十四日恢复宪法；一九〇九年四月二十七日被废） | [Young Turk Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Young_Turk_Revolution)；[31 March incident（Wikipedia）](https://en.wikipedia.org/wiki/31_March_incident) |
+| 凯末尔出生在萨洛尼卡 | 属实（一八八一年） | [Atatürk Museum (Thessaloniki)（Wikipedia）](https://en.wikipedia.org/wiki/Atat%C3%BCrk_Museum_(Thessaloniki)) |
+| 一九〇八年五月马斯吉德苏莱曼出油，达西苦找七年（一九〇一年获特许），钻探队差点放弃；一九〇九年成立英波石油公司，英国石油公司前身 | 属实（一九〇八年五月二十六日） | [Encyclopaedia Iranica: Oil industry](https://www.iranicaonline.org/articles/oil-industry-ii)；[Anglo-Persian Oil Company（Wikipedia）](https://en.wikipedia.org/wiki/Anglo-Persian_Oil_Company) |
+| 中东第一个商业油田 | 属实（通行说法） | [EBSCO: Oil discovered in Persia](https://ebsco.com/research-starters/history/oil-discovered-persia) |
+| 一九一四年英国政府买下英波石油公司过半股份 | 属实（百分之五十一；与丘吉尔推动海军改烧油有关） | [Anglo-Persian Oil Company（Wikipedia）](https://en.wikipedia.org/wiki/Anglo-Persian_Oil_Company) |
+| 一九一一年意大利出兵夺取利比亚；意大利飞行员从飞机上扔手榴弹，被认为是史上第一次飞机空袭 | 属实（一九一一年十一月一日，加沃蒂中尉；此前有气球投弹，故说「飞机空袭」） | [Guinness World Records](https://www.guinnessworldrecords.com/world-records/first-aerial-bombardment-by-aeroplane)；[Giulio Gavotti（Wikipedia）](https://en.wikipedia.org/wiki/Giulio_Gavotti) |
+| 一九一二年巴尔干四国联手进攻，奥斯曼几乎丢光欧洲领土，萨洛尼卡归希腊 | 属实（失去约百分之八十三的欧洲领土；萨洛尼卡一九一二年十月向希腊军投降） | [Liberation of Thessaloniki（Wikipedia）](https://en.wikipedia.org/wiki/Liberation_of_Thessaloniki) |
+| 一九一三年政变后大权落到恩维尔、塔拉特、杰马勒三帕夏手中 | 属实 | [Young Turk Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Young_Turk_Revolution) |
+| 两艘德国军舰逃进海峡改挂奥斯曼旗，德国水兵戴菲斯帽；十月底炮击俄国黑海港口，奥斯曼参战 | 属实（戈本号、布雷斯劳号；一九一四年十月二十九日袭击塞瓦斯托波尔、敖德萨等；戴菲斯帽一说来源较少） | [1914-1918 Online](https://encyclopedia.1914-1918-online.net/article/goeben_sms_and_breslau_sms)；[turkeyswar.com](https://turkeyswar.com/navy/turkish-warships/yavuz/) |
+| 一九一五年加里波利战役，苦战八个多月后撤退，双方伤亡各约二十五万人 | 属实（一九一五年四月二十五日至一九一六年一月九日；奥斯曼约二十五万五千至二十八万九千，协约国约二十五万二千至三十万） | [Gallipoli campaign（Wikipedia）](https://en.wikipedia.org/wiki/Gallipoli_campaign)；[NZHistory](https://www.nzhistory.govt.nz/media/interactive/gallipoli-casualties-country) |
+| 五百多年前奥斯曼人从加里波利踏上欧洲 | 属实（一三五四年，本片「奥斯曼帝国的鼎盛」章已讲） | 本片「奥斯曼帝国的鼎盛」章 |
+| 凯末尔时任中校，对部下说「我不是命令你们进攻，我是命令你们去死」 | 属实（旁白用「据说」；措辞各译本略有不同） | [57th Infantry Regiment Memorial（Wikipedia）](https://en.wikipedia.org/wiki/57th_Infantry_Regiment_Memorial) |
+| 四月二十五日成为澳新军团日 | 属实 | [Gallipoli campaign（Wikipedia）](https://en.wikipedia.org/wiki/Gallipoli_campaign) |
+| 一九一五年四月二十四日伊斯坦布尔两百多名亚美尼亚知名人士被捕，大多遇害；这一天后来成为亚美尼亚人的纪念日 | 属实（约二百三十五至二百七十人） | [Deportation of Armenian intellectuals on 24 April 1915（Wikipedia）](https://en.wikipedia.org/wiki/Deportation_of_Armenian_intellectuals_on_24_April_1915) |
+| 亚美尼亚人被押往叙利亚沙漠，死者估计从六十万到一百五十万不等 | 属实 | [Casualties of the Armenian genocide（Wikipedia）](https://en.wikipedia.org/wiki/Casualties_of_the_Armenian_genocide) |
+| 许多国家和大多数学者认定为种族灭绝；土耳其政府承认战时大量死亡，但不接受这一定性 | 属实 | [The Week](https://www.theweek.co.uk/63406/armenian-genocide-why-the-debate-rages-a-century-on) |
+| 亚述人等基督徒群体也遭到大规模杀戮 | 属实 | [Casualties of the Armenian genocide（Wikipedia）](https://en.wikipedia.org/wiki/Casualties_of_the_Armenian_genocide) |
+| 一九一六年五月英法秘密签订赛克斯-皮科协定，俄国同意；一九一七年底布尔什维克公开 | 属实（一九一七年十一月二十三日公开） | [Sykes–Picot Agreement（Wikipedia）](https://en.wikipedia.org/wiki/Sykes%E2%80%93Picot_Agreement) |
+| 一九一六年六月侯赛因起兵，即阿拉伯起义；麦克马洪书信许诺的范围含糊，后来争论不断 | 属实 | [Britannica: McMahon–Hussein correspondence](https://www.Britannica.com/print/article/277478)；[1914-1918 Online](https://encyclopedia.1914-1918-online.net/article/husayn-mcmahon-correspondence/) |
+| 劳伦斯战前是考古学者（卡尔基米什），任联络官，与费萨尔一起袭击汉志铁路；一九一七年七月从陆路拿下亚喀巴 | 属实（七月六日；亚喀巴的防御主要朝海） | [Battle of Aqaba（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Aqaba) |
+| 一九六二年电影《阿拉伯的劳伦斯》 | 属实（旁白未写年份） | 常识 |
+| 一九一七年十一月贝尔福致信罗斯柴尔德勋爵，赞成在巴勒斯坦为犹太人建立民族家园，并写明不得损害非犹太社群的公民和宗教权利 | 属实（十一月二日） | [Balfour Declaration（Wikipedia）](https://en.wikipedia.org/wiki/Balfour_Declaration)；[UN UNISPAL](https://www.un.org/unispal/document/auto-insert-193242) |
+| 一个多月后艾伦比下马步行，从雅法门进入耶路撒冷 | 属实（一九一七年十二月十一日） | [Battle of Jerusalem（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Jerusalem) |
+| 一九一八年十月奥斯曼签订停战协定 | 属实（十月三十日穆兹罗斯停战协定） | [Armistice of Mudros（Wikipedia）](https://en.wikipedia.org/wiki/Armistice_of_Mudros) |
+| 叙利亚、黎巴嫩归法国委任统治；伊拉克、巴勒斯坦、外约旦归英国 | 属实（一九二〇年圣雷莫会议分配，外约旦一九二一年起由阿卜杜拉统治） | [Abdullah I of Jordan（Wikipedia）](https://en.wikipedia.org/wiki/Abdullah_I_of_Jordan)；[Mandatory Iraq（Wikipedia）](https://en.wikipedia.org/wiki/Mandatory_Iraq) |
+| 一九二〇年八月色佛尔条约：海峡国际共管、士麦那交希腊管理、建立亚美尼亚国、库尔德自治；始终未生效 | 属实（八月十日签订，未获批准，被一九二三年洛桑条约取代） | [Treaty of Sèvres（Military Wiki）](https://military-history.fandom.com/wiki/Treaty_of_Sevres)；[History Learning Site](https://www.historylearningsite.co.uk/?p=1378) |
+| 一九一九年五月凯末尔在萨姆松登岸；一九二〇年安卡拉召开大国民议会；一九二一年萨卡里亚河之战；一九二二年八月大反攻，九月进入士麦那 | 属实（五月十九日；一九二〇年四月二十三日；一九二一年八月二十三日至九月十三日；一九二二年八月二十六日） | [土耳其文化旅游部：Atatürk](https://www.ktb.gov.tr/EN-118282/ataturk-mustafa-kemal.html)；[Haliç University 年表](https://halic.edu.tr/en/research/application-and-research-centers/ataturk-principles-and-history-of-turkish-revolution-application-and-research-center/about-ataturk/ataturk-chronology) |
+| 士麦那城中燃起大火，大批希腊人和亚美尼亚人逃离；希腊人称之为小亚细亚的灾难 | 属实（土军九月九日入城，大火九月十三日起；起火责任有争议，旁白未写谁放火；「小亚细亚灾难」在英文维基中重定向到一九一九至一九二二年希土战争条目，该条目也写明此战是土耳其独立战争的一部分） | [Great fire of Smyrna（Wikipedia）](https://en.wikipedia.org/wiki/Great_fire_of_Smyrna)；[Greco-Turkish War (1919–1922)（Wikipedia）](https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%931922)) |
+| 一九二二年十一月废除苏丹制，末代苏丹穆罕默德六世乘英国军舰流亡 | 属实（十一月一日废除；十一月十七日登上英舰马来亚号） | [Abolition of the Ottoman sultanate（Wikipedia）](https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate)；[Mehmed VI（Wikipedia）](https://en.wikipedia.org/wiki/Mehmed_VI) |
+| 从约一二九九年算起延续六百多年 | 属实（一二九九至一九二二年，约六百二十三年） | 本片「奥斯曼帝国的鼎盛」章 |
+| 一九二二年英国宣布埃及独立，但仍把持苏伊士运河、国防等大权 | 属实（二月二十八日单方面宣布，保留四项权利） | [British Academy](https://www.thebritishacademy.ac.uk/blog/how-20th-century-colonial-politics-shaped-story-tutankhamuns-tomb/)；[Apollo Magazine](https://apollo-magazine.com/tutankhamun-discovery-howard-carter/) |
+| 一九二二年十一月卡特在帝王谷找到图坦卡蒙墓，宝藏几乎原封未动 | 属实（十一月四日发现第一级台阶） | [The National Archives（UK）博客](https://blog.nationalarchives.gov.uk/seen-yesterday-know-tomorrow) |
+| 图坦卡蒙死后三千多年 | 属实（约公元前一三二三年去世） | 常识 |
+| 一九二三年洛桑条约确定新土耳其边界 | 属实（七月二十四日） | [Treaty of Sèvres（Military Wiki）](https://military-history.fandom.com/wiki/Treaty_of_Sevres) |
+| 希土人口交换以宗教为标准；约一百二十万东正教徒、约四十万穆斯林；有些人只会说对方国家的语言 | 属实（一九二三年一月三十日公约；穆斯林人数另有约五十万一说，旁白用「约」；讲土耳其语的东正教徒至少十万人） | [Human Rights Watch](https://www.hrw.org/legacy/reports/1999/greece/Greec991-08.htm)；[土耳其外交部：人口交换公约](https://www.mfa.gov.tr/lausanne-peace-treaty-vi_-convention-concerning-the-exchange-of-greek-and-turkish-populations-signed-at-lausanne_.en.mfa) |
+| 一九二三年十月二十九日土耳其共和国成立，定都安卡拉，凯末尔任首任总统 | 属实 | [Timeline of the Republic of Turkey（Wikipedia）](https://en.wikipedia.org/wiki/Timeline_of_the_Republic_of_Turkey) |
+| 一九二四年三月废除哈里发制度，这一头衔从先知去世后出现，延续约一千三百年 | 属实（三月三日；六三二至一九二四年约一千二百九十二年，中间有断续和名义化） | [Abolition of the Caliphate（Wikipedia）](https://en.wikipedia.org/wiki/Abolition_of_the_Caliphate) |
+| 一九二五年夏凯末尔在卡斯塔莫努戴西式帽子亮相，年底颁布帽子法禁戴菲斯帽；第二年改用公历 | 属实（一九二五年八月卡斯塔莫努之行；帽子法十一月二十五日通过；公历自一九二六年一月一日起使用） | [Hat Revolution（Wikipedia）](https://en.wikipedia.org/wiki/Hat_Revolution)；[SALT Research 档案照片](https://archives.saltresearch.org/handle/123456789/21950) |
+| 大约一百年前马哈茂德二世推广菲斯帽 | 属实（一八二九至一九二五年，约九十六年） | [Fez (hat)（Wikipedia）](https://en.wikipedia.org/wiki/Fez_(hat)) |
+| 一九二八年改用拉丁字母；凯末尔带着粉笔和黑板到各地教字母，被尊称为首席教师；第二年起报纸公文须用新字母 | 属实（十一月一日通过，三个月过渡期，一九二九年一月一日起强制；十一月二十四日获「首席教师」称号） | [Turkish alphabet reform（Wikipedia）](https://en.wikipedia.org/wiki/Turkish_alphabet_reform)；[Nation's school（Wikipedia）](https://en.wikipedia.org/wiki/Nation%27s_school)；[Incirlik AFB](https://www.incirlik.af.mil/News/Commentaries/Display/Article/303103/remembering-honoring-ataturk/) |
+| 女性一九三〇年获地方选举权、一九三四年获全国选举权，比法国、意大利早十年左右 | 属实（法国一九四四年，意大利一九四五年） | [Women's suffrage in Turkey（Wikipedia）](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Turkey)；[Euronews](https://www.euronews.com/2024/04/21/eighty-years-on-france-marks-milestone-in-womens-right-to-vote) |
+| 一九三四年姓氏法；议会授予凯末尔「阿塔图尔克」之姓，意为土耳其人之父，并规定别人不得使用 | 属实（姓氏法六月二十一日通过；十一月二十四日另立法授姓） | [Surname Law (Turkey)（Wikipedia）](https://en.wikipedia.org/wiki/Surname_Law_(Turkey))；[Anadolu Agency](https://aa.com.tr/en/turkey/surname-law-a-profound-change-in-turkish-history/34219) |
+| 一九二一年礼萨汗政变，一九二五年废黜恺加王朝，建立巴列维王朝 | 属实（一九二五年十二月） | [USHMM: Iran during WWII](https://encyclopedia.ushmm.org/content/en/article/iran-during-world-war-ii)；[Fanack](https://fanack.com/iran/history-of-iran/reza-shah-from-his-rise-to-power-in-iran-till-death-in-exile-1921-1944/) |
+| 一九三五年请各国改用伊朗国名；萨珊时代伊朗人已这样称呼自己的国家 | 属实（一九三五年三月二十一日；萨珊铭文称「伊朗」「伊朗沙赫尔」） | [Name of Iran（Wikipedia）](https://en.wikipedia.org/wiki/Name_of_Iran) |
+| 一九〇二年伊本·沙特带几十名随从夜袭利雅得 | 属实（人数各说二十至六十八人，旁白写「几十名」） | [Battle of Riyadh（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Riyadh)；[Saudi Aramco World](https://archive.aramcoworld.com/issue/200408/there.were.40.of.us.-.compilation.htm) |
+| 一九二四到一九二五年拿下汉志，赶走侯赛因家族 | 属实（一九二四年八月至一九二五年十二月） | [Saudi conquest of Hejaz（Wikipedia）](https://en.wikipedia.org/wiki/Saudi_conquest_of_Hejaz) |
+| 一九三二年定名沙特阿拉伯王国 | 属实（九月二十三日） | [Proclamation of the Kingdom of Saudi Arabia（Wikipedia）](https://en.wikipedia.org/wiki/Proclamation_of_the_Kingdom_of_Saudi_Arabia) |
+| 同年伊拉克结束委任统治、独立 | 属实（一九三二年十月三日加入国联） | [Mandatory Iraq（Wikipedia）](https://en.wikipedia.org/wiki/Mandatory_Iraq)；[History Today](https://www.historytoday.com/archive/history-matters/how-iraq-became-military-state) |
+| 一九三三年纳粹上台后犹太移民大增；一九二九年流血冲突；一九三六年阿拉伯大起义；一九三七年皮尔委员会首次提出分治，被阿拉伯领导人拒绝 | 属实 | [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/jsource/History/riots36.html)；[White Paper of 1939（Wikipedia）](https://en.wikipedia.org/wiki/White_Paper_of_1939) |
+| 一九三八年三月达曼七号井出油，前六口井令人失望，产油到一九八二年，后来被命名为繁荣井 | 属实（三月三日或四日；一九九九年前后由阿卜杜拉王储命名，说法不一，旁白写「后来」） | [Dammam No. 7（Wikipedia）](https://en.wikipedia.org/wiki/Dammam_No._7) |
+| 差不多同时科威特发现布尔甘油田 | 属实（一九三八年二月） | [Burgan field（Wikipedia）](https://en.wikipedia.org/wiki/Burgan_field) |
+| 一九三八年十一月十日上午九点零五分阿塔图尔克在多尔玛巴赫切宫去世，年仅五十七岁；每年此刻全国默哀 | 属实 | [Hürriyet Daily News](https://hurriyetdailynews.com/turkey-marks-ataturks-82nd-death-anniversary-159875) |
+| 卧室里的钟至今停在九点零五分 | 属实（旁白用「据说」；宫中其他钟已恢复正常时间） | [istanbul.com](https://istanbul.com/dolmabahce-palace-guide)；[FIDE 2009](https://istanbul2009.fide.com/rest-day-visit-to-dolmabahce-palace.html) |
 
 ## 大萧条与第二次世界大战
 
