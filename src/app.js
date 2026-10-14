@@ -260,8 +260,9 @@
     var up = view.sy / k, down = (view.h - view.sy) / k;
     if (up + down < WH) {
       var hs = (view.sh / 2 - padY) / k, ny = cy;
-      if (cy - up < 0) { ny = up; if (bb) ny = Math.max(cy, Math.min(ny, bb.y0 + hs)); }
-      else if (cy + down > WH) { ny = WH - down; if (bb) ny = Math.min(cy, Math.max(ny, bb.y1 - hs)); }
+      // 地图坐标以赤道为 0，上下边缘在 ±WH/2
+      if (cy - up < -WH / 2) { ny = up - WH / 2; if (bb) ny = Math.max(cy, Math.min(ny, bb.y0 + hs)); }
+      else if (cy + down > WH / 2) { ny = WH / 2 - down; if (bb) ny = Math.min(cy, Math.max(ny, bb.y1 - hs)); }
       cy = ny;
     }
     return { x: cx, y: cy, k: k, pk: pk };

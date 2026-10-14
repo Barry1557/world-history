@@ -856,6 +856,77 @@
 | 达·芬奇镜像书写笔记 | 属实 | [Leonardo da Vinci（Wikipedia）](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) |
 | 1504 年大卫像；1508–1512 年西斯廷天顶画 | 属实 | [Michelangelo（Wikipedia）](https://en.wikipedia.org/wiki/Michelangelo) |
 
+## 阿兹特克与印加的鼎盛
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 约一一五〇年前后托尔特克都城图拉衰落 | 属实（多数资料作约一一五〇年，原因有争论，旁白用「约」） | [Atlantean figures（Wikipedia）](https://en.wikipedia.org/wiki/Atlantean_figures)；[Tula（sacredsites.com）](https://sacredsites.com/americas/mexico/tula.html) |
+| 阿兹特克人把托尔特克人奉为文明祖师；托尔特克一词在纳瓦特尔语里成了「能工巧匠」之意 | 属实 | [Toltec（Wikipedia）](https://Wikipedia.com/wiki/Toltec) |
+| 墨西加人传说祖先来自北方的阿兹特兰，由战神维齐洛波奇特利指引南迁，走了约两百年；阿兹特兰位置及是否存在没有定论 | 属实（传说；出发年代各抄本不一，有一〇六四年、一一六八年等说法，旁白只说传说） | [Aztlán（Wikipedia）](https://en.wikipedia.org/wiki/Aztl%C3%A1n) |
+| 他们自称墨西加人；「阿兹特克」一词由十八世纪克拉维赫罗首先使用、十九世纪洪堡和普雷斯科特推广 | 属实（一七八〇年克拉维赫罗，一八四三年普雷斯科特） | [Mexica or Aztec（Indigenous Mexico）](https://www.indigenousmexico.org/articles/mexica-or-aztec-how-the-mexicas-were-renamed)；[Some Remarks on the Term "Aztec Empire"（Cambridge）](https://resolve.cambridge.org/core/journals/americas/article/some-remarks-on-the-term-aztec-empire/217F42344F80D8FFACA29E0D452F6614) |
+| 奇穆王国在秘鲁北部海岸兴起，传说开国之君乘筏从海上来 | 属实（传说名为塔卡伊纳莫；奇穆约九〇〇—一四七〇年） | [Chimor（Wikipedia）](https://en.wikipedia.org/wiki/Chimor) |
+| 奇穆鼎盛时控制约一千公里海岸线，是印加之前安第斯最强的国家 | 属实（Wikipedia：晚期中间期最大的王国，印加在海岸唯一的劲敌） | [Chimor（Wikipedia）](https://en.wikipedia.org/wiki/Chimor) |
+| 昌昌全城约二十平方公里，教科文组织称其为前哥伦布时代美洲最大的土建城市 | 属实（中心区约六平方公里） | [Chan Chan Archaeological Zone（UNESCO）](https://whc.unesco.org/en/list/366) |
+| 城中有九到十座宫殿大院，推测每位国王另建一座，死后葬在其中 | 属实（UNESCO 说九座大型建筑群；Conrad 认为十座对应传说中的十位国王，「分割继承」是学者推测，旁白用「推测」） | [Chan Chan Archaeological Zone（UNESCO）](https://whc.unesco.org/en/list/366)；[Chan Chan（eHRAF / Conrad）](https://ehrafarchaeology.yale.edu/traditions/se75/documents/008) |
+| 约一二〇〇年前后库斯科谷地出现小城邦，即后来的印加 | 属实（库斯科王国约一二〇〇—一四三八年） | [Kingdom of Cusco（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Cusco) |
+| 传说曼科·卡帕克和妈妈·奥克略从的的喀喀湖走出，持金杖，金杖沉入土中处即库斯科；另一版本说从山洞（帕卡里坦博）走出 | 属实（传说） | [Inca mythology（Wikipedia）](https://en.wikipedia.org/wiki/Inca_mythology) |
+| 普韦布洛人祖先建悬崖住宅；梅萨维德悬崖宫约一百五十个房间，是北美最大的悬崖住宅 | 属实（悬崖宫约一一九〇—一二六〇年建造） | [Cliff Palace（Wikipedia）](https://en.wikipedia.org/wiki/Cliff_Palace)；[Cliff Dwellings（NPS）](https://home.nps.gov/meve/learn/historyculture/cliff_dwellings_home.htm)；[Mesa Verde（WorldAtlas）](https://worldatlas.com/national-parks/mesa-verde-national-park-preserves-cliff-palace-shadows-of-ancestral-puebloans.html) |
+| 约一二七六年起大旱持续二十多年，一三〇〇年前后悬崖宫被废弃 | 属实（一二七六—一三〇〇年大旱；废弃原因仍有争论） | [Cliff Palace（American Yawp Reader）](https://www.americanyawp.com/reader/cliff-palace/)；[Cliff Palace（Wikipedia）](https://en.wikipedia.org/wiki/Cliff_Palace) |
+| 墨西加人是最后一批进入墨西哥谷地的移民 | 属实 | [Mexica（Wikipedia）](https://en.wikipedia.org/wiki/Mexica) |
+| 先在查普尔特佩克落脚，一二九九年被周边城邦联手赶走，去当库尔瓦坎附庸，住在贫瘠的蒂萨潘 | 属实（《墨西加编年史》记载） | [Colhuacan (altepetl)（Wikipedia）](https://en.wikipedia.org/wiki/Colhuacan_%28altepetl%29) |
+| 原拟「被分到满是毒蛇的地方，就把蛇吃了」的传说 | 核对不到可靠来源，已删 | — |
+| 鹰站在仙人掌上吃蛇的建城传说；约一三二五年建特诺奇蒂特兰；墨西哥国旗上的鹰即此 | 属实（也有一三四五年之说，旁白用「约」） | [Tenochtitlan（National Geographic）](https://education.nationalgeographic.org/resource/tenochtitlan/)；[Symbols of Mexico（墨西哥驻英使馆）](https://embamex.sre.gob.mx/reinounido/images/stories/PDF/Meet_Mexico/2_meetmexico-symbolsofmexico.pdf)；[Tenochtitlan（Wikipedia）](https://en.wikipedia.org/wiki/Tenochtitlan) |
+| 一三二五年伊本·白图泰从丹吉尔出发，远游近三十年 | 属实（一三二五年六月出发，旅行至一三五四年前后） | [Ibn Battuta: Travels 1325–1354（Indiana University）](https://dmdhist.sitehost.iu.edu/ibnbattuta.htm)；[Medieval Sourcebook（Fordham）](https://fordham.edu/halsall/source/1354-ibnbattuta.asp) |
+| 一年前（一三二四年）曼萨·穆萨在开罗撒金；当时中国为元朝 | 属实（前文已核） | 见「蒙古旋风与黑死病」「黄金之国」章核对表 |
+| 奇南帕：浅水中打桩编围栏、填湖泥水草堆成长条人工田；俗称浮园，其实不漂；一年最多收七季；霍奇米尔科仍可见 | 属实 | [Chinampa（Wikipedia）](https://en.wikipedia.org/wiki/Chinampa)；[Xochimilco floating farms（Mongabay）](https://news.mongabay.com/2024/05/scientists-and-farmers-restore-aztec-era-floating-farms-that-house-axolotls/) |
+| 一四二八年前墨西加人是阿斯卡波察尔科的附庸，向其纳贡 | 属实（约一三七五—一四二八年） | [History of the Aztecs（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Aztecs) |
+| 一四二八年特诺奇蒂特兰、特斯科科、特拉科潘推翻阿斯卡波察尔科，结成三方同盟；贡赋按二、二、一分配 | 属实（条约也有作一四三〇年者） | [Aztec Triple Alliance（Wikipedia）](https://en.wikipedia.org/wiki/Aztec_Triple_Alliance) |
+| 伊斯科阿特尔下令烧毁旧史书图画，理由是让所有人都知道并不明智，官方重写历史 | 属实（据《佛罗伦萨抄本》记载，旁白用「据后来的记载」；规模有学者存疑） | [Itzcoatl（Wikipedia）](https://en.wikipedia.org/wiki/Itzcoatl)；[Battcock 2012（Estudios de Cultura Náhuatl）](https://www.scielo.org.mx/pdf/ecn/v43/v43a4.pdf) |
+| 内萨瓦尔科约特尔十六岁时目睹父亲被杀，流亡多年，一四三一年登位 | 属实（一四〇二年生，一四一八年父亲被杀，一四三一—一四七二年在位） | [Nezahualcoyotl（Wikipedia）](https://en.wikipedia.org/wiki/Nezahualcoyotl_%28tlatoani%29) |
+| 他主持修水利、建园林，留下感叹人生短暂的诗，称诗人国王；诗作归属学界有争论 | 属实 | [Nezahualcoyotl（Wikipedia）](https://en.wikipedia.org/wiki/Nezahualcoyotl_%28tlatoani%29) |
+| 他的头像曾印在墨西哥一百比索纸币上 | 属实（现正被印有胡安娜修女的新版替换） | [El Financiero](https://elfinanciero.com.mx/nacional/este-es-el-nuevo-billete-de-100-pesos-sale-nezahualcoyotl-entra-sor-juana-ines-de-la-cruz) |
+| 约一四三八年昌卡人围攻库斯科，老王出逃，王子库西·尤潘基死守获胜；传说石头化为战士；改名帕查库特克（世界翻转）；印加由城邦变帝国 | 属实（年份学界有争议，旁白已注明；石头化兵为传说） | [Pachacuti（Wikipedia）](https://en.wikipedia.org/wiki/Pachacuti)；[Kingdom of Cusco（Wikipedia）](https://en.wikipedia.org/wiki/Kingdom_of_Cusco) |
+| 塔万廷苏尤意为「四部合一」，四大区在库斯科交汇 | 属实 | [Inca Empire（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Empire) |
+| 帕查库特克大规模重建库斯科 | 属实 | [Pachacuti（Wikipedia）](https://en.wikipedia.org/wiki/Pachacuti) |
+| 萨克塞瓦曼巨石干砌不用灰浆，最重石块估计一百多吨；西班牙编年史家说缝里塞不进一枚小银币 | 属实（估计约一百二十八吨至近两百吨；谢萨·德莱昂原话为「塞不进一枚雷亚尔」） | [Sacsayhuamán（Wikipedia）](https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n) |
+| 约一四五〇年建马丘比丘，海拔两千四百多米，多数学者认为是帕查库特克的王家庄园 | 属实（海拔约二四三〇米；二〇二一年碳测年显示约一四二〇年起已有人居住） | [Machu Picchu（Wikipedia）](https://en.wikipedia.org/wiki/Machu_Picchu) |
+| 一九一一年宾厄姆使其闻名，带路的是当地农民，山上住着种地人家 | 属实（向导梅尔乔·阿尔特亚加，山上农户里查尔特和阿尔瓦雷斯；一九〇二年利萨拉加已到过） | [Machu Picchu（Wikipedia）](https://en.wikipedia.org/wiki/Machu_Picchu) |
+| 约一四五〇年起连续几年霜冻干旱、饥荒，有人卖身或卖子为奴 | 属实（约一四五〇—一四五四年） | [Flower war（Wikipedia）](https://en.wikipedia.org/wiki/Flower_war)；[Moctezuma I（Wikipedia）](https://en.wikipedia.org/wiki/Moctezuma_I) |
+| 三方同盟与特拉斯卡拉等城邦打花战，据说为抓俘虏献祭和练兵；起源和目的争论很大 | 属实（起源说法仅出自伊斯特利尔索奇特尔，旁白用「据说」「争论很大」） | [Flower war（Wikipedia）](https://en.wikipedia.org/wiki/Flower_war) |
+| 易洛魁联盟由五族组成；传说和平缔造者与海华沙说服五族订立大和平法 | 属实（莫霍克、奥奈达、奥农达加、卡尤加、塞内卡；传说） | [Iroquois（Wikipedia）](https://en.wikipedia.org/wiki/Iroquois) |
+| 联盟成立年代争议大：有一一四二年说，不少学者倾向一四五〇年前后 | 属实 | [Iroquois（Wikipedia）](https://en.wikipedia.org/wiki/Iroquois) |
+| 一九九五年在安帕托雪山六千多米处发现少女木乃伊胡安妮塔，十几岁，约十五世纪中后期在卡帕科查仪式中被献祭 | 属实（约一二到一五岁，死于约一四四〇—一四八〇年；发现者莱因哈德和萨拉特） | [Mummy Juanita（Wikipedia）](https://en.wikipedia.org/wiki/Mummy_Juanita) |
+| 约一四七〇年图帕克·印卡·尤潘基征服奇穆，末代国王被带到库斯科，金银用于装饰太阳神殿科里坎查 | 属实（原拟「奇穆工匠被迁往库斯科」未核实到，已删） | [Chimor（Wikipedia）](https://en.wikipedia.org/wiki/Chimor)；[Inca Empire（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Empire) |
+| 印加版图北到厄瓜多尔，南到智利中部马乌莱河 | 属实 | [Inca Empire（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Empire) |
+| 特拉特洛尔科一四七三年被特诺奇蒂特兰吞并 | 属实 | [Tlatelolco (altepetl)（Wikipedia）](https://en.wikipedia.org/wiki/Tlatelolco_%28altepetl%29)；[Battle of Tlatelolco（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Tlatelolco) |
+| 这里有谷地最大的市场；每天买卖的人有好几万 | 属实（科尔特斯写每天约六万人，塞万提斯·德萨拉萨尔说约三万；原写「中美洲最大」改为「整个谷地最大」） | [Tlatelolco (altepetl)（Wikipedia）](https://en.wikipedia.org/wiki/Tlatelolco_%28altepetl%29)；[Tlatelolco market（Mexico News Daily）](https://mexiconewsdaily.com/culture/mexicos-first-tianguis-the-story-of-tlatelolco-market/) |
+| 去过罗马和君士坦丁堡的士兵说从没见过这么大、这么有秩序的集市 | 属实（贝尔纳尔·迪亚斯记载） | [Eyewitness Accounts（backyardnature.net）](https://www.backyardnature.net/m/general/history2.htm)；[City by P.D. Smith 节选（BookBrowse）](https://www.bookbrowse.com/excerpts/index.cfm/book_number/2726/page_number/2/city) |
+| 塔拉斯坎（普雷佩查）是中美洲少数用金属造工具和兵器的国家 | 属实 | [Purépecha Empire（Wikipedia）](https://www.Wikipedia.com/wiki/Tarascan_State) |
+| 一四七〇年代后期阿哈雅卡特尔西征惨败；阿兹特克始终没能征服塔拉斯坎 | 属实（多作一四七八年，也有一四七六年之说，旁白写「一四七〇年代后期」） | [Purépecha Empire（Wikipedia）](https://www.Wikipedia.com/wiki/Tarascan_State)；[Michoacán（Indigenous Mexico）](https://indigenousmexico.org/articles/michoacan-from-kingdom-to-colony-to-sovereign-state-1324-2015) |
+| 印加基本没有货币和集市，税是轮流出工的米塔；修路、架桥、梯田、官田、当兵；国家提供救灾粮和节庆宴饮 | 属实 | [Inca Empire（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Empire)；[Mit'a（Wikipedia）](https://en.wikipedia.org/wiki/Mit%27a) |
+| 冻干土豆丘纽：夜冻日晒、踩踏挤水，可存放数年 | 属实（仓库中约可存二到四年，编年史称最长十年） | [Chuño（Live Science）](https://www.livescience.com/archaeology/500-year-old-freeze-dried-potato-snacks-discovered-in-inca-storage-room-in-peru)；[Qullqa（Wikipedia）](https://en.wikipedia.org/wiki/Qullqa) |
+| 玻利维亚科塔帕奇一处约两千四百座仓库，储存粮食、布匹、武器 | 属实 | [Qullqa（Wikipedia）](https://en.wikipedia.org/wiki/Qullqa) |
+| 大神庙顶上两座神殿分别供奉战神（维齐洛波奇特利）和雨神（特拉洛克） | 属实 | [Templo Mayor（Wikipedia）](https://en.wikipedia.org/wiki/Templo_Mayor)（一四八七年十二月十九日落成） |
+| 一四八七年神庙扩建落成举行大规模献祭；记载死者两万到八万，学者普遍认为夸大 | 属实（八万零四百人出自杜兰，多数学者认为不现实） | [Ahuitzotl（World History Encyclopedia）](https://www.worldhistory.org/trans/fr/1-13672/ahuitzotl/)；[How many were killed（History on the Net）](https://www.historyonthenet.com/aztec-culture-how-many-were-killed-as-human-sacrifices) |
+| 二〇一五年起在神庙旁发掘出头骨塔，已发现六百多个头骨，含妇女和儿童 | 属实（二〇一五年发现四百八十四个，二〇二〇年又公布一百一十九个） | [Aztec skull tower（Smithsonian）](https://www.smithsonianmag.com/smart-news/aztec-skull-tower-contains-remains-women-and-children-180963905/)；[119 more remains（ScienceAlert）](https://www.sciencealert.com/archaeologists-uncover-119-more-remains-in-the-aztec-tower-of-skulls) |
+| 奇普印加以前就有（前面「美洲古典时代」章讲过瓦里奇普） | 属实 | [Quipu（Wikipedia）](https://en.wikipedia.org/wiki/Quipu) |
+| 奇普用结的位置表示十进制位数；结绳官负责编读；殖民时期一部分被下令烧毁；存世约一千四百件 | 属实（一五八三年第三届利马主教会议下令烧毁部分奇普；二〇二一年统计不到一千四百件） | [Quipu（Wikipedia）](https://en.wikipedia.org/wiki/Quipu) |
+| 道路网总长常见估计约四万公里 | 属实（估计从两万三千到六万公里不等；申遗时多报约三万公里） | [Inca road system（Wikipedia）](https://en.wikipedia.org/wiki/Inca_road_system)；[Qhapaq Ñan（MAAM）](https://maam.gob.ar/en/salas_maam/qhapaq-nan/) |
+| 每隔几公里设驿站，查斯基吹海螺接力，一天能传两三百公里 | 属实（驿站间距约二点五到九公里；Wikipedia：最多约三百公里／天） | [Chasqui（Wikipedia）](https://en.wikipedia.org/wiki/Chasqui) |
+| 据记载皇帝在库斯科能吃到几百公里外海边送来的鲜鱼 | 属实（穆鲁亚记载，距海约三百五十到四百公里） | [Chasqui（Wikipedia）](https://en.wikipedia.org/wiki/Chasqui) |
+| 克斯瓦恰卡草桥横跨阿普里马克河峡谷，长约三十米；四个社区每年用三天换新；二〇一三年列入教科文组织非遗 | 属实 | [Q'eswachaka（UNESCO ICH）](https://ich.unesco.org/en/RL/knowledge-skills-and-rituals-related-to-the-annual-renewal-of-the-qeswachaka-bridge-00594)；[Q'eswachaka（Global Voices）](https://globalvoices.org/2018/06/29/qeswachaka-the-last-inca-bridge-that-keeps-communities-together/) |
+| 可可豆当零钱：一颗买一个番茄，一只火鸡要上百颗；有人掏空可可豆塞泥沙造假；可可饮料苦、为贵族所饮 | 属实（一五四五年特拉斯卡拉价目；火鸡有一百颗和两百颗两说，旁白写「上百颗」） | [Chocolate in Mesoamerica（World History Encyclopedia）](https://www.worldhistory.org/Chocolate_in_Mesoamerica/)；[When Money Grew on Trees（Cornell）](https://exhibits-container-int.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees) |
+| 一五〇二年蒙特祖马二世即位，帝国在他手上达到最大 | 属实（也有一五〇三年之说） | [Moctezuma II（Wikipedia）](https://en.wikipedia.org/wiki/Moctezuma_II) |
+| 一五〇二年哥伦布第四次航行在洪都拉斯外海（瓜纳哈岛）遇玛雅大独木舟，载布匹、铜斧、可可豆；可可豆掉落，船上人赶紧去捡「像掉了自己的眼睛」 | 属实（一五〇二年七月三十日；出自其子费尔南多的记载） | [Bartholomew Columbus（Wikipedia）](https://en.wikipedia.org/wiki/Bartholomew_Columbus)；[Ambivalent Conquests（Cambridge）](https://www.cambridge.org/core/books/ambivalent-conquests/explorers/FBE8FAE204B17232992194C77DCCB64E) |
+| 纳瓦特尔语今天仍有一百多万人使用 | 属实（二〇二〇年人口普查约一百七十万） | [Nahuatl（Wikipedia）](https://en.wikipedia.org/wiki/Nahuatl) |
+| 番茄、牛油果、辣椒、郊狼的叫法源自纳瓦特尔语 | 属实（tomatl、āhuacatl、chīlli、coyōtl） | [Nahuatl（Wikipedia）](https://en.wikipedia.org/wiki/Nahuatl)；[Avocado（Wikipedia）](https://en.wikipedia.org/wiki/Avocado) |
+| 巧克力一词常认为来自纳瓦特尔语，确切来历仍有争论 | 属实（xocolātl 早期文献少见，另有 chicolātl 等说） | [Etymology of chocolate（ALTA）](https://altalang.com/beyond-words/etymology-of-chocolate/)；[chocolat（法文维基词典）](https://fr.wiktionary.org/wiki/chocolat) |
+| 太阳石刻于蒙特祖马二世时期，直径约三点六米、重二十多吨，并非实用日历；一七九〇年中央广场铺路时出土；藏国家人类学博物馆 | 属实（约一五〇二—一五二一年；约二万四千五百九十公斤；一七九〇年十二月十七日出土） | [Aztec calendar stone（Wikipedia）](https://en.wikipedia.org/wiki/Aztec_calendar_stone) |
+| 瓦伊纳·卡帕克把帝国推到厄瓜多尔和哥伦比亚南部，常驻基多 | 属实（一四九三—一五二七年在位） | [Huayna Capac（Wikipedia）](https://en.wikipedia.org/wiki/Huayna_Capac) |
+| 约一五二七年瘟疫夺去他和继承人性命，可能是天花或麻疹，也有人认为是别的病；他没见过西班牙人 | 属实（死因学界有争议，也有疟疾说；继承人尼南·库尤奇） | [Huayna Capac（Wikipedia）](https://en.wikipedia.org/wiki/Huayna_Capac)；[Inca Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Civil_War) |
+| 此后两位王子（瓦斯卡尔与阿塔瓦尔帕）兵戎相见 | 属实（下一章「大航海」会讲） | [Inca Civil War（Wikipedia）](https://en.wikipedia.org/wiki/Inca_Civil_War) |
+| 一五一九年西班牙船队在墨西哥海岸登陆 | 属实（科尔特斯，下一章「大航海」会讲） | [Moctezuma II（Wikipedia）](https://en.wikipedia.org/wiki/Moctezuma_II) |
+
 ## 大航海
 
 | 说法 | 结果 | 来源 |
@@ -886,6 +957,279 @@
 | 一条鞭法 | 属实（1581 年张居正推广全国） | [爱思想](https://www.aisixiang.com/data/89170.html) |
 | 世界白银相当大一部分流入中国，有人估计多达三分之一甚至更多 | 有争议，旁白已注明 | 同上 McKay |
 
+## 奥斯曼帝国的鼎盛
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 罗姆苏丹国一二四三年（克塞山之战）败给蒙古，沦为附庸、逐渐瓦解，小亚细亚分裂成许多突厥小侯国（贝伊国），奥斯曼是其中之一 | 属实 | [Sultanate of Rum（Wikipedia）](https://en.wikipedia.org/wiki/Sultanate_of_Rum) |
+| 奥斯曼的根据地瑟于特，紧挨东罗马边境；传统上帝国从约一二九九年算起 | 属实（奥斯曼在位一般记作约一二九九年起，旁白用「约」「传统上」） | [Osman I（Wikipedia）](https://en.wikipedia.org/wiki/Osman_I) |
+| 奥斯曼之梦：借宿长老（埃德巴利）家，梦见明月从长老怀中升起落入自己胸中，肚脐长出大树，树荫覆盖山河；长老解为子孙统治天下，并把女儿嫁给他 | 属实（十五世纪后期编年史阿舍克帕夏扎德的记载，属开国传说，旁白已注明） | [Osman I（Wikipedia）](https://en.wikipedia.org/wiki/Osman_I) |
+| 一三二六年奥尔汗攻下布尔萨，后成为早期都城；布尔萨是生丝贸易重镇；奥斯曼和奥尔汗葬在布尔萨 | 属实（攻克日期一三二六年四月六日；作都城约一三三五年至一三六〇年代，旁白用「后来定为都城」） | [Bursa（Wikipedia）](https://en.wikipedia.org/wiki/Bursa)；[Osman I（Wikipedia）](https://en.wikipedia.org/wiki/Osman_I)；[Orhan（Wikipedia）](https://en.wikipedia.org/wiki/Orhan) |
+| 一三三一年奥尔汗攻下尼西亚；三二五年第一次基督教大公会议在此召开（「一千年前」） | 属实（相隔约一千零六年） | [Orhan（Wikipedia）](https://en.wikipedia.org/wiki/Orhan)；[Nicaea（OrthodoxWiki）](https://orthodoxwiki.org/Nicaea) |
+| 东罗马内战中约翰六世坎塔库泽努斯借助奥斯曼兵力，把女儿狄奥多拉嫁给奥尔汗（一三四六年） | 属实 | [Orhan（Wikipedia）](https://en.wikipedia.org/wiki/Orhan)；[Fall of Gallipoli（Wikipedia）](https://en.wikipedia.org/wiki/Fall_of_Gallipoli) |
+| 一三五四年三月地震震毁加里波利几乎所有建筑，居民撤离，奥斯曼军进驻，成为进入欧洲的桥头堡 | 属实（三月二日地震，一个月内苏莱曼帕夏占据） | [Fall of Gallipoli（Wikipedia）](https://en.wikipedia.org/wiki/Fall_of_Gallipoli) |
+| 一三六〇年代攻下阿德里安堡，改名埃迪尔内并迁都，具体年份有争议 | 属实（一三六一至约一三六九年诸说，旁白已注明有争论）；埃迪尔内作都城直到一四五三年 | [Edirne（Wikipedia）](https://en.wikipedia.org/wiki/Edirne) |
+| 一三八九年科索沃之战，穆拉德一世对拉扎尔为首的联军，双方伤亡惨重，两位君主都死于此战；传统说法穆拉德被假装投降的塞尔维亚骑士（米洛什·奥比利奇）刺杀；成为塞尔维亚民族记忆的重要部分 | 属实（刺杀细节各说不一，旁白用「据传统说法」；拉扎尔是否被俘后处死说法不一，旁白只说「死于此战」） | [Battle of Kosovo（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Kosovo) |
+| 德夫希尔梅：从巴尔干基督徒农家征召少年，改宗伊斯兰教并训练；多数编入耶尼切里（新军），最出色者进入宫廷学校，有人当上大维齐尔；家庭普遍怨恨 | 属实（起源与穆拉德一世、巴耶济德一世相关，首次文字记载一四三八年，旁白用「逐渐形成」，年份标「约」） | [Devshirme（Wikipedia）](https://en.wikipedia.org/wiki/Devshirme) |
+| 巴耶济德一世外号「闪电」 | 属实（Yıldırım） | [Bayezid I（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_I) |
+| 一三九六年尼科波利斯之战，匈牙利国王西吉斯蒙德和法国骑士为主的十字军被击溃 | 属实 | [Bayezid I（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_I)；[Battle of Nicopolis（Britannica）](https://www.britannica.com/print/article/414447) |
+| 一三九四年起围困君士坦丁堡，一四〇二年因帖木儿入侵撤围 | 属实 | [Bayezid I（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_I) |
+| 帖木儿以撒马尔罕为都 | 属实 | [Timur（Wikipedia）](https://en.wikipedia.org/wiki/Timur) |
+| 一四〇二年安卡拉之战，巴耶济德军中部分部队（黑鞑靼人、小亚细亚诸侯国骑兵）倒戈，他被俘，次年（一四〇三年三月）死于囚禁 | 属实 | [Battle of Ankara（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Ankara)；[Bayezid I（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_I) |
+| 铁笼示众的故事，当时目击者记载未提，多半是传说 | 属实（旁白已注明传说） | [Bayezid I（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_I) |
+| 帖木儿一四〇五年二月在东征明朝途中病死于讹答剌（法拉布）一带 | 属实（日期有十七、十八、十九日诸说，旁白只写二月） | [Timur（Wikipedia）](https://en.wikipedia.org/wiki/Timur)；[The Death of Tamerlane（History Today）](https://www.historytoday.com/archive/months-past/death-tamerlane) |
+| 同年郑和第一次下西洋（前面讲过） | 属实（郑和章已讲一四〇五年） | 本片「郑和、君士坦丁堡与印刷机」章 |
+| 巴耶济德诸子内战十一年（空位期），一四一三年重新统一 | 属实 | [Battle of Ankara（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Ankara) |
+| 一四五三年后穆罕默德二世迁入穆斯林、基督徒、犹太人重新充实城市；一四七八年约八万居民 | 属实 | [Mehmed II（Wikipedia）](https://en.wikipedia.org/wiki/Mehmed_II) |
+| 大巴扎核心（珠宝商场）一四五五至一四五六年冬开工 | 属实（旁白说「大巴扎的前身」） | [Grand Bazaar, Istanbul（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul) |
+| 奥斯曼官方称城市为君士坦丁尼耶，民间叫伊斯坦布尔 | 属实（伊斯坦布尔在奥斯曼时期也用于部分官方场合） | [Names of Istanbul（Wikipedia）](https://en.wikipedia.org/wiki/Names_of_Istanbul) |
+| 托普卡帕宫一四五九年动工；意为「炮门」；由多重庭院组成；后宫四百多个房间；约四百年为苏丹居所（一八五六年迁往多尔玛巴赫切宫） | 属实 | [Topkapı Palace（Wikipedia）](https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace) |
+| 穆罕默德二世自称罗马皇帝（Kayser-i Rûm） | 属实 | [Mehmed II（Wikipedia）](https://en.wikipedia.org/wiki/Mehmed_II) |
+| 据说通晓多种语言；藏书含希腊文、拉丁文典籍 | 属实（「据说」） | [Mehmed II（Wikipedia）](https://en.wikipedia.org/wiki/Mehmed_II) |
+| 一四八〇年贝利尼为其画像，今属伦敦国家美术馆 | 属实（编号 NG3099，目前借展于维多利亚与艾伯特博物馆） | [The Sultan Mehmet II（National Gallery）](https://www.nationalgallery.org.uk/paintings/gentile-bellini-the-sultan-mehmet-ii) |
+| 一四九二年西班牙驱逐不改宗的犹太人，奥斯曼接纳 | 属实 | [History of the Jews in Thessaloniki（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Thessaloniki)；[Bayezid II（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_II) |
+| 萨洛尼卡一度犹太人占多数 | 属实（一五一九年约百分之五十六，一六一三年约百分之六十八） | [History of the Jews in Thessaloniki（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Thessaloniki) |
+| 苏丹讥讽西班牙国王让本国变穷、让奥斯曼变富 | 广为流传但无同时代原始记录，旁白用「据说」 | [Bayezid II（Wikipedia）](https://en.wikipedia.org/wiki/Bayezid_II)；[Sultan Bayazid II and the Jews expelled from Spain（UW Sephardic Studies）](https://jewishstudies.washington.edu/sephardic-digital-museum/sultan-bayazid-ii-jews-expelled-spain) |
+| 非穆斯林缴人头税、地位低于穆斯林、宗教社群按自己的法律处理婚姻继承；「米勒特制度」成体系是十九世纪的事 | 属实（旁白已注明学者的提醒） | [Millet (Ottoman Empire)（Wikipedia）](https://en.wikipedia.org/wiki/Millet_%28Ottoman_Empire%29) |
+| 一五一三年皮里·雷斯地图，羚羊皮纸，画有欧洲、非洲、南美洲海岸；参考约二十幅地图，其中一幅出自哥伦布；一九二九年在托普卡帕宫重新发现；现存约西边三分之一 | 属实（底图数量另有三十或三十四的解读，旁白用「约二十幅」） | [Piri Reis map（Wikipedia）](https://en.wikipedia.org/wiki/Piri_Reis_map) |
+| 一五一二年塞利姆一世在耶尼切里支持下迫使父亲巴耶济德二世退位 | 属实 | [Selim I（Wikipedia）](https://en.wikipedia.org/wiki/Selim_I) |
+| 一五一四年查尔迪兰之战，奥斯曼火炮和耶尼切里火枪击败萨法维骑兵（萨法维无火炮） | 属实（八月二十三日） | [Battle of Chaldiran（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Chaldiran) |
+| 一五一六年（达比克草原）、一五一七年（开罗附近的雷达尼耶）击败马穆鲁克，埃及、叙利亚、汉志归奥斯曼 | 属实 | [Selim I（Wikipedia）](https://en.wikipedia.org/wiki/Selim_I) |
+| 马穆鲁克在阿音札鲁特挡住蒙古（前面讲过） | 属实（蒙古章已讲一二六〇年） | 本片「蒙古旋风与黑死病」章 |
+| 苏丹自称「两圣城的仆人」 | 属实（Ḫādimü'l-Ḥaremeyn） | [Selim I（Wikipedia）](https://en.wikipedia.org/wiki/Selim_I) |
+| 塞利姆在位约八年，疆域扩大约七成；外号冷酷者 | 属实 | [Selim I（Wikipedia）](https://en.wikipedia.org/wiki/Selim_I) |
+| 阿拔斯末代哈里发正式让位给塞利姆的故事十八世纪才出现 | 属实 | [Selim I（Wikipedia）](https://en.wikipedia.org/wiki/Selim_I) |
+| 一五二〇年苏莱曼即位，在位四十六年（一五二〇至一五六六），在位最久的奥斯曼苏丹 | 属实 | [Suleiman the Magnificent（Wikipedia）](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent) |
+| 欧洲称「大帝」，土耳其人称「立法者」 | 属实（「立法者」称号可能十八世纪初才出现，旁白未说是当时称号） | [Suleiman the Magnificent（Wikipedia）](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent) |
+| 嘉靖皇帝在位一五二一至一五六七年，与苏莱曼几乎重合 | 属实 | [Jiajing Emperor（Wikipedia）](https://en.wikipedia.org/wiki/Jiajing_Emperor) |
+| 一五二一年攻下贝尔格莱德 | 属实 | [Suleiman the Magnificent（Wikipedia）](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent) |
+| 一五二六年八月莫哈奇之战，匈牙利阵线约两小时内崩溃 | 属实（八月二十九日） | [Battle of Mohács（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs) |
+| 路易二世二十岁，撤退时坠马落入切莱溪，被盔甲拖住淹死 | 属实 | [Louis II of Hungary（Wikipedia）](https://en.wikipedia.org/wiki/Louis_II_of_Hungary) |
+| 匈牙利后来一分为三（一五四一年） | 属实 | [Battle of Mohács（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs) |
+| 俗语「在莫哈奇丢的更多」用来安慰遇到小挫折的人 | 属实（该说法形成于十九世纪） | [What Does This Hungarian Saying Mean?（Xpatloop）](https://xpatloop.com/channels/2024/08/what-does-the-hungarian-saying-more-was-lost-at-mohacs-mean.html)；[Battle of Mohács（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs) |
+| 一五二九年围攻维也纳：春雨致道路泥泞，重炮被丢弃；九月二十七日开始围城，十月十五日撤围（不到三周） | 属实 | [Siege of Vienna (1529)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Vienna_%281529%29) |
+| 许蕾姆（罗克塞拉娜）据说出生于鲁塞尼亚（今乌克兰西部罗哈廷），被克里米亚鞑靼人劫掠卖入后宫；约一五三三至一五三四年苏莱曼打破惯例娶她；参与政务，修建清真寺、女子医院、施粥所 | 属实（出身细节多来自后世，旁白用「据说」） | [Hurrem Sultan（Wikipedia）](https://en.wikipedia.org/wiki/Hurrem_Sultan) |
+| 巴巴罗萨意大利语意为「红胡子」；以阿尔及尔为据点的海盗兼私掠者；一五三三年任海军总司令；一五三八年普雷韦扎击败神圣同盟舰队 | 属实 | [Hayreddin Barbarossa（Wikipedia）](https://en.wikipedia.org/wiki/Hayreddin_Barbarossa) |
+| 法奥结盟，一五四三至一五四四年巴巴罗萨舰队在土伦过冬 | 属实 | [Hayreddin Barbarossa（Wikipedia）](https://en.wikipedia.org/wiki/Hayreddin_Barbarossa) |
+| 约一五五五年两位叙利亚商人（阿勒颇的哈卡姆、大马士革的谢姆斯）在伊斯坦布尔塔赫塔卡莱开最早的咖啡馆；下棋、读书、谈诗 | 属实（一五五三至一五五五年诸说，旁白用「约」） | [Ottoman coffeehouse（Wikipedia）](https://en.wikipedia.org/wiki/Ottoman_coffeehouse)；[CxP Coffeehouse（Connexions）](https://connexions.org/CxLibrary/Docs/CxP-Coffeehouse.htm) |
+| 希南出身德夫希尔梅、当过军事工程兵；任宫廷总建筑师近五十年；名下建筑三百多座 | 属实（官方清单列四百七十六座） | [Mimar Sinan（Wikipedia）](https://en.wikipedia.org/wiki/Mimar_Sinan) |
+| 苏莱曼清真寺一五五〇年奠基、一五五七年落成，立于第三座山丘，是城市地标 | 属实 | [Süleymaniye Mosque（Wikipedia）](https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque) |
+| 布斯贝克把郁金香带回维也纳（约一五五四年后），克卢修斯一五九三年带到莱顿；名称来自土耳其语「头巾」，是欧洲人的误会 | 一般说法，布斯贝克的作用有争议，旁白用「一般认为」「据说」 | [Tulipomania（Fitzwilliam Museum）](https://fitzmuseum.cam.ac.uk/objects-and-artworks/highlights/context/stories-and-histories/tulipomania)；[Tulip etymology（etymologist.ai）](https://etymologist.ai/word/tulip) |
+| 一五六五年马耳他之围失败；守军是一五二二年从罗得岛撤走、一五三〇年迁到马耳他的圣约翰骑士团 | 属实 | [Great Siege of Malta（Wikipedia）](https://en.wikipedia.org/wiki/Great_Siege_of_Malta) |
+| 一五六六年苏莱曼（七十一岁）在锡盖特堡围城期间死于营帐，秘不发丧四十八天 | 属实 | [Suleiman the Magnificent（Wikipedia）](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent) |
+| 一五七一年奥斯曼夺下塞浦路斯（法马古斯塔八月投降） | 属实 | [Battle of Lepanto（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Lepanto) |
+| 一五七一年十月七日勒班陀海战，神圣同盟（西班牙、威尼斯、教皇国等），四百五十多艘战船，奥斯曼惨败 | 属实 | [Battle of Lepanto（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Lepanto) |
+| 塞万提斯（约一五四七年生，时年二十四岁）负伤，左手残废 | 属实 | [Miguel de Cervantes（Wikipedia）](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) |
+| 战后约半年奥斯曼造出一百五十多艘桨帆战船 | 属实 | [Battle of Lepanto（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Lepanto) |
+| 大维齐尔索科卢「手臂与胡子」之语 | 流传很广，原始措辞未能核实，旁白用「据说」 | [Sokollu Mehmed Pasha（Islamic Chronicles）](https://islamicchronicles.com/islamic-history/ottoman-empire/sokollu-mehmed-pasha-a-short-biography/)；[Libros de la Corte（Işıksel 2023）](https://revistas.uam.es/librosdelacorte/article/view/16043) |
+| 塞万提斯一五七五年被奥斯曼海盗俘虏，在阿尔及尔关约五年（一五八〇年赎回） | 属实 | [Miguel de Cervantes（Wikipedia）](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) |
+| 塞利米耶清真寺约一五七五年完工，希南八十多岁；他视为杰作；圆顶直径约三十一米，与圣索菲亚相当；他自称比圣索菲亚更高更宽 | 属实（工期一五六八或一五六九年至一五七四或一五七五年） | [Selimiye Mosque, Edirne（Wikipedia）](https://en.wikipedia.org/wiki/Selimiye_Mosque,_Edirne)；[Mimar Sinan（Wikipedia）](https://en.wikipedia.org/wiki/Mimar_Sinan) |
+| 一五九五年穆罕默德三世即位，十九个兄弟被处死 | 属实 | [Mehmed III（Wikipedia）](https://en.wikipedia.org/wiki/Mehmed_III) |
+| 一六〇三年艾哈迈德一世饶过弟弟穆斯塔法，改为幽禁，后称「笼子」（Kafes） | 属实 | [Kafes（Wikipedia）](https://en.wikipedia.org/wiki/Kafes)；[Mustafa I（Wikipedia）](https://en.wikipedia.org/wiki/Mustafa_I) |
+| 「女人苏丹国」：约十六世纪中期到十七世纪，柯塞姆太后先后为儿子（穆拉德四世、易卜拉欣）和孙子（穆罕默德四世）摄政 | 属实（维基作约一五三四至一七一五年） | [Sultanate of Women（Wikipedia）](https://en.wikipedia.org/wiki/Sultanate_of_Women) |
+| 这个说法出自二十世纪初土耳其史学家（艾哈迈德·雷菲克，一九一六年），带贬义 | 属实（成书年份另有一九一四至一九二三年分卷出版之说，旁白只写「二十世纪初」） | [Ahmet Refik Altınay（土耳其文化旅游部）](https://ktb.gov.tr/EN-118081/ahmet-refik-altinay.html)；[İbn Haldun Üniversitesi 文稿](https://fs.ihu.edu.tr/siteler/hist.ihu.edu.tr/62fdfce442395/files/my-very-first-student-contribution-pdf.pdf) |
+| 一六三三年穆拉德四世关闭咖啡馆，并禁烟禁酒；便装夜巡、严惩违禁者的故事可能夸张 | 属实（禁令年份属实；夜巡故事旁白用「据说」） | [Ottoman coffeehouse（Wikipedia）](https://en.wikipedia.org/wiki/Ottoman_coffeehouse)；[Murad IV（Wikipedia 存档）](https://webcf.waybackmachine.org/web/20220330012928/https://en.wikipedia.org/wiki/Murad_IV) |
+| 咖啡随后传入威尼斯（约一六四五年首家咖啡馆）、伦敦（一六五二年）、巴黎（一六七〇年前后） | 属实（旁白未写具体年份） | [Living in the Past: Coffeehouse Culture（Macmillan）](https://digfir-published.macmillanusa.com/mckaywest11e/mckaywest11e_ch16_28.html)；[Kaffeehaus（Austria-Forum）](https://austria-forum.org/af/AEIOU/Kaffeehaus_Caf%C3%A9/Kaffeehaus_Caf%C3%A9_english) |
+| 一六八三年七月（十四日）卡拉·穆斯塔法第二次围攻维也纳；九月十二日索别斯基援军赶到，翼骑兵从卡伦山冲锋，奥斯曼溃败；守城约两个月 | 属实 | [Battle of Vienna（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Vienna) |
+| 卡拉·穆斯塔法一六八三年十二月二十五日在贝尔格莱德被处死 | 属实 | [Battle of Vienna（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Vienna) |
+| 羊角面包起源于维也纳之围是传说；新月形面包（基普费尔）早已存在 | 属实（旁白已注明传说） | [Croissant（Wikipedia）](https://en.wikipedia.org/wiki/Croissant)；[Is the croissant really French?（Smithsonian）](https://www.smithsonianmag.com/arts-culture/croissant-really-french-180955130/) |
+| 奥斯曼人留下的咖啡豆开启维也纳咖啡馆是传说 | 属实（故事多为一七八三年后人编写，维也纳首家咖啡馆实为一六八五年），旁白已注明 | [The Blue Bottle Coffee House（Wikipedia）](https://en.wikipedia.org/wiki/The_Blue_Bottle_Coffee_House)；[Jerzy Franciszek Kulczycki（Wikipedia）](https://en.wikipedia.org/wiki/Jerzy_Franciszek_Kulczycki) |
+| 一六九九年卡尔洛维茨条约，匈牙利大部分割给哈布斯堡，是奥斯曼在欧洲第一次重大割地 | 属实（一月二十六日签订） | [Treaty of Karlowitz（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Karlowitz) |
+| 帝国还延续两百多年（至一九二二年） | 属实 | [Names of Istanbul（Wikipedia）](https://en.wikipedia.org/wiki/Names_of_Istanbul) |
+
+## 火药帝国
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 「火药帝国」一词出自二十世纪美国学者霍奇森和麦克尼尔，指奥斯曼、萨法维、莫卧儿；后来学者认为光靠火药解释不足 | 属实（霍奇森《伊斯兰的冒险》1974；该假说已受质疑，但名称仍在用） | [Gunpowder empires（Wikipedia）](https://en.wikipedia.org/wiki/Gunpowder_empires) |
+| 萨法维源于阿尔达比勒世代相传的苏菲教团，追随者戴红帽，称红头军（奇兹尔巴什） | 属实 | [Ismail I（Wikipedia）](https://en.wikipedia.org/wiki/Ismail_I)；[Sheikh Safi al-Din Khānegāh and Shrine Ensemble（Wikipedia）](https://en.wikipedia.org/wiki/Sheikh_Safi_al-Din_Kh%C4%81neg%C4%81h_and_Shrine_Ensemble) |
+| 一五〇一年约十四岁的伊斯玛仪攻下大不里士，自立为沙阿 | 属实（生于一四八七年；一五〇一年七月取大不里士，具体登基日期说法不一，旁白用「左右」） | [Ismail I（Wikipedia）](https://en.wikipedia.org/wiki/Ismail_I) |
+| 伊斯玛仪把十二伊玛目派什叶派定为国教 | 属实 | [Ismail I（Wikipedia）](https://en.wikipedia.org/wiki/Ismail_I) |
+| 此前伊朗多数人是逊尼派；萨法维常以强制手段推行，经过几代人才成为什叶派为主 | 属实（维基称强制改宗历时约三个世纪） | [Safavid conversion of Iran to Shia Islam（Wikipedia）](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam) |
+| 什叶派与逊尼派的分歧源于穆罕默德身后继承之争 | 属实（通行说法） | [Safavid conversion of Iran to Shia Islam（Wikipedia）](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam) |
+| 伊斯玛仪用突厥语写诗（笔名哈塔伊） | 属实 | [Ismail I（Wikipedia）](https://en.wikipedia.org/wiki/Ismail_I) |
+| 一五一四年查尔迪兰之战，奥斯曼以火器击败萨法维，一度占领大不里士 | 属实（上一章奥斯曼章负责详讲） | [Battle of Chaldiran（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Chaldiran) |
+| 此后伊斯玛仪不再亲自领兵 | 仅部分资料如此说，旁白已用「据一些记载」 | [Battle of Chaldiran（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Chaldiran) |
+| 伊斯玛仪十年后（一五二四年）去世，年仅三十六岁 | 属实（一四八七—一五二四） | [Ismail I（Wikipedia）](https://en.wikipedia.org/wiki/Ismail_I) |
+| 巴布尔生于费尔干纳（安集延），父系是帖木儿后代，母系可追溯到成吉思汗 | 属实 | [Babur（Wikipedia）](https://en.wikipedia.org/wiki/Babur) |
+| 巴布尔三次夺下撒马尔罕，三次都没守住 | 属实（一四九七、一五〇一、一五一一年） | [Babur（Wikipedia）](https://en.wikipedia.org/wiki/Babur) |
+| 一五〇四年占据喀布尔 | 属实 | [Siege of Kabul (1504)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Kabul_%281504%29)；[Babur（Wikipedia）](https://en.wikipedia.org/wiki/Babur) |
+| 一五二六年第一次帕尼帕特之战，巴布尔兵力远少于洛迪，用大车连成防线配火炮火枪、两翼包抄；洛迪战死 | 属实（巴布尔约一万二千至一万五千人，洛迪数万人及上千战象；具体数字说法不一，旁白未给数字） | [First Battle of Panipat（Wikipedia）](https://en.wikipedia.org/wiki/First_Battle_of_Panipat) |
+| 《巴布尔纳玛》用突厥语（察合台语）写成 | 属实 | [Babur（Wikipedia）](https://en.wikipedia.org/wiki/Babur) |
+| 巴布尔抱怨印度没有好马好狗、葡萄甜瓜、冰、好面包、澡堂；从喀布尔运来瓜果、在花园种葡萄甜瓜；称芒果是印度最好的水果 | 属实（各英译本措辞略有出入） | [The Emperor Babur and Vasco da Gama（History Today）](https://www.historytoday.com/archive/emperor-babur-and-vasco-da-gama)；[Babur in India（Scroll.in）](https://scroll.in/article/943126/babur-in-india-an-emperor-who-loved-the-monsoon-breezes-but-wasnt-impressed-by-the-melons-or-grap)；[The emperor who loved melons（Kaveh Farrokh）](https://www.kavehfarrokh.com/heritage/the-emperor-who-loved-melons/) |
+| 塔赫玛斯普在位近五十二年，是萨法维在位最久的君主，本人会作画 | 属实（一五二四—一五七六） | [Tahmasp I（Wikipedia）](https://en.wikipedia.org/wiki/Tahmasp_I) |
+| 为阿尔达比勒祖祠织的一对地毯，题记年份约一五三九年，是最古老的有确切纪年的地毯之一，一块约两千五百万个结 | 属实（题记一五三九至一五四〇年；V&A 称其为世界上最古老的有纪年地毯；结数两千五百万至两千六百万，旁白用「据估计」） | [Ardabil carpets（Tehran Times）](https://www.tehrantimes.com/news/520978/16th-century-Ardabil-carpets-lie-far-from-home-in-London-and)；[Oldest dated carpet（Guinness）](https://guinnessworldrecords.es/world-records/652080-oldest-dated-carpet) |
+| 巴布尔一五三〇年去世 | 属实（一五三〇年十二月） | [Babur（Wikipedia）](https://en.wikipedia.org/wiki/Babur) |
+| 胡马雍约十年后（一五四〇年）被舍尔沙夺去江山 | 属实（一五三九年乔萨、一五四〇年卡瑙季之败） | [Humayun's rule（Vaia）](https://www.vaia.com/en-us/explanations/history/the-mughal-empire/humayuns-rule/) |
+| 舍尔沙铸造银币卢比亚，一般认为是今天卢比的前身 | 属实（重一百七十八格令） | [History of the rupee（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_rupee)；[Rupiya of Sher Shah Suri（CSMVS）](https://csmvs.in/collections/rupiya-of-sher-shah-suri/) |
+| 胡马雍流亡伊朗投奔塔赫玛斯普；对方要求改信什叶派、日后让出坎大哈才借兵 | 属实（一五四四年会面） | [Tahmasp I（Wikipedia）](https://en.wikipedia.org/wiki/Tahmasp_I) |
+| 一五五五年胡马雍夺回德里；半年多后在图书馆楼梯失足，几天后去世 | 属实（一五五五年七月复德里，一五五六年一月二十七日去世） | [Humayun（Anantam IAS）](https://anantamias.com/humayun/) |
+| 阿克巴十四岁即位；同年第二次帕尼帕特之战击败赫姆 | 属实（一五五六年二月即位，十一月五日击败赫姆） | [Akbar（Wikipedia）](https://en.wikipedia.org/wiki/Akbar) |
+| 毗奢耶那伽罗都城在亨比；葡萄牙人帕伊斯形容它像罗马一样大 | 属实（帕伊斯约一五二〇年访问，原话「看起来和罗马一样大」） | [Domingo Paes（Wikipedia）](https://en.wikipedia.org/wiki/Domingo_Paes)；[History of Vijayanagara（hampi.in）](https://hampi.in/history-of-vijayanagara) |
+| 一五六五年德干诸苏丹国联军在塔利科塔附近获胜，都城被洗劫约六个月后荒废；今为世界遗产 | 属实（世界遗产一九八六年列入） | [Battle of Talikota（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Talikota)；[Hampi（Wikipedia）](https://en.wikipedia.org/wiki/Hampi) |
+| 法塔赫布尔西格里意为胜利之城，约一五七一年起做了十多年都城，一五八五年宫廷迁走；废弃原因可能是缺水或皇帝改主意 | 属实（一五六九年动工，一五七一—一五八五年为都城；缺水说有争议，旁白并列两种说法） | [Fatehpur Sikri（Wikipedia）](https://en.wikipedia.org/wiki/Fatehpur_Sikri) |
+| 阿克巴废除吉兹亚人头税 | 属实（多数资料作一五六四年，旁白未写年份） | [Governance and religious policy under Akbar（Oak National Academy）](https://www.thenational.academy/pupils/lessons/governance-and-religious-policy-under-akbar/video)；[Jizya（Wikipedia）](https://en.wikipedia.org/wiki/Jizya) |
+| 阿克巴娶拉其普特王公之女，重用印度教徒大臣 | 属实（娶安伯的巴尔马尔之女；托达尔·马尔等） | [Religious Policy of Akbar（Vajiram & Ravi）](https://vajiramandravi.com/upsc-exam/religious-policy-of-akbar/) |
+| 一五七五年建辩经堂，后来邀请各教学者和耶稣会士辩论；提倡「普遍和平」（苏尔赫-伊-库尔） | 属实 | [Akbar（Wikipedia）](https://en.wikipedia.org/wiki/Akbar)；[Din-i Ilahi（Wikipedia）](https://en.wikipedia.org/wiki/Din-i_Ilahi) |
+| 阿克巴一生未学会读写，被认为可能有阅读障碍；藏书两万四千多卷；每天有人朗读 | 属实（阅读障碍只是推测，旁白用「有人猜」；藏书数用「据说」） | [Akbar（Wikipedia）](https://en.wikipedia.org/wiki/Akbar)；[How Akbar came to love books（Daily Times）](https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/) |
+| 阿克巴下令把《摩诃婆罗多》译成波斯文并配插图（《战争之书》） | 属实（一五八二年下令，约一五八四—一五八六年译成） | [The Book of War: Razmnama（Philadelphia Museum of Art）](https://www.philamuseum.org/exhibitions/the-book-of-war-the-free-library-of-philadelphias-mughal-razmnama-folios)；[Razmnama（Madras Courier）](https://madrascourier.com/insight/razmnama-when-the-mughals-painted-the-mahabharata/) |
+| 阿拔斯一世一五八〇年代末十六七岁即位 | 属实（生于一五七一年一月；即位日期资料有一五八七年十月与一五八八年两说，旁白写「一五八〇年代末」） | [Abbas the Great（Wikipedia）](https://en.wikipedia.org/wiki/Abbas_the_Great) |
+| 阿拔斯组建由格鲁吉亚人、切尔克斯人、亚美尼亚人等组成的古拉姆禁卫军以制衡红头军 | 属实 | [Abbas the Great（Wikipedia）](https://en.wikipedia.org/wiki/Abbas_the_Great)；[Abbas I（Encyclopaedia Iranica）](https://iranicaonline.org/articles/abbas-i) |
+| 雪利兄弟（一五九八年到）帮助操练军队、改进火炮，作用常被夸大 | 属实（作用大小有争议，旁白已注明） | [Robert Shirley（Wikipedia）](https://en.wikipedia.org/wiki/Robert_Shirley)；[Abbas the Great（Wikipedia）](https://en.wikipedia.org/wiki/Abbas_the_Great) |
+| 一五九八年迁都伊斯法罕；广场长约五百六十米、宽约一百六十米，四周清真寺、宫殿、市集；国王在阿里卡普宫看马球 | 属实（广场一九七九年列入世界遗产） | [Naqsh-e Jahan Square（Wikipedia）](https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square) |
+| 三十三孔桥 | 属实（一五九九—一六〇二年建，以三十三个桥孔得名） | [Allahverdi Khan Bridge（Structurae）](https://structurae.net/en/structures/allahverdi-khan-bridge) |
+| 波斯谚语「伊斯法罕是半个世界」 | 属实（谚语来源年代不详，旁白未说具体起源） | [Isfahan（Wikipedia）](https://en.wikipedia.org/wiki/Isfahan) |
+| 同期：伊丽莎白一世、万历皇帝、日本走向统一；伊丽莎白一六〇三年去世、阿克巴一六〇五年去世 | 属实 | [Akbar（Wikipedia）](https://en.wikipedia.org/wiki/Akbar)；（伊丽莎白一世一五五八—一六〇三在位、万历一五七二—一六二〇在位为通行常识） |
+| 一六〇四年与奥斯曼作战时把朱利法的亚美尼亚人强行迁往伊朗，途中死伤惨重；在伊斯法罕城外建新朱利法 | 属实（一六〇四年十至十一月；人数说法差异很大，旁白不写数字） | [Julfa i. Safavid period（Encyclopaedia Iranica）](https://iranicaonline.org/articles/julfa-i-safavid-period)；[New Julfa（Wikipedia）](https://en.wikipedia.org/wiki/New_Julfa) |
+| 朱利法商人经营丝绸，贸易网从阿姆斯特丹延伸到马尼拉；伊朗生丝出口多经其手 | 属实（布罗代尔语；一六一九年起成为伊朗生丝主要出口商） | [New Julfa（Wikipedia）](https://en.wikipedia.org/wiki/New_Julfa)；[Julfa i. Safavid period（Encyclopaedia Iranica）](https://iranicaonline.org/articles/julfa-i-safavid-period) |
+| 古鲁那纳克生于一四六九年，创立锡克教，主张人人平等；锡克寺庙设免费公共食堂 | 属实 | [Golden Temple（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Temple)；[History of ten Sikh Gurus（Shankar IAS）](https://www.shankariasparliament.com/current-affairs/gs-i/gs-i-indian-history/history-of-ten-sikh-gurus) |
+| 一六〇四年第五代古鲁阿尔琼编成经典，供奉在阿姆利则金庙 | 属实（金庙主体一五八九年起建，一六〇四年八月安放《阿迪·格兰特》）；初稿写「一六〇四年金庙落成」，已改 | [Golden Temple（Wikipedia）](https://en.wikipedia.org/wiki/Golden_Temple)；[Guru Arjan（Wikipedia）](https://en.wikipedia.org/wiki/Guru_Arjan) |
+| 一六〇六年阿尔琼在贾汉吉尔治下死于官府羁押，锡克教此后走向武装自卫 | 属实（死因说法不一，旁白用「死于羁押」） | [Guru Arjan（Wikipedia）](https://en.wikipedia.org/wiki/Guru_Arjan) |
+| 一六一六年初托马斯·罗在阿杰梅尔见到贾汉吉尔，为东印度公司争取贸易 | 属实（一六一六年一月十日） | [Thomas Roe（Wikipedia）](https://en.wikipedia.org/wiki/Thomas_Roe) |
+| 宫廷画师临摹罗带来的英国细密画，罗犹豫后认出原作 | 属实（罗日记所载；V&A 一条目说他输了赌，与多数记载不符，旁白从多数） | [Glory 'in the Little'（Fitzwilliam Museum）](https://unlocking-miniatures.fitzmuseum.cam.ac.uk/blog/Glory-in-the-Little) |
+| 出使收获有限，获准在苏拉特设商馆 | 属实 | [Thomas Roe（Wikipedia）](https://en.wikipedia.org/wiki/Thomas_Roe)；[Courting India（London Review of Books）](https://www.lrb.co.uk/the-paper/v45/n19/clare-jackson/base-people-in-a-little-island) |
+| 一六二一年有人献斑马，有人怀疑条纹是画上的，查验后贾汉吉尔写道是造物主所画；曼苏尔画了斑马 | 属实（V&A 藏一六二一年曼苏尔斑马图） | [Mughal Zebra Painting（World History Encyclopedia）](https://www.worldhistory.org/collection/283/a-gallery-of-mughal-paintings/17/)；[The Mughal Artist as a Naturalist（Exotic India）](https://www.exoticindiaart.com/article/nature/) |
+| 认为出自曼苏尔的渡渡鸟画像是最逼真的渡渡鸟图像之一 | 属实（归属与年代有争议，旁白用「据认为」「之一」） | [Dodos in Mughal court（TBS News）](https://www.tbsnews.net/node/11827)；[Ustad Mansur（Live History India）](https://livehistoryindia.com/story/people/ustad-mansur-a-wonder-of-his-age) |
+| 一六二二年阿拔斯借英国东印度公司战舰从葡萄牙人手中夺下霍尔木兹，结束葡萄牙一百多年统治 | 属实（葡萄牙一五〇七年首次占据、一五一五年稳固） | [Anglo-Persian capture of Hormuz（Wikipedia）](https://en.wikipedia.org/wiki/Anglo-Persian_capture_of_Hormuz) |
+| 两百年前郑和船队到过霍尔木兹（忽鲁谟斯） | 属实（十五世纪初郑和船队到访，本片郑和章地图标过忽鲁谟斯） | [Anglo-Persian capture of Hormuz（Wikipedia）](https://en.wikipedia.org/wiki/Anglo-Persian_capture_of_Hormuz)（时间背景）；郑和到访忽鲁谟斯为通行史实 |
+| 对岸港口一六二二年改名阿巴斯港 | 属实 | [Bandar Abbas（Wikipedia）](https://en.wikipedia.org/wiki/Bandar_Abbas) |
+| 一六三一年慕塔芝·玛哈生第十四个孩子时去世；一六三二年开工；整个建筑群约一六五三年完工；约两万名工匠 | 属实（陵墓主体约一六四八年完成，整体一六五三年） | [Taj Mahal（Wikipedia）](https://en.wikipedia.org/wiki/Taj_Mahal) |
+| 砍掉工匠双手是无稽之谈 | 属实（历史学家认为毫无证据） | [Fact check（Alt News）](https://www.altnews.in/fact-check-did-shah-jahan-chop-off-the-hands-of-taj-mahal-workers/)；[Fact check（Newschecker）](https://newschecker.in/fact-check/factcheck-shah-jahan-did-not-cut-off-the-hands-of-the-masons-who-constructed-the-taj-mahal) |
+| 一六五八年继承战争，三子奥朗则布胜出，把沙贾汗软禁在阿格拉堡直至八年后去世 | 属实（沙贾汗一六六六年一月去世） | [Shah Jahan（Wikipedia）](https://en.wikipedia.org/wiki/Shah_Jahan) |
+| 据说沙贾汗在塔楼上远望泰姬陵 | 传说色彩，旁白已用「据说」 | [Musamman Burj（Wikipedia）](https://www.wikipedia.com/wiki/Musamman_Burj) |
+| 传说希瓦吉一六六六年被软禁于阿格拉，藏在运甜食的大筐中逃出 | 属实（逃脱是史实，藏筐细节各版本不一，旁白用「传说」） | [Shivaji and Aurangzeb（Sri Chinmoy Library）](https://srichinmoylibrary.com/me-70)；[Shivaji（Wikipedia）](https://en.wikipedia.org/wiki/Shivaji) |
+| 一六七四年希瓦吉在赖加德加冕 | 属实（一六七四年六月六日，儒略历） | [Shivaji（Wikipedia）](https://en.wikipedia.org/wiki/Shivaji)；[Shivrajyabhishek Sohala（Incredible India）](https://www.incredibleindia.gov.in/en/festivals-and-events/maharashtra/shivrajyabhishek-sohala) |
+| 一六七九年奥朗则布重新开征吉兹亚 | 属实 | [Aurangzeb（Wikipedia）](https://en.wikipedia.org/wiki/Aurangzeb)；[Aurangzeb（Britannica）](https://www.britannica.com/biography/Aurangzeb) |
+| 后半生二十多年在德干作战；十七世纪末疆域达顶峰，从喀布尔到印度南部；马拉塔未平定，国库被掏空 | 属实（一六八一年起南下，一六八六—一六八七年吞并比贾布尔、戈尔康达） | [Aurangzeb（Britannica）](https://www.britannica.com/biography/Aurangzeb)；[Aurangzeb（padhai.ai）](https://padhai.ai/history/medieval/aurangzeb) |
+| 一七〇七年在艾哈迈德讷格尔（附近）去世，享年八十八岁 | 属实（一六一八年十一月生，一七〇七年三月卒于宾加尔，在艾哈迈德讷格尔近郊） | [Aurangzeb（Wikipedia）](https://en.wikipedia.org/wiki/Aurangzeb) |
+| 英语 calico 来自卡利卡特，chintz 来自印地语「斑点」一词 | 属实 | [Calico（Wikipedia）](https://en.wikipedia.org/wiki/Calico)；[Chintz（Wikipedia）](https://en.wikipedia.org/wiki/Chintz) |
+| 英国议会一七〇〇年、一七二一年两次立法限制印度棉布进口和销售，以保护毛纺业 | 属实（印花布法令） | [Calico（Wikipedia）](https://en.wikipedia.org/wiki/Calico) |
+| 麦迪森估计一七〇〇年前后印度约占世界经济四分之一，与清朝中国相当；数字误差大，有不同估算 | 属实（麦迪森表：印度百分之二十四点四，中国百分之二十二点三；布罗德伯里等有不同估算，旁白已注明） | [The World Economy: A Millennial Perspective（Maddison, 2001）](https://cse.iitk.ac.in/users/amit/books/maddison-2001-world-economy-millennial.html)；[Raj review（Swaminomics）](https://swaminomics.org/raj-review-did-british-rule-really-impoverish-india/) |
+| 阿拔斯一六二九年去世 | 属实 | [Abbas the Great（Wikipedia）](https://en.wikipedia.org/wiki/Abbas_the_Great) |
+| 一七二二年马哈茂德·霍塔克在古尔纳巴德获胜，围困伊斯法罕；缺重炮故断粮，城中大饥荒；十月萨法维国王投降 | 属实（三月八日古尔纳巴德，十月二十一日投降） | [Siege of Isfahan（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Isfahan) |
+| 纳迪尔出身呼罗珊阿夫沙尔部落贫寒之家；赶走阿富汗人，从奥斯曼夺回失地，迫使俄国退出 | 属实（一七三五年《甘贾条约》俄国撤出） | [Nader Shah（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah) |
+| 一七三六年在穆甘草原召集大会，自立为沙阿 | 属实（一七三六年三月八日加冕） | [Nader Shah（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah) |
+| 有历史学家称他为「波斯的拿破仑」 | 属实 | [Nader Shah（New World Encyclopedia）](https://newworldencyclopedia.org/entry/Nader_Shah) |
+| 从坎大哈出发、越开伯尔山口；一七三九年二月卡尔纳尔大胜，进入德里 | 属实（二月二十四日卡尔纳尔，三月二十日入德里） | [Nader Shah's invasion of the Mughal Empire（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah%27s_invasion_of_the_Mughal_Empire) |
+| 谣传纳迪尔遇刺，骚乱中波斯士兵被杀，随后屠城；约六小时内两三万人遇害，确切数字不可考 | 属实（三月二十二日；估计二万至三万，旁白已注明） | [Nader Shah's invasion of the Mughal Empire（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah%27s_invasion_of_the_Mughal_Empire) |
+| 带走孔雀宝座和光之山钻石 | 属实 | [Nader Shah's invasion of the Mughal Empire（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah%27s_invasion_of_the_Mughal_Empire)；[Nādir Shāh（Britannica）](https://www.britannica.com/biography/Nadir-Shah) |
+| 孔雀宝座为沙贾汗打造，据说造价是泰姬陵两倍；纳迪尔死后下落不明，可能被拆散 | 属实（七年打造，一六三五年落成；造价说法旁白用「据说」） | [Peacock Throne（Wikipedia）](https://en.wikipedia.org/wiki/Peacock_Throne) |
+| 传说纳迪尔见到钻石惊呼「光之山」，名字由此而来；如今镶在英国王冠上，陈列在伦敦塔 | 属实（命名故事为传说，旁白已注明） | [Koh-i-Noor（World History Encyclopedia）](https://worldhistory.org/Koh-i-Noor) |
+| 一七四七年纳迪尔被自己的部将刺杀，帝国随即瓦解 | 属实（一七四七年六月在古昌被卫队军官所杀） | [Nader Shah（Wikipedia）](https://en.wikipedia.org/wiki/Nader_Shah) |
+
+## 武士与朝鲜王朝
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 一一九二年镰仓幕府、高丽经历蒙古入侵（前章内容回顾） | 属实（见「古代朝鲜与日本」章核对） | [Taejo of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Taejo_of_Joseon) |
+| 一三八八年李成桂奉命攻辽东，在威化岛回军，回攻开城夺权 | 属实（政变始于 1388 年 5 月） | [Wihwado Retreat（Wikipedia）](https://en.wikipedia.org/wiki/Wihwado_Retreat) |
+| 一三九二年李成桂即位，建立朝鲜王朝 | 属实 | [Wihwado Retreat（Wikipedia）](https://en.wikipedia.org/wiki/Wihwado_Retreat)；[Taejo of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Taejo_of_Joseon) |
+| 国号「朝鲜」致敬古朝鲜，得到明朝皇帝认可 | 属实（曾在「和宁」与「朝鲜」间选择，经明帝认可定为朝鲜） | [Taejo of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Taejo_of_Joseon) |
+| 一三九四年决定迁都汉阳（今首尔） | 属实（1394 年 8 月决定） | [Gyeongbokgung（Wikipedia）](https://en.wikipedia.org/wiki/Gyeongbokgung) |
+| 第二年（一三九五年）景福宫落成，名称取自《诗经》 | 属实（郑道传据《诗经》诗句末两字命名） | [Gyeongbokgung（Wikipedia）](https://en.wikipedia.org/wiki/Gyeongbokgung) |
+| 景福宫毁于一五九二年开始的战争 | 属实（1592 年全部烧毁，1860 年代重建；纵火者是谁有争论，旁白未指明） | [Gyeongbokgung（Wikipedia）](https://en.wikipedia.org/wiki/Gyeongbokgung) |
+| 首尔今天仍是韩国首都 | 属实 | 常识 |
+| 朝鲜以理学立国、压制佛教 | 属实 | [Korea, 1392–1700（The Met）](https://www.metmuseum.org/toah/ht/08/eak.html) |
+| 科举分文武，文武官合称两班，后成贵族阶层代称；考中者多为两班子弟 | 属实 | [Yangban（Wikipedia）](https://en.wikipedia.org/wiki/Yangban)；[Gwageo（Wikipedia）](https://en.wikipedia.org/wiki/Gwageo) |
+| 足利氏在京都室町开设幕府 | 属实 | [Sengoku period（Wikipedia）](https://en.wikipedia.org/wiki/Sengoku_period) |
+| 一三九七年起足利义满把北山别墅改建为金阁 | 属实（义满 1397 年取得西园寺家别墅；金阁本身建成年代或说 1399 年，旁白写「起」） | [Kinkaku-ji（Wikipedia）](https://en.wikipedia.org/wiki/Kinkaku-ji) |
+| 金阁一九五〇年遭纵火（见习僧人），今天所见为重建 | 属实（1950 年 7 月 2 日纵火，1955 年重建） | [Kinkaku-ji（Wikipedia）](https://en.wikipedia.org/wiki/Kinkaku-ji) |
+| 义满赏识观阿弥、世阿弥父子，成为赞助人 | 属实（1374 或 1375 年今熊野演出；当时世阿弥约 12 岁。最终旁白只保留「捧红」，未写年份） | [Kan'ami（Wikipedia）](https://en.wikipedia.org/wiki/Kan%27ami) |
+| 能剧戴面具、至今仍在上演 | 属实（能乐 2008 年列入联合国教科文组织非遗代表作名录） | [Nôgaku theatre（UNESCO）](https://ich.unesco.org/en/RL/nogaku-00012) |
+| 一四四六年世宗颁布训民正音（前面「郑和、君士坦丁堡与印刷机」章讲过） | 属实（1443 年底创制，1446 年阴历九月颁布） | [Hunminjeongeum（Wikipedia）](https://en.wikipedia.org/wiki/Hunminjeongeum) |
+| 基本辅音模仿发音器官形状：ㄱ（k）像舌根抵住喉咙，ㅁ（m）像嘴形 | 属实（出自《训民正音解例》） | [Hangeul（国立韩文博物馆）](https://www.hangeul.go.kr/lang/en/html/education/Hangeul.do)；[Unicode 邮件列表引 Ross King](https://unicode.org/mail-arch/unicode-ml/y2001-m10/0229.html) |
+| 元音由代表天、地、人的点、横、竖组合而成 | 属实 | [The spirit and principles behind Hangeul's creation（韩国文化院）](https://koreanculture.org/gallery-korea/2024/04/07/hangeul) |
+| 一四四一年造测雨器，第二年（一四四二年）统一发往各地并附使用规定 | 属实 | [Rain gauge（Wikipedia）](https://en.wikipedia.org/wiki/Rain_gauge)；[Jang Yeong-sil（New World Encyclopedia）](https://newworldencyclopedia.org/entry/Jang_Yeong-sil) |
+| 常被称为世界最早的标准化雨量计；比英国一六六二年的雨量计早两百多年 | 属实（Wikipedia 称 first standardized rain gauge；英国 1662 年雷恩与胡克的翻斗式雨量计；「最早」有人质疑，旁白用「常被称为」） | [Rain gauge（Wikipedia）](https://en.wikipedia.org/wiki/Rain_gauge) |
+| 蒋英实出身贱民，造过自动报时的水钟（自击漏，一四三四年） | 属实 | [Chang Yŏngsil（Wikipedia）](https://en.wikipedia.org/wiki/Chang_Y%C5%8Fngsil)；[Korea Times](https://www.koreatimes.co.kr/www/news/art/2007/11/135_14169.html) |
+| 一四六七年应仁之乱，源于将军继承人之争，打了十一年（至一四七七年） | 属实（另有学者认为战事始于 1465 年、终于 1478 年） | [Sengoku period（Wikipedia）](https://en.wikipedia.org/wiki/Sengoku_period)；[The Ōnin War（Princeton）](https://commons.princeton.edu/onin) |
+| 京都大半成为废墟 | 属实（约三分之二被毁） | [Sengoku period（Wikipedia）](https://en.wikipedia.org/wiki/Sengoku_period) |
+| 京都人说「上次打仗」指应仁之乱的笑话 | 属实（旁白明说是「流传很广的笑话」；Conlan 论文引旅游指南提及） | [Thomas Conlan, The Ōnin War as the Fulfillment of Prophecy（Princeton，PDF）](https://tconlan.scholar.princeton.edu/sites/g/files/toruqf3991/files/documents/TConlan%20The%20Onin%20War%20as%20the%20Fulfillment%20of%20Prophecy.pdf) |
+| 下克上；战国时代一百多年 | 属实（一般从应仁之乱算到 16 世纪末/1603 年） | [Sengoku period（Wikipedia）](https://en.wikipedia.org/wiki/Sengoku_period) |
+| 一五四三年中国商船被风暴吹到种子岛，船上葡萄牙人带来火绳枪 | 属实 | [Tanegashima (gun)（Wikipedia）](https://en.wikipedia.org/wiki/Tanegashima_%28gun%29) |
+| 种子岛时尧买下两支，让刀匠仿造 | 属实（刀匠八板金兵卫） | [Tanegashima (gun)（Wikipedia）](https://en.wikipedia.org/wiki/Tanegashima_%28gun%29) |
+| 不到十年多地能造枪；堺和国友为两大产地 | 属实 | [Gun Manufacturing Around Japan（日本国土交通省多语解说）](https://www.mlit.go.jp/tagengo-db/common/001652666.docx) |
+| 日本把火绳枪叫作「种子岛」 | 属实 | [Tanegashima (gun)（Wikipedia）](https://en.wikipedia.org/wiki/Tanegashima_%28gun%29) |
+| 一五四九年沙勿略在鹿儿岛登陆 | 属实（1549 年 8 月 15 日） | [History of the Catholic Church in Japan（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Catholic_Church_in_Japan) |
+| 一些大名受洗；十六世纪末信徒约三十万 | 属实（「约」；高峰时超过三十万） | [The Beginning of Christian Suffering（日本国土交通省多语解说，长崎历史文化博物馆）](https://www.mlit.go.jp/tagengo-db/en/R1-00784.html)；[History of the Catholic Church in Japan（Wikipedia）](https://en.wikipedia.org/wiki/History_of_the_Catholic_Church_in_Japan) |
+| 日语「面包」pan 来自葡萄牙语 pão | 属实 | [List of Japanese words of Portuguese origin（Wikipedia）](https://en.wikipedia.org/wiki/List_of_Japanese_words_of_Portuguese_origin) |
+| 信长年轻时举止出格，被称「尾张的大傻瓜」 | 属实（尾張の大うつけ） | [Oda Nobunaga（Wikipedia）](https://en.wikipedia.org/wiki/Oda_Nobunaga) |
+| 一五六〇年今川义元约两万五千人，信长两三千人；借雷雨掩护突袭，斩杀义元 | 属实（兵力数字各书有出入，旁白写「约」） | [Battle of Okehazama（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Okehazama) |
+| 一五七五年长篠之战，织田德川联军以栅栏和火枪击败武田胜赖 | 属实 | [Battle of Nagashino（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Nagashino) |
+| 三千支枪、三段击 | 有争议，旁白已注明（《信长公记》原文为一千支，三段击出自后世，学界多认为是后人演绎） | [Battle of Nagashino（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Nagashino) |
+| 武田军也有不少枪 | 属实（约一千至一千五百支） | [Battle of Nagashino（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Nagashino) |
+| 一五七三年信长把最后一位足利将军义昭赶出京都 | 属实 | [Oda Nobunaga timeline（World History Encyclopedia）](https://www.worldhistory.org/timeline/Oda_Nobunaga) |
+| 信长在琵琶湖边修安土城 | 属实（1576–1579 年） | [Azuchi Castle（Wikipedia）](https://en.wikipedia.org/wiki/Azuchi_Castle) |
+| 一五八二年本能寺之变，明智光秀袭击，信长身亡；动机众说纷纭 | 属实 | [Honnō-ji Incident（Wikipedia）](https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident)；[Japan Pitt 门户](https://japanpitt.pitt.edu/taxonomy/term/706) |
+| 秀吉替信长报仇（山崎之战） | 属实 | [Japan Pitt 门户](https://japanpitt.pitt.edu/taxonomy/term/706) |
+| 秀吉父亲据说是足轻；秀吉曾为信长提草鞋 | 属实（旁白写「据说」） | [Toyotomi Hideyoshi（Wikipedia）](https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi) |
+| 一五八八年刀狩令，收缴农民武器，兵农分离 | 属实（名义上熔铸为方广寺大佛殿钉子） | [Sword hunt（Wikipedia）](https://en.wikipedia.org/wiki/Sword_hunt) |
+| 一五九〇年攻下小田原，第二年平定东北叛乱，日本基本统一 | 属实（1591 年九户之乱平定） | [Toyotomi Hideyoshi（Wikipedia）](https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi) |
+| 一五九二年约十五万日军从名护屋出发，在釜山登陆 | 属实（约 158,800 人；1592 年 5 月 23 日首批登陆） | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 朝鲜称壬辰倭乱，日本称文禄之役，中国称万历朝鲜之役 | 属实 | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 不到二十天攻入汉阳；宣祖北逃义州；平壤失守 | 属实（5 月 23 日登陆，6 月 10 日入汉城，约 18 天；7 月 20 日平壤失守） | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 李舜臣舰队接连获胜；龟船顶部有护板和尖刺，船头装龙头 | 属实（是否覆铁甲有争议，旁白只写「护板」） | [Turtle ship（Wikipedia）](https://en.wikipedia.org/wiki/Turtle_ship) |
+| 一五九二年夏闲山岛海战，日本水军损失惨重，此后不敢轻易沿南海岸西进 | 属实（1592 年 8 月；此后日本停止南海岸海上作战） | [Battle of Hansan Island（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Hansan_Island) |
+| 义兵；休静号召至少八千名僧兵 | 属实 | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 一五九三年初李如松率明军与朝鲜军收复平壤 | 属实（1593 年 2 月 6–8 日） | [Siege of Pyongyang (1593)（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Pyongyang_%281593%29) |
+| 此后战线在南部僵持，转入议和 | 属实 | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 一五九七年再次进攻：丁酉再乱 / 庆长之役 | 属实 | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 这年夏天漆川梁之战朝鲜水军几乎全军覆没 | 属实（1597 年 8 月） | [Battle of Myeongnyang（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Myeongnyang) |
+| 鸣梁海战：李舜臣十三艘船挡住一百多艘日本战船，击毁击伤数十艘 | 属实（133 艘战船另有补给船；约 30 艘击毁、30 艘重创） | [Battle of Myeongnyang（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Myeongnyang)；[Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 一五九八年九月秀吉在伏见城去世，日军撤退 | 属实（1598 年 9 月 18 日） | [Toyotomi Hideyoshi（Wikipedia）](https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi) |
+| 十二月露梁海战，李舜臣与陈璘、邓子龙；邓子龙战死，李舜臣中弹身亡 | 属实（1598 年 12 月 16 日） | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 临终「战事正急，不要宣布我的死讯」 | 属实（据其侄记载；措辞各版本略异，旁白写「据记载」） | [Admiral Yi Sun-sin（Old Salt Blog）](https://oldsaltblog.com/admiral-yi-sun-sin-koreas-greatest-military-hero/) |
+| 朝鲜军民死亡可能多达上百万 | 有估计，旁白已写「有估计说」「可能」 | [Japanese invasions of Korea（Wikipedia 信息框）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 耕地减少约三分之一 | 属实（降至战前约 66%） | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 京都耳冢埋着数万朝鲜人和明朝人的鼻子 | 属实（至少 38,000 朝鲜人、3 万余明人；1597 年建，原名鼻冢） | [Mimizuka（Wikipedia）](https://en.wikipedia.org/wiki/Mimizuka) |
+| 被掳朝鲜人估计五六万，不少被卖给葡萄牙商人 | 属实（估计 5–6 万，约 7,500 人后来被遣返） | [Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 据传李参平在有田找到瓷土；一六一六年前后开始烧瓷 | 有争议，旁白已写「据传」「一般认为」「前后」（有学者质疑 1616 年之说） | [Yi Sam-pyeong（Wikipedia）](https://en.wikipedia.org/wiki/Yi_Sam-pyeong)；[Japanese invasions of Korea（Wikipedia）](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%931598%29) |
+| 几十年后有田瓷经荷兰人远销欧洲 | 属实（明清易代致中国瓷出口锐减，荷兰东印度公司 1650 年代起向有田订货） | [Imari ware（Wikipedia）](https://en.wikipedia.org/wiki/Imari_ware)；[Suntory Museum of Art](https://www.suntory.com/sma/exhibition/2014_1/display.html) |
+| 「陶瓷战争」之称 | 属实 | [Korean pottery thriving in Japan（Korea JoongAng Daily）](https://www.koreajoongangdaily.com/korea/korean-pottery-thriving-in-japan/11733117) |
+| 秀吉死时秀赖五岁 | 属实（1593 年 8 月生） | [Toyotomi Hideyori（Wikipedia）](https://en.wikipedia.org/wiki/Toyotomi_Hideyori) |
+| 一六〇〇年十月关原之战，西军有将领倒戈，家康胜 | 属实（10 月 21 日；小早川秀秋倒戈） | [Sekigahara Timeline（美国国家公园管理局）](https://www.nps.gov/articles/000/sekigahara-timeline.htm) |
+| 一六〇三年家康受封征夷大将军，开江户幕府；一六一五年攻陷大阪城，丰臣家灭亡 | 属实 | [Sekigahara Timeline（NPS）](https://www.nps.gov/articles/000/sekigahara-timeline.htm)；[Siege of Ōsaka（EBSCO）](https://ebsco.com/research-starters/history/siege-osaka) |
+| 一六〇三年出云阿国在京都表演，一般认为是歌舞伎开端 | 属实 | [Okuni（Britannica）](https://www.britannica.com/biography/Okuni)；[Kabuki（nippon.com）](https://www.nippon.com/en/japan-glances/jg00141/) |
+| 对马宗氏斡旋恢复邦交 | 属实（宗氏甚至伪造国书促成） | [Korean Missions to Tokugawa Japan（日本国土交通省多语解说）](https://www.mlit.go.jp/tagengo-db/en/R4-00653.html) |
+| 一六〇七年至一八一一年共十二次使团，每次三五百人 | 属实（约 300–500 人） | [Joseon Tongsinsa 世界记忆申报书（UNESCO，PDF）](https://media.unesco.org/sites/default/files/webform/mow001/korea_japan_joseon_en.pdf)；[釜山市政府](https://www.busan.go.kr/eng/bsnews01/1155137) |
+| 日本文人争相求诗求字 | 属实 | [Joseon Tongsinsa 世界记忆申报书（UNESCO，PDF）](https://media.unesco.org/sites/default/files/webform/mow001/korea_japan_joseon_en.pdf) |
+| 通信使记录二〇一七年入选世界记忆名录 | 属实（2017 年 10 月） | [釜山市政府](https://www.busan.go.kr/eng/bsnews01/1155137) |
+| 一六三五年参勤交代成为制度；隔年在江户；妻子继承人常住江户 | 属实 | [Tokugawa Iemitsu（World History Encyclopedia）](https://www.worldhistory.org/Tokugawa_Iemitsu/)；[Edo, a Metropolis of Hostages（Old Photos of Japan）](https://www.oldphotosjapan.com/photos/999/edo-a-metropolis-of-hostages) |
+| 开销巨大，难以造反；带动道路驿站和江户发展 | 属实 | [Tokugawa Iemitsu（World History Encyclopedia）](https://www.worldhistory.org/Tokugawa_Iemitsu/) |
+| 十八世纪初江户人口估计超百万，为世界最大城市之一 | 属实（1721 年估计约一百万） | [Edo（Wikipedia）](https://en.wikipedia.org/wiki/Edo)；[The Great Edo Metropolis（东京都立图书馆）](https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/machi/page3-1.html) |
+| 一六二七年后金攻朝鲜，结为兄弟之国 | 属实 | [Qing invasion of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon) |
+| 一六三六年已改国号为清，皇太极亲征，丙子胡乱 | 属实（1636 年改国号大清） | [Qing invasion of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon) |
+| 仁祖退守南汉山城被围四十多天，在三田渡投降 | 属实（45 或 47 天，旁白写「四十多天」） | [Qing invasion of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon)；[Namhansanseong World Heritage Center（Google Arts & Culture）](https://artsandculture.google.com/story/ZAUhnn-hz0I_KA) |
+| 一六一四年起全国禁教 | 属实（1612 年直辖地，1614 年全国） | [The Beginning of Christian Suffering（日本国土交通省多语解说）](https://www.mlit.go.jp/tagengo-db/en/R1-00784.html) |
+| 一六三七年岛原之乱，重税与迫害，天草四郎十六岁左右，据守原城 | 属实（年龄另有 14 岁之说，旁白写「左右」） | [Siege of Hara Castle（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Hara_Castle)；[Shimabara Rebellion（New World Encyclopedia）](https://www.newworldencyclopedia.org/entry/Shimabara_Rebellion) |
+| 次年城破，死者数以万计 | 属实（估计 2 万–3.8 万，含平民） | [Siege of Hara Castle（Wikipedia）](https://en.wikipedia.org/wiki/Siege_of_Hara_Castle) |
+| 一六三九年禁止葡萄牙船；一六四一年荷兰人迁到出岛 | 属实 | [Dejima（Wikipedia）](https://en.wikipedia.org/wiki/Dejima) |
+| 出岛为扇形人工岛，长约一百二十米 | 属实（约 120 × 75 米） | [Dejima（Wikipedia）](https://en.wikipedia.org/wiki/Dejima) |
+| 「锁国」是后人的说法 | 属实（1801 年志筑忠雄译坎普费尔著作时创造此词） | [Sakoku（Wikipedia）](https://en.wikipedia.org/wiki/Sakoku) |
+| 四个口：长崎、对马（朝鲜）、萨摩（琉球）、松前（阿伊努） | 属实（荒野泰典提出） | [Foreign Relations in Early Modern Japan（nippon.com）](https://www.nippon.com/en/features/c00104/foreign-relations-in-early-modern-japan-exploding-the-myth-of-national-seclusion.html) |
+| 芭蕉一六八六年写「古池」句 | 属实 | [Matsuo Basho（New World Encyclopedia）](https://www.newworldencyclopedia.org/entry/Matsuo_Basho) |
+| 一六八九年出发，约一百五十天、约两千四百公里，写成《奥之细道》 | 属实（另有 156 天之说，旁白写「约」） | [Matsuo Basho（New World Encyclopedia）](https://www.newworldencyclopedia.org/entry/Matsuo_Basho) |
+| 差不多同时牛顿出版《原理》（一六八七年；后章「宗教改革与科学革命」会讲） | 属实 | [July 5, 1687: Newton's Principia is published（Astronomy）](https://www.astronomy.com/today-in-the-history-of-astronomy/july-5-1687-newtons-principia-is-published/) |
+| 一七〇一年浅野长矩在江户城砍伤吉良，当天被命切腹，领地没收 | 属实 | [Forty-seven rōnin（Wikipedia）](https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin) |
+| 一七〇三年初四十七名浪人袭吉良宅邸，杀吉良，首级供到泉岳寺主君墓前 | 属实（公历 1703 年 1 月 30–31 日，阴历元禄十五年十二月十四日） | [Forty-seven rōnin（Wikipedia）](https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin)；[Sengaku-ji and the 47 Ronin](https://tokyo.for91days.com/sengaku-ji-and-the-47-ronin) |
+| 幕府命其中四十六人切腹 | 属实（1703 年 2 月 4 日，一人被赦） | [Forty-seven rōnin（Wikipedia）](https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin) |
+| 改编成《忠臣藏》，演了近三百年 | 属实（《假名手本忠臣藏》1748 年首演） | [Forty-seven rōnin（Wikipedia）](https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin) |
+| 浮世原指佛教的苦世，后指及时行乐的都市生活；木版画可大量印刷、便宜 | 属实 | [Images of the Floating World（Northern Arizona University）](https://ac.nau.edu/omeka-s/s/legendary-creatures-a-look-at-mythology-in-ukiyo-e-art/page/Introduction) |
+| 一七六五年铃木春信做出多色套印的锦绘 | 属实 | [Suzuki Harunobu（Wikipedia）](https://en.wikipedia.org/wiki/Suzuki_Harunobu) |
+| 梵高收藏并临摹浮世绘 | 属实（收藏 600 多张，1887 年临摹广重两幅） | [Japonaiserie (Van Gogh)（Wikipedia）](https://en.wikipedia.org/wiki/Japonaiserie_%28Van_Gogh%29)；[Van Gogh Museum](https://www.vangoghmuseum.nl/en/japanese-prints/person/33202) |
+| 一七二〇年吉宗放宽与天主教无关的西书进口，兰学兴起 | 属实 | [Tokugawa Yoshimune（Wikipedia）](https://en.wikipedia.org/wiki/Tokugawa_Yoshimune) |
+| 一七七一年杉田玄白等观看解剖，发现荷兰书比中国旧图准确；一七七四年出版《解体新书》 | 属实 | [Sugita Genpaku（Wikipedia）](https://en.wikipedia.org/wiki/Sugita_Genpaku)；[Kaitai Shinsho（Wikipedia）](https://en.wikipedia.org/wiki/Kaitai_Shinsho) |
+| 英祖在位五十二年，朝鲜在位最久；以荡平策调和党争 | 属实（1724–1776） | [Yeongjo of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Yeongjo_of_Joseon)；[King Yeongjo（SamuraiWiki）](https://samurai-archives.com/wiki/King_Yeongjo) |
+| 一七六二年思悼世子被关进米柜，第八天死去 | 属实 | [Crown Prince Sado（Wikipedia）](https://en.wikipedia.org/wiki/Crown_Prince_Sado) |
+| 一七七六年正祖即位，设奎章阁 | 属实 | [Jeongjo of Joseon（Wikipedia）](https://en.wikipedia.org/wiki/Jeongjo_of_Joseon) |
+| 一七八九年正祖把思悼世子墓迁到水原 | 属实 | [Crown Prince Sado（Wikipedia）](https://en.wikipedia.org/wiki/Crown_Prince_Sado) |
+| 华城一七九四年开工、一七九六年完工 | 属实 | [Hwaseong Fortress（Wikipedia）](https://en.wikipedia.org/wiki/Hwaseong_Fortress) |
+| 原计划十年，不到三年完工 | 据说，旁白已注明（韩文资料称原计划 10 年、实际约 2 年 7 个月） | [송성수의 우리 과학 이야기（Daum）](https://v.daum.net/v/20231030004709607?f=p) |
+| 丁若镛设计，参考《奇器图说》设计滑轮起重的举重机 | 属实 | [Hwaseong Fortress（Wikipedia）](https://en.wikipedia.org/wiki/Hwaseong_Fortress)；[송성수의 우리 과학 이야기（Daum）](https://v.daum.net/v/20231030004709607?f=p) |
+| 丁若镛后来成为实学代表人物 | 属实 | [Hwaseong Fortress（Wikipedia）](https://en.wikipedia.org/wiki/Hwaseong_Fortress) |
+| 《华城城役仪轨》详细记录工期、人工、花费和机械；战后据此修复；一九九七年列入世界遗产 | 属实（原想写「连工匠名字和工钱都记」，未能确证，已改） | [Hwaseong seongyeok uigwe（Wikipedia）](https://en.wikipedia.org/wiki/Hwaseong_seongyeok_uigwe)；[Hwaseong Fortress（Wikipedia）](https://en.wikipedia.org/wiki/Hwaseong_Fortress) |
+| 丙子胡乱后海峡两岸一百多年太平；半个多世纪后西方蒸汽船到来（1853 年，后章讲） | 属实（1637–1796 年间两国均无大战） | 见本片「蒸汽、鸦片与明治」章 |
+
 ## 宗教改革与科学革命
 
 | 说法 | 结果 | 来源 |
@@ -905,6 +1249,100 @@
 | 「几何」这一学科名来自这部译作 | 已修改（加上「一般认为」） | 同上 |
 | 1616 年莎士比亚、塞万提斯、汤显祖同年去世 | 属实 | [北京大学燕京学堂](https://yenchingacademy.pku.edu.cn/info/1039/4663.htm) |
 | 日本进入德川幕府时代；不久后莫卧儿开始修泰姬陵 | 属实（1603 年；泰姬陵 1632 年动工） | [Taj Mahal（Wikipedia）](https://en.wikipedia.org/wiki/Taj_Mahal) |
+
+## 俄国的扩张
+
+| 说法 | 结果 | 来源 |
+|---|---|---|
+| 伊凡四世是伊凡三世之孙，三岁（一五三三年十二月）继位为莫斯科大公 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 一五四七年一月（十六日）加冕为沙皇，时年十六岁，是第一位正式加冕的俄国沙皇 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible)；[Tsar（Wikipedia）](https://en.wikipedia.org/wiki/Tsar) |
+| 「沙皇」一词源自拉丁语「凯撒」，意在表示皇帝级别 | 属实 | [Tsar（Wikipedia）](https://en.wikipedia.org/wiki/Tsar) |
+| 「第三罗马」说法出自修士菲洛费（呼应上一章） | 属实（见「罗斯」章核对表） | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 一五五二年十月喀山陷落，围城一个多月（八月三十日至十月二日） | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 几年后（一五五六年）阿斯特拉罕汗国被并入 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 圣瓦西里大教堂为纪念攻取喀山而建，一五五五年动工、一五六一年完工 | 属实（官方纪念的是喀山和阿斯特拉罕之役） | [Saint Basil's Cathedral（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral) |
+| 沙皇刺瞎建筑师是传说；建筑师后来仍在别处施工 | 属实，旁白已注明是传说 | [Saint Basil's Cathedral（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral) |
+| 英国船队寻找通往中国的东北航道，遇风暴失散；一五五三年钱塞勒进入白海，坐雪橇到莫斯科受伊凡四世接见；另一艘船的人在冬天遇难 | 属实 | [Richard Chancellor（Wikipedia）](https://en.wikipedia.org/wiki/Richard_Chancellor) |
+| 伦敦商人的公司由此专做俄国生意，被称为莫斯科公司 | 属实（该商人团体一五五二至一五五三年成立，钱塞勒归来后称莫斯科公司；已避开「随后组建」的说法） | [Richard Chancellor（Wikipedia）](https://en.wikipedia.org/wiki/Richard_Chancellor) |
+| 一五六五年推行特辖制，组建效忠沙皇个人的特辖军；一五七二年废除 | 属实（一五六四年底出走、一五六五年初正式推行） | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 特辖军穿黑衣，马鞍挂狗头和扫帚，象征嗅出、扫除叛徒 | 属实（旁白用「据记载」） | [Ivan the Terrible: Centralization in Sixteenth Century Muscovy（Medievalists.net）](https://www.medievalists.net/2013/12/ivan-the-terrible-centralization-in-sixteenth-century-muscovy/)；[Day of the Oprichnik（Wikipedia）](https://en.wikipedia.org/wiki/Day_of_the_Oprichnik) |
+| 一五七〇年诺夫哥罗德惨案：编年史说六万人，现代学者多估计两三千人 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 一五七一年克里米亚汗国军队攻到莫斯科，大火几乎烧毁全城 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 立窝尼亚战争（一五五八至一五八三年）打了二十多年，以失败告终 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 一五八一年十一月在争吵中用权杖击中儿子伊凡头部，儿子不久死去 | 属实（史学家普遍认可） | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 外号「格罗兹内」更接近「令人畏惧的」，英语 terrible 是较古旧的译法 | 属实 | [Ivan the Terrible（Wikipedia）](https://en.wikipedia.org/wiki/Ivan_the_Terrible) |
+| 斯特罗加诺夫家族靠盐业起家，获沙皇特许开发卡马河一带土地（一五五八年） | 属实 | [Stroganov family（Wikipedia）](https://en.wikipedia.org/wiki/Stroganov_family) |
+| 斯特罗加诺夫家族资助叶尔马克东征 | 属实（原写「雇来」，已改为「资助」） | [Stroganov family（Wikipedia）](https://en.wikipedia.org/wiki/Stroganov_family)；[Yermak Timofeyevich（Wikipedia）](https://en.wikipedia.org/wiki/Yermak_Timofeyevich) |
+| 一五八二年叶尔马克带几百人（约八百四十人）翻越乌拉尔，攻占西伯利亚汗国都城卡什雷克 | 属实 | [Yermak Timofeyevich（Wikipedia）](https://en.wikipedia.org/wiki/Yermak_Timofeyevich) |
+| 几年后在额尔齐斯河上遭库楚姆夜袭身亡 | 属实（一般作一五八五年八月，故旁白只写「几年后」） | [Yermak Timofeyevich（Wikipedia）](https://en.wikipedia.org/wiki/Yermak_Timofeyevich) |
+| 一五九八年费奥多尔一世去世，留里克王族主支断绝；混乱时期一五九八至一六一三年 | 属实 | [Time of Troubles（Wikipedia）](https://en.wikipedia.org/wiki/Time_of_Troubles) |
+| 一六〇一年起饥荒，据估计死了约三分之一人口 | 属实（维基正文给出三分之一到三分之二，旁白用「据估计约」） | [Time of Troubles（Wikipedia）](https://en.wikipedia.org/wiki/Time_of_Troubles) |
+| 假德米特里一世真的加冕为沙皇 | 属实（一六〇五年七月） | [Time of Troubles（Wikipedia）](https://en.wikipedia.org/wiki/Time_of_Troubles) |
+| 波兰-立陶宛军占领克里姆林宫，一六一二年秋（十月底）守军投降 | 属实 | [Time of Troubles（Wikipedia）](https://en.wikipedia.org/wiki/Time_of_Troubles) |
+| 米宁是下诺夫哥罗德的肉商（屠户），与波扎尔斯基公爵组织民兵 | 属实 | [Kuzma Minin（Wikipedia）](https://en.wikipedia.org/wiki/Kuzma_Minin) |
+| 一六一三年二月缙绅会议推举十六岁的米哈伊尔·罗曼诺夫为沙皇；罗曼诺夫王朝延续到一九一七年 | 属实 | [Time of Troubles（Wikipedia）](https://en.wikipedia.org/wiki/Time_of_Troubles) |
+| 三年后（一六一六年）努尔哈赤建立后金 | 属实 | [Later Jin (1616–1636)（Wikipedia）](https://en.wikipedia.org/wiki/Later_Jin_%281616%E2%80%931636%29)；[Nurhachi（Britannica）](https://www.britannica.com/biography/Nurhachi) |
+| 西伯利亚毛皮（紫貂为上品）被称作「软黄金」 | 属实 | [Siberian fur trade（Wikipedia）](https://en.wikipedia.org/wiki/Siberian_fur_trade)；[Yasak（Wikipedia）](https://en.wikipedia.org/wiki/Yasak) |
+| 十七世纪中叶西伯利亚毛皮占国家收入一成以上 | 属实（维基：mid-17th century peak, more than ten percent；另有估计更高，旁白取保守说法） | [Siberian fur trade（Wikipedia）](https://en.wikipedia.org/wiki/Siberian_fur_trade) |
+| 沿河建木堡，向原住民征收毛皮实物税雅萨克，并扣押人质逼交 | 属实 | [Russian conquest of Siberia（Wikipedia）](https://en.wikipedia.org/wiki/Russian_conquest_of_Siberia)；[Siberian fur trade（Wikipedia）](https://en.wikipedia.org/wiki/Siberian_fur_trade) |
+| 一五八七年建托博尔斯克，一六一九年建叶尼塞斯克，一六三二年建雅库茨克 | 属实 | [Russian conquest of Siberia（Wikipedia）](https://en.wikipedia.org/wiki/Russian_conquest_of_Siberia) |
+| 一六三九年莫斯克温的小队到达鄂霍次克海；从翻越乌拉尔算起不到六十年到太平洋 | 属实（一五八二至一六三九年约五十七年） | [Russian conquest of Siberia（Wikipedia）](https://en.wikipedia.org/wiki/Russian_conquest_of_Siberia) |
+| 原住民被迫纳贡；有学者估计一六五〇年代天花使部分埃文基人（通古斯）、雅库特人死亡多达八成 | 属实（John F. Richards 的估计，旁白用「有学者估计」） | [Russian conquest of Siberia（Wikipedia）](https://en.wikipedia.org/wiki/Russian_conquest_of_Siberia) |
+| 一六四八年杰日尼奥夫从科雷马河出发，绕过亚洲最东端、穿过海峡；七条船出发只有他的到了南边 | 属实 | [Semyon Dezhnyov（Wikipedia）](https://en.wikipedia.org/wiki/Semyon_Dezhnyov) |
+| 比白令早八十年；报告在雅库茨克档案中，一七三六年才被米勒发现（近九十年） | 属实 | [Semyon Dezhnyov（Wikipedia）](https://en.wikipedia.org/wiki/Semyon_Dezhnyov)；[Russian conquest of Siberia（Wikipedia）](https://en.wikipedia.org/wiki/Russian_conquest_of_Siberia) |
+| 一六四八年盐税暴动，一六四九年缙绅会议通过新法典，取消追捕逃亡农民的期限 | 属实 | [Sobornoye Ulozheniye（Wikipedia）](https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye) |
+| 农奴制一八六一年废除 | 属实 | [Serfdom in Russia（Wikipedia）](https://en.wikipedia.org/wiki/Serfdom_in_Russia) |
+| 一六五〇年代（一六五三年起）尼康按希腊礼仪改革，画十字由两指改三指 | 属实 | [Raskol（Wikipedia）](https://en.wikipedia.org/wiki/Raskol) |
+| 一六六六至一六六七年宗教会议把旧礼仪定为异端；旧礼仪派受迫害，逃入北方森林和西伯利亚 | 属实 | [Raskol（Wikipedia）](https://en.wikipedia.org/wiki/Raskol) |
+| 清军两次围攻雅克萨（一六八五、一六八六年） | 属实 | [Treaty of Nerchinsk（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk) |
+| 一六八九年尼布楚条约，正式文本为拉丁文，清方翻译为耶稣会士张诚（Gerbillon）和徐日昇（Pereira）；是中国与西方国家的第一个正式条约 | 属实 | [Treaty of Nerchinsk（Wikipedia）](https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk) |
+| 一六八九年十七岁的彼得从摄政的姐姐索菲娅手中夺回权力 | 属实 | [Sophia Alekseyevna（Wikipedia）](https://en.wikipedia.org/wiki/Sophia_Alekseyevna) |
+| 一六九七年大使团约两百五十人，彼得化名彼得·米哈伊洛夫 | 属实（另有约两百人的说法，旁白用「约」） | [The Grand Embassy (1697–98)（Britannica）](https://www.britannica.com/biography/Peter-the-Great/The-Grand-Embassy-1697-98)；[Grand Embassy of Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great) |
+| 彼得身高约两米（二点〇三米） | 属实 | [Grand Embassy of Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great) |
+| 在荷兰东印度公司船厂当木匠，参与建造护卫舰 | 属实 | [Grand Embassy of Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great)；[Peter de Grote（HMdb）](https://www.hmdb.org/m.asp?m=135207) |
+| 在英国借住伊夫林的庄园（赛斯庄园，靠近德特福德船厂），房子花园被毁，账单有「被沙皇弄坏的手推车」 | 属实（转租自本鲍船长） | [Grand Embassy of Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great)；[Sayes Court, John Evelyn and the National Trust](https://www.sayescourt.org.uk/about-us/our-heritage) |
+| 窗户破、椅子丢失 | 属实 | [A garden fit for a king（University of Leicester）](https://le.ac.uk/news/2016/march/a-garden-fit-for-a-king) |
+| 据说他坐手推车往树篱里冲 | 轶事，旁白已用「据说」 | [A garden fit for a king（University of Leicester）](https://le.ac.uk/news/2016/march/a-garden-fit-for-a-king) |
+| 一六九八年因射击军叛乱提前回国，此后处决大批射击军 | 属实（叛乱回国前已被平定，回国后处决一千一百多人） | [Streltsy uprising（Wikipedia）](https://en.wikipedia.org/wiki/Streltsy_uprising)；[Grand Embassy of Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great) |
+| 彼得回国后亲手剪大臣的胡子 | 传统记载，有学者认为带传说色彩，旁白已改为「据说」 | [Peter's War on Facial Hair（Russian Life）](https://russianlife.com/magazine/january-february-2022/peters-war-on-facial-hair/) |
+| 胡子税与铜牌，牌上写「钱已收讫」 | 属实（一六九九、一七〇五年牌上为 ДЕНГИ ВЗЯТЫ） | [Beard tax（Wikipedia）](https://en.wikipedia.org/wiki/Beard_tax) |
+| 一七〇〇年起以一月一日为新年 | 属实 | [Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Peter_the_Great) |
+| 一七〇〇年纳尔瓦之战俄军被卡尔十二世击败 | 属实 | [Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Peter_the_Great)；[Battle of Poltava（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Poltava) |
+| 一七〇三年五月在兔子岛修彼得保罗要塞，圣彼得堡诞生 | 属实（五月二十七日，旧历十六日） | [Saint Petersburg（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Petersburg) |
+| 建城地为沼泽；征来的农奴修城，死者数万人 | 属实（维基：tens of thousands；确切数字有争议，旁白已注明） | [Saint Petersburg（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Petersburg) |
+| 一七一二年迁都，做首都到一九一八年 | 属实（一七二八至一七三〇年短暂回莫斯科） | [Saint Petersburg（Wikipedia）](https://en.wikipedia.org/wiki/Saint_Petersburg) |
+| 一七〇九年夏波尔塔瓦之战，马泽帕投向卡尔十二世，国王脚部中弹坐担架，战败后逃入奥斯曼帝国，瑞典失去强国地位 | 属实 | [Battle of Poltava（Wikipedia）](https://en.wikipedia.org/wiki/Battle_of_Poltava) |
+| 瑞典军刚熬过罕见的严冬 | 属实（一七〇八至一七〇九年「大霜冻」） | [Great Frost of 1709（Wikipedia）](https://en.wikipedia.org/wiki/Great_Frost_of_1709) |
+| 一七二一年尼斯塔德和约，同年彼得称皇帝，「沙皇」仍常用 | 属实 | [Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Peter_the_Great)；[Tsar（Wikipedia）](https://en.wikipedia.org/wiki/Tsar) |
+| 官秩表（一七二二年） | 属实（旁白用「他还颁布」未写年份） | [Peter the Great（Wikipedia）](https://en.wikipedia.org/wiki/Peter_the_Great) |
+| 彼得临终前命白令探查亚美是否相连 | 属实（一七二四年十二月下令，次年一月彼得去世） | [Vitus Bering（Wikipedia）](https://en.wikipedia.org/wiki/Vitus_Bering) |
+| 白令是丹麦人；一七二八年穿过海峡，因冰情掉头 | 属实 | [Vitus Bering（Wikipedia）](https://en.wikipedia.org/wiki/Vitus_Bering) |
+| 一七四一年望见圣伊莱亚斯山，返航时在荒岛搁浅，白令死在岛上 | 属实（一七四一年十二月） | [Vitus Bering（Wikipedia）](https://en.wikipedia.org/wiki/Vitus_Bering) |
+| 斯特勒海牛：一七四一年记录，体长可达九米，吃海藻，二十七年后（一七六八年）灭绝 | 属实 | [Steller's sea cow（Wikipedia）](https://en.wikipedia.org/wiki/Steller%27s_sea_cow) |
+| 罗蒙诺索夫出身霍尔莫戈雷附近渔民家庭，一七三〇年十九岁步行到莫斯科求学 | 属实 | [Mikhail Lomonosov（Wikipedia）](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) |
+| 化学家、诗人、语法学家；观测金星凌日推断金星有大气 | 属实（一七六一年） | [Mikhail Lomonosov（Wikipedia）](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) |
+| 一七五五年参与创办莫斯科大学，大学以他命名 | 属实（一九四〇年改名） | [Mikhail Lomonosov（Wikipedia）](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) |
+| 叶卡捷琳娜生于什切青，原名索菲亚，一七四四年十四岁来俄（维基写十五岁，她一七二九年五月生，到俄时实为十四岁） | 属实 | [Catherine the Great（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_the_Great) |
+| 彼得三世在位约半年；一七六二年夏政变；几天后彼得三世被幽禁中死去，死因成谜 | 属实 | [Catherine the Great（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_the_Great) |
+| 与伏尔泰通信约十五年（一七六三至一七七八年） | 属实 | [How Voltaire & Diderot made money from a Russian empress（GW2RU）](https://www.gw2ru.com/history/235323-how-voltaire-and-diderot-made-money-from-a-russian-empress) |
+| 买下狄德罗藏书（因他要给女儿凑嫁妆），让他留用并付「管理员」薪水 | 属实（一七六五年；薪水数额各说不一，旁白未写数字） | [How the Diderot Effect explains…（3 Quarks Daily）](https://3quarksdaily.com/?p=142690)；[How Voltaire & Diderot made money from a Russian empress（GW2RU）](https://www.gw2ru.com/history/235323-how-voltaire-and-diderot-made-money-from-a-russian-empress) |
+| 一七六四年买下两百多幅油画（戈茨科夫斯基藏品），被看作埃尔米塔日起点 | 属实（数量有二百二十五或三百一十七幅两说，旁白写「两百多幅」） | [Hermitage Museum（Wikipedia）](https://en.wikipedia.org/wiki/Hermitage_Museum) |
+| 地主可把农奴送去西伯利亚服苦役（一七六五年） | 属实 | [Catherine II, Two Decrees（Macmillan Sources）](https://digfir-published.macmillanusa.com/mckaysources/mckaysources_ch18_8.html) |
+| 一七六七年法令：农奴告主人的状受鞭刑并流放 | 属实（流放尼布楚终身苦役） | [Catherine II of Russia（Wikiquote，引自 Vernadsky 资料集）](https://en.wikiquote.org/wiki/Catherine_II_of_Russia) |
+| 农奴可被买卖、当礼物；这一时期农奴制加重 | 属实 | [Serfdom in Russia（Wikipedia）](https://en.wikipedia.org/wiki/Serfdom_in_Russia)；[Catherine the Great（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_the_Great) |
+| 一七七三年顿河哥萨克普加乔夫冒称彼得三世，在亚伊克河一带起兵，许诺废除农奴制 | 属实 | [Pugachev's Rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion) |
+| 哥萨克、农奴、矿工（工厂工人）、巴什基尔人等加入；攻入喀山 | 属实（一七七四年七月） | [Pugachev's Rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion) |
+| 一七七五年初在莫斯科被处死 | 属实（一月二十一日） | [Pugachev's Rebellion（Wikipedia）](https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion) |
+| 一七七四年和约使克里米亚汗国脱离奥斯曼、名义独立；一七八三年俄国吞并 | 属实 | [Annexation of the Crimean Khanate by the Russian Empire（Wikipedia）](https://en.wikipedia.org/wiki/Annexation_of_the_Crimean_Khanate_by_the_Russian_Empire) |
+| 一七八三年建塞瓦斯托波尔作为黑海舰队基地 | 属实（一七八三年建港，次年定名） | [Sevastopol（Wikipedia）](https://en.wikipedia.org/wiki/Sevastopol) |
+| 此后许多克里米亚鞑靼人迁往奥斯曼 | 属实 | [Annexation of the Crimean Khanate by the Russian Empire（Wikipedia）](https://en.wikipedia.org/wiki/Annexation_of_the_Crimean_Khanate_by_the_Russian_Empire) |
+| 一七八四年在科迪亚克岛（三圣湾）建定居点；一七九九年俄美公司成立并获垄断权 | 属实（维基称其为第二个永久定居点，旁白未写「第一」） | [Russian America（Wikipedia）](https://en.wikipedia.org/wiki/Russian_America) |
+| 阿留申人被迫猎海獭，加上疾病人口锐减；一八六七年阿拉斯加卖给美国 | 属实 | [Russian America（Wikipedia）](https://en.wikipedia.org/wiki/Russian_America) |
+| 一七八七年女皇沿第聂伯河南巡；「波将金村」出自没有随行的萨克森外交官赫尔比希，史学家多认为是夸大或虚构 | 属实 | [Potemkin village（Wikipedia）](https://en.wikipedia.org/wiki/Potemkin_village) |
+| 三次瓜分波兰（一七七二、一七九三、一七九五年），俄普奥参与；俄国分得约六成多土地 | 属实（约百分之六十二至六十三） | [Partitions of Poland（Wikipedia）](https://en.wikipedia.org/wiki/Partitions_of_Poland) |
+| 一七九四年起义失败；一九一八年重新建国（亡国一百二十三年） | 属实 | [Partitions of Poland（Wikipedia）](https://en.wikipedia.org/wiki/Partitions_of_Poland) |
+| 一七九六年十一月叶卡捷琳娜二世去世 | 属实（十一月十七日） | [Catherine the Great（Wikipedia）](https://en.wikipedia.org/wiki/Catherine_the_Great) |
+| 库克三次远航太平洋在女皇在位期间（一七六八至一七七九年） | 属实（第三次航行一七七九年结束，库克死于夏威夷） | [James Cook（Wikipedia）](https://en.wikipedia.org/wiki/James_Cook) |
 
 ## 革命的时代
 
