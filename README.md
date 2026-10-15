@@ -23,4 +23,10 @@ npm run stats    # 统计镜头数、字数、时长，并检查每条旁白 60�
 npm test         # 无头浏览器自测，截图在 test-shots/
 ```
 
-改旁白只需改 `src/scenes.js`，然后重新构建。
+改旁白只需改 `src/scenes/` 下对应章节的文件，然后重新构建。
+
+## AI 旁白
+
+旁白默认用微软神经网络声音「云希」预先配好的音频（`docs/audio/yunxi/`），字幕跟着声音逐句走；某段没有音频时自动改用本机语音。
+旁白改动推到 `main` 后，GitHub Actions 会自动给改过的段落重新配音并重新构建页面（也可以在仓库的 **Actions → AI 旁白配音 → Run workflow** 手动运行）。
+换声音或语速：改 `scripts/tts-config.json`。

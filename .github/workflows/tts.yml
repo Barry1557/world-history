@@ -1,0 +1,65 @@
+# AI 旁白：旁白有改动时，在 GitHub 的服务器上自动配音、重新构建页面并提交
+# 也可以在仓库的 Actions 页面手动点「Run workflow」运行
+name: AI 旁白配音
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/scenes/**'
+      - 'src/scenes.js'
+      - 'src/split.js'
+      - 'scripts/tts*'
+      - '.github/workflows/tts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tts
+  cancel-in-progress: false
+
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: |
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci --no-audit --no-fund
+          pip install 'edge-tts>=7,<8'
+
+      - name: 配音（只补新增或改过的段落）
+        run: |
+          node scripts/tts-list.mjs "$RUNNER_TEMP/tts-list.json"
+          python3 scripts/tts.py "$RUNNER_TEMP/tts-list.json" --prune --limit 300 --jobs 3
+
+      - name: 重新构建页面
+        run: npm run build
+
+      - name: 提交配音和页面
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "没有需要提交的变化"
+            exit 0
+          fi
+          git commit -m "AI 旁白：自动配音并重新构建页面"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1

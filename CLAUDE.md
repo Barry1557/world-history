@@ -37,7 +37,17 @@
 
 ## 语音和播放器
 
-- 用浏览器自带 Web Speech API（`speechSynthesis`），优先选 zh-CN 声音；提供声音选择和语速（0.8–1.6 倍）。
+- **默认用 AI 旁白**（用户嫌系统语音太机械）：微软神经网络声音「云希」（`zh-CN-YunxiNeural`），用 edge-tts 预先配好音。
+  - 每个镜头一个 mp3，放在 `docs/audio/yunxi/`，文件名是「声音 + 语速 + 音调 + 旁白原文」的哈希：旁白一改就自动重新配音，没改的不动。
+  - `docs/audio/yunxi/manifest.json` 记录每段时长和每个词读出的毫秒数；构建时据此算出每句字幕的起始时间（`s.au = [文件名, [每句起始毫秒]]`），字幕跟着声音走。
+  - 配音由 GitHub Actions（`.github/workflows/tts.yml`）在 GitHub 服务器上自动完成：旁白改动推到 `main` 后自动配音、重新构建、提交；也可以在 Actions 页面手动运行。本地或 Claude 的云端环境通常连不上配音服务，不要在那里配音。
+  - 换声音或语速：改 `scripts/tts-config.json`，推上去后全部重新配音（旧文件会被 `--prune` 删除）。
+  - 播放：同一个 `<audio>` 元素播放（第一次由点击触发，满足 iOS 要求），暂停后从原处接着播，语速用 `playbackRate`；预加载下一段。
+  - 某段音频缺失或加载失败（含 15 秒没有进展）时，这一段自动改用本机语音或字幕；连续失败 3 次就整体改用本机语音。
+  - 设置里「声音」第一项是 AI 旁白，也可以选本机语音；选择记在 `localStorage`（`ai` 字段）。
+  - 音频和页面同一个网站，不算外部资源；流量约每小时 20 MB。
+- 本机语音（备用）：浏览器自带 Web Speech API（`speechSynthesis`），优先选 zh-CN 声音；提供声音选择和语速（0.8–1.6 倍）。
+- 拆句规则在 `src/split.js`，构建脚本和页面共用（构建时内联进 `app.js` 的 `/*SPLIT*/`），保证字幕时间点对得上。
 - 按句子拆开逐句朗读（Chrome 长句会被截断），字幕显示当前句。
 - 暂停用 `cancel()` 再从当前句重播实现；旧 utterance 的 `onend` 不能串台（用播放令牌/序号判断）。
 - 没有中文声音或关掉语音时，按字数计时自动播放，只看字幕。
@@ -129,5 +139,6 @@
 - `scripts/build.mjs`：投影陆地、内联所有资源，生成 `docs/index.html`。
 - `scripts/test.mjs`：无头浏览器自测（Playwright，用环境里预装的 Chromium）。
 - `scripts/stats.mjs`：统计镜头数、字数、时长，并检查每条旁白 60–150 字。
-- 命令：`npm install` → `npm run build` → `npm test`。
+- `scripts/tts-config.json`、`scripts/tts-common.mjs`、`scripts/tts-list.mjs`、`scripts/tts.py`：AI 旁白的配置、文件名与字幕时间、列出旁白、配音。
+- 命令：`npm install` → `npm run build` → `npm test`。配音：`node scripts/tts-list.mjs tts-list.json && python3 scripts/tts.py tts-list.json --prune`（需要 `pip install edge-tts`，平时交给 GitHub Actions）。
 - `docs/index.html` 是生成物，但要提交进仓库（GitHub Pages 直接发布它）。

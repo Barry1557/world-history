@@ -1,8 +1,10 @@
 // 构建：投影陆地 → 内联样式、数据、脚本 → 生成单文件 docs/index.html
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { buildMaps, SCALE } from './geo.mjs';
 import { chapters, scenes } from '../src/scenes.js';
 import { checkScenes } from './check.mjs';
+import { splitText } from '../src/split.js';
+import { ttsConfig, audioDir, audioKey, loadManifest, sentenceStarts } from './tts-common.mjs';
 
 const LON0 = { a: 11, p: 154 };   // a：以欧亚非为中心；p：以太平洋为中心（用于跨太平洋的镜头）
 
@@ -34,9 +36,21 @@ const data = {
   }),
 };
 
+// AI 旁白：已经配好音的镜头带上音频文件名和每句字幕的起始时间；没配音的镜头自动用本机语音
+const manifest = loadManifest();
+let voiced = 0, voicedMs = 0;
+data.scenes.forEach((o) => {
+  const h = audioKey(o.t), e = manifest[h];
+  if (!e || !existsSync(new URL(h + '.mp3', audioDir))) return;
+  o.au = [h, sentenceStarts(o.t, splitText(o.t), e)];
+  voiced++; voicedMs += e.d || 0;
+});
+if (voiced) data.audio = { base: ttsConfig.dir + '/', name: ttsConfig.name, ms: voiced === data.scenes.length ? Math.round(voicedMs) : 0 };
+
 const tpl = readFileSync(new URL('../src/template.html', import.meta.url), 'utf8');
 const css = readFileSync(new URL('../src/style.css', import.meta.url), 'utf8');
-const js = readFileSync(new URL('../src/app.js', import.meta.url), 'utf8');
+const split = readFileSync(new URL('../src/split.js', import.meta.url), 'utf8').replace(/^\/\/.*\n/gm, '').replace('export function', 'function').trim();
+const js = readFileSync(new URL('../src/app.js', import.meta.url), 'utf8').replace('/*SPLIT*/', () => split);
 const json = JSON.stringify(data).replace(/</g, '\\u003c');
 
 const html = tpl
@@ -49,3 +63,4 @@ mkdirSync(new URL('../docs/', import.meta.url), { recursive: true });
 writeFileSync(new URL('../docs/index.html', import.meta.url), html);
 const chars = scenes.reduce((n, s) => n + s.t.length, 0);
 console.log(`已生成 docs/index.html：${(html.length / 1024).toFixed(0)} KB，${chapters.length} 章，${scenes.length} 个镜头，旁白 ${chars} 字`);
+console.log(voiced ? `AI 旁白：${voiced}/${scenes.length} 个镜头已配音，约 ${Math.round(voicedMs / 60000)} 分钟` : 'AI 旁白：还没有配音文件，页面将使用本机语音');
