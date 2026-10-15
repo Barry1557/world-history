@@ -1,4 +1,4 @@
-// 无头浏览器自测：无报错、从头跑到尾、手机不横向滚动、语音逻辑不串台，并截图
+// 无头浏览器自测：无报错、从头跑到尾、手机不横向滚动、语音逻辑不串台、AI 旁白播放，并截图
 import { chromium } from 'playwright';
 import { mkdirSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -65,6 +65,8 @@ async function open(viewport, opts = {}) {
   page.on('console', (m) => { if (m.type() === 'error') errors.push('console: ' + m.text()); });
   page.on('request', (r) => { if (!r.url().startsWith('file:') && !r.url().startsWith('data:')) errors.push('外部请求: ' + r.url()); });
   if (opts.fakeSpeech) await page.addInitScript(fakeSpeech);
+  // 测本机语音逻辑时先关掉 AI 旁白（只在第一次打开时设置，刷新后保留页面自己存的进度）
+  if (opts.systemVoice) await page.addInitScript(() => { try { if (!localStorage.getItem('wh-theater-v1')) localStorage.setItem('wh-theater-v1', '{"ai":false}'); } catch (e) { /* ignore */ } });
   await page.goto(url);
   await page.waitForTimeout(600);
   return { ctx, page, errors };
@@ -209,7 +211,7 @@ console.log('4. 手机竖屏（390×844）：布局与横向滚动');
 
 console.log('5. 语音逻辑（模拟语音引擎）：逐句朗读、暂停重播、不串台、记住进度');
 {
-  const { ctx, page, errors } = await open({ width: 1280, height: 800 }, { fakeSpeech: true });
+  const { ctx, page, errors } = await open({ width: 1280, height: 800 }, { fakeSpeech: true, systemVoice: true });
   await page.click('text=开始放映');
   await page.waitForTimeout(1500);
   const r1 = await page.evaluate(() => ({ cur: window.__wh.cur, sent: window.__wh.sent, spoken: window.__speechLog.filter((x) => x.t === 'speak').length }));
@@ -265,6 +267,41 @@ console.log('6. 关闭 localStorage 也能正常运行');
   await page.waitForTimeout(500);
   await page.keyboard.press('ArrowRight');
   ok(errors.length === 0 && (await page.evaluate(() => window.__wh.cur)) === 1, '存储被禁用时仍可播放和切段');
+  await ctx.close();
+}
+
+console.log('7. AI 旁白（有配音文件时）：逐句字幕、暂停接着播、变速、缺音频时回退');
+{
+  const { ctx, page, errors } = await open({ width: 1280, height: 800 }, { fakeSpeech: true });
+  const hasAudio = await page.evaluate(() => !!window.WH.audio);
+  if (!hasAudio) console.log('  跳过：还没有配音文件');
+  else {
+    ok(await page.$eval('#optVoiceSel', (s) => s.value === 'ai'), '设置里默认选中 AI 旁白');
+    await page.click('text=开始放映');
+    await page.waitForTimeout(600);
+    ok(await page.evaluate(() => window.__wh.ai && window.__speechLog.length === 0), '开始放映后播放 AI 旁白，不调用本机语音');
+    const subs = new Set();
+    for (let k = 0; k < 40 && subs.size < 3; k++) { subs.add(await page.evaluate(() => window.__wh.cur + ':' + window.__wh.sent)); await page.waitForTimeout(250); }
+    ok(subs.size >= 2, '字幕随声音逐句切换：' + [...subs].join(' '));
+    await page.keyboard.press('Space');
+    const t1 = await page.evaluate(() => window.__wh.audio.currentTime);
+    await page.waitForTimeout(400);
+    await page.keyboard.press('Space');
+    await page.waitForTimeout(250);
+    const t2 = await page.evaluate(() => [window.__wh.audio.currentTime, window.__wh.ai]);
+    ok(t2[1] && t2[0] >= t1 - 0.05, `暂停后从 ${t1.toFixed(1)} 秒接着播`);
+    await page.click('#btnRate');
+    ok(await page.evaluate(() => Math.abs(window.__wh.audio.playbackRate - 1.2) < 0.01 && window.__wh.ai), '语速按钮直接改变 AI 旁白的播放速度');
+    await page.evaluate(() => { window.WH.scenes[5].au[0] = 'does-not-exist'; window.__wh.go(5); });
+    await page.evaluate(() => window.__wh.playing || document.getElementById('btnPlay').click());
+    await page.waitForTimeout(1500);
+    const fb = await page.evaluate(() => { const t = window.WH.scenes[5].t; return window.__speechLog.some((x) => x.t === 'speak' && t.includes(x.text.slice(0, 6))) && window.__wh.playing; });
+    ok(fb, '音频加载失败的段落自动改用本机语音继续播放');
+    const missing = await page.evaluate(() => window.WH.scenes.filter((s) => !s.au).length);
+    ok(missing === 0, missing ? `还有 ${missing} 个镜头没有配音（会用本机语音）` : '全部镜头都已配音');
+    const real = errors.filter((e) => !/does-not-exist|ERR_FILE_NOT_FOUND/.test(e));
+    ok(real.length === 0, '没有报错' + (real.length ? '\n    ' + real.join('\n    ') : ''));
+  }
   await ctx.close();
 }
 

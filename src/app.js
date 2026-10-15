@@ -28,21 +28,8 @@
   }
 
   /* ================= 文本拆句 ================= */
-  function splitText(t) {
-    var out = [], parts = t.match(/[^。！？；]+[。！？；]?[」』”]?/g) || [t];
-    parts.forEach(function (p) {
-      p = p.trim(); if (!p) return;
-      if (p.length <= 44) { out.push(p); return; }
-      var segs = p.match(/[^，：]+[，：]?/g) || [p], buf = '';
-      segs.forEach(function (s) {
-        if (buf && (buf + s).length > 40) { out.push(buf); buf = s; } else buf += s;
-      });
-      if (buf) {
-        if (buf.length < 8 && out.length) out[out.length - 1] += buf; else out.push(buf);
-      }
-    });
-    return out;
-  }
+  // splitText 来自 src/split.js，由构建脚本内联到这里
+  /*SPLIT*/
   SC.forEach(function (s) { s.sents = splitText(s.t); s.len = s.t.length; });
 
   var TOTAL = 0, CUM = [];
@@ -54,9 +41,11 @@
   var KEY = 'wh-theater-v1';
   function loadState() { try { var v = JSON.parse(window.localStorage.getItem(KEY)); return v && typeof v === 'object' ? v : {}; } catch (e) { return {}; } }
   var saved = loadState();
+  var booted = false;   // 启动完成、恢复好进度之前不写存储，免得把上次的进度覆盖成第 1 段
   function saveState() {
+    if (!booted) return;
     try {
-      window.localStorage.setItem(KEY, JSON.stringify({ i: cur, ct: CH[SC[cur].c - 1].title, ci: cur - CHSTART[SC[cur].c], s: sent, v: voiceOn, r: rate, vn: voice ? voice.name : (saved.vn || ''), done: finished }));
+      window.localStorage.setItem(KEY, JSON.stringify({ i: cur, ct: CH[SC[cur].c - 1].title, ci: cur - CHSTART[SC[cur].c], s: sent, v: voiceOn, r: rate, vn: voice ? voice.name : (saved.vn || ''), ai: aiOn, done: finished }));
     } catch (e) { /* 隐私模式等情况下忽略 */ }
   }
 
@@ -97,12 +86,86 @@
     if ('onvoiceschanged' in synth) synth.onvoiceschanged = refreshVoices;
     var polls = 0, pollT = setInterval(function () { refreshVoices(); if (voices.length || ++polls > 12) clearInterval(pollT); }, 400);
   }
-  function voiceUsable() { return voiceOn && hasTTS && !!voice; }
+  /* ---- AI 旁白：预先生成的音频，每个镜头一个文件，附带每句字幕的起始时间 ---- */
+  // D.audio = { base: 'audio/yunxi/', name: '云希' }；镜头 s.au = [文件名, [每句起始毫秒...]]
+  var AU = D.audio || null, aud = null, pre = null;
+  try { if (AU && window.Audio) { aud = new Audio(); aud.preload = 'auto'; pre = new Audio(); pre.preload = 'auto'; pre.muted = true; } } catch (e) { aud = null; }
+  var hasAI = !!aud;
+  var aiOn = hasAI && saved.ai !== false;     // 默认用 AI 旁白；用户在设置里选系统声音后记住
+  var aiErr = 0, aiTok = -1, aiHold = -1;     // aiHold：暂停时停在哪个镜头，继续时接着播而不是从句首重来
+  function aiFor(i) { return hasAI && aiOn && voiceOn && !!SC[i].au && !SC[i].auBad; }
+  function aiSrc(i) { return AU.base + SC[i].au[0] + '.mp3'; }
+  function aiIndex(ms) {
+    var b = SC[cur].au[1], k = 0;
+    while (k < b.length - 1 && b[k + 1] <= ms + 120) k++;
+    return k;
+  }
+  function aiPreload(i) {
+    if (!pre || i >= SC.length || !aiFor(i)) return;
+    var src = aiSrc(i);
+    if (pre.getAttribute('src') === src) return;
+    try { pre.src = src; pre.load(); } catch (e) { /* ignore */ }
+  }
+  function aiArmWatchdog(my) {
+    clearTimeout(watchdog);
+    // 网络卡住十几秒没有进展：这一段改用系统语音或字幕继续
+    watchdog = setTimeout(function () { if (my === token && aiTok === my) aiFail(my, false); }, 15000);
+  }
+  function aiFail(my, notAllowed) {
+    if (my !== token) return;
+    clearTimeout(watchdog);
+    try { aud.pause(); } catch (e) { /* ignore */ }
+    if (notAllowed) {   // 浏览器不允许自动出声（比如长时间后台后回来），等用户再点一下播放
+      pause(); toast('点一下播放键继续');
+      return;
+    }
+    SC[cur].auBad = true;
+    if (++aiErr >= 3) { aiOn = false; saveState(); renderVoiceSel(); toast('AI 旁白加载不出来，已改用本机语音'); }
+    speakCurrent(true);
+  }
+  if (aud) {
+    aud.addEventListener('timeupdate', function () {
+      var my = token;
+      if (aiTok !== my || !playing) return;
+      aiArmWatchdog(my);
+      var k = aiIndex(aud.currentTime * 1000);
+      if (k !== sent) { sent = k; showSub(SC[cur].sents[sent]); updateProgress(); saveState(); }
+    });
+    aud.addEventListener('ended', function () {
+      var my = token;
+      if (aiTok !== my) return;
+      clearTimeout(watchdog); aiErr = 0; aiHold = -1;
+      sent = SC[cur].sents.length - 1;
+      timer = setTimeout(function () { if (my === token) sentenceDone(); }, 250);
+    });
+    aud.addEventListener('error', function () { if (aiTok === token && playing) aiFail(token, false); });
+  }
+  function playAI(my) {
+    var src = aiSrc(cur), resume = aiHold === cur && aud.getAttribute('src') === src;
+    aiTok = my; aiHold = -1;
+    if (!resume) {
+      if (aud.getAttribute('src') !== src) { aud.src = src; }
+      var at = (SC[cur].au[1][sent] || 0) / 1000;
+      try { aud.currentTime = at; } catch (e) { /* 元数据未就绪时下面再设 */ }
+      if (at > 0 && aud.readyState < 1) {
+        aud.addEventListener('loadedmetadata', function once() { aud.removeEventListener('loadedmetadata', once); if (aiTok === my) { try { aud.currentTime = at; } catch (e) { /* ignore */ } } });
+      }
+    }
+    aud.defaultPlaybackRate = rate; aud.playbackRate = rate;
+    aiArmWatchdog(my);
+    var p;
+    try { p = aud.play(); } catch (e) { aiFail(my, false); return; }
+    if (p && p.catch) p.catch(function (e) { if (aiTok === my && my === token) aiFail(my, e && e.name === 'NotAllowedError'); });
+    aiPreload(cur + 1);
+  }
+
+  function voiceUsable() { return voiceOn && ((hasAI && aiOn) || (hasTTS && !!voice)); }
   function readTime(text) { return Math.max(1700, text.length / (4.6 * rate) * 1000 + 380); }
 
   var token = 0, timer = 0, watchdog = 0;
   function stopAll() {
     token++; clearTimeout(timer); clearTimeout(watchdog);
+    if (aud && !aud.paused) { try { aud.pause(); } catch (e) { /* ignore */ } }
     if (hasTTS && (synth.speaking || synth.pending)) { try { synth.cancel(); } catch (e) { /* ignore */ } }
   }
 
@@ -111,7 +174,12 @@
     clearTimeout(timer); clearTimeout(watchdog);
     var s = SC[cur], text = s.sents[sent];
     showSub(text); updateProgress(); saveState();
-    if (!voiceUsable()) {
+    if (aiFor(cur)) {
+      if (hasTTS && (synth.speaking || synth.pending)) { try { synth.cancel(); } catch (e) { /* ignore */ } }
+      playAI(my);
+      return;
+    }
+    if (!(voiceOn && hasTTS && voice)) {
       timer = setTimeout(function () { if (my === token) sentenceDone(); }, readTime(text));
       return;
     }
@@ -146,7 +214,7 @@
     if (immediate) go(); else setTimeout(go, 70);
   }
   function voiceFailed() {
-    if (!voiceOn) return;
+    if (!voiceOn || (hasAI && aiOn)) return;   // 用 AI 旁白时，个别缺音频的段落读不出来就只看字幕，不关掉整体语音
     voiceOn = false; updateVoiceBtn(); saveState();
     toast('这台设备的中文语音暂时无法播放，已改为字幕模式');
   }
@@ -168,6 +236,7 @@
   }
   function pause() {
     playing = false; stage.classList.remove('playing');
+    if (aud && aiTok === token && !aud.paused) aiHold = cur;   // AI 旁白暂停后从原处接着播
     stopAll(); wake(false); saveState();
     $('btnPlay').setAttribute('aria-label', '播放');
   }
@@ -540,7 +609,7 @@
   function goScene(i, opt) {
     opt = opt || {};
     i = Math.max(0, Math.min(SC.length - 1, i));
-    stopAll();
+    stopAll(); aiHold = -1;
     var chChanged = SC[i].c !== SC[cur].c || lastCh === null;
     cur = i; sent = opt.sent && opt.sent < SC[i].sents.length ? opt.sent : 0;
     finished = false;
@@ -661,13 +730,23 @@
 
   function renderVoiceSel() {
     var sel = $('optVoiceSel'), note = $('voiceNote');
+    if (!sel) return;
     sel.innerHTML = '';
-    if (!hasTTS) {
-      sel.disabled = true; note.textContent = '这个浏览器不支持语音合成，将只显示字幕。';
-      return;
+    var aiNote = 'AI 旁白是预先录好的自然人声，边看边从网站加载，约每小时 20 MB 流量。';
+    if (hasAI) {
+      var a = document.createElement('option');
+      a.value = 'ai'; a.textContent = 'AI 旁白 · ' + (AU.name || '自然人声') + '（推荐）';
+      if (aiOn) a.selected = true;
+      sel.appendChild(a);
     }
-    if (!voices.length) {
+    if (!hasTTS || !voices.length) {
+      if (hasAI) {
+        sel.disabled = false;
+        note.textContent = aiNote;
+        return;
+      }
       sel.disabled = true;
+      if (!hasTTS) { note.textContent = '这个浏览器不支持语音合成，将只显示字幕。'; return; }
       var o = document.createElement('option'); o.textContent = '未找到中文声音'; sel.appendChild(o);
       note.textContent = '没有找到中文语音，将按字数计时、只显示字幕。Mac 可在「系统设置 → 辅助功能 → 朗读内容」中添加中文声音（如「婷婷」）。';
       return;
@@ -675,15 +754,16 @@
     sel.disabled = false;
     voices.forEach(function (v, i) {
       var o = document.createElement('option');
-      o.value = i; o.textContent = v.name + '（' + v.lang + (v.localService ? '' : '，联网') + '）';
-      if (v === voice) o.selected = true;
+      o.value = i; o.textContent = '本机语音 · ' + v.name + '（' + v.lang + (v.localService ? '' : '，联网') + '）';
+      if (v === voice && !(hasAI && aiOn)) o.selected = true;
       sel.appendChild(o);
     });
-    note.textContent = '标注「联网」的声音需要连接境外服务器，在国内可能无法播放，建议选本机声音。';
+    note.textContent = hasAI && aiOn ? aiNote : '标注「联网」的声音需要连接境外服务器，在国内可能无法播放，建议选本机声音。';
   }
   $('optVoiceSel').addEventListener('change', function (e) {
-    voice = voices[+e.target.value] || voice; errCount = 0; saved.vn = voice && voice.name;
-    saveState();
+    if (e.target.value === 'ai') { aiOn = true; aiErr = 0; SC.forEach(function (s) { s.auBad = false; }); }
+    else { aiOn = false; voice = voices[+e.target.value] || voice; errCount = 0; saved.vn = voice && voice.name; }
+    saveState(); renderVoiceSel(); updateVoiceBtn();
     if (playing) speakCurrent(true);
   });
   function updateVoiceBtn() {
@@ -693,7 +773,7 @@
   }
   function setVoiceOn(on) {
     voiceOn = on; errCount = 0; updateVoiceBtn(); saveState();
-    if (on && hasTTS && !voices.length) toast('没有找到中文语音，将只显示字幕');
+    if (on && !(hasAI && aiOn) && hasTTS && !voices.length) toast('没有找到中文语音，将只显示字幕');
     if (playing) speakCurrent(true);
   }
   $('optVoice').addEventListener('click', function () { setVoiceOn(!voiceOn); });
@@ -705,7 +785,11 @@
     $('rateVal').textContent = rate.toFixed(1) + '×';
     $('optRate').value = rate;
     saveState();
-    if (restart && playing) speakCurrent(true);
+    if (restart && playing) {
+      // AI 旁白直接变速接着播；系统语音只能从当前句重读
+      if (aud && aiTok === token && !aud.paused) { aud.defaultPlaybackRate = rate; aud.playbackRate = rate; }
+      else speakCurrent(true);
+    }
   }
   $('optRate').addEventListener('change', function (e) { setRate(+e.target.value, true); });
   $('optRate').addEventListener('input', function (e) { $('rateVal').textContent = (+e.target.value).toFixed(1) + '×'; });
@@ -746,7 +830,7 @@
   }
 
   /* ================= 封面 ================= */
-  function minutes() { return Math.round(TOTAL / 4.6 / 60); }
+  function minutes() { return Math.round(AU && AU.ms ? AU.ms / 60000 + SC.length * 1.1 / 60 : TOTAL / 4.6 / 60); }
   function showCover(mode) {
     stage.classList.add('covered');
     clearTimeout(cardT); $('card').classList.remove('show');
@@ -795,7 +879,9 @@
 
   buildToc(); buildTicks();
   setRate(rate, false);
+  renderVoiceSel();
   updateVoiceBtn();
+  if (hasAI) $('coverHint').textContent = '建议打开声音。旁白为 AI 配音，边看边联网加载；设置里可以换成本机语音。';
   $('coverMeta').textContent = CH.length + ' 章 · ' + SC.length + ' 个镜头 · 约 ' + minutes() + ' 分钟';
   measure();
 
@@ -822,10 +908,11 @@
   subEl.textContent = s0.sents[sent];
   updateProgress();
   showCover(resume ? 'resume' : 'start');
+  booted = true;
 
   // 供自动化自测使用的只读接口
   window.__wh = {
-    get cur() { return cur; }, get sent() { return sent; }, get playing() { return playing; }, get finished() { return finished; },
+    get cur() { return cur; }, get sent() { return sent; }, get playing() { return playing; }, get finished() { return finished; }, get ai() { return !!(aud && aiTok === token && !aud.paused); }, get aiOn() { return aiOn; }, get audio() { return aud; },
     count: SC.length, go: function (i) { goScene(i, { instant: true }); }, next: function () { sentenceDone(); }, cam: function () { return cam; }, view: function () { return view; }
   };
 })();
